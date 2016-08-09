@@ -1,6 +1,6 @@
-# Proyecto EO3es
+Proyecto de traducción del videojuego *Etrian Odyssey III* al español. Creado por [TheFireRed](https://github.com/TheFireRed) y [JuDelCo](https://github.com/JuDelCo) desde [Romhack Hispano](http://www.romhackhispano.org).
 
-Proyecto de traducción del videojuego *Etrian Odyssey III* al español. Creado por @TheFireRed y @JuDelCo.
+Consulta el estado del proyecto consultando el código o el [wiki](https://github.com/AegisTrad/EO3es/wiki).
 
 # Sobre el juego
 
@@ -47,18 +47,18 @@ Ante todo, <span style="text-decoration:underline;">profesionalidad</span>.</p>
 
 Será un instalador automático paso a paso y no será necesario descargar ningún <em>software</em> de terceros. Estará basado en xdelta o <a href="http://byuu.org/programming/beat/" target="_blank">beat</a>.</p>
 
-### ¿Puedo distribuir el juego con el parche ya aplicado?
+### › ¿Puedo distribuir el juego con el parche ya aplicado?
 
 No. Aviso para caminantes: no damos soporte a <em>ROMs</em> modificadas y descargadas de foros externos.</p>
 
-### Estoy interesado en colaborar con el proyecto, ¿puedo entrar?
+### › Estoy interesado en colaborar con el proyecto, ¿puedo entrar?
 
 No necesitamos más gente por el momento.</p>
 
-### Habéis traducido «esto» de «esta» forma, pero quedaría mejor «así», ¿lo vais a cambiar?
+### › Habéis traducido «esto» de «esta» forma, pero quedaría mejor «así», ¿lo vais a cambiar?
 
 Estamos abiertos a propuestas y a cambios, siempre y cuando sean en base a críticas constructivas y con motivos fundados. Sin embargo, es muy probable que muchas de las decisiones tomadas en el proceso de traducción sean definitivas, como el nombre de los lugares y de ciertos personajes.</p>
 
-### Tengo una pregunta que no está reflejada en este artículo, ¿podéis responderla?
+### › Tengo una pregunta que no está reflejada en este artículo, ¿podéis responderla?
 
 Claro, simplemente escribe tu cuestión en el cuadro de comentarios y te responderemos lo más pronto posible.</p>
