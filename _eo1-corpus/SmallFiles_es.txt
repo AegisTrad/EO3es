@@ -1,0 +1,72 @@
+Has obtenido <!80C9>                        .
+Has obtenido <!806A>         en.
+El grupo no tiene el nivel necesario para extraer materiales aquí.
+El grupo no tiene el nivel necesario para talar árboles aquí.
+El grupo no tiene el nivel necesario para recoger plantas aquí.
+Has llegado al límite diario.
+No has encontrado nada.
+Has encontrado <!80C9>                        , pero no te queda espacio.
+Has encontrado <!80C9>                        , pero no te queda espacio.
+¿Guardar los datos de los mapas?
+Volverás a la pantalla de título ¿Guardar la partida terminada?
+Spanish
+No puedes llevar más objetos. Elige qué quieres tirar.
+¿Seguro que quieres deshacerte de lo que has seleccionado?
+Licensed by Nintendo
+El laberinto lo engulló todo...
+Inocentes quedaron varados; pecadores ahogados; y los malditos desaparecieron.
+El hombre perdió el gran poder y la madre naturaleza dio la espalda al nuevo mundo.
+Solo el rey maldito, sentado en su trono en el abismo, conoce la verdad de lo acaecido.
+¿Seguro que quieres borrar los datos de la partida?
+No podrás recuperar los datos que borres ahora. ¿Quieres continuar?
+Apertura
+Plaza de Dryad de mañana
+Plaza de Dryad a mediodía
+Plaza de Dryad de noche
+Gremio de guerreros
+La sala de Radha
+Arboleda esmeralda
+Jungla perdida
+Selva cerúlea
+Desierto baldío
+La ciudad eterna
+Pesadilla carmesí
+Aventureros ansiosos
+Aguerridos veteranos
+Batalla contra un MALO
+Batalla encarnizada
+La sangre de Yggdrasil
+El gran señor
+Batalla en el abismo
+¡Victoria!
+El secreto
+Presagio
+Ren y Tlachtga
+Fin de la partida
+Final de la aventura
+Final del arduo camino
+No se ha podido leer la tarjeta DS. Apaga la consola, inserta la tarjeta de nuevo y enciende la consola.
+No se han podido guardar los datos. Apaga la consola, inserta la tarjeta DS de nuevo y enciende la consola.
+Los datos de las opciones están dañados. Se van a resetear las opciones.
+No se han podido guardar los datos de las opciones.
+Cargando la partida guardada...
+Se ha cargado la partida.
+No se han podido cargar los datos. Apaga la consola e inserta de nuevo la tarjeta DS.
+Los datos guardados están dañados.
+Se ha eliminado el mapa de la planta -<numl_d2>
+Se va a continuar con la copia de guardado.
+Los datos guardados están dañados y se tienen que eliminar. Selecciona ELIMINAR DATOS en el menú Opciones.
+No hay ninguna partida guardada.
+Guardando los datos...
+Se han guardado los datos.
+No se han podido guardar los datos. Apaga la consola e inserta de nuevo la tarjeta DS.
+Guardando los datos del mapa...
+Eliminando los datos de guardado...
+Se han eliminado los datos de la partida.
+No se han podido eliminar los datos de la partida.
+¡Noticias frescas! Unos guerreros por fin han resuelto el misterio del laberinto. Creo que les conocéis...
+Sabía que estos tíos al final lo conseguirían. ¡Vamos a recibirles por todo lo alto!
+Así que al final han salido sanos y salvos del laberinto... Pero el capitán ha desaparecido...
+Este pueblo era la vida de ese hombre. Tiene que haber una buena razón para que no vuelva.
+Ajá... Entonces tendré que encargarme yo del nuevo puesto de capitán y velar por el futuro de Etria.
+Él querría eso. Nosotras también ayudaremos. Nos interesa saber qué hará <!806E>        en el futuro...

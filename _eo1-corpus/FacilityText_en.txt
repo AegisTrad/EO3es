@@ -1,0 +1,158 @@
+The Rooster Inn
+Ceft Apothecary 
+hilleka's Goods
+Golden Deer Pub
+Guildhouse
+Radha Hall
+Forest Entrance
+Rest and save here.
+Heal your wounds here.
+Buy and sell goods here.
+Manage quests here.
+Organize your guild here.
+Receive missions here.
+Enter the Labyrinth.
+You don't have enough <!8068>.
+Sleep
+Nap
+Talk
+Save
+Leave
+Sleep until morning. Heals all HP and TP.
+Sleep until evening. Heals all HP and TP.
+Talk to the innkeeper.
+Save your game.
+Return to the plaza.
+You don't have enough ental for that!
+Your stay will be <!806A> en. Is that all right with you?
+Would you like to save?
+The game has been saved.
+Revive
+Buy medicine
+Talk
+Leave
+Resurrect dead or petrified party members.
+Buy various medicines.
+Talk to Dr. Hoffman.
+Return to the plaza.
+That will cost <!806A> en. Is that okay?
+You don't have enough ental for that!
+You're all patched up now.
+You fellows look fine to me.
+You need the following:
+Buy
+Sell
+Talk
+Leave
+Buy various goods.
+Sell accumulated goods.
+Chat with Shilleka.
+Return to the plaza.
+What will you buy?
+What will you sell?
+That's <!806A> en. Still want it?
+You bought the <!8068> .
+Sold off the <!8068> .
+You don't have a thing to sell me!
+Shilleka has a new item in stock!    <!color=0006><!8068> <!color=0000>
+I'm sold out of everything!
+You can't carry any more items!
+I'll pay <!8070>       en for <!8068>                         x<!806C> .
+I'll pay <!806A>        en for that one.
+Ceft Apothecary has a new item in stock!    <!color=0006><!8068> <!color=0000>
+Sold off  <!8068>                         x<!806C> .
+Weapons
+Armor
+Accessories
+Items
+You need the following:
+Register
+Organize
+Formation
+Talk
+Leave
+Add a new adventurer to <!806E>       .
+Allow a member of <!806E>        to leave, retire, or rest.
+Form an adventuring party from <!806E>       's members.
+Talk to the Guildmaster.
+Return to the plaza.
+Which adventurer will you work with?
+The adventurer's spot will be filled by an enhanced recruit.
+Reset skill points in exchange for losing 10 levels.
+The adventurer will leave the guild immediately.
+Confirm
+No one is registered in <!806E>       !
+If you form this party, everyone will be moved to the front line.
+Is this the party you wish?
+Any equipment the adventurer is wearing will also be lost!
+Will you dismiss this adventurer?
+Are you certain you want to dismiss this adventurer?
+<!8071>        has been dismissed.
+You cannot select that character.
+Will you retire this adventurer?
+Are you certain you want to retire this adventurer?
+After <!8064>                         retired, an apprentice joined the guild... The new recruit trained by <!8064>                         was...
+Will you let this adventurer rest?
+Are you certain you want to give this adventurer a rest?
+<!8064> 's level has decreased by 10 while resting.
+<!806E>       's roster is full!
+Dead or petrified adventurers cannot form a party!
+If you do this, then there will be no living party members!
+If you do this, then there will be no living party members!
+Retire
+Rest
+Leave
+Accept quests
+Report results
+Talk
+Leave
+Hear the requests of Etria's townspeople.
+Confirm a quest's completion or give up on it.
+Talk with Valerie, the publican.
+Return to the plaza.
+Ask around for information.
+There are no new tasks.
+There are no tasks underway.
+Will you accept this quest?
+The quest is not complete. Will you give up on it?
+You have accepted the task.
+You abandoned the task.
+If the Radha hasn't recognized you as adventurers, I can't offer you any work.
+You can't take on any more quests!
+Accept missions
+Report results
+Report discoveries
+Talk
+Leave
+Accept official missions from the Radha.
+File a report after completing missions.
+Tell the Radha about monsters and items you discover.
+Talk to Subaltern Quinn.
+Return to the plaza.
+There are no new missions.
+You haven't accepted any missions.
+Accept this mission?
+Give up on this mission?
+You have accepted the mission.
+Would you like to hear the explanation again?
+Reported your encounter with the <!color=0006><!8064> <!color=0000>.
+Reported your discovery of the <!color=0006><!8068> <!color=0000>.
+Monstrous Codex
+Item Compendium
+Worth:
+Yggdrasil Labyrinth
+Geomagnetic Field
+Return to town
+Enter the Labyrinth.
+Warp to a Stratum.
+Return to the plaza.
+Select a Stratum.
+You cannot go with these members.
+1st: Emerald Grove
+2nd: Primitive Jungle
+3rd: Azure Rainforest
+4th: Sandy Barrens
+5th: Lost Shinjuku
+6th: Claret Hollows
+Warp into the Labyrinth using the Geomagnetic Field?
+That is unavailable to you now.

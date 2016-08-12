@@ -1,0 +1,92 @@
+[HEAD][0000036a][0000000d]
+
+[MSGH][00000000][0000002e]
+[EN]
+Prelude to the forest[LB][END]
+[ES]
+El preludio del bosque[LB][END]
+
+
+[MSGH][00000001][0000001e]
+[EN]
+Proof of will[LB][END]
+[ES]
+Prueba de voluntad[LB][END]
+
+
+[MSGH][00000002][0000003e]
+[EN]
+Danger in the undersea grotto[LB][END]
+[ES]
+Peligro en la gruta submarina[LB][END]
+
+
+[MSGH][00000003][0000002e]
+[EN]
+Door to the Deep City[LB][END]
+[ES]
+Puerta a Inmersópolis[LB][END]
+
+
+[MSGH][00000004][0000002e]
+[EN]
+Otherworldly visitors[LB][END]
+[ES]
+Visitantes ultramundanos[LB][END]
+
+
+[MSGH][00000005][00000030]
+[EN]
+Protect the Gatekeeper[LB][END]
+[ES]
+Protege al Guardabarreras[LB][END]
+
+
+[MSGH][00000006][0000002a]
+[EN]
+Slay the Gatekeeper[LB][END]
+[ES]
+Liquida al Guardabarreras[LB][END]
+
+
+[MSGH][00000007][0000002c]
+[EN]
+Search for Amarantos[LB][END]
+[ES]
+Busca el Amarantos[LB][END]
+
+
+[MSGH][00000008][0000002e]
+[EN]
+Locate the teleporter[LB][END]
+[ES]
+Localiza el teletransportador[LB][END]
+
+
+[MSGH][00000009][00000042]
+[EN]
+Decipher the Shrine's mysteries[LB][END]
+[ES]
+Descifra los misterios del Eremitorio[LB][END]
+
+
+[MSGH][0000000a][0000002e]
+[EN]
+Locate the teleporter[LB][END]
+[ES]
+Localiza el teletransportador[LB][END]
+
+
+[MSGH][0000000b][00000036]
+[EN]
+Hunt for the Abyssal King[LB][END]
+[ES]
+Caza al Rey abismal[LB][END]
+
+
+[MSGH][0000000c][0000003a]
+[EN]
+Hunt for the Porcelain Lady[LB][END]
+[ES]
+Caza a la Dama de porcelana[LB][END]
+

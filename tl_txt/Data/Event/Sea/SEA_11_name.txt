@@ -1,0 +1,29 @@
+[HEAD][00000108][00000005]
+
+[MSGH][00000001][0000002a]
+[EN]
+The late adventurer[LB][END]
+[ES]
+El último aventurero[LB][END]
+
+
+[MSGH][00000002][0000002e]
+[EN]
+In search of treasure[LB][END]
+[ES]
+En busca del tesoro[LB][END]
+
+
+[MSGH][00000003][00000024]
+[EN]
+Veterans needed![LB][END]
+[ES]
+¡Urgen veteranos![LB][END]
+
+
+[MSGH][00000004][0000002c]
+[EN]
+Smite the sea dragon[LB][END]
+[ES]
+Pugna con el dragón marino[LB][END]
+

@@ -1,0 +1,87 @@
+[HEAD][00000650][00000008]
+
+[MSGH][00000000][00000082]
+[EN]
+It seems Lord Seyfried forgot the[LB]
+Princess... and me as well...[LB][END]
+[ES]
+Parece que el Lord Seyfried se olvidó[LB]
+de la princesa... y de mí también...[LB][END]
+
+
+[MSGH][00000001][000000c2]
+[EN]
+I share the Princess's sorrow in[LB]
+losing her brother, the former[LB]
+King, but it was all for her...[LB][END]
+[ES]
+Comparto el dolor de la princesa tras[LB]
+perder a su hermano, el anterior Rey,[LB]
+pero todo era por el bien de ella...[LB][END]
+
+
+[MSGH][00000002][000000a4]
+[EN]
+I haven't heard all the details,[LB]
+but the hard job fell to you, eh?[LB]
+...Well done.[LB][END]
+[ES]
+No estoy al tanto de todo, pero sí[LB]
+sé que habéis hecho un trabajo espléndido,[LB]
+¿eh? ¡Muy bien![LB][END]
+
+
+[MSGH][00000003][000000c8]
+[EN]
+There's nothing to worry about.[LB]
+Come what may, the seas embracing[LB]
+Armoroad will heal all wounds...[LB][END]
+[ES]
+No hay nada de lo que preocuparse.[LB]
+De un modo u otro, los mares de Armoroad[LB]
+acabarán sanando todas sus heridas...[LB][END]
+
+
+[MSGH][00000004][000000d0]
+[EN]
+Well done, guys! I heard you beat[LB]
+up the jerks that were trying to[LB]
+kill the Princess! You're the best![LB][END]
+[ES]
+¡Bien hecho, grumetes! ¡Dicen que os[LB]
+habéis cargado a los soplagaitas que[LB]
+querían matar a la Princesa! ¡Sois los mejores![LB][END]
+
+
+[MSGH][00000005][000000cc]
+[EN]
+Congratulating on your hard work[LB]
+ending! It wasn't a request, so I[LB]
+don't have a reward, but... Yays![LB][END]
+[ES]
+¡Os felisito por vuestro gran trabajo![LB]
+No tengo recompensa que daros porque no[LB]
+no era un encargo, pero... ¡chachi![LB][END]
+
+
+[MSGH][00000006][000000ca]
+[EN]
+Some wonder if a "right" way exists[LB]
+in this world, but don't worry.[LB]
+Follow the path you believe in.[LB][END]
+[ES]
+Hay quien se pregunta si existe otro[LB]
+camino en este mundo, pero no os preocupéis.[LB]
+Seguid el camino en el que creéis.[LB][END]
+
+
+[MSGH][00000007][0000009a]
+[EN]
+I've lived this past century only[LB]
+for my brother... What do I live[LB]
+for now?[LB][END]
+[ES]
+He vivido más de cien años solo[LB]
+por mi hermano... ¿y ahora cuál será[LB]
+mi esperanza?[LB][END]
+

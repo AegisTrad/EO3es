@@ -1,0 +1,1891 @@
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +20%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX + 30%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +50%
+Aprender; daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Aprender; defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑↑
+Aprender; daño con hacha ↑
+Daño con hacha ↑
+Daño con hacha ↑
+Daño con hacha ↑
+Daño con hacha ↑↑
+Daño con hacha ↑
+Daño con hacha ↑
+Daño con hacha ↑
+Daño con hacha ↑
+Daño con hacha ↑↑
+Aprender; daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑↑
+Aprender
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑↑
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 2
+Daño infligido ↑ PT: 2
+Daño infligido ↑ PT: 2
+Daño infligido ↑ PT: 2
+Daño infligido ↑↑ PT: 3
+Penalización ↓/Daño ↑ PT: 3
+Penalización ↓/Daño ↑ PT: 3
+Penalización ↓/Daño ↑ PT: 3
+Penalización ↓/Daño ↑ PT: 3
+Penalizac. ↓/Daño ↑↑ PT: 3
+Aprender; PT: 2
+Daño infligido ↑ PT: 2
+Daño infligido ↑ PT: 2
+Daño infligido ↑ PT: 2
+Daño infligido ↑↑ PT: 3
+Penalizaciones ↓/Daño ↑ PT: 3
+Penalizaciones ↓/Daño ↑ PT: 3
+Penalizaciones ↓/Daño ↑ PT: 3
+Penalizaciones ↓/Daño ↑ PT: 3
+Penalizac. ↓/Daño ↑↑ PT: 3
+Aprender; PT: 2
+Ningún cambio; PT: 2
+Ningún cambio; PT: 2
+Ningún cambio; PT: 2
+Coste rebajado a 1 PT
+Ningún cambio; PT: 1
+Ningún cambio; PT: 1
+Ningún cambio; PT: 1
+Ningún cambio; PT: 1
+Coste rebajado a 0 PT
+Aprender; PT: 4
+Daño infligido ↑ PT: 4
+Daño infligido ↑ PT: 5
+Daño infligido ↑ PT: 5
+Daño infligido ↑↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑↑ PT: 6
+Aprender; PT: 3
+Daño/Velocidad/Aturdir ↑ PT: 3
+Daño/Velocidad/Aturdir ↑ PT: 4
+Daño/Velocidad/Aturdir ↑ PT: 4
+Daño/Veloc./Aturdir ↑↑ PT: 5
+Daño/Velocidad/Aturdir ↑ PT: 5
+Daño/Velocidad/Aturdir ↑ PT: 5
+Daño/Velocidad/Aturdir ↑ PT: 5
+Daño/Velocidad/Aturdir ↑ PT: 5
+Daño/Veloc./Aturdir ↑↑ PT: 5
+Aprender; PT: 3
+Daño/Prob. de sellar ↑ PT: 3
+Daño/Prob. de sellar ↑ PT: 4
+Daño/Prob. de sellar ↑ PT: 4
+Daño ↑/Prob. sellar ↑↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño ↑/Prob. sellar ↑↑ PT: 5
+Aprender; PT: 4
+Daño infligido ↑ PT: 4
+Daño infligido ↑ PT: 5
+Daño infligido ↑ PT: 5
+Daño infligido ↑↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑↑ PT: 6
+Aprender; PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 7
+Daño infligido ↑ PT: 7
+Daño infligido ↑↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑↑ PT: 8
+Aprender; PT: 6
+Daño ↑ PT: 6
+Daño ↑/+50% 3 golpes PT: 7
+Daño ↑ PT: 7
+Daño ↑↑/Prob. 4 golpes PT: 8
+Daño ↑ PT: 8
+Daño ↑ PT: 8
+Daño ↑ PT: 8
+Daño ↑/+50% 4 golpes PT: 8
+Daño ↑↑ PT: 8
+Aprender; PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 7
+Daño infligido ↑ PT: 7
+Daño infligido ↑↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑↑ PT: 8
+Aprender; PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 7
+Daño infligido ↑ PT: 7
+Daño infligido ↑↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑↑ PT: 8
+Aprender; PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 7
+Daño infligido ↑ PT: 7
+Daño infligido ↑↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 8
+Daño infligido ↑↑ PT: 8
+Aprender; PT: 4
+Prob. de éxito ↑ PT: 4
+Prob. de éxito ↑ PT: 4
+Prob. de éxito ↑ PT: 4
+Prob. de éxito ↑↑ PT: 4
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑↑ PT: 5
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +50%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +50%
+Aprender; agilidad ↑
+Agilidad ↑
+Agilidad ↑
+Agilidad ↑
+Agilidad ↑↑
+Agilidad ↑
+Agilidad ↑
+Agilidad ↑
+Agilidad ↑
+Agilidad ↑↑
+Aprender; daño con arco ↑
+Daño con arco ↑
+Daño con arco ↑
+Daño con arco ↑
+Daño con arco ↑↑
+Daño con arco ↑
+Daño con arco ↑
+Daño con arco ↑
+Daño con arco ↑
+Daño con arco ↑↑
+Aprender
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Aprender; emboscada ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 10
+Prob. de activación ↑ PT: 9
+Prob. de activación ↑ PT: 8
+Prob. de activación ↑ PT: 7
+Prob. de activación 100% PT: 6
+Reducción de coste a 5 PT
+Reducción de coste a 4 PT
+Reducción de coste a 3 PT
+Reducción de coste a 2 PT
+Reducción de coste a 1 PT
+Aprender; PT: 2
+Precisión del enemigo ↓ PT: 2
+Precisión del enemigo ↓ PT: 2
+Precisión del enemigo ↓ PT: 2
+Precisión del enemigo ↓↓ PT: 3
+Precisión del enemigo ↓ PT: 3
+Precisión del enemigo ↓ PT: 3
+Precisión del enemigo ↓ PT: 3
+Precisión del enemigo ↓ PT: 3
+Precisión del enemigo ↓ PT: 3
+Aprende; PT: 2
+Velocidad ↑ PT: 2
+Velocidad ↑ PT: 2
+Velocidad ↑ PT: 2
+Velocidad ↑ PT: 3
+Velocidad ↑ PT: 3
+Velocidad ↑ PT: 3
+Velocidad ↑ PT: 3
+Velocidad ↑ PT: 3
+Velocidad ↑ PT: 3
+Aprender; PT: 4
+Daño ↑ PT: 4
+Daño ↑ PT: 5
+Daño ↑ PT: 5
+Daño ↑↑ PT: 6
+Daño ↑ PT: 6
+Daño ↑ PT: 6
+Daño ↑ PT: 6
+Daño ↑ PT: 6
+Daño ↑↑ PT: 6
+Aprender; ataque doble. PT: 8
+Daño ↑ PT: 8
+Daño ↑ PT: 9
+Daño ↑ PT: 9
+Daño ↑ PT: 10
+Daño ↑ PT: 10
+Daño ↑ PT: 10
+Daño ↑ PT: 10
+Daño ↑ PT: 10
+Daño ↑↑/Ataque triple PT: 10
+Aprender; PT: 3
+Daño/Prob. de atar ↑ PT: 3
+Daño/Prob. de atar ↑ PT: 4
+Daño/Prob. de atar ↑ PT: 4
+Daño ↑/Prob. de atar ↑↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño ↑/Prob. de atar ↑↑ PT: 5
+Aprender; PT: 8
+Daño ↑ PT: 9
+Daño ↑ PT: 10
+Daño ↑ PT: 11
+Daño ↑↑/+ Aturdimiento PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. aturdir ↑↑ PT: 12
+Aprender; PT: 2
+Mejora de camuflaje ↑ PT: 2
+Mejora de camuflaje ↑ PT: 2
+Mejora de camuflaje ↑ PT: 2
+Mejora de camuflaje ↑↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Aprender; PT: 4
+Prob. de huir ↑ PT: 4
+Prob. de huir ↑ PT: 4
+Prob. de huir ↑ PT: 4
+Prob. de huir ↑↑/+Def. PT: 5
+Prob. de huir/Defensa ↑ PT: 5
+Prob. de huir/Defensa ↑ PT: 5
+Prob. de huir/Defensa ↑ PT: 5
+Prob. de huir/Defensa ↑ PT: 5
+Prob. de huir/Defensa ↑↑ PT: 5
+Aprender
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Aprender; 70%. PT: 2
+35 pasos PT: 2
+40 pasos PT: 3
+45 pasos PT: 3
+60 pasos PT: 4
+Encuentros ↓ (65 pasos) PT: 4
+Encuentros ↓ (70 pasos) PT: 4
+Encuentros ↓ (75 pasos) PT: 4
+Encuentros ↓ (80 pasos) PT: 4
+Encuentros ↓ (100 pasos) PT: 4
+Aprender; dos casillas. PT: 2
+Dura 18 pasos PT: 2
+Dura 20 pasos/3 casillas PT: 3
+Dura 22 pasos PT: 3
+Dura 30 pasos/4 casillas PT: 4
+Dura 32 pasos PT: 4
+Dura 34 pasos PT: 4
+Dura 36 pasos PT: 4
+Dura 38 pasos PT: 4
+Dura 50 pasos PT: 4
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +20%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +50%
+Aprender; defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑
+Defensa ↑↑
+Aprender; defensa mágica ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑
+Defensa mágica elemental ↑↑
+Aprender
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Aprender
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑
+Probabilidad de activación ↑↑
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 2
+Éxito provocar/Veloc. ↑ PT: 2
+Éxito provocar/Veloc. ↑ PT: 2
+Éxito provocar/Veloc. ↑ PT: 2
+Éxito prov./Veloc. ↑↑ PT: 2
+Velocidad ↑/Más defensa PT: 3
+Defensa/Velocidad ↑ PT: 3
+Defensa/Velocidad ↑ PT: 3
+Defensa/Velocidad ↑ PT: 3
+Defensa/Velocidad ↑ PT: 3
+Aprender; PT: 3
+Probabilidad bloqueo ↑ PT: 3
+Probabilidad bloqueo ↑ PT: 4
+Probabilidad bloqueo ↑ PT: 4
+Probabilidad bloqueo ↑↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Aprender; PT: 3
+Probabilidad bloqueo ↑ PT: 3
+Probabilidad bloqueo ↑ PT: 4
+Probabilidad bloqueo ↑ PT: 4
+Probabilidad bloqueo ↑↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Probabilidad bloqueo ↑ PT: 5
+Aprender; PT: 4
+Prob. de activación ↑ PT: 4
+Prob. de activación ↑ PT: 5
+Prob. de activación ↑ PT: 5
+Prob. de activación 100% PT: 6
+Varios bloqueos PT: 6
+Prob. varios bloqueos ↑ PT: 6
+Prob. varios bloqueos ↑ PT: 6
+Prob. varios bloqueos ↑ PT: 6
+Prob. varios bloqueos ↑↑ PT: 6
+Aprender; PT: 4
+Defensa/Velocidad ↑ PT: 4
+Defensa/Velocidad ↑ PT: 5
+Defensa/Velocidad ↑ PT: 5
+Defensa/Velocidad ↑ PT: 6
+Defensa/Velocidad ↑ PT: 6
+Defensa/Velocidad ↑ PT: 6
+Defensa/Velocidad ↑ PT: 6
+Defensa/Velocidad ↑ PT: 6
+Defensa/Velocidad ↑ PT: 6
+Aprender; PT: 8
+Defensa/Velocidad ↑ PT: 9
+Defensa/Velocidad ↑ PT: 10
+Defensa/Velocidad ↑ PT: 11
+Defensa/Velocidad ↑ PT: 12
+Defensa/Velocidad ↑ PT: 12
+Defensa/Velocidad ↑ PT: 12
+Defensa/Velocidad ↑ PT: 12
+Defensa/Velocidad ↑ PT: 12
+Defensa/Velocidad ↑ PT: 12
+Aprender; PT: 10
+Daño infligido ↑ PT: 11
+Daño infligido ↑ PT: 12
+Daño infligido ↑ PT: 13
+Daño infligido ↑↑ PT: 14
+Daño infligido ↑ PT: 14
+Daño infligido ↑ PT: 14
+Daño infligido ↑ PT: 14
+Daño infligido ↑ PT: 14
+Daño infligido ↑↑ PT: 14
+Aprender; PT: 6
+Resistencia al fuego ↑ PT: 6
+Resistencia al fuego ↑ PT: 7
+Resistencia al fuego ↑ PT: 7
+Anular daño de fuego PT: 8
+Absorber daño de fuego PT: 8
+Absorber daño de fuego ↑ PT: 8
+Absorber daño de fuego ↑ PT: 8
+Absorber daño de fuego ↑ PT: 8
+Absorber daño de fuego ↑ PT: 8
+Aprender; PT: 6
+Resistencia eléctrica ↑ PT: 6
+Resistencia eléctrica ↑ PT: 7
+Resistencia eléctrica ↑ PT: 7
+Anular daño eléctrico PT: 8
+Absorber daño eléctrico PT: 8
+Absorber eléctrico ↑ PT: 8
+Absorber eléctrico ↑ PT: 8
+Absorber eléctrico ↑ PT: 8
+Absorber eléctrico ↑ PT: 8
+Aprender; PT: 6
+Resistencia al hielo ↑ PT: 6
+Resistencia al hielo ↑ PT: 7
+Resistencia al hielo ↑ PT: 7
+Anular daño de hielo PT: 8
+Absorber daño de hielo PT: 8
+Absorber daño de hielo ↑ PT: 8
+Absorber daño de hielo ↑ PT: 8
+Absorber daño de hielo ↑ PT: 8
+Absorber daño de hielo ↑ PT: 8
+Aprender; PT: 4
+Eficacia cura/Veloc. ↑ PT: 4
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑↑ PT: 6
+Aprender; PT: 10
+Eficacia cura/Veloc. ↑ PT: 11
+Eficacia cura/Veloc. ↑ PT: 12
+Eficacia cura/Veloc. ↑ PT: 13
+Eficacia cura/Veloc. ↑↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑↑ PT: 14
+Aprender; PT: 4
+Probabilidad de éxito ↑ PT: 4
+Probabilidad de éxito ↑ PT: 4
+Probabilidad de éxito ↑ PT: 4
+Probabilidad de éxito ↑↑ PT: 4
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑ PT: 5
+Penalización ↓/Éxito ↑↑ PT: 5
+Aprender; 70%. PT: 2
+35 pasos PT: 2
+40 pasos PT: 3
+45 pasos PT: 3
+60 pasos PT: 4
+Encuentros ↓ (65 pasos) PT: 4
+Encuentros ↓ (70 pasos) PT: 4
+Encuentros ↓ (75 pasos) PT: 4
+Encuentros ↓ (80 pasos) PT: 4
+Encuentros ↓ (100 pasos) PT: 4
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +20%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +50%
+Aprender; daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Aprender; daño con látigo
+Daño con látigo ↑
+Daño con látigo ↑
+Daño con látigo ↑
+Daño con látigo ↑↑
+Daño con látigo ↑
+Daño con látigo ↑
+Daño con látigo ↑
+Daño con látigo ↑
+Daño con látigo ↑↑
+Aprender; daño con espada
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑
+Daño con espada ↑↑
+Aprender; punto de moral +1
+Ninguna mejora
+Puntos de moral +2
+Ninguna mejora
+Puntos de moral +3
+Ninguna mejora
+Puntos de moral +4
+Ninguna mejora
+Puntos de moral +5
+Ninguna mejora
+Aprender; a 30% de PV o menos
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Al 34% de PV
+Al 38% de PV
+Al 42% de PV
+Al 46% de PV
+Al 50% de PV
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 2
+Mejora de camuflaje ↑ PT: 2
+Mejora de camuflaje ↑ PT: 2
+Mejora de camuflaje ↑ PT: 2
+Mejora de camuflaje ↑↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Mejora de camuflaje ↑ PT: 3
+Aprender; PT: 4
+Daño infligido/Veneno ↑ PT: 4
+Daño infligido/Veneno ↑ PT: 5
+Daño infligido/Veneno ↑ PT: 5
+Daño infligido/Veneno ↑ PT: 6
+Daño infligido/Veneno ↑ PT: 6
+Daño infligido/Veneno ↑ PT: 6
+Daño infligido/Veneno ↑ PT: 6
+Daño infligido/Veneno ↑ PT: 6
+Daño infligido/Veneno ↑↑ PT: 6
+Aprender; PT: 3
+Daño/Prob. de sellar ↑ PT: 3
+Daño/Prob. de sellar ↑ PT: 4
+Daño/Prob. de sellar ↑ PT: 4
+Daño ↑/Prob. sellar ↑↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño/Prob. de sellar ↑ PT: 5
+Daño/Prob. de sellar ↑↑ PT: 5
+Aprender; PT: 3
+Daño/Prob. de atar ↑ PT: 3
+Daño/Prob. de atar ↑ PT: 4
+Daño/Prob. de atar ↑ PT: 4
+Daño ↑/Prob. de atar ↑↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑↑ PT: 5
+Aprender; PT: 3
+Daño/Prob. de atar ↑ PT: 3
+Daño/Prob. de atar ↑ PT: 4
+Daño/Prob. de atar ↑ PT: 4
+Daño ↑/Prob. de atar ↑↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑↑ PT: 5
+Aprender; PT: 8
+Daño infligido ↑ PT: 9
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 11
+Daño infligido ↑↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño infligido ↑↑ PT: 12
+Aprender; 5% PV o menos PT: 6
+% del límite de PV ↑ PT: 6
+% del límite de PV ↑ PT: 7
+% del límite de PV ↑ PT: 7
+% del límite de PV ↑↑ PT: 8
+% del límite de PV ↑ PT: 8
+% del límite de PV ↑ PT: 8
+% del límite de PV ↑ PT: 8
+% del límite de PV ↑ PT: 8
+% del límite de PV ↑↑ PT: 8
+Aprender; PT: 3
+Daño/Prob. hipnotizar ↑ PT: 3
+Daño/Prob. hipnotizar ↑ PT: 4
+Daño/Prob. hipnotizar ↑ PT: 4
+Daño/Prob. hipnotizar ↑↑ PT: 5
+Daño/Prob. hipnotizar ↑ PT: 5
+Daño/Prob. hipnotizar ↑ PT: 5
+Daño/Prob. hipnotizar ↑ PT: 5
+Daño/Prob. hipnotizar ↑ PT: 5
+Daño/Prob. hipnotizar ↑↑ PT: 5
+Aprender; PT: 3
+Daño/Prob. paralizar ↑ PT: 3
+Daño/Prob. paralizar ↑ PT: 4
+Daño/Prob. paralizar ↑ PT: 4
+Daño/Prob. paralizar ↑↑ PT: 5
+Daño/Prob. paralizar ↑ PT: 5
+Daño/Prob. paralizar ↑ PT: 5
+Daño/Prob. paralizar ↑ PT: 5
+Daño/Prob. paralizar ↑ PT: 5
+Daño/Prob. paralizar ↑↑ PT: 5
+Aprender; PT: 6
+Daño/Prob. petrificar ↑ PT: 6
+Daño/Prob. petrificar ↑ PT: 7
+Daño/Prob. petrificar ↑ PT: 7
+Daño/Prob. petrificar ↑↑ PT: 8
+Daño/Prob. petrificar ↑ PT: 8
+Daño/Prob. petrificar ↑ PT: 8
+Daño/Prob. petrificar ↑ PT: 8
+Daño/Prob. petrificar ↑ PT: 8
+Daño/Prob. petrificar ↑↑ PT: 8
+Aprender; PT: 8
+Daño infligido ↑ PT: 9
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 11
+Daño/Daño a lados ↑↑ PT: 12
+Daño/Daño a los lados ↑ PT: 12
+Daño/Daño a los lados ↑ PT: 12
+Daño/Daño a los lados ↑ PT: 12
+Daño/Daño a los lados ↑ PT: 12
+Daño/Daño a lados ↑↑ PT: 12
+Aprender; PT: 4
+Daño/Prob. drenaje ↑ PT: 4 
+Daño/Prob. drenaje ↑ PT: 5
+Daño/Prob. drenaje ↑ PT: 5
+Daño/Prob. drenaje ↑↑ PT: 6
+Daño/Prob. drenaje ↑ PT: 6
+Daño/Prob. drenaje ↑ PT: 6
+Daño/Prob. drenaje ↑ PT: 6
+Daño/Prob. drenaje ↑ PT: 6
+Daño ↑↑/Drenaje seguro PT: 6
+Aprender; PT: 4
+Daño/Prob. confusión ↑ PT: 4
+Daño/Prob. confusión ↑ PT: 5
+Daño/Prob. confusión ↑ PT: 5
+Daño/Prob. confusión ↑↑ PT: 6
+Daño/Prob. confusión ↑ PT: 6
+Daño/Prob. confusión ↑ PT: 6
+Daño/Prob. confusión ↑ PT: 6
+Daño/Prob. confusión ↑ PT: 6
+Daño/Prob. confusión ↑↑ PT: 6
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +20%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +20%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+Aprender; daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Aprender; daño con katana
+Daño con katana ↑
+Daño con katana ↑
+Daño con katana ↑
+Daño con katana ↑↑
+Daño con katana ↑
+Daño con katana ↑
+Daño con katana ↑
+Daño con katana ↑
+Daño con katana ↑↑
+Aprender; golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Prob. golpe crítico ↑
+Aprender
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 3
+Eficacia cura/Veloc. ↑ PT: 3
+Eficacia cura/Veloc. ↑ PT: 4
+Eficacia cura/Veloc. ↑ PT: 4
+Eficacia cura/Veloc. ↑↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑↑ PT: 5
+Aprender; PT: 4
+Daño infligido ↑ PT: 4
+Daño infligido ↑ PT: 5
+Daño infligido ↑ PT: 5
+Daño infligido ↑↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑↑ PT: 6
+Aprender; PT: 2
+Daño y defensa ↑ PT: 2
+Daño y defensa ↑ PT: 3
+Daño y defensa ↑ PT: 3
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Aprender; PT: 4
+Daño infligido ↑ PT: 4
+Daño infligido ↑ PT: 5
+Daño infligido ↑ PT: 5
+Daño infligido ↑↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑↑ PT: 6
+Aprender; PT: 8
+Daño infligido ↑ PT: 9
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 11
+Daño infligido ↑↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño infligido ↑ PT: 12
+Daño ↑↑/100% 3 golpes PT: 12
+Aprender; PT: 6
+Daño infligido ↑ PT: 7
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 9
+Daño infligido ↑↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑↑ PT: 11
+Aprender; PT: 2
+Daño y defensa ↑ PT: 2
+Daño y defensa ↑ PT: 3
+Daño y defensa ↑ PT: 3
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Daño y defensa ↑ PT: 4
+Aprender; PT: 10
+Reducción del coste a 9 PT
+Reducción del coste a 8 PT
+Reducción del coste a 7 PT
+Reducción del coste a 6 PT
+Reducción del coste a 5 PT
+Reducción del coste a 4 PT
+Reducción del coste a 3 PT
+Reducción del coste a 2 PT
+Reducción del coste a 1 PT
+Aprender; PT: 4
+Daño/Prob. de atar ↑ PT: 4
+Daño/Prob. de atar ↑ PT: 5
+Daño/Prob. de atar ↑ PT: 5
+Daño ↑/Prob. de atar ↑↑ PT: 6
+Daño/Prob. de atar ↑ PT: 6
+Daño/Prob. de atar ↑ PT: 6
+Daño/Prob. de atar ↑ PT: 6
+Daño/Prob. de atar ↑ PT: 6
+Daño/Prob. de atar ↑↑ PT: 6
+Aprender; PT: 6
+Daño infligido ↑ PT: 7
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 9
+Daño infligido ↑↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑↑ PT: 10
+Aprender; PT: 2
+Velocidad ↑ PT: 2
+Velocidad ↑ PT: 3
+Velocidad ↑ PT: 3
+Velocidad ↑↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑↑ PT: 4
+Aprender; PT: 6
+Daño/Prob. de matar ↑ PT: 7
+Daño/Prob. de matar ↑ PT: 8
+Daño/Prob. de matar ↑ PT: 9
+Daño/Prob. de matar ↑↑ PT: 10
+Daño/Prob. de matar ↑ PT: 10
+Daño/Prob. de matar ↑ PT: 10
+Daño/Prob. de matar ↑ PT: 10
+Daño/Prob. de matar ↑ PT: 10
+Daño/Prob. de matar ↑↑ PT: 10
+Aprender; PT: 4
+Daño infligido ↑ PT: 4
+Daño infligido ↑ PT: 5
+Daño infligido ↑ PT: 5
+Daño infligido ↑↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑ PT: 6
+Daño infligido ↑↑ PT: 6
+Aprender; PT: 6
+Daño infligido ↑ PT: 7
+Daño infligido ↑ PT: 8
+Daño infligido ↑ PT: 9
+Daño infligido ↑↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑ PT: 10
+Daño infligido ↑↑ PT: 10
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +50%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +20%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+Aprender; daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑
+Daño infligido ↑↑
+Aprender; eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑↑
+Aprender; curar 3% de PV
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑
+Eficacia de cura ↑↑
+Aprender; obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑↑
+Aprender; recuperar 1 PT
+Ninguna mejora
+Recuperar 2 PT
+Ninguna mejora
+Recuperar 3 PT
+Ninguna mejora
+Recuperar 4 PT
+Ninguna mejora
+Ninguna mejora
+Recuperar 5 PT
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 4
+Eficacia cura/Veloc. ↑ PT: 4
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑↑ PT: 6
+Aprender; PT: 10
+Eficacia cura/Veloc. ↑ PT: 11
+Eficacia cura/Veloc. ↑ PT: 12
+Eficacia cura/Veloc. ↑ PT: 13
+Eficacia cura/Veloc. ↑↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑↑ PT: 14
+Aprender; PT: 20
+Veloc. ↑/Coste reducido a 19 PT
+Veloc. ↑/Coste reducido a 18 PT
+Veloc. ↑/Coste reducido a 17 PT
+Veloc. ↑/Coste reducido a 15 PT
+Veloc. ↑/Coste reducido a 14 PT
+Veloc. ↑/Coste reducido a 13 PT
+Veloc. ↑/Coste reducido a 12 PT
+Veloc. ↑/Coste reducido a 11 PT
+Veloc. ↑/Coste reducido a 10 PT
+Aprender; PT: 6
+Eficacia cura/Veloc. ↑ PT: 7
+Eficacia cura/Veloc. ↑ PT: 8
+Eficacia cura/Veloc. ↑ PT: 9
+Eficacia cura/Veloc. ↑↑ PT: 10
+Eficacia cura/Veloc. ↑ PT: 10
+Eficacia cura/Veloc. ↑ PT: 10
+Eficacia cura/Veloc. ↑ PT: 10
+Eficacia cura/Veloc. ↑ PT: 10
+Eficacia cura/Veloc. ↑↑ PT: 10
+Aprender; PT: 16
+Eficacia cura/Veloc. ↑ PT: 17
+Eficacia cura/Veloc. ↑ PT: 18
+Eficacia cura/Veloc. ↑ PT: 19
+Eficacia cura/Veloc. ↑↑ PT: 20
+Eficacia cura/Veloc. ↑ PT: 20
+Eficacia cura/Veloc. ↑ PT: 20
+Eficacia cura/Veloc. ↑ PT: 20
+Eficacia cura/Veloc. ↑ PT: 20
+Eficacia cura/Veloc. ↑↑ PT: 20
+Aprender; PT: 10
+Eficacia cura/Veloc. ↑ PT: 11
+Eficacia cura/Veloc. ↑ PT: 12
+Eficacia cura/Veloc. ↑ PT: 13
+Eficacia cura/Veloc. ↑↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑ PT: 14
+Eficacia cura/Veloc. ↑↑ PT: 14
+Aprender; quitar atadura PT: 3
+Velocidad ↑ PT: 3
+Veloc. ↑/Quit. 2 ataduras PT: 3
+Velocidad ↑ PT: 3
+Vel. ↑↑/Quit. 3 ataduras PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑↑ PT: 4
+Aprender; curar ceguera PT: 3
+Veloc. ↑/Curar parálisis PT: 3
+Veloc. ↑/Curar confusión PT: 3
+Veloc. ↑/Curar sueño PT: 3
+Veloc. ↑/Curar veneno PT: 4
+Veloc. ↑/Curar maldición PT: 4
+Veloc. ↑/Curar terror PT: 4
+Veloc. ↑/Curar petrif. PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑↑
+Aprender; PT: 10
+Def. mágica/Velocidad ↑ PT: 11
+Def. mágica/Velocidad ↑ PT: 12
+Def. mágica/Velocidad ↑ PT: 13
+Def. mágica/Veloc. ↑↑ PT: 14
+Def. mágica/Velocidad ↑ PT: 14
+Def. mágica/Velocidad ↑ PT: 14
+Def. mágica/Velocidad ↑ PT: 14
+Def. mágica/Velocidad ↑ PT: 14
+Def. mágica/Veloc. ↑↑ PT: 14
+Aprender; PT: 8
+Daño/Prob. de aturdir ↑ PT: 9
+Daño/Prob. de aturdir ↑ PT: 10
+Daño/Prob. de aturdir ↑ PT: 11
+Daño/Prob. aturdir ↑↑ PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. de aturdir ↑ PT: 12
+Daño/Prob. aturdir ↑↑ PT: 12
+Aprender; PT: 16
+Veloc./Prob. éxito ↑ PT: 17
+Veloc./Prob. éxito ↑ PT: 18
+Veloc./Prob. éxito ↑ PT: 19
+Veloc./Prob. éxito ↑↑ PT: 20
+Veloc./Prob. éxito ↑ PT: 20
+Veloc./Prob. éxito ↑ PT: 20
+Veloc./Prob. éxito ↑ PT: 20
+Veloc./Prob. éxito ↑ PT: 20
+Veloc./Prob. éxito ↑↑ PT: 20
+Aprender; PT: 3
+Eficacia de cura ↑ PT: 3
+Eficacia de cura ↑ PT: 4
+Eficacia de cura ↑ PT: 4
+Eficacia de cura ↑↑ PT: 5
+Eficacia de cura ↑ PT: 5
+Eficacia de cura ↑ PT: 5
+Eficacia de cura ↑ PT: 5
+Eficacia de cura ↑ PT: 5
+Eficacia de cura ↑↑ PT: 5
+Aprender; hasta 25% PV PT: 4
+Hasta 27% de todos los PV PT: 4
+Hasta 29% de todos los PV PT: 5
+Hasta 31% de todos los PV PT: 5
+Hasta 35% de todos los PV PT: 6
+Hasta 36% de todos los PV PT: 6
+Hasta 37% de todos los PV PT: 6
+Hasta 38% de todos los PV PT: 6
+Hasta 39% de todos los PV PT: 6
+Hasta 40% de todos los PV PT: 6
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +20%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+Aprender; daño de fuego ↑
+Daño de fuego ↑
+Daño de fuego ↑
+Daño de fuego ↑
+Daño de fuego ↑↑
+Daño de fuego ↑
+Daño de fuego ↑
+Daño de fuego ↑
+Daño de fuego ↑
+Daño de fuego ↑↑
+Aprender; daño de hielo ↑
+Daño de hielo ↑
+Daño de hielo ↑
+Daño de hielo ↑
+Daño de hielo ↑↑
+Daño de hielo ↑
+Daño de hielo ↑
+Daño de hielo ↑
+Daño de hielo ↑
+Daño de hielo ↑↑
+Aprender; daño de rayo ↑
+Daño de rayo ↑
+Daño de rayo ↑
+Daño de rayo ↑
+Daño de rayo ↑↑
+Daño de rayo ↑
+Daño de rayo ↑
+Daño de rayo ↑
+Daño de rayo ↑
+Daño de rayo ↑↑
+Aprender; daño de veneno ↑
+Daño de veneno ↑
+Daño de veneno ↑
+Daño de veneno ↑
+Daño de veneno ↑↑
+Daño de veneno ↑
+Daño de veneno ↑
+Daño de veneno ↑
+Daño de veneno ↑
+Daño de veneno ↑↑
+Aprender; obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑
+Prob. de obtener objetos ↑↑
+Aprender; recuperar 1 PT
+Ninguna mejora
+Recuperar 2 PT
+Ninguna mejora
+Recuperar 3 PT
+Ninguna mejora
+Recuperar 4 PT
+Ninguna mejora
+Ninguna mejora
+Recuperar 5 PT
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 4
+Daño de fuego ↑ PT: 4
+Daño de fuego ↑ PT: 5
+Daño de fuego ↑ PT: 5
+Daño de fuego ↑ PT: 6
+Daño de fuego ↑ PT: 6
+Daño de fuego ↑ PT: 6
+Daño de fuego ↑ PT: 6
+Daño de fuego ↑ PT: 6
+Daño de fuego ↑ PT: 6
+Aprender; PT: 10
+Daño de fuego ↑ PT: 11
+Daño de fuego ↑ PT: 12
+Daño de fuego ↑ PT: 13
+Daño de fuego ↑↑ PT: 14
+Daño de fuego ↑ PT: 14
+Daño de fuego ↑ PT: 14
+Daño de fuego ↑ PT: 14
+Daño de fuego ↑ PT: 14
+Daño de fuego ↑↑ PT: 14
+Aprender; PT: 16
+Daño de fuego ↑ PT: 17
+Daño de fuego ↑ PT: 18
+Daño de fuego ↑ PT: 19
+Daño de fuego ↑↑ PT: 20
+Daño de fuego ↑ PT: 20
+Daño de fuego ↑ PT: 20
+Daño de fuego ↑ PT: 20
+Daño de fuego ↑ PT: 20
+Daño de fuego ↑↑ PT: 20
+Aprender; PT: 4
+Daño de hielo ↑ PT: 4
+Daño de hielo ↑ PT: 5
+Daño de hielo ↑ PT: 5
+Daño de hielo ↑ PT: 6
+Daño de hielo ↑ PT: 6
+Daño de hielo ↑ PT: 6
+Daño de hielo ↑ PT: 6
+Daño de hielo ↑ PT: 6
+Daño de hielo ↑ PT: 6
+Aprender; PT: 10
+Daño de hielo ↑ PT: 11
+Daño de hielo ↑ PT: 12
+Daño de hielo ↑ PT: 13
+Daño de hielo ↑↑ PT: 14
+Daño de hielo ↑ PT: 14
+Daño de hielo ↑ PT: 14
+Daño de hielo ↑ PT: 14
+Daño de hielo ↑ PT: 14
+Daño de hielo ↑↑ PT: 14
+Aprender; PT: 16
+Daño de hielo ↑ PT: 17
+Daño de hielo ↑ PT: 18
+Daño de hielo ↑ PT: 19
+Daño de hielo ↑↑ PT: 20
+Daño de hielo ↑ PT: 20
+Daño de hielo ↑ PT: 20
+Daño de hielo ↑ PT: 20
+Daño de hielo ↑ PT: 20
+Daño de hielo ↑↑ PT: 20
+Aprender; PT: 4
+Daño de rayo ↑ PT: 4
+Daño de rayo ↑ PT: 5
+Daño de rayo ↑ PT: 5
+Daño de rayo ↑ PT: 6
+Daño de rayo ↑ PT: 6
+Daño de rayo ↑ PT: 6
+Daño de rayo ↑ PT: 6
+Daño de rayo ↑ PT: 6
+Daño de rayo ↑ PT: 6
+Aprender; PT: 10
+Daño de rayo ↑ PT: 11
+Daño de rayo ↑ PT: 12
+Daño de rayo ↑ PT: 13
+Daño de rayo ↑↑ PT: 14
+Daño de rayo ↑ PT: 14
+Daño de rayo ↑ PT: 14
+Daño de rayo ↑ PT: 14
+Daño de rayo ↑ PT: 14
+Daño de rayo ↑↑ PT: 14
+Aprender; PT: 16
+Daño de rayo ↑ PT: 17
+Daño de rayo ↑ PT: 18
+Daño de rayo ↑ PT: 19
+Daño de rayo ↑↑ PT: 20
+Daño de rayo ↑ PT: 20
+Daño de rayo ↑ PT: 20
+Daño de rayo ↑ PT: 20
+Daño de rayo ↑ PT: 20
+Daño de rayo ↑↑ PT: 20
+Aprender; PT: 4
+Daño/Prob. de éxito ↑ PT: 4
+Daño/Prob. de éxito ↑ PT: 5
+Daño/Prob. de éxito ↑ PT: 5
+Daño/Prob. de éxito ↑↑ PT: 6
+Daño/Prob. de éxito ↑ PT: 6
+Daño/Prob. de éxito ↑ PT: 6
+Daño/Prob. de éxito ↑ PT: 6
+Daño/Prob. de éxito ↑ PT: 6
+Daño/Prob. de éxito ↑↑ PT: 6
+Aprender; PT: 10
+Daño/Prob. de éxito ↑ PT: 11
+Daño/Prob. de éxito ↑ PT: 12
+Daño/Prob. de éxito ↑ PT: 13
+Daño/Prob. de éxito ↑↑ PT: 13
+Daño/Prob. de éxito ↑ PT: 14
+Daño/Prob. de éxito ↑ PT: 14
+Daño/Prob. de éxito ↑ PT: 14
+Daño/Prob. de éxito ↑ PT: 14
+Daño/Prob. de éxito ↑↑ PT: 14
+Aprender; PT: 10
+Reducción del coste a 9 PT
+Reducción del coste a 8 PT
+Reducción del coste a 7 PT
+Reducción del coste a 6 PT
+Reducción del coste a 5 PT
+Reducción del coste a 4 PT
+Reducción del coste a 3 PT
+Reducción del coste a 2 PT
+Reducción del coste a 1 PT
+Aprender; PT: 15
+Reducción del coste a 14 PT
+Reducción del coste a 13 PT
+Reducción del coste a 12 PT
+Reducción del coste a 10 PT
+Reducción del coste a 9 PT
+Reducción del coste a 8 PT
+Reducción del coste a 7 PT
+Reducción del coste a 6 PT
+Reducción del coste a 5 PT
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +50%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +50%
+Aprender; técnica de canto
+Técnica de canto ↑
+Técnica de canto ↑
+Técnica de canto ↑
+Técnica de canto ↑↑
+Técnica de canto ↑
+Técnica de canto ↑
+Técnica de canto ↑
+Técnica de canto ↑
+Técnica de canto ↑↑
+Aprender; experiencia ↑
+Experiencia obtenida ↑
+Experiencia obtenida ↑
+Experiencia obtenida ↑
+Experiencia obtenida ↑↑
+Experiencia obtenida ↑
+Experiencia obtenida ↑
+Experiencia obtenida ↑
+Experiencia obtenida ↑
+Experiencia obtenida ↑↑
+Aprender; PT: 3
+Daño/Velocidad ↑ PT: 3
+Daño/Velocidad ↑ PT: 4
+Daño/Velocidad ↑ PT: 4
+Daño/Velocidad ↑↑ PT: 5
+Daño/Velocidad ↑ PT: 5
+Daño/Velocidad ↑ PT: 5
+Daño/Velocidad ↑ PT: 5
+Daño/Velocidad ↑ PT: 5
+Daño/Velocidad ↑↑ PT: 5
+Aprender; PT: 3
+Defensa/Velocidad ↑ PT: 3
+Defensa/Velocidad ↑ PT: 4
+Defensa/Velocidad ↑ PT: 4
+Defensa/Velocidad ↑↑ PT: 5
+Defensa/Velocidad ↑ PT: 5
+Defensa/Velocidad ↑ PT: 5
+Defensa/Velocidad ↑ PT: 5
+Defensa/Velocidad ↑ PT: 5
+Defensa/Velocidad ↑↑ PT: 5
+Aprender; PT: 3
+Velocidad ↑ PT: 3
+Velocidad ↑ PT: 4
+Velocidad ↑ PT: 4
+Velocidad ↑↑ PT: 5
+Velocidad ↑ PT: 5
+Velocidad ↑ PT: 5
+Velocidad ↑ PT: 5
+Velocidad ↑ PT: 5
+Velocidad ↑↑ PT: 5
+Aprender; PT: 15
+Veloc. ↑/Coste reducido a 14 PT
+Veloc. ↑/Coste reducido a 13 PT
+Veloc. ↑/Coste reducido a 12 PT
+Veloc. ↑/Coste reducido a 10 PT
+Veloc. ↑/Coste reducido a 9 PT
+Veloc. ↑/Coste reducido a 8 PT
+Veloc. ↑/Coste reducido a 7 PT
+Veloc. ↑/Coste reducido a 6 PT
+Veloc. ↑/Coste reducido a 5 PT
+Aprender; PT: 15
+Veloc. ↑/Coste reducido a 14 PT
+Veloc. ↑/Coste reducido a 13 PT
+Veloc. ↑/Coste reducido a 12 PT
+Veloc. ↑/Coste reducido a 10 PT
+Veloc. ↑/Coste reducido a 9 PT
+Veloc. ↑/Coste reducido a 8 PT
+Veloc. ↑/Coste reducido a 7 PT
+Veloc. ↑/Coste reducido a 6 PT
+Veloc. ↑/Coste reducido a 5 PT
+Aprender; PT: 15
+Veloc. ↑/Coste reducido a 14 PT
+Veloc. ↑/Coste reducido a 13 PT
+Veloc. ↑/Coste reducido a 12 PT
+Veloc. ↑/Coste reducido a 10 PT
+Veloc. ↑/Coste reducido a 9 PT
+Veloc. ↑/Coste reducido a 8 PT
+Veloc. ↑/Coste reducido a 7 PT
+Veloc. ↑/Coste reducido a 6 PT
+Veloc. ↑/Coste reducido a 5 PT
+Aprender; PT: 4
+Velocidad ↑ PT: 4
+Veloc. ↑/Anula 2 benef. PT: 5
+Velocidad ↑ PT: 5
+Veloc. ↑/Anula 3 benef. PT: 6
+Velocidad ↑ PT: 6
+Velocidad ↑ PT: 6
+Velocidad ↑ PT: 6
+Velocidad ↑ PT: 6
+Velocidad ↑ PT: 6
+Aprender; PT: 4
+PV MÁX/Velocidad ↑ PT: 4
+PV MÁX/Velocidad ↑ PT: 5
+PV MÁX/Velocidad ↑ PT: 5
+PV MÁX/Velocidad ↑↑ PT: 6
+PV MÁX/Velocidad ↑ PT: 6
+PV MÁX/Velocidad ↑ PT: 6
+PV MÁX/Velocidad ↑ PT: 6
+PV MÁX/Velocidad ↑ PT: 6
+PV MÁX/Velocidad ↑↑ PT: 6
+Aprender; PT: 6
+Fuerte/Débil a fuego ↑ PT: 6 
+Fuerte/Débil a fuego ↑ PT: 7 
+Fuerte/Débil a fuego ↑ PT: 7 
+Fuerte/Débil a fuego ↑↑ PT: 8 
+Fuerte/Débil a fuego ↑ PT: 8
+Fuerte/Débil a fuego ↑ PT: 8
+Fuerte/Débil a fuego ↑ PT: 8
+Fuerte/Débil a fuego ↑ PT: 8
+Fuerte/Débil a fuego ↑↑ PT: 8
+Aprender; PT: 6
+Fuerte/Débil a hielo ↑ PT: 6 
+Fuerte/Débil a hielo ↑ PT: 7 
+Fuerte/Débil a hielo ↑ PT: 7 
+Fuerte/Débil a hielo ↑↑ PT: 8 
+Fuerte/Débil a hielo ↑ PT: 8
+Fuerte/Débil a hielo ↑ PT: 8
+Fuerte/Débil a hielo ↑ PT: 8
+Fuerte/Débil a hielo ↑ PT: 8
+Fuerte/Débil a hielo ↑↑ PT: 8
+Aprender; PT: 6
+Fuerte/Débil a rayo ↑ PT: 6 
+Fuerte/Débil a rayo ↑ PT: 7 
+Fuerte/Débil a rayo ↑ PT: 7 
+Fuerte/Débil a rayo ↑↑ PT: 8 
+Fuerte/Débil a rayo ↑ PT: 8
+Fuerte/Débil a rayo ↑ PT: 8
+Fuerte/Débil a rayo ↑ PT: 8
+Fuerte/Débil a rayo ↑ PT: 8
+Fuerte/Débil a rayo ↑↑ PT: 8 
+Aprender; PT: 4
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑ PT: 5
+Eficacia cura/Veloc. ↑↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Eficacia cura/Veloc ↑↑ PT: 6
+Aprender; PT: 4
+Velocidad ↑ PT: 4
+Eficacia cura/Veloc. ↑ PT: 5
+Velocidad ↑ PT: 5
+Eficacia cura/Veloc. ↑↑ PT: 6
+Velocidad ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Velocidad ↑ PT: 6
+Velocidad ↑ PT: 6
+Eficacia cura/Veloc. ↑ PT: 6
+Aprender; PT: 4
+Veloc. recup. estado ↑ PT: 4
+Veloc. recup. estado ↑ PT: 5
+Veloc. recup. estado ↑ PT: 5
+Veloc. recup. estado ↑↑ PT: 6
+Veloc. recup. estado ↑ PT: 6
+Veloc. recup. estado ↑ PT: 6
+Veloc. recup. estado ↑ PT: 6
+Veloc. recup. estado ↑ PT: 6
+Veloc. recup. estado ↑↑ PT: 6
+Aprender; 70%. PT: 2
+35 pasos PT: 2
+40 pasos PT: 3
+45 pasos PT: 3
+60 pasos PT: 4
+Encuentros ↓ (65 pasos) PT: 4
+Encuentros ↓ (70 pasos) PT: 4
+Encuentros ↓ (75 pasos) PT: 4
+Encuentros ↓ (80 pasos) PT: 4
+Encuentros ↓ (100 pasos) PT: 4
+Aprender; PT: 10
+Reducción del coste a 9 PT
+Reducción del coste a 8 PT
+Reducción del coste a 7 PT
+Reducción del coste a 6 PT
+Reducción del coste a 5 PT
+Reducción del coste a 4 PT
+Reducción del coste a 3 PT
+Reducción del coste a 2 PT
+Reducción del coste a 1 PT
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PV MÁX +10%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +30%
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX ↑
+PV MÁX +50%
+Aprender; PT MÁX +10%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +20%
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX ↑
+PT MÁX +30%
+Aprender; artes oscuras
+Artes oscuras ↑
+Artes oscuras ↑
+Artes oscuras ↑
+Artes oscuras ↑↑
+Artes oscuras ↑
+Artes oscuras ↑
+Artes oscuras ↑
+Artes oscuras ↑
+Artes oscuras ↑↑
+Aprender
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑
+Probabilidad de éxito ↑↑
+Aprender; un uso por día
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+1 uso por día/Prob. de éxito ↑
+Aprender; PT: 3
+Fuerza de enemigos ↓ PT: 3
+Fuerza de enemigos ↓ PT: 4
+Fuerza de enemigos ↓ PT: 4
+Fuerza de enemigos ↓ PT: 5
+Fuerza de enemigos ↓ PT: 5
+Fuerza de enemigos ↓ PT: 5
+Fuerza de enemigos ↓ PT: 5
+Fuerza de enemigos ↓ PT: 5
+Fuerza de enemigos ↓↓ PT: 5
+Aprender; PT: 3
+Defensa de enemigos ↓ PT: 3
+Defensa de enemigos ↓ PT: 4
+Defensa de enemigos ↓ PT: 4
+Defensa de enemigos ↓ PT: 5
+Defensa de enemigos ↓ PT: 5
+Defensa de enemigos ↓ PT: 5
+Defensa de enemigos ↓ PT: 5
+Defensa de enemigos ↓ PT: 5
+Defensa de enemigos ↓↓ PT: 5
+Aprender; PT: 3
+Velocidad de enemigos ↓ PT: 3
+Velocidad de enemigos ↓ PT: 4
+Velocidad de enemigos ↓ PT: 4
+Velocidad de enemigos ↓ PT: 5
+Velocidad de enemigos ↓ PT: 5
+Velocidad de enemigos ↓ PT: 5
+Velocidad de enemigos ↓ PT: 5
+Velocidad de enemigos ↓ PT: 5
+Velocidad de enemigos ↓↓ PT: 5
+Aprender; PT: 4
+Duración de maleficios ↑ PT: 4
+Duración de maleficios ↑ PT: 5
+Duración de maleficios ↑ PT: 5
+Duración maleficios ↑↑ PT: 6
+Duración de maleficios ↑ PT: 6
+Duración de maleficios ↑ PT: 6
+Duración de maleficios ↑ PT: 6
+Duración de maleficios ↑ PT: 6
+Duración maleficios ↑↑ PT: 6
+Aprender; PT: 3
+Probabilidad de sellar ↑ PT: 3
+Probabilidad de sellar ↑ PT: 4
+Probabilidad de sellar ↑ PT: 4
+Probabilidad de sellar ↑↑ PT: 5
+Probabilidad de sellar ↑ PT: 5
+Probabilidad de sellar ↑ PT: 5
+Probabilidad de sellar ↑ PT: 5
+Probabilidad de sellar ↑ PT: 5
+Probabilidad de sellar ↑↑ PT: 5
+Aprender; PT: 3
+Probabilidad de atar ↑ PT: 3
+Probabilidad de atar ↑ PT: 4
+Probabilidad de atar ↑ PT: 4
+Probabilidad de atar ↑↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑↑ PT: 5
+Aprender; PT: 3
+Probabilidad de atar ↑ PT: 3
+Probabilidad de atar ↑ PT: 4
+Probabilidad de atar ↑ PT: 4
+Probabilidad de atar ↑↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑ PT: 5
+Probabilidad de atar ↑↑ PT: 5
+Aprender; PT: 6
+Probabilidad de éxito ↑ PT: 7
+Probabilidad de éxito ↑ PT: 8
+Probabilidad de éxito ↑ PT: 9
+Probabilidad de éxito ↑↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑↑ PT: 10
+Aprender; PT: 6
+Probabilidad de éxito ↑ PT: 7
+Probabilidad de éxito ↑ PT: 8
+Probabilidad de éxito ↑ PT: 9
+Probabilidad de éxito ↑↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑↑ PT: 10
+Aprender; PT: 6
+Probabilidad de éxito ↑ PT: 7
+Probabilidad de éxito ↑ PT: 8
+Probabilidad de éxito ↑ PT: 9
+Probabilidad de éxito ↑↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑↑ PT: 10
+Aprender; PT: 8
+Probabilidad de éxito ↑ PT: 9
+Probabilidad de éxito ↑ PT: 10
+Probabilidad de éxito ↑ PT: 11
+Probabilidad de éxito ↑↑ PT: 12
+Probabilidad de éxito ↑ PT: 12
+Probabilidad de éxito ↑ PT: 12
+Probabilidad de éxito ↑ PT: 12
+Probabilidad de éxito ↑ PT: 12
+Probabilidad de éxito ↑↑ PT: 12
+Aprender; PT: 10
+Ninguna mejora PT: 11
+Golpearse dos veces PT: 12
+Ninguna mejora PT: 13
+Golpearse tres veces PT: 14
+Ninguna mejora PT: 14
+Ninguna mejora PT: 14
+Ninguna mejora PT: 14
+Ninguna mejora PT: 14
+Golpearse 4 veces PT: 14
+Aprender; PT: 10
+Reducción del coste a 9 PT
+Reducción del coste a 8 PT
+Reducción del coste a 7 PT
+Reducción del coste a 6 PT
+Reducción del coste a 5 PT
+Reducción del coste a 4 PT
+Reducción del coste a 3 PT
+Reducción del coste a 2 PT
+Reducción del coste a 1 PT
+Aprender; PT: 10
+Reducción del coste a 9 PT
+Reducción del coste a 8 PT
+Reducción del coste a 7 PT
+Reducción del coste a 6 PT
+Reducción del coste a 5 PT
+Reducción del coste a 4 PT
+Reducción del coste a 3 PT
+Reducción del coste a 2 PT
+Reducción del coste a 1 PT
+Aprender; PT: 6
+Daño del efecto ↑ PT: 7
+Daño del efecto ↑ PT: 8
+Daño del efecto ↑ PT: 9
+Daño del efecto ↑↑ PT: 10
+Daño del efecto ↑ PT: 10
+Daño del efecto ↑ PT: 10
+Daño del efecto ↑ PT: 10
+Daño del efecto ↑ PT: 10
+Daño del efecto ↑↑ PT: 10
+Aprender; mejora a 130% PT: 2
+18 pasos PT: 2
+20 pasos PT: 3
+22 pasos PT: 3
+30 pasos PT: 4
+Probabilidad ↑ (32 pasos) PT: 4
+Probabilidad ↑ (34 pasos) PT: 4
+Probabilidad ↑ (36 pasos) PT: 4
+Probabilidad ↑ (38 pasos) PT: 4
+Probabilidad ↑ (50 pasos) PT: 4
+

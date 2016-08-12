@@ -1,0 +1,39 @@
+Spanish
+Confirmar
+--------
+Si creas este grupo, todos pasarán a la línea frontal.
+¿Estás conforme con este grupo?
+Los aventureros que estén muertos o petrificados no pueden formar  parte de ningún grupo.
+Quitar
+Se ha usado <!8069> .
+Se ha usado <!8069> , pero no ha surtido efecto.
+Se ha usado <!8069> , pero no había ningún destino.
+¡No tienes ninguna técnica disponible!
+Usar Arrojar
+¿Quieres deshacerte de este objeto?
+Has tirado <!80C9> .
+Has usado <!80C9> .
+Has usado <!80C9> , pero no ha tenido ningún efecto.
+Has usado <!80C9> , pero no había ningún destino.
+¡No tienes ningún objeto!
+¿Quieres subir la habilidad <!8069>                  del nivel <!806C>  al nivel <!806D> ?
+¿Quieres aprender la habilidad <!8069> de nivel <!806D> ?
+Para aprenderla, necesitas: <!8069> de nivel <!806C>  y <!806F> de nivel <!806D> .
+Para aprenderla, necesitas: <!8069> de nivel <!806C> .
+No tienes suficientes puntos de habilidad.
+Ahora tienes a tu disposición la habilidad <!8069> .
+Encargos Encargos completados Misiones Misiones completadas
+No has aceptado ninguna tarea.
+No has finalizado ninguna tarea.
+En el menú <!color=0006>Objetos<!color=0004>, puedes usar o desechar objetos que tengas en el inventario.
+En el menú <!color=0006>Habilidades<!color=0004>, puedes usar las habilidades que estén disponibles fuera del combate.
+En el menú <!color=0006>Estado<!color=0004>, puedes ver los atributos, equipo y habilidades de los miembros de tu grupo.
+En el menú <!color=0006>Equipo<!color=0004>, puedes equipar y quitarle accesorios, armas y armaduras a los miembros de tu grupo. <!color=0006>Algunas clases necesitan armas determinadas<!color=0004> para poder usar sus habilidades. Tenlo en cuenta.
+En el menú <!color=0006>Personalizar<!color=0004>, puedes emplear puntos de habilidad para aprender nuevas técnicas y hechizos. En este juego, cada vez que subes de nivel, <!color=0006>obtienes un único punto de habilidad<!color=0004>. Úsalos con cuidado para reforzar habilidades o para aprender otras nuevas.
+En el menú <!color=0006>Grupo<!color=0004>, puedes cambiar la formación de combate de tu grupo. En la batalla, <!color=0006>si los miembros de la línea frontal mueren, los de la trasera les reemplazarán<!color=0004>. Si esto pasa, acuérdate de organizar de nuevo la formación después del combate.
+En el menú <!color=0006>Encargos<!color=0004>, puedes ver los encargos que has aceptado y completado hasta ahora.
+--------
+--Arma--
+--Armadura--
+--Armadura--
+--Armadura--

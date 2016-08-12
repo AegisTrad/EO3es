@@ -1,0 +1,29 @@
+[HEAD][00000100][00000005]
+
+[MSGH][00000001][0000002a]
+[EN]
+The 100-year grudge[LB][END]
+[ES]
+Rencor centenario[LB][END]
+
+
+[MSGH][00000002][00000020]
+[EN]
+Fishy currents[LB][END]
+[ES]
+Corrientes pesqueras[LB][END]
+
+
+[MSGH][00000003][00000028]
+[EN]
+The weight of love[LB][END]
+[ES]
+El peso del amor[LB][END]
+
+
+[MSGH][00000004][0000002e]
+[EN]
+Stalking the currents[LB][END]
+[ES]
+Acecho en las corrientes[LB][END]
+

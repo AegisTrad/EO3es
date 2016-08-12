@@ -1,0 +1,277 @@
+Pequeño y afilado colmillo de un animal.
+Suave cuero creado con la piel de bestias.
+Esternón relativamente duro de un topo.
+Caparazón brillante de escarabajo.
+Preciosa ala que irradia un destello misterioso.
+Flor blanca y aromática que crece en las plantas superiores.
+Ojo de mariposa que no tiene valor si está dañado.
+Suave y esponjosa piel de conejo.
+Cuerno elástico que se puede tratar con facilidad.
+Parte del cuerpo de una mandrágora.
+Resistente raíz de mandrágora.
+Cenizas de mandrágora.
+Cuero elástico usado para las juntas de las armaduras.
+Espina roja del caparazón de un escarabajo.
+Cuerno de toro con vestigios de acero.
+Piel dura y rígida de lobo.
+Néctar solidificado que se usa para crear medicinas.
+Pequeña fruta roja que aporta energía.
+Hoja verde y amarga que aumenta la concentración.
+Fruta de color rojo intenso no comestible.
+Piedra de marfil que se usa como material de construcción.
+Fragmento de una piedra brillante y transparente.
+Fragmento de un gólem, duro como un diamante.
+Colmillo enorme de una bestia, perfecto para tallar.
+Colmillo de Fenrir; se usa para forjar armas.
+Piel de Fenrir que se encuentra bajo el pelaje.
+Pinza de mantis, fina y muy afilada.
+Tejido adhesivo de una masa gelatinosa.
+Pieza extraña de acero puro obtenida de masas gelatinosas.
+Cola en forma de aguijón con glándulas venenosas.
+Seda de araña que se endurece cuando se seca.
+Garra grande con una curvatura característica.
+Parte más gruesa del tallo de una planta grande.
+Hojas de colores que se usan como adornos o colorantes.
+Semilla de sabor amargo pero con propiedades curativas.
+Corteza aromática de árbol que se usa para recuperar energía.
+Parra compuesta por un puñado de fibras.
+Pluma gigante de un ave de la jungla.
+Coxis de pájaro que se usa para construir arcos.
+Restos cristalizados de un pájaro de fuego.
+Caparazón de acero de escorpión templado al fuego.
+Hoja gruesa y redonda que se cuece para hacer gelatina.
+Pequeña garra con forma de gancho.
+Colmillo de acero de tigre que se usa para forjar afiladas espadas.
+Lisa piel de tigre que se usa como capa intermedia en las armaduras.
+Hierba muy rica que despeja la mente.
+Chatarra con restos de acero.
+Huesos sin valor destrozados e incrustados en una roca.
+Piel gruesa y sólida de oso.
+Pata de un pájaro antediluviano.
+Concha fina y de gran calidad de escorpión.
+Aguijón de escorpión de color púrpura debido al veneno.
+Cuerno de Cernunos. Tiene propiedades magnéticas.
+Ala del dragón menor, resistente a cualquier ataque.
+Colmillo estriado arrancado del dragón menor.
+Enorme colmillo de mamut con la base rota.
+Puede crecer hasta 10 veces su tamaño original.
+Se puede cocer para hacer medicina.
+Cuero resistente que absorbe los golpes.
+Ojo vidrioso de sapo.
+Pequeño hueso que contiene acero.
+Fragmento de un hueso que contiene acero.
+Gigantesca concha de acero.
+Nido de giguélula creado con ramas de roble.
+Ala con tres huesos.
+Fluido grasiento que da lugar a un colorante irisado.
+Pequeña uña con la que se puede cortar carne.
+Piel de oso de color rojo intenso.
+Molar manchado de sangre.
+Escama espinosa de pez.
+Aleta lisa y suave de un pez espada.
+Pata de cangrejo curvada con articulaciones de acero.
+Grumo de miel almacenado en el abdomen de las hormigas.
+Concha con 16 pinchos.
+Su alto contenido en azúcar proporciona mucha energía.
+Preciosa rama que se vende a precios muy caros.
+Mineral que emite brillos rojos y azules cuando se pule.
+Pinza de cangrejo manchada de sangre.
+Garra con forma de cuchilla de la hormiga real.
+Aleta de Cotrangl, compuesta por elásticas fibras.
+Concha centenaria de una tortuga.
+Piel dura cubierta de escamas con forma de cuña.
+Piel de ratón que irradia calor.
+Cola de ratón que irradia calor.
+Piel de tigre de color blanco puro, muy suave al tacto.
+Colmillo afilado pero flexible.
+Cuerno de ciervo que previene que los metales se oxiden.
+Órgano rojo que se solidifica cuando se enfría.
+Ojo de mantis que se ha roto durante la batalla.
+Ojo de mantis con trozos de acero.
+Hoz de mantis suave y blanca con manchas rojas.
+Tendón de Aquiles enorme.
+Sus duras fibras entrelazadas son inmunes a cualquier corte.
+Vid mutante con forma de Y que protege de la mala suerte.
+Fragmentos de roca que usan los moradores del bosque.
+Los seres del bosque la llevan en bolsas y la usan para escribir.
+Tejido tricotado con hierba del desierto baldío.
+Madera de los árboles del desierto baldío.
+Ala del ser más pequeño de los moradores del bosque.
+Miel recolectada por los moradores del bosque.
+Pluma del ala de un pico bermellón.
+Pico afilado de un ave depredadora.
+Melocotón que se puede usar para crear medicinas.
+Madera con forma de tentáculo que se mueve tras cortarla.
+Vid con forma de látigo que usa Cruela.
+Vid con forma de látigo que usa Diabólica.
+Flor blanca que crece en el desierto baldío.
+Garra de Iwaopeln. Contiene varios metales.
+Usada por los moradores del bosque. Contiene varios metales.
+Enorme gema que se obtiene a partir del piroxeno.
+Hongos que crecen en los cadáveres de las hadas.
+Se extrae de los árboles del desierto baldío.
+Uña de un tipo de acero de meteorito desconocido.
+Diente con forma de espada para despedazar enemigos.
+Piel de un conejo malvado que devora seres humanos.
+Garganta muy elástica de un sapo gigante.
+Núcleo cristalino que puede aparecer en algunas gelatinas.
+Seda de araña con protuberancias que tienen forma de gancho.
+Piel de lobo del color del fuego.
+Sangre de lobo que sirve como tinte.
+Caparazón brillante de un insecto gigante.
+Sangre de un insecto gigante, excelente como tinte.
+Tallo oscuro que evoca una sensación de muerte.
+Piel de una feroz bestia dorada.
+Colmillo triangular que contiene oro.
+Cuerno torcido de toro que contiene oro.
+Concha de acero de meteorito desconocido.
+Garra de acero de meteorito desconocido.
+Ala transparente de una avispa reina.
+Miel que cura cualquier enfermedad.
+Esternón de un saurio metálico, más resistente que el acero.
+Colmillo de mamut con siniestras inscripciones.
+Piel de aligátor, suave pero resistente.
+Frágil corteza que envuelve el cadáver de Yggdrasil.
+Células de Yggdrasil que se han convertido en piroxeno rojo.
+Flor revitalizante básica para el proyecto Yggdrasil.
+Piroxeno multicolor con poderes místicos.
+Brote de Yggdrasil con forma de cabeza humana.
+Brote de Yggdrasil con forma de brazo humano.
+Brote de Yggdrasil con forma de pierna humana.
+Hilo fino envuelto en una piel elástica.
+Vid de planta cristalizada.
+Semilla brillante que se usa con fines médicos.
+Frágil material gris que se usa en la construcción.
+El núcleo de este fragmento se usa en la construcción.
+Células de Yggdrasil que se han convertido en piroxeno verde.
+Células de Yggdrasil que se han convertido en piroxeno azul.
+Coraza de ogro empapada en dolor y pena.
+Escama verde del brazo de un ogro.
+Preciosa pluma del brazo de un demonio alado.
+Plumas que adornan la cabeza de un demonio alado.
+Caparazón de una tortuga milenaria.
+Caparazón intacto de una tortuga milenaria.
+Polvo misterioso que dispersa la luz.
+Se volvió negra al alimentarse de cadáveres abandonados.
+Misteriosa pluma de una cola encerrada en cristal.
+Médula que no se ve afectada por reacciones químicas.
+Sorprendentes plumas de las alas de Iwaopeln.
+Preciosa ala de color rojo y azul.
+Magnífica tela tejida con pétalos de Alraune.
+Pata de cangrejo agujereada.
+Cráneo que contiene crimsonita.
+Hueso que contiene crimsonita.
+Cadena brillante que engaña a los que la miran.
+Extraña costilla de un saurio metálico con forma de espada.
+Piel de dragón resistente al fuego.
+Piel de dragón resistente al hielo.
+Piel de dragón resistente a la electricidad.
+Embrión de la célula de un dragón.
+Escama afilada del gran dragón.
+Colmillo del gran dragón que irradia un intenso calor.
+Brazo intacto de un gólem.
+Ojo de la mantícora que irradia un brillo multicolor.
+Gélido hueso del draco.
+Esencia del Mal supremo.
+Pluma preciosa de color ébano.
+Espina dorsal helada de Cotrangl.
+Bigote de Tiamat.
+Parras que adornan a Alraune.
+Guadaña que puede cortarlo todo.
+Melena del rey de la jungla.
+Destructora mandíbula de la hormiga real.
+Escama afilada del draco.
+Látigo púrpura y perfumado de Cruela.
+Látigo rojo y de olor dulce de Diabólica.
+Garra de una bestia negra que contiene un poderoso veneno.
+Escama afilada de Tiamat.
+Células de Yggdrasil que se han convertido en piroxeno amarillo.
+Escama de mariposa de lo más profundo del bosque.
+Escama que ha quedado congelada en la batalla.
+Fruta con apariencia de cabeza humana.
+Semilla de una flor con pétalos en forma de cruz.
+Flor carnosa que contiene agua en sus pétalos.
+Misteriosa planta que emite continuamente niebla.
+Pequeña hoja de un brote de Yggdrasil.
+Hoja de tamaño medio de un brote de Yggdrasil.
+Hoja grande de un brote de Yggdrasil.
+Medicina preparada cociendo hierbas. Restablece 30 PV.
+Medicina hecha con extracto de flor. Restablece 100 PV.
+Medicina obtenida machacando cáscaras de nuez. Otorga 200 PV.
+Medicina hecha con roca de coral pulverizada. Restablece 350 PV.
+Medicina de miel de Yggdrasil. Restablece el 100% de tus PV.
+Tónico preparado con hierbas pulverizadas. Restablece 15 PT.
+Tónico creado a partir de fresas bañadas en miel. Restaura 50 PT.
+Poción hecha con miel aromática. Restablece 300 PV y 50 PT.
+Poción de miel de Yggdrasil. Restablece todos los PV y PT.
+Poción de miel de hadas. Todos recuperan parte de sus PV.
+Poción hecha con frutas raras. Restablece los PV del grupo.
+Elixir de miel que resucita a alguien con pocos PV.
+Elixir de melocotón que resucita con la mitad de los PV.
+Elixir mágico de escamas de dragón. Revive con todos los PV.
+Panacea creada con alas de insecto. Elimina las ataduras.
+Panacea de semillas astrales que cura cualquier enfermedad.
+Perfume herbáceo que aporta 10 puntos de moral.
+Perfume de extracto de fresa que aporta 30 puntos de moral.
+Perfume digno de una reina. Aporta 100 puntos de moral.
+Caramelo de hojas de Minerva. Aumen- ta el ataque y disminuye la defensa.
+Caramelo de miel de hormiga. Ataque aumenta mucho/Defensa disminuye.
+Gelatina de hierbas hervidas. Aumenta un poco la defensa.
+Gelatina de pasta de setas. Aumenta mucho la defensa.
+Niebla que disipa el fuego. Reduce temporalmente el daño de fuego.
+Niebla que disipa el hielo. Reduce temporalmente el daño de hielo.
+Niebla que disipa los rayos. Reduce temporalmente el daño eléctrico.
+Niebla que disipa la magia elemental durante 5 turnos.
+Aceite que proporciona a un arma el poder del fuego.
+Aceite que proporciona a un arma el poder del hielo.
+Aceite que proporciona a un arma el poder del rayo.
+Su repique reduce la probabilidad de toparse con monstruos.
+Su sonido ahuyenta bastante tiempo a los monstruos.
+Imán que te lleva al último punto geomagnético que usaste.
+Evento de mapa.
+Se dice que esta agua cura cualquier enfermedad.
+Agua potable normal y corriente.
+Botella para el agua.
+Caja llena de diversa chatarra.
+Caja llena de chatarra.
+Contiene un retrato de familia.
+Semilla de la orquídea favorita de la duquesa Schezan.
+Piedra dorada brillante.
+Piedra dorada brillante.
+Piedra con un reflejo brillante.
+Queso de rica apariencia pero un olor muy acre.
+Misterioso polvo que hace que las plantas se marchiten.
+Moneda manchada.
+Espada oxidada por el uso.
+Hacha desgastada por el uso.
+Varita rota muy antigua.
+Se dice que esta medicina cura cualquier enfermedad.
+Flor preciosa y muy difícil de encontrar.
+Semilla de una flor muy especial.
+Piedra que transmite sonidos a lugares lejanos.
+Llave que rompe el sello de los cristales transparentes.
+Llave que rompe el sello de los cristales violeta del laberinto.
+Huevo del tamaño de un hombre.
+Rectangular, con raros dibujos y rayas.
+Restablece 150 PV.
+Recibes una ligera descarga si tocas ambos extremos.
+Misterioso espejo con un agujero en el centro.
+Botella de cristal, pero suave al tacto.
+Pieza dorada con antiguos dibujos grabados en ella.
+Pieza de metal doblada. No se sabe para qué sirve ni cómo se usa.
+Pluma del pájaro legendario, tan clara que parece transparente.
+Pluma del pájaro legendario. Su color negro absorbe la luz.
+Pluma del pájaro legendario que brilla con los colores del arco iris.
+Cuerda mágica que lleva a tu grupo hasta el pueblo.
+Flute-shaped fang taken from the Wyvern's intact head.
+Ala del dragón menor que da gran resistencia contra ataques.
+Brazo que perdió un aventurero contra un dragón de hielo.
+Misteriosa pieza que encontraste en las ruinas de la ciudad.
+Misteriosa pieza que encontraste en las ruinas de la ciudad.
+Misteriosa pieza que encontraste en las ruinas de la ciudad.
+Misteriosa pieza que encontraste en las ruinas de la ciudad.
+Misteriosa pieza que encontraste en las ruinas de la ciudad.
+Extraño aparato construido con las piezas encontradas.
+Pañuelo que llevaba el aventurero llamado Guerrero del Arco Iris.
+Esta perla se le ha caído a algún aventurero.
+Comida favorita del ave legendaria.

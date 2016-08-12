@@ -1,0 +1,45 @@
+Spanish
+Soldado
+Guardabosque
+Paladín
+Cazador
+Samurái
+Médico
+Hechicero
+Trovador
+Brujo
+Confirmar
+Cancelar
+Hay un camino que lleva a un nivel inferior del laberinto.
+¿Quieres bajar las escaleras?
+Hay un camino que lleva a un nivel superior del laberinto.
+¿Quieres subir las escaleras?
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+.<!8005>=.<!8005>=.
+Has encontrado <!80C9>                        .
+No has encontrado nada.
+Has encontrado <!80C9>                        , pero no te queda espacio.
+Ningún miembro del grupo tiene nivel suficiente para extraer aquí.
+Ningún miembro del grupo tiene nivel suficiente para talar aquí.
+Ningún miembro del grupo tiene nivel suficiente para recoger plantas aquí.
+Has llegado al límite diario.
+Frente a ti tienes una caja muy grande.
+¿Quieres abrirla?
+Has obtenido <!80C9>                        .
+Has obtenido <!80C9>                        .
+Has obtenido <!806A>         en.
+Ya no puedes llevar más objetos.
+Ya no hay ningún tesoro dentro.
+Es un punto geomagnético. Regresar al pueblo Guardar Ignorarlo
+Regresarás al pueblo. ¿Estás de acuerdo?
+¿Quieres guardar la partida?
+Has guardado la partida.
+Agua refrescante gotea sobre el tocón.
+¿Quieres beber agua?
+El grupo ha recuperado las fuerzas.
+Frente a ti tienes un enorme aparato. No funciona...
+-90
+-46
+¡El suelo se ha hundido!
+Has descubierto un nuevo objeto:    <!color=0006><!8068>                        <!color=0000>
+Has descubierto un nuevo monstruo: <!color=0006><!8064>                        <!color=0000>

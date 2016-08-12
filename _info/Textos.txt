@@ -1,0 +1,36 @@
+
+textos
+--------------------------------------------------------------------------------
+archivos Data\Event\*.mbm
+
+cabecera de 32 bytes:
+- 4 bytes, siempre 0x00000000
+- 4 bytes, signatura "MSG2"
+- 4 bytes, siempre 0x00010000
+- 4 bytes, longitud del fichero
+- 4 bytes, número de textos
+- 4 bytes, siempre 0x00000020
+- 4 bytes, siempre 0x00000000
+- 4 bytes, siempre 0x00000000
+directorio de 16 bytes por cada texto:
+- 4 bytes, número de texto, empezando en 0
+- 4 bytes, longitud del texto, incluido el 0xFFFF final
+- 4 bytes, offset absoluto al texto
+- 4 bytes, siempre 0x00000000
+textos:
+- X bytes codificados en Shif-JIS, terminados en 0xFFFF
+
+caracteres especiales:
+- 0x8001, final del texto, siempre antes del 0xFFFF?
+
+
+
+textos
+--------------------------------------------------------------------------------
+archivos Data\Event\*.tbl
+
+sólo los que comienzan por 0x0000:
+- npc_char.tbl
+- sea_quest.tbl
+
+es más sencillo cambiarlos a mano

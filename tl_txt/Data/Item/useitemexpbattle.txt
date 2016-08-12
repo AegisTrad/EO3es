@@ -1,0 +1,5315 @@
+[HEAD][0000efc4][00000264]
+
+[MSGH][00000000][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000001][00000060]
+[EN]
+Hard scale that covers the[LB]
+Fanged Fish's body.[LB][END]
+[ES]
+Hard scale that covers the[LB]
+Fanged Fish's body.[LB][END]
+
+
+[MSGH][00000002][00000054]
+[EN]
+Long tooth that always finds[LB]
+its target.[LB][END]
+[ES]
+Long tooth that always finds[LB]
+its target.[LB][END]
+
+
+[MSGH][00000003][00000062]
+[EN]
+Thorn on a monster's head[LB]
+that mimicks a fruit.[LB][END]
+[ES]
+Thorn on a monster's head[LB]
+that mimicks a fruit.[LB][END]
+
+
+[MSGH][00000004][00000052]
+[EN]
+A leg completely covered in[LB]
+frog mucus.[LB][END]
+[ES]
+A leg completely covered in[LB]
+frog mucus.[LB][END]
+
+
+[MSGH][00000005][00000058]
+[EN]
+Can stretch to 10 times[LB]
+its original size.[LB][END]
+[ES]
+Can stretch to 10 times[LB]
+its original size.[LB][END]
+
+
+[MSGH][00000006][00000062]
+[EN]
+Long, sharp talon for[LB]
+inflicting severe wounds.[LB][END]
+[ES]
+Long, sharp talon for[LB]
+inflicting severe wounds.[LB][END]
+
+
+[MSGH][00000007][0000005c]
+[EN]
+Shrimp's shell that's[LB]
+resistant to cracking.[LB][END]
+[ES]
+Shrimp's shell that's[LB]
+resistant to cracking.[LB][END]
+
+
+[MSGH][00000008][00000078]
+[EN]
+Shrimp's tail that shrunk and[LB]
+hardened after being cooled.[LB][END]
+[ES]
+Shrimp's tail that shrunk and[LB]
+hardened after being cooled.[LB][END]
+
+
+[MSGH][00000009][00000068]
+[EN]
+Tail that injects secreted[LB]
+toxins into its target.[LB][END]
+[ES]
+Tail that injects secreted[LB]
+toxins into its target.[LB][END]
+
+
+[MSGH][0000000a][00000072]
+[EN]
+An ambulatory flower's ivy[LB]
+that gives a pungent stench.[LB][END]
+[ES]
+An ambulatory flower's ivy[LB]
+that gives a pungent stench.[LB][END]
+
+
+[MSGH][0000000b][0000005a]
+[EN]
+Centipede leg that tightly[LB]
+grasps its prey.[LB][END]
+[ES]
+Centipede leg that tightly[LB]
+grasps its prey.[LB][END]
+
+
+[MSGH][0000000c][00000070]
+[EN]
+Jaw with the power to fell[LB]
+even the Labyrinth's trees.[LB][END]
+[ES]
+Jaw with the power to fell[LB]
+even the Labyrinth's trees.[LB][END]
+
+
+[MSGH][0000000d][0000006c]
+[EN]
+Bird's feather that cannot[LB]
+be cut with a dull blade.[LB][END]
+[ES]
+Bird's feather that cannot[LB]
+be cut with a dull blade.[LB][END]
+
+
+[MSGH][0000000e][00000064]
+[EN]
+Toadstool's hypha that's[LB]
+dangerous to the touch.[LB][END]
+[ES]
+Toadstool's hypha that's[LB]
+dangerous to the touch.[LB][END]
+
+
+[MSGH][0000000f][00000068]
+[EN]
+Ferrule that feels rugged,[LB]
+despite its appearance.[LB][END]
+[ES]
+Ferrule that feels rugged,[LB]
+despite its appearance.[LB][END]
+
+
+[MSGH][00000010][00000076]
+[EN]
+Tongue that stretches about[LB]
+30 times its original length.[LB][END]
+[ES]
+Tongue that stretches about[LB]
+30 times its original length.[LB][END]
+
+
+[MSGH][00000011][0000005e]
+[EN]
+Needle that is stabbed into[LB]
+approaching prey.[LB][END]
+[ES]
+Needle that is stabbed into[LB]
+approaching prey.[LB][END]
+
+
+[MSGH][00000012][00000064]
+[EN]
+A steel-hard shell that[LB]
+glistens as if polished.[LB][END]
+[ES]
+A steel-hard shell that[LB]
+glistens as if polished.[LB][END]
+
+
+[MSGH][00000013][0000005e]
+[EN]
+Large crab's scissor with[LB]
+a bloodstained tip.[LB][END]
+[ES]
+Large crab's scissor with[LB]
+a bloodstained tip.[LB][END]
+
+
+[MSGH][00000014][0000005c]
+[EN]
+Feeler textured with horn-[LB]
+like protrusions.[LB][END]
+[ES]
+Feeler textured with horn-[LB]
+like protrusions.[LB][END]
+
+
+[MSGH][00000015][00000072]
+[EN]
+Exoskeleton that glitters[LB]
+when light is shined onto it.[LB][END]
+[ES]
+Exoskeleton that glitters[LB]
+when light is shined onto it.[LB][END]
+
+
+[MSGH][00000016][00000060]
+[EN]
+Sturdy tooth that can be[LB]
+used in various ways.[LB][END]
+[ES]
+Sturdy tooth that can be[LB]
+used in various ways.[LB][END]
+
+
+[MSGH][00000017][00000060]
+[EN]
+Cockscomb that sends a[LB]
+signal to its comrades.[LB][END]
+[ES]
+Cockscomb that sends a[LB]
+signal to its comrades.[LB][END]
+
+
+[MSGH][00000018][0000006a]
+[EN]
+Durable scale that covers[LB]
+the large serpent's body.[LB][END]
+[ES]
+Durable scale that covers[LB]
+the large serpent's body.[LB][END]
+
+
+[MSGH][00000019][0000006e]
+[EN]
+Fang that kills its prey[LB]
+instantly to prevent escape.[LB][END]
+[ES]
+Fang that kills its prey[LB]
+instantly to prevent escape.[LB][END]
+
+
+[MSGH][0000001a][00000070]
+[EN]
+Lizard's fin undaunted by[LB]
+fledgling warriors' attacks.[LB][END]
+[ES]
+Lizard's fin undaunted by[LB]
+fledgling warriors' attacks.[LB][END]
+
+
+[MSGH][0000001b][0000005e]
+[EN]
+Tooth that mercilessly[LB]
+crushes any intruders.[LB][END]
+[ES]
+Tooth that mercilessly[LB]
+crushes any intruders.[LB][END]
+
+
+[MSGH][0000001c][0000005a]
+[EN]
+Extremely durable fur with a[LB]
+rough texture.[LB][END]
+[ES]
+Extremely durable fur with a[LB]
+rough texture.[LB][END]
+
+
+[MSGH][0000001d][0000007c]
+[EN]
+Starfish core that gives off[LB]
+warmth, as though still living.[LB][END]
+[ES]
+Starfish core that gives off[LB]
+warmth, as though still living.[LB][END]
+
+
+[MSGH][0000001e][00000068]
+[EN]
+Star-shaped bone that gave[LB]
+form to a Red Starfish.[LB][END]
+[ES]
+Star-shaped bone that gave[LB]
+form to a Red Starfish.[LB][END]
+
+
+[MSGH][0000001f][0000006a]
+[EN]
+Sphere-shaped bone that[LB]
+covers the blowfish's body.[LB][END]
+[ES]
+Sphere-shaped bone that[LB]
+covers the blowfish's body.[LB][END]
+
+
+[MSGH][00000020][00000074]
+[EN]
+Delicious, if you can remove[LB]
+the toxins secreted within.[LB][END]
+[ES]
+Delicious, if you can remove[LB]
+the toxins secreted within.[LB][END]
+
+
+[MSGH][00000021][00000070]
+[EN]
+Hardens after death, making[LB]
+it difficult to work with.[LB][END]
+[ES]
+Hardens after death, making[LB]
+it difficult to work with.[LB][END]
+
+
+[MSGH][00000022][00000066]
+[EN]
+Fur that is useful in creating[LB]
+expensive clothes.[LB][END]
+[ES]
+Fur that is useful in creating[LB]
+expensive clothes.[LB][END]
+
+
+[MSGH][00000023][00000064]
+[EN]
+A fang sharp enough to[LB]
+scrape even large shells.[LB][END]
+[ES]
+A fang sharp enough to[LB]
+scrape even large shells.[LB][END]
+
+
+[MSGH][00000024][00000072]
+[EN]
+Mysterious starfish core that[LB]
+creates its own moisture.[LB][END]
+[ES]
+Mysterious starfish core that[LB]
+creates its own moisture.[LB][END]
+
+
+[MSGH][00000025][00000072]
+[EN]
+Blue starfish arm that can[LB]
+shoot water from its glands.[LB][END]
+[ES]
+Blue starfish arm that can[LB]
+shoot water from its glands.[LB][END]
+
+
+[MSGH][00000026][00000046]
+[EN]
+Piece of a shattered outer[LB]
+shell.[LB][END]
+[ES]
+Piece of a shattered outer[LB]
+shell.[LB][END]
+
+
+[MSGH][00000027][0000006e]
+[EN]
+Great Hermit's outer shell[LB]
+with no damage whatsoever.[LB][END]
+[ES]
+Great Hermit's outer shell[LB]
+with no damage whatsoever.[LB][END]
+
+
+[MSGH][00000028][00000060]
+[EN]
+Salamander's lips that are[LB]
+slimy, yet durable.[LB][END]
+[ES]
+Salamander's lips that are[LB]
+slimy, yet durable.[LB][END]
+
+
+[MSGH][00000029][0000005a]
+[EN]
+Salamander throat with a[LB]
+multitude of uses.[LB][END]
+[ES]
+Salamander throat with a[LB]
+multitude of uses.[LB][END]
+
+
+[MSGH][0000002a][0000006c]
+[EN]
+Octopus leg that secretes[LB]
+pinkish fluid when boiled.[LB][END]
+[ES]
+Octopus leg that secretes[LB]
+pinkish fluid when boiled.[LB][END]
+
+
+[MSGH][0000002b][00000064]
+[EN]
+Protrusion used to pierce[LB]
+enemies when charging.[LB][END]
+[ES]
+Protrusion used to pierce[LB]
+enemies when charging.[LB][END]
+
+
+[MSGH][0000002c][0000006e]
+[EN]
+King's core that glows green[LB]
+due to its magic powers.[LB][END]
+[ES]
+King's core that glows green[LB]
+due to its magic powers.[LB][END]
+
+
+[MSGH][0000002d][00000066]
+[EN]
+Sharp, pointed sucker that[LB]
+siphons off nutrients.[LB][END]
+[ES]
+Sharp, pointed sucker that[LB]
+siphons off nutrients.[LB][END]
+
+
+[MSGH][0000002e][00000074]
+[EN]
+A muscular arm too heavy for[LB]
+the average human to carry.[LB][END]
+[ES]
+A muscular arm too heavy for[LB]
+the average human to carry.[LB][END]
+
+
+[MSGH][0000002f][00000062]
+[EN]
+Icy fang which causes[LB]
+frostbite in its victims.[LB][END]
+[ES]
+Icy fang which causes[LB]
+frostbite in its victims.[LB][END]
+
+
+[MSGH][00000030][00000050]
+[EN]
+Coral that reeks of decade-[LB]
+old bones.[LB][END]
+[ES]
+Coral that reeks of decade-[LB]
+old bones.[LB][END]
+
+
+[MSGH][00000031][00000064]
+[EN]
+Hard jaw that severely[LB]
+wounds whatever it bites.[LB][END]
+[ES]
+Hard jaw that severely[LB]
+wounds whatever it bites.[LB][END]
+
+
+[MSGH][00000032][0000007e]
+[EN]
+Shell of a gigantic turtle that[LB]
+has lived for over a century.[LB][END]
+[ES]
+Shell of a gigantic turtle that[LB]
+has lived for over a century.[LB][END]
+
+
+[MSGH][00000033][00000066]
+[EN]
+Ancient fish scale engraved[LB]
+with cursed patterns.[LB][END]
+[ES]
+Ancient fish scale engraved[LB]
+with cursed patterns.[LB][END]
+
+
+[MSGH][00000034][00000072]
+[EN]
+Very high quality leather[LB]
+that's both smooth and tough.[LB][END]
+[ES]
+Very high quality leather[LB]
+that's both smooth and tough.[LB][END]
+
+
+[MSGH][00000035][00000066]
+[EN]
+Its poor durability makes[LB]
+it difficult to temper.[LB][END]
+[ES]
+Its poor durability makes[LB]
+it difficult to temper.[LB][END]
+
+
+[MSGH][00000036][00000070]
+[EN]
+Dragon bone sturdy enough[LB]
+to be used for construction.[LB][END]
+[ES]
+Dragon bone sturdy enough[LB]
+to be used for construction.[LB][END]
+
+
+[MSGH][00000037][0000006e]
+[EN]
+Remnants of a shell intended[LB]
+to protect a dragon pup.[LB][END]
+[ES]
+Remnants of a shell intended[LB]
+to protect a dragon pup.[LB][END]
+
+
+[MSGH][00000038][0000006a]
+[EN]
+A very well-preserved, and[LB]
+thus valuable, eggshell.[LB][END]
+[ES]
+A very well-preserved, and[LB]
+thus valuable, eggshell.[LB][END]
+
+
+[MSGH][00000039][00000070]
+[EN]
+Piece of Nozuchi's outer skin[LB]
+which contains red iron.[LB][END]
+[ES]
+Piece of Nozuchi's outer skin[LB]
+which contains red iron.[LB][END]
+
+
+[MSGH][0000003a][0000006e]
+[EN]
+Its high iron quotient makes[LB]
+it turn red when heated.[LB][END]
+[ES]
+Its high iron quotient makes[LB]
+it turn red when heated.[LB][END]
+
+
+[MSGH][0000003b][0000004e]
+[EN]
+Red stone that is fiery[LB]
+to the touch.[LB][END]
+[ES]
+Red stone that is fiery[LB]
+to the touch.[LB][END]
+
+
+[MSGH][0000003c][00000072]
+[EN]
+Rock that cooled rapidly,[LB]
+making it harder than normal.[LB][END]
+[ES]
+Rock that cooled rapidly,[LB]
+making it harder than normal.[LB][END]
+
+
+[MSGH][0000003d][0000006c]
+[EN]
+Typically obtained from the[LB]
+beasts of the Labyrinth.[LB][END]
+[ES]
+Typically obtained from the[LB]
+beasts of the Labyrinth.[LB][END]
+
+
+[MSGH][0000003e][0000005e]
+[EN]
+Hard and thick, but not[LB]
+especially dangerous.[LB][END]
+[ES]
+Hard and thick, but not[LB]
+especially dangerous.[LB][END]
+
+
+[MSGH][0000003f][00000060]
+[EN]
+Highly pliable horn commonly[LB]
+used in crafting.[LB][END]
+[ES]
+Highly pliable horn commonly[LB]
+used in crafting.[LB][END]
+
+
+[MSGH][00000040][00000074]
+[EN]
+Heel bone of a carnivorous[LB]
+lizard. Valued by scientists.[LB][END]
+[ES]
+Heel bone of a carnivorous[LB]
+lizard. Valued by scientists.[LB][END]
+
+
+[MSGH][00000041][00000078]
+[EN]
+Tail shed by a Flame Lizard to[LB]
+flee a dangerous situation.[LB][END]
+[ES]
+Tail shed by a Flame Lizard to[LB]
+flee a dangerous situation.[LB][END]
+
+
+[MSGH][00000042][0000005c]
+[EN]
+Red fur that absorbs fire to[LB]
+add to its own.[LB][END]
+[ES]
+Red fur that absorbs fire to[LB]
+add to its own.[LB][END]
+
+
+[MSGH][00000043][00000066]
+[EN]
+Cat's claw that rends enemies[LB]
+with jets of flame.[LB][END]
+[ES]
+Cat's claw that rends enemies[LB]
+with jets of flame.[LB][END]
+
+
+[MSGH][00000044][00000066]
+[EN]
+Ancient elephant's tusk used[LB]
+to gore trespassers.[LB][END]
+[ES]
+Ancient elephant's tusk used[LB]
+to gore trespassers.[LB][END]
+
+
+[MSGH][00000045][00000076]
+[EN]
+Piece of an ant's black bone[LB]
+that contains a unique iron.[LB][END]
+[ES]
+Piece of an ant's black bone[LB]
+that contains a unique iron.[LB][END]
+
+
+[MSGH][00000046][0000006e]
+[EN]
+Ant's bone fragment that has[LB]
+hardened and turned red.[LB][END]
+[ES]
+Ant's bone fragment that has[LB]
+hardened and turned red.[LB][END]
+
+
+[MSGH][00000047][00000060]
+[EN]
+Surprisingly coarse tongue[LB]
+used to catch prey.[LB][END]
+[ES]
+Surprisingly coarse tongue[LB]
+used to catch prey.[LB][END]
+
+
+[MSGH][00000048][00000062]
+[EN]
+It plays a role in regulating[LB]
+body temperature.[LB][END]
+[ES]
+It plays a role in regulating[LB]
+body temperature.[LB][END]
+
+
+[MSGH][00000049][00000062]
+[EN]
+Once plunged into its target,[LB]
+it never relents.[LB][END]
+[ES]
+Once plunged into its target,[LB]
+it never relents.[LB][END]
+
+
+[MSGH][0000004a][00000064]
+[EN]
+Saps the consciousness of[LB]
+its unwitting victims.[LB][END]
+[ES]
+Saps the consciousness of[LB]
+its unwitting victims.[LB][END]
+
+
+[MSGH][0000004b][00000076]
+[EN]
+Yellow scale that is small and[LB]
+thin, but reasonably hard.[LB][END]
+[ES]
+Yellow scale that is small and[LB]
+thin, but reasonably hard.[LB][END]
+
+
+[MSGH][0000004c][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][0000004d][00000072]
+[EN]
+Umbrella that looks light,[LB]
+but cannot be easily lifted.[LB][END]
+[ES]
+Umbrella that looks light,[LB]
+but cannot be easily lifted.[LB][END]
+
+
+[MSGH][0000004e][0000005e]
+[EN]
+Skin elastic enough to[LB]
+absorb strong impacts.[LB][END]
+[ES]
+Skin elastic enough to[LB]
+absorb strong impacts.[LB][END]
+
+
+[MSGH][0000004f][0000006c]
+[EN]
+First captures and holds its[LB]
+prey before killing it.[LB][END]
+[ES]
+First captures and holds its[LB]
+prey before killing it.[LB][END]
+
+
+[MSGH][00000050][00000070]
+[EN]
+Wing that can fell trees by[LB]
+merely brushing past them.[LB][END]
+[ES]
+Wing that can fell trees by[LB]
+merely brushing past them.[LB][END]
+
+
+[MSGH][00000051][00000070]
+[EN]
+Dragon's horn robust enough[LB]
+to shatter whole boulders.[LB][END]
+[ES]
+Dragon's horn robust enough[LB]
+to shatter whole boulders.[LB][END]
+
+
+[MSGH][00000052][00000042]
+[EN]
+A set of fully bristled[LB]
+scales.[LB][END]
+[ES]
+A set of fully bristled[LB]
+scales.[LB][END]
+
+
+[MSGH][00000053][0000006e]
+[EN]
+Soft fin on a swordfish's belly[LB]
+that feels like silk.[LB][END]
+[ES]
+Soft fin on a swordfish's belly[LB]
+that feels like silk.[LB][END]
+
+
+[MSGH][00000054][00000058]
+[EN]
+Soft feeler that nonetheless[LB]
+never breaks.[LB][END]
+[ES]
+Soft feeler that nonetheless[LB]
+never breaks.[LB][END]
+
+
+[MSGH][00000055][00000070]
+[EN]
+Odd fluid that changes hue[LB]
+at the water spirit's whim.[LB][END]
+[ES]
+Odd fluid that changes hue[LB]
+at the water spirit's whim.[LB][END]
+
+
+[MSGH][00000056][0000004c]
+[EN]
+Beautifully preserved ice[LB]
+sculpture.[LB][END]
+[ES]
+Beautifully preserved ice[LB]
+sculpture.[LB][END]
+
+
+[MSGH][00000057][00000062]
+[EN]
+It shines so brilliantly as[LB]
+to be irresistible.[LB][END]
+[ES]
+It shines so brilliantly as[LB]
+to be irresistible.[LB][END]
+
+
+[MSGH][00000058][00000072]
+[EN]
+Shatters its prey's bones,[LB]
+preventing them from moving.[LB][END]
+[ES]
+Shatters its prey's bones,[LB]
+preventing them from moving.[LB][END]
+
+
+[MSGH][00000059][00000064]
+[EN]
+Fine piece of a shattered,[LB]
+strange stone statue.[LB][END]
+[ES]
+Fine piece of a shattered,[LB]
+strange stone statue.[LB][END]
+
+
+[MSGH][0000005a][0000005e]
+[EN]
+Piece of rock with a hole[LB]
+pierced through it.[LB][END]
+[ES]
+Piece of rock with a hole[LB]
+pierced through it.[LB][END]
+
+
+[MSGH][0000005b][00000068]
+[EN]
+Deep One's nail with the power[LB]
+to draw out spells.[LB][END]
+[ES]
+Deep One's nail with the power[LB]
+to draw out spells.[LB][END]
+
+
+[MSGH][0000005c][0000004c]
+[EN]
+Shattered tip of a Deep One's[LB]
+spear.[LB][END]
+[ES]
+Shattered tip of a Deep One's[LB]
+spear.[LB][END]
+
+
+[MSGH][0000005d][0000005a]
+[EN]
+Causes mischief and[LB]
+confusion when plucked.[LB][END]
+[ES]
+Causes mischief and[LB]
+confusion when plucked.[LB][END]
+
+
+[MSGH][0000005e][00000044]
+[EN]
+Protects the wearer from[LB]
+curses.[LB][END]
+[ES]
+Protects the wearer from[LB]
+curses.[LB][END]
+
+
+[MSGH][0000005f][0000006e]
+[EN]
+Only needs one strike to[LB]
+stab and kill oncoming foes.[LB][END]
+[ES]
+Only needs one strike to[LB]
+stab and kill oncoming foes.[LB][END]
+
+
+[MSGH][00000060][0000006e]
+[EN]
+Decorative Ptarmigan feather[LB]
+with an electric charge.[LB][END]
+[ES]
+Decorative Ptarmigan feather[LB]
+with an electric charge.[LB][END]
+
+
+[MSGH][00000061][00000066]
+[EN]
+Its intense aura symbolizes[LB]
+the Deep Ones' power.[LB][END]
+[ES]
+Its intense aura symbolizes[LB]
+the Deep Ones' power.[LB][END]
+
+
+[MSGH][00000062][0000006e]
+[EN]
+Piece of a strange weapon[LB]
+that gains power when spun.[LB][END]
+[ES]
+Piece of a strange weapon[LB]
+that gains power when spun.[LB][END]
+
+
+[MSGH][00000063][00000072]
+[EN]
+Hilt that is strong and light,[LB]
+and thus easy to handle.[LB][END]
+[ES]
+Hilt that is strong and light,[LB]
+and thus easy to handle.[LB][END]
+
+
+[MSGH][00000064][00000062]
+[EN]
+An axe blade made from an[LB]
+extremely rare steel.[LB][END]
+[ES]
+An axe blade made from an[LB]
+extremely rare steel.[LB][END]
+
+
+[MSGH][00000065][0000007e]
+[EN]
+Tail feather of a Dementia Owl[LB]
+that emits a mysterious light.[LB][END]
+[ES]
+Tail feather of a Dementia Owl[LB]
+that emits a mysterious light.[LB][END]
+
+
+[MSGH][00000066][00000066]
+[EN]
+The poison has been removed[LB]
+from this black nail.[LB][END]
+[ES]
+The poison has been removed[LB]
+from this black nail.[LB][END]
+
+
+[MSGH][00000067][00000068]
+[EN]
+Has the power to analyze[LB]
+the Labyrinth's monsters.[LB][END]
+[ES]
+Has the power to analyze[LB]
+the Labyrinth's monsters.[LB][END]
+
+
+[MSGH][00000068][00000074]
+[EN]
+Deep One's chest protector[LB]
+that spawned many tall tales.[LB][END]
+[ES]
+Deep One's chest protector[LB]
+that spawned many tall tales.[LB][END]
+
+
+[MSGH][00000069][0000006a]
+[EN]
+Though hard as steel, it[LB]
+yields excellent mobility.[LB][END]
+[ES]
+Though hard as steel, it[LB]
+yields excellent mobility.[LB][END]
+
+
+[MSGH][0000006a][00000066]
+[EN]
+Shard of a sword made with[LB]
+a forgotten technique.[LB][END]
+[ES]
+Shard of a sword made with[LB]
+a forgotten technique.[LB][END]
+
+
+[MSGH][0000006b][00000068]
+[EN]
+Sword fragment containing[LB]
+the regrets of its prey.[LB][END]
+[ES]
+Sword fragment containing[LB]
+the regrets of its prey.[LB][END]
+
+
+[MSGH][0000006c][00000064]
+[EN]
+Wouldn't shatter even if[LB]
+a cannonball struck it.[LB][END]
+[ES]
+Wouldn't shatter even if[LB]
+a cannonball struck it.[LB][END]
+
+
+[MSGH][0000006d][00000062]
+[EN]
+Broken portion of a black[LB]
+knight's horned helm.[LB][END]
+[ES]
+Broken portion of a black[LB]
+knight's horned helm.[LB][END]
+
+
+[MSGH][0000006e][0000006a]
+[EN]
+A femur strong enough to[LB]
+support the Sauroposeidon.[LB][END]
+[ES]
+A femur strong enough to[LB]
+support the Sauroposeidon.[LB][END]
+
+
+[MSGH][0000006f][00000042]
+[EN]
+Small, sharp fang of[LB]
+a Treerat.[LB][END]
+[ES]
+Small, sharp fang of[LB]
+a Treerat.[LB][END]
+
+
+[MSGH][00000070][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000071][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000072][0000006c]
+[EN]
+Mistletoe tongue that sucks[LB]
+nutrients from its prey.[LB][END]
+[ES]
+Mistletoe tongue that sucks[LB]
+nutrients from its prey.[LB][END]
+
+
+[MSGH][00000073][0000008e]
+[EN]
+The younger the leaf of a Parasitic[LB]
+Mistletoe, the more power it has.[LB][END]
+[ES]
+The younger the leaf of a Parasitic[LB]
+Mistletoe, the more power it has.[LB][END]
+
+
+[MSGH][00000074][0000006e]
+[EN]
+Pure, beautiful fur that has[LB]
+accumulated magic power.[LB][END]
+[ES]
+Pure, beautiful fur that has[LB]
+accumulated magic power.[LB][END]
+
+
+[MSGH][00000075][00000046]
+[EN]
+Ominous tail that reeks of[LB]
+blood.[LB][END]
+[ES]
+Ominous tail that reeks of[LB]
+blood.[LB][END]
+
+
+[MSGH][00000076][00000068]
+[EN]
+Thorny head permanently[LB]
+stained the color of dawn.[LB][END]
+[ES]
+Thorny head permanently[LB]
+stained the color of dawn.[LB][END]
+
+
+[MSGH][00000077][00000068]
+[EN]
+Can detect the faintest[LB]
+noise in its surroundings.[LB][END]
+[ES]
+Can detect the faintest[LB]
+noise in its surroundings.[LB][END]
+
+
+[MSGH][00000078][0000001c]
+[EN]
+So fluffy...[LB][END]
+[ES]
+So fluffy...[LB][END]
+
+
+[MSGH][00000079][0000005e]
+[EN]
+Large boar tusk containing[LB]
+high-quality iron.[LB][END]
+[ES]
+Large boar tusk containing[LB]
+high-quality iron.[LB][END]
+
+
+[MSGH][0000007a][0000007a]
+[EN]
+Hard fur and thick beast skin,[LB]
+perfect for protective gear.[LB][END]
+[ES]
+Hard fur and thick beast skin,[LB]
+perfect for protective gear.[LB][END]
+
+
+[MSGH][0000007b][00000070]
+[EN]
+Much more resilient than its[LB]
+appearance would suggest.[LB][END]
+[ES]
+Much more resilient than its[LB]
+appearance would suggest.[LB][END]
+
+
+[MSGH][0000007c][00000072]
+[EN]
+Toadstool's hypha which can[LB]
+cripple the nervous system.[LB][END]
+[ES]
+Toadstool's hypha which can[LB]
+cripple the nervous system.[LB][END]
+
+
+[MSGH][0000007d][00000074]
+[EN]
+It extends its ivy, then lies[LB]
+in wait to snare its prey.[LB][END]
+[ES]
+It extends its ivy, then lies[LB]
+in wait to snare its prey.[LB][END]
+
+
+[MSGH][0000007e][0000006a]
+[EN]
+Bud of a flower that was[LB]
+mowed before it blossomed.[LB][END]
+[ES]
+Bud of a flower that was[LB]
+mowed before it blossomed.[LB][END]
+
+
+[MSGH][0000007f][00000062]
+[EN]
+Undulates like a tentacle[LB]
+even after being cut.[LB][END]
+[ES]
+Undulates like a tentacle[LB]
+even after being cut.[LB][END]
+
+
+[MSGH][00000080][0000006e]
+[EN]
+Its purple coloring comes[LB]
+from its lethal, toxic sap.[LB][END]
+[ES]
+Its purple coloring comes[LB]
+from its lethal, toxic sap.[LB][END]
+
+
+[MSGH][00000081][0000006a]
+[EN]
+Very difficult to pull off[LB]
+once it's wrapped tight.[LB][END]
+[ES]
+Very difficult to pull off[LB]
+once it's wrapped tight.[LB][END]
+
+
+[MSGH][00000082][00000054]
+[EN]
+Iridescent wing with a[LB]
+mysterious shine.[LB][END]
+[ES]
+Iridescent wing with a[LB]
+mysterious shine.[LB][END]
+
+
+[MSGH][00000083][0000006c]
+[EN]
+Gained from a Labyrinth[LB]
+butterfly. Highly flammable.[LB][END]
+[ES]
+Gained from a Labyrinth[LB]
+butterfly. Highly flammable.[LB][END]
+
+
+[MSGH][00000084][00000070]
+[EN]
+The petrifying poison in its[LB]
+glands has discolored it.[LB][END]
+[ES]
+The petrifying poison in its[LB]
+glands has discolored it.[LB][END]
+
+
+[MSGH][00000085][00000074]
+[EN]
+Scorpion's stinger that has[LB]
+been rendered safe to touch.[LB][END]
+[ES]
+Scorpion's stinger that has[LB]
+been rendered safe to touch.[LB][END]
+
+
+[MSGH][00000086][00000076]
+[EN]
+Used by black cats to conceal[LB]
+themselves in the darkness.[LB][END]
+[ES]
+Used by black cats to conceal[LB]
+themselves in the darkness.[LB][END]
+
+
+[MSGH][00000087][00000058]
+[EN]
+Delivers fatal wounds to[LB]
+the unsuspecting.[LB][END]
+[ES]
+Delivers fatal wounds to[LB]
+the unsuspecting.[LB][END]
+
+
+[MSGH][00000088][00000068]
+[EN]
+Root that stores life energy[LB]
+robbed from its host.[LB][END]
+[ES]
+Root that stores life energy[LB]
+robbed from its host.[LB][END]
+
+
+[MSGH][00000089][0000006c]
+[EN]
+Tongue that aims for the[LB]
+neck to constrict its prey.[LB][END]
+[ES]
+Tongue that aims for the[LB]
+neck to constrict its prey.[LB][END]
+
+
+[MSGH][0000008a][00000070]
+[EN]
+Wool that has been distended[LB]
+through absorbing curses.[LB][END]
+[ES]
+Wool that has been distended[LB]
+through absorbing curses.[LB][END]
+
+
+[MSGH][0000008b][00000078]
+[EN]
+Body hair imbued with strong,[LB]
+ghostly power over the eons.[LB][END]
+[ES]
+Body hair imbued with strong,[LB]
+ghostly power over the eons.[LB][END]
+
+
+[MSGH][0000008c][00000070]
+[EN]
+Transformed Divine Punisher[LB]
+stone that emits a miasma.[LB][END]
+[ES]
+Transformed Divine Punisher[LB]
+stone that emits a miasma.[LB][END]
+
+
+[MSGH][0000008d][0000006a]
+[EN]
+This mantis' blade is thin[LB]
+enough to rend anything.[LB][END]
+[ES]
+This mantis' blade is thin[LB]
+enough to rend anything.[LB][END]
+
+
+[MSGH][0000008e][00000078]
+[EN]
+Scythe blade that reaps all[LB]
+of creation, including itself.[LB][END]
+[ES]
+Scythe blade that reaps all[LB]
+of creation, including itself.[LB][END]
+
+
+[MSGH][0000008f][00000078]
+[EN]
+Beak that won't melt unless[LB]
+left inside a forge for hours.[LB][END]
+[ES]
+Beak that won't melt unless[LB]
+left inside a forge for hours.[LB][END]
+
+
+[MSGH][00000090][00000078]
+[EN]
+A sturdier tail than it seems.[LB]
+No human hands can tear it.[LB][END]
+[ES]
+A sturdier tail than it seems.[LB]
+No human hands can tear it.[LB][END]
+
+
+[MSGH][00000091][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000092][00000052]
+[EN]
+Impossibly dense arm of a[LB]
+stone statue.[LB][END]
+[ES]
+Impossibly dense arm of a[LB]
+stone statue.[LB][END]
+
+
+[MSGH][00000093][00000066]
+[EN]
+Fox's tail that seems to be[LB]
+weightless when held.[LB][END]
+[ES]
+Fox's tail that seems to be[LB]
+weightless when held.[LB][END]
+
+
+[MSGH][00000094][00000070]
+[EN]
+Thick, tendoned leg that can[LB]
+bear extraordinary loads.[LB][END]
+[ES]
+Thick, tendoned leg that can[LB]
+bear extraordinary loads.[LB][END]
+
+
+[MSGH][00000095][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000096][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000097][00000068]
+[EN]
+Its cursed nature makes it[LB]
+difficult to work with.[LB][END]
+[ES]
+Its cursed nature makes it[LB]
+difficult to work with.[LB][END]
+
+
+[MSGH][00000098][00000070]
+[EN]
+Eggshell with a shine like the[LB]
+stars in the night sky.[LB][END]
+[ES]
+Eggshell with a shine like the[LB]
+stars in the night sky.[LB][END]
+
+
+[MSGH][00000099][00000060]
+[EN]
+Emits a gentle light even[LB]
+after being removed.[LB][END]
+[ES]
+Emits a gentle light even[LB]
+after being removed.[LB][END]
+
+
+[MSGH][0000009a][00000070]
+[EN]
+Cursed eyeball that tries to[LB]
+violate onlookers' minds.[LB][END]
+[ES]
+Cursed eyeball that tries to[LB]
+violate onlookers' minds.[LB][END]
+
+
+[MSGH][0000009b][00000070]
+[EN]
+Foundation that emits an[LB]
+awful stench in self-defense.[LB][END]
+[ES]
+Foundation that emits an[LB]
+awful stench in self-defense.[LB][END]
+
+
+[MSGH][0000009c][00000050]
+[EN]
+Used for both flight and[LB]
+self-defense.[LB][END]
+[ES]
+Used for both flight and[LB]
+self-defense.[LB][END]
+
+
+[MSGH][0000009d][00000068]
+[EN]
+Meant for killing prey[LB]
+within its field of vision.[LB][END]
+[ES]
+Meant for killing prey[LB]
+within its field of vision.[LB][END]
+
+
+[MSGH][0000009e][00000068]
+[EN]
+It rips and tears any food[LB]
+intended for digestion.[LB][END]
+[ES]
+It rips and tears any food[LB]
+intended for digestion.[LB][END]
+
+
+[MSGH][0000009f][00000052]
+[EN]
+Red shell hard enough to[LB]
+destroy metal.[LB][END]
+[ES]
+Red shell hard enough to[LB]
+destroy metal.[LB][END]
+
+
+[MSGH][000000a0][0000007a]
+[EN]
+Scale with evil flame patterns[LB]
+that calls forth misfortune.[LB][END]
+[ES]
+Scale with evil flame patterns[LB]
+that calls forth misfortune.[LB][END]
+
+
+[MSGH][000000a1][00000054]
+[EN]
+Seems capable of stretching[LB]
+endlessly...[LB][END]
+[ES]
+Seems capable of stretching[LB]
+endlessly...[LB][END]
+
+
+[MSGH][000000a2][00000052]
+[EN]
+Cut from the body of a[LB]
+ghostly pumpkin.[LB][END]
+[ES]
+Cut from the body of a[LB]
+ghostly pumpkin.[LB][END]
+
+
+[MSGH][000000a3][00000078]
+[EN]
+Touching this piece of a ghost[LB]
+pumpkin's head is chilling.[LB][END]
+[ES]
+Touching this piece of a ghost[LB]
+pumpkin's head is chilling.[LB][END]
+
+
+[MSGH][000000a4][00000070]
+[EN]
+Still radiates an ominous[LB]
+presence after it's removed.[LB][END]
+[ES]
+Still radiates an ominous[LB]
+presence after it's removed.[LB][END]
+
+
+[MSGH][000000a5][00000058]
+[EN]
+Vine-like, invertebrate body[LB]
+of a pumpkin.[LB][END]
+[ES]
+Vine-like, invertebrate body[LB]
+of a pumpkin.[LB][END]
+
+
+[MSGH][000000a6][00000064]
+[EN]
+Mysterious, bony part of[LB]
+a three-headed pumpkin.[LB][END]
+[ES]
+Mysterious, bony part of[LB]
+a three-headed pumpkin.[LB][END]
+
+
+[MSGH][000000a7][00000072]
+[EN]
+Highly impact-absorbent head[LB]
+of a three-headed pumpkin.[LB][END]
+[ES]
+Highly impact-absorbent head[LB]
+of a three-headed pumpkin.[LB][END]
+
+
+[MSGH][000000a8][0000006e]
+[EN]
+Has a blade-like tip for the[LB]
+sole purpose of killing.[LB][END]
+[ES]
+Has a blade-like tip for the[LB]
+sole purpose of killing.[LB][END]
+
+
+[MSGH][000000a9][0000006c]
+[EN]
+From a rabbit which murders[LB]
+humans indiscriminately.[LB][END]
+[ES]
+From a rabbit which murders[LB]
+humans indiscriminately.[LB][END]
+
+
+[MSGH][000000aa][0000006a]
+[EN]
+Composed of oak branches[LB]
+and other stray materials.[LB][END]
+[ES]
+Composed of oak branches[LB]
+and other stray materials.[LB][END]
+
+
+[MSGH][000000ab][00000066]
+[EN]
+So thin that one can easily[LB]
+see right through it.[LB][END]
+[ES]
+So thin that one can easily[LB]
+see right through it.[LB][END]
+
+
+[MSGH][000000ac][00000076]
+[EN]
+Menacing jaw that can wrench[LB]
+off armor like it was paper.[LB][END]
+[ES]
+Menacing jaw that can wrench[LB]
+off armor like it was paper.[LB][END]
+
+
+[MSGH][000000ad][0000006e]
+[EN]
+Used for the indiscriminate[LB]
+slaughter of trespassers.[LB][END]
+[ES]
+Used for the indiscriminate[LB]
+slaughter of trespassers.[LB][END]
+
+
+[MSGH][000000ae][00000076]
+[EN]
+Breath of an evil sheep that[LB]
+sends its prey to the abyss.[LB][END]
+[ES]
+Breath of an evil sheep that[LB]
+sends its prey to the abyss.[LB][END]
+
+
+[MSGH][000000af][0000006c]
+[EN]
+Bit of a dangerous eye that[LB]
+drives the reckless mad.[LB][END]
+[ES]
+Bit of a dangerous eye that[LB]
+drives the reckless mad.[LB][END]
+
+
+[MSGH][000000b0][00000074]
+[EN]
+Sharp scale from one of the[LB]
+multi-headed dragon's heads.[LB][END]
+[ES]
+Sharp scale from one of the[LB]
+multi-headed dragon's heads.[LB][END]
+
+
+[MSGH][000000b1][00000078]
+[EN]
+Whalebone used to pinpoint its[LB]
+prey's location and attack.[LB][END]
+[ES]
+Whalebone used to pinpoint its[LB]
+prey's location and attack.[LB][END]
+
+
+[MSGH][000000b2][00000076]
+[EN]
+Vibrates when it touches the[LB]
+ground, causing earthquakes.[LB][END]
+[ES]
+Vibrates when it touches the[LB]
+ground, causing earthquakes.[LB][END]
+
+
+[MSGH][000000b3][00000064]
+[EN]
+Used to spout sea water as[LB]
+an offensive measure.[LB][END]
+[ES]
+Used to spout sea water as[LB]
+an offensive measure.[LB][END]
+
+
+[MSGH][000000b4][00000060]
+[EN]
+White membrane that cannot[LB]
+be torn or pierced.[LB][END]
+[ES]
+White membrane that cannot[LB]
+be torn or pierced.[LB][END]
+
+
+[MSGH][000000b5][00000074]
+[EN]
+Sharp, heavy hown from the[LB]
+head of an automaton soldier.[LB][END]
+[ES]
+Sharp, heavy hown from the[LB]
+head of an automaton soldier.[LB][END]
+
+
+[MSGH][000000b6][00000076]
+[EN]
+Engraved with letters that[LB]
+receive power from its supply.[LB][END]
+[ES]
+Engraved with letters that[LB]
+receive power from its supply.[LB][END]
+
+
+[MSGH][000000b7][0000006e]
+[EN]
+Automaton soldier's armor[LB]
+that repels physical blows.[LB][END]
+[ES]
+Automaton soldier's armor[LB]
+that repels physical blows.[LB][END]
+
+
+[MSGH][000000b8][0000006c]
+[EN]
+Can crack the very earth with[LB]
+its offensive thrusts.[LB][END]
+[ES]
+Can crack the very earth with[LB]
+its offensive thrusts.[LB][END]
+
+
+[MSGH][000000b9][00000064]
+[EN]
+Can smash bedrock and guard[LB]
+against bombardment.[LB][END]
+[ES]
+Can smash bedrock and guard[LB]
+against bombardment.[LB][END]
+
+
+[MSGH][000000ba][00000066]
+[EN]
+Core containing two of the[LB]
+giants' power sources.[LB][END]
+[ES]
+Core containing two of the[LB]
+giants' power sources.[LB][END]
+
+
+[MSGH][000000bb][00000076]
+[EN]
+Blue scale with the power to[LB]
+shut out all that draw near.[LB][END]
+[ES]
+Blue scale with the power to[LB]
+shut out all that draw near.[LB][END]
+
+
+[MSGH][000000bc][00000074]
+[EN]
+Lightning beast's tail as red[LB]
+as the submerged darkness.[LB][END]
+[ES]
+Lightning beast's tail as red[LB]
+as the submerged darkness.[LB][END]
+
+
+[MSGH][000000bd][0000006e]
+[EN]
+Tenacious shell quite capable[LB]
+of protecting its host.[LB][END]
+[ES]
+Tenacious shell quite capable[LB]
+of protecting its host.[LB][END]
+
+
+[MSGH][000000be][0000006c]
+[EN]
+Crown tinged with magic[LB]
+power flowing from the moon.[LB][END]
+[ES]
+Crown tinged with magic[LB]
+power flowing from the moon.[LB][END]
+
+
+[MSGH][000000bf][00000072]
+[EN]
+Came from a cursed sword[LB]
+that eats away at its wielder.[LB][END]
+[ES]
+Came from a cursed sword[LB]
+that eats away at its wielder.[LB][END]
+
+
+[MSGH][000000c0][0000006a]
+[EN]
+Scale from the princess[LB]
+that became an abomination.[LB][END]
+[ES]
+Scale from the princess[LB]
+that became an abomination.[LB][END]
+
+
+[MSGH][000000c1][0000005e]
+[EN]
+Shatters any sword that does[LB]
+not strike true.[LB][END]
+[ES]
+Shatters any sword that does[LB]
+not strike true.[LB][END]
+
+
+[MSGH][000000c2][00000070]
+[EN]
+Abyssal King's wing that[LB]
+wrenches off what it touches.[LB][END]
+[ES]
+Abyssal King's wing that[LB]
+wrenches off what it touches.[LB][END]
+
+
+[MSGH][000000c3][0000006e]
+[EN]
+Polyhedral crystal whose[LB]
+black shine brings disaster.[LB][END]
+[ES]
+Polyhedral crystal whose[LB]
+black shine brings disaster.[LB][END]
+
+
+[MSGH][000000c4][00000054]
+[EN]
+Watery fin that slices all[LB]
+who touch it.[LB][END]
+[ES]
+Watery fin that slices all[LB]
+who touch it.[LB][END]
+
+
+[MSGH][000000c5][0000006a]
+[EN]
+Corotrangul's backbone[LB]
+composed of flexible fibers.[LB][END]
+[ES]
+Corotrangul's backbone[LB]
+composed of flexible fibers.[LB][END]
+
+
+[MSGH][000000c6][00000064]
+[EN]
+Resilient petal that cannot[LB]
+easily be scratched.[LB][END]
+[ES]
+Resilient petal that cannot[LB]
+easily be scratched.[LB][END]
+
+
+[MSGH][000000c7][0000006a]
+[EN]
+Multicolored cloth that's[LB]
+rare among flower petals.[LB][END]
+[ES]
+Multicolored cloth that's[LB]
+rare among flower petals.[LB][END]
+
+
+[MSGH][000000c8][00000066]
+[EN]
+Adorable fur that charms all[LB]
+with its regal aura.[LB][END]
+[ES]
+Adorable fur that charms all[LB]
+with its regal aura.[LB][END]
+
+
+[MSGH][000000c9][0000006a]
+[EN]
+The fat stockpiled within[LB]
+makes it extremely tough.[LB][END]
+[ES]
+The fat stockpiled within[LB]
+makes it extremely tough.[LB][END]
+
+
+[MSGH][000000ca][00000072]
+[EN]
+Oral ring of an increasingly[LB]
+vicious, enlarged anemone.[LB][END]
+[ES]
+Oral ring of an increasingly[LB]
+vicious, enlarged anemone.[LB][END]
+
+
+[MSGH][000000cb][00000062]
+[EN]
+Unbelievably sturdy and[LB]
+flexible metallic bone.[LB][END]
+[ES]
+Unbelievably sturdy and[LB]
+flexible metallic bone.[LB][END]
+
+
+[MSGH][000000cc][00000062]
+[EN]
+Catches and kills all that[LB]
+approach or flee it.[LB][END]
+[ES]
+Catches and kills all that[LB]
+approach or flee it.[LB][END]
+
+
+[MSGH][000000cd][00000076]
+[EN]
+Vicious dragon's power source[LB]
+that emits an ominous aura.[LB][END]
+[ES]
+Vicious dragon's power source[LB]
+that emits an ominous aura.[LB][END]
+
+
+[MSGH][000000ce][00000058]
+[EN]
+Displays an intensely cold[LB]
+land within it.[LB][END]
+[ES]
+Displays an intensely cold[LB]
+land within it.[LB][END]
+
+
+[MSGH][000000cf][00000064]
+[EN]
+Displays the dead's grudges[LB]
+as coruscating fire.[LB][END]
+[ES]
+Displays the dead's grudges[LB]
+as coruscating fire.[LB][END]
+
+
+[MSGH][000000d0][0000006a]
+[EN]
+Displays a dry, cracked[LB]
+earth plagued by lightning.[LB][END]
+[ES]
+Displays a dry, cracked[LB]
+earth plagued by lightning.[LB][END]
+
+
+[MSGH][000000d1][0000006e]
+[EN]
+Black sphere so dark that it[LB]
+personifies fear itself.[LB][END]
+[ES]
+Black sphere so dark that it[LB]
+personifies fear itself.[LB][END]
+
+
+[MSGH][000000d2][0000006c]
+[EN]
+Used for a single, desperate[LB]
+strike before escaping.[LB][END]
+[ES]
+Used for a single, desperate[LB]
+strike before escaping.[LB][END]
+
+
+[MSGH][000000d3][00000062]
+[EN]
+Made from the branches of a[LB]
+rare, ancient tree.[LB][END]
+[ES]
+Made from the branches of a[LB]
+rare, ancient tree.[LB][END]
+
+
+[MSGH][000000d4][00000074]
+[EN]
+Hammer-shaped shark's skull[LB]
+that could cripple its prey.[LB][END]
+[ES]
+Hammer-shaped shark's skull[LB]
+that could cripple its prey.[LB][END]
+
+
+[MSGH][000000d5][00000072]
+[EN]
+Absorbent shark scale that[LB]
+can withstand intense blows.[LB][END]
+[ES]
+Absorbent shark scale that[LB]
+can withstand intense blows.[LB][END]
+
+
+[MSGH][000000d6][00000070]
+[EN]
+Ship's skeleton unaffected[LB]
+by the wake of its attacks.[LB][END]
+[ES]
+Ship's skeleton unaffected[LB]
+by the wake of its attacks.[LB][END]
+
+
+[MSGH][000000d7][0000006c]
+[EN]
+Assault ram that shows its[LB]
+might when ramming ships.[LB][END]
+[ES]
+Assault ram that shows its[LB]
+might when ramming ships.[LB][END]
+
+
+[MSGH][000000d8][00000070]
+[EN]
+An unimaginably sharp scale[LB]
+of the ruler of blizzards.[LB][END]
+[ES]
+An unimaginably sharp scale[LB]
+of the ruler of blizzards.[LB][END]
+
+
+[MSGH][000000d9][00000074]
+[EN]
+Dragonskin that emits the[LB]
+chill of the frigid northland.[LB][END]
+[ES]
+Dragonskin that emits the[LB]
+chill of the frigid northland.[LB][END]
+
+
+[MSGH][000000da][0000006c]
+[EN]
+Stone that resists scratches[LB]
+no matter what it hits.[LB][END]
+[ES]
+Stone that resists scratches[LB]
+no matter what it hits.[LB][END]
+
+
+[MSGH][000000db][00000056]
+[EN]
+The tricolored source of a[LB]
+golem's power.[LB][END]
+[ES]
+The tricolored source of a[LB]
+golem's power.[LB][END]
+
+
+[MSGH][000000dc][0000006c]
+[EN]
+A black beast's hand with[LB]
+unthinkably strong toxins.[LB][END]
+[ES]
+A black beast's hand with[LB]
+unthinkably strong toxins.[LB][END]
+
+
+[MSGH][000000dd][0000004e]
+[EN]
+Can pierce metallic plates[LB]
+with ease.[LB][END]
+[ES]
+Can pierce metallic plates[LB]
+with ease.[LB][END]
+
+
+[MSGH][000000de][00000074]
+[EN]
+Special bone dense enough to[LB]
+withstand vehement attacks.[LB][END]
+[ES]
+Special bone dense enough to[LB]
+withstand vehement attacks.[LB][END]
+
+
+[MSGH][000000df][0000006e]
+[EN]
+Emits a jet of water to[LB]
+blast away the prey it traps.[LB][END]
+[ES]
+Emits a jet of water to[LB]
+blast away the prey it traps.[LB][END]
+
+
+[MSGH][000000e0][00000068]
+[EN]
+An unimaginably sharp scale[LB]
+of the thunder walker.[LB][END]
+[ES]
+An unimaginably sharp scale[LB]
+of the thunder walker.[LB][END]
+
+
+[MSGH][000000e1][00000074]
+[EN]
+Lightning dragon's horn that[LB]
+still rumbles with thunder.[LB][END]
+[ES]
+Lightning dragon's horn that[LB]
+still rumbles with thunder.[LB][END]
+
+
+[MSGH][000000e2][00000060]
+[EN]
+An unimaginably sharp scale[LB]
+of the red dragon.[LB][END]
+[ES]
+An unimaginably sharp scale[LB]
+of the red dragon.[LB][END]
+
+
+[MSGH][000000e3][0000006e]
+[EN]
+Fire dragon's fang that[LB]
+spews the fires of ruination.[LB][END]
+[ES]
+Fire dragon's fang that[LB]
+spews the fires of ruination.[LB][END]
+
+
+[MSGH][000000e4][00000070]
+[EN]
+Gouges the insides of its[LB]
+prey as it twists painfully.[LB][END]
+[ES]
+Gouges the insides of its[LB]
+prey as it twists painfully.[LB][END]
+
+
+[MSGH][000000e5][0000006a]
+[EN]
+Emits jets of fluid that[LB]
+allow for faster movement.[LB][END]
+[ES]
+Emits jets of fluid that[LB]
+allow for faster movement.[LB][END]
+
+
+[MSGH][000000e6][00000078]
+[EN]
+Came from a dragon so long-[LB]
+lived as to be called eternal.[LB][END]
+[ES]
+Came from a dragon so long-[LB]
+lived as to be called eternal.[LB][END]
+
+
+[MSGH][000000e7][00000070]
+[EN]
+Scale with a shine greater[LB]
+than the brightest miracle.[LB][END]
+[ES]
+Scale with a shine greater[LB]
+than the brightest miracle.[LB][END]
+
+
+[MSGH][000000e8][00000072]
+[EN]
+Red shell of a shrimp that,[LB]
+oddly, evolved above water.[LB][END]
+[ES]
+Red shell of a shrimp that,[LB]
+oddly, evolved above water.[LB][END]
+
+
+[MSGH][000000e9][00000074]
+[EN]
+Blue shell of a shrimp that,[LB]
+oddly, evolved above water.[LB][END]
+[ES]
+Blue shell of a shrimp that,[LB]
+oddly, evolved above water.[LB][END]
+
+
+[MSGH][000000ea][0000007a]
+[EN]
+Cut from the head of a rare,[LB]
+unusually aggressive blowfish.[LB][END]
+[ES]
+Cut from the head of a rare,[LB]
+unusually aggressive blowfish.[LB][END]
+
+
+[MSGH][000000eb][00000072]
+[EN]
+Its coloration is as if the[LB]
+octopus mimicked the ocean.[LB][END]
+[ES]
+Its coloration is as if the[LB]
+octopus mimicked the ocean.[LB][END]
+
+
+[MSGH][000000ec][0000006a]
+[EN]
+Golden shining fluff rumored[LB]
+to bring good fortune.[LB][END]
+[ES]
+Golden shining fluff rumored[LB]
+to bring good fortune.[LB][END]
+
+
+[MSGH][000000ed][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][000000ee][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][000000ef][00000066]
+[EN]
+Versatile tail used for both[LB]
+movement and attack.[LB][END]
+[ES]
+Versatile tail used for both[LB]
+movement and attack.[LB][END]
+
+
+[MSGH][000000f0][00000078]
+[EN]
+Crushes anything it considers[LB]
+to be threatening or edible.[LB][END]
+[ES]
+Crushes anything it considers[LB]
+to be threatening or edible.[LB][END]
+
+
+[MSGH][000000f1][00000070]
+[EN]
+A ruined toadstool that can[LB]
+no longer undergo mitosis.[LB][END]
+[ES]
+A ruined toadstool that can[LB]
+no longer undergo mitosis.[LB][END]
+
+
+[MSGH][000000f2][00000070]
+[EN]
+Fang that renders its prey[LB]
+immobile before chewing it.[LB][END]
+[ES]
+Fang that renders its prey[LB]
+immobile before chewing it.[LB][END]
+
+
+[MSGH][000000f3][0000006a]
+[EN]
+Shining fur enchanted with[LB]
+the ice princess' power.[LB][END]
+[ES]
+Shining fur enchanted with[LB]
+the ice princess' power.[LB][END]
+
+
+[MSGH][000000f4][00000072]
+[EN]
+Queen ant's claw, curved[LB]
+into a sharp, blade-like hook.[LB][END]
+[ES]
+Queen ant's claw, curved[LB]
+into a sharp, blade-like hook.[LB][END]
+
+
+[MSGH][000000f5][00000072]
+[EN]
+Queen ant's jaw known for[LB]
+its ability to chew anything.[LB][END]
+[ES]
+Queen ant's jaw known for[LB]
+its ability to chew anything.[LB][END]
+
+
+[MSGH][000000f6][00000010]
+[EN]
+[8341][8355][815b]246[LB][END]
+[ES]
+[8341][8355][815b]246[LB][END]
+
+
+[MSGH][000000f7][00000060]
+[EN]
+Light brown crystal that is[LB]
+structurally weak.[LB][END]
+[ES]
+Light brown crystal that is[LB]
+structurally weak.[LB][END]
+
+
+[MSGH][000000f8][00000066]
+[EN]
+Dark green rock with trace[LB]
+amounts of other gems.[LB][END]
+[ES]
+Dark green rock with trace[LB]
+amounts of other gems.[LB][END]
+
+
+[MSGH][000000f9][00000060]
+[EN]
+Light green mineral[LB]
+composed of fine crystals.[LB][END]
+[ES]
+Light green mineral[LB]
+composed of fine crystals.[LB][END]
+
+
+[MSGH][000000fa][00000070]
+[EN]
+Black amber that fossilized[LB]
+underwater over centuries.[LB][END]
+[ES]
+Black amber that fossilized[LB]
+underwater over centuries.[LB][END]
+
+
+[MSGH][000000fb][00000068]
+[EN]
+Greyish-brown rock that[LB]
+shines like silken thread.[LB][END]
+[ES]
+Greyish-brown rock that[LB]
+shines like silken thread.[LB][END]
+
+
+[MSGH][000000fc][00000044]
+[EN]
+Iron ore with magnetic[LB]
+polarity.[LB][END]
+[ES]
+Iron ore with magnetic[LB]
+polarity.[LB][END]
+
+
+[MSGH][000000fd][00000060]
+[EN]
+Iron ore that can be used as[LB]
+a whetting agent.[LB][END]
+[ES]
+Iron ore that can be used as[LB]
+a whetting agent.[LB][END]
+
+
+[MSGH][000000fe][00000060]
+[EN]
+Large rock cluster formed of[LB]
+weathered stones.[LB][END]
+[ES]
+Large rock cluster formed of[LB]
+weathered stones.[LB][END]
+
+
+[MSGH][000000ff][0000003e]
+[EN]
+Dense ore with a red surface.[LB][END]
+[ES]
+Dense ore with a red surface.[LB][END]
+
+
+[MSGH][00000100][00000072]
+[EN]
+Jewel valued as a good luck[LB]
+charm for warding off evil.[LB][END]
+[ES]
+Jewel valued as a good luck[LB]
+charm for warding off evil.[LB][END]
+
+
+[MSGH][00000101][0000006a]
+[EN]
+The patterns on this rock[LB]
+resemble a snake's trail.[LB][END]
+[ES]
+The patterns on this rock[LB]
+resemble a snake's trail.[LB][END]
+
+
+[MSGH][00000102][00000064]
+[EN]
+Changes color when viewed[LB]
+from different angles.[LB][END]
+[ES]
+Changes color when viewed[LB]
+from different angles.[LB][END]
+
+
+[MSGH][00000103][0000005c]
+[EN]
+Translucent green gem often[LB]
+used in jewelry.[LB][END]
+[ES]
+Translucent green gem often[LB]
+used in jewelry.[LB][END]
+
+
+[MSGH][00000104][0000006a]
+[EN]
+Absorbent white rock used as[LB]
+construction material.[LB][END]
+[ES]
+Absorbent white rock used as[LB]
+construction material.[LB][END]
+
+
+[MSGH][00000105][0000006c]
+[EN]
+Metallic ore with a red sheen.[LB]
+Sought by collectors.[LB][END]
+[ES]
+Metallic ore with a red sheen.[LB]
+Sought by collectors.[LB][END]
+
+
+[MSGH][00000106][00000078]
+[EN]
+Rare blue gem that shines like[LB]
+the stars when illuminated.[LB][END]
+[ES]
+Rare blue gem that shines like[LB]
+the stars when illuminated.[LB][END]
+
+
+[MSGH][00000107][00000072]
+[EN]
+Ebony rock revealing sharp[LB]
+protrusions when split open.[LB][END]
+[ES]
+Ebony rock revealing sharp[LB]
+protrusions when split open.[LB][END]
+
+
+[MSGH][00000108][00000076]
+[EN]
+Rare, dense, pale green ore[LB]
+that's very difficult to use.[LB][END]
+[ES]
+Rare, dense, pale green ore[LB]
+that's very difficult to use.[LB][END]
+
+
+[MSGH][00000109][00000068]
+[EN]
+Often found growing near[LB]
+the Labyrinth's entrance.[LB][END]
+[ES]
+Often found growing near[LB]
+the Labyrinth's entrance.[LB][END]
+
+
+[MSGH][0000010a][0000006e]
+[EN]
+Popular fruit with a pleasant[LB]
+texture and sour taste.[LB][END]
+[ES]
+Popular fruit with a pleasant[LB]
+texture and sour taste.[LB][END]
+
+
+[MSGH][0000010b][0000006a]
+[EN]
+Red flower famed in Armoroad[LB]
+for its tonic effects.[LB][END]
+[ES]
+Red flower famed in Armoroad[LB]
+for its tonic effects.[LB][END]
+
+
+[MSGH][0000010c][00000046]
+[EN]
+Highly nutritious, green[LB]
+seaweed.[LB][END]
+[ES]
+Highly nutritious, green[LB]
+seaweed.[LB][END]
+
+
+[MSGH][0000010d][0000004e]
+[EN]
+Rare seaweed with a pleasant[LB]
+texture.[LB][END]
+[ES]
+Rare seaweed with a pleasant[LB]
+texture.[LB][END]
+
+
+[MSGH][0000010e][00000060]
+[EN]
+Flower of a succulent plant[LB]
+that stores water.[LB][END]
+[ES]
+Flower of a succulent plant[LB]
+that stores water.[LB][END]
+
+
+[MSGH][0000010f][0000006a]
+[EN]
+Fruit that warms one's body[LB]
+from within when eaten.[LB][END]
+[ES]
+Fruit that warms one's body[LB]
+from within when eaten.[LB][END]
+
+
+[MSGH][00000110][0000004e]
+[EN]
+Sweet strawberry that grows[LB]
+on rocks.[LB][END]
+[ES]
+Sweet strawberry that grows[LB]
+on rocks.[LB][END]
+
+
+[MSGH][00000111][00000070]
+[EN]
+Perennial plant that, when[LB]
+heated, is useful medicine.[LB][END]
+[ES]
+Perennial plant that, when[LB]
+heated, is useful medicine.[LB][END]
+
+
+[MSGH][00000112][0000003e]
+[EN]
+Red fruit with a sweet scent.[LB][END]
+[ES]
+Red fruit with a sweet scent.[LB][END]
+
+
+[MSGH][00000113][00000064]
+[EN]
+They look most beautiful[LB]
+when floating in water.[LB][END]
+[ES]
+They look most beautiful[LB]
+when floating in water.[LB][END]
+
+
+[MSGH][00000114][0000007a]
+[EN]
+Plant's leaf that is said to be[LB]
+blessed by a water goddess.[LB][END]
+[ES]
+Plant's leaf that is said to be[LB]
+blessed by a water goddess.[LB][END]
+
+
+[MSGH][00000115][00000064]
+[EN]
+Grass that gives the chewer[LB]
+a cooling sensation.[LB][END]
+[ES]
+Grass that gives the chewer[LB]
+a cooling sensation.[LB][END]
+
+
+[MSGH][00000116][00000058]
+[EN]
+Honey that heals all sorts of[LB]
+infirmities.[LB][END]
+[ES]
+Honey that heals all sorts of[LB]
+infirmities.[LB][END]
+
+
+[MSGH][00000117][00000076]
+[EN]
+Succulent plant that secretes[LB]
+a powerful, nourishing gel.[LB][END]
+[ES]
+Succulent plant that secretes[LB]
+a powerful, nourishing gel.[LB][END]
+
+
+[MSGH][00000118][00000044]
+[EN]
+Glowing, white analeptic[LB]
+flower.[LB][END]
+[ES]
+Glowing, white analeptic[LB]
+flower.[LB][END]
+
+
+[MSGH][00000119][0000007a]
+[EN]
+Refined oil that promotes the[LB]
+elevation of motor functions.[LB][END]
+[ES]
+Refined oil that promotes the[LB]
+elevation of motor functions.[LB][END]
+
+
+[MSGH][0000011a][00000066]
+[EN]
+Legendary stalk of wheat[LB]
+left by a fertility god.[LB][END]
+[ES]
+Legendary stalk of wheat[LB]
+left by a fertility god.[LB][END]
+
+
+[MSGH][0000011b][00000056]
+[EN]
+A piece of wood that doesn't[LB]
+easily snap.[LB][END]
+[ES]
+A piece of wood that doesn't[LB]
+easily snap.[LB][END]
+
+
+[MSGH][0000011c][0000006e]
+[EN]
+Bark that can be easily[LB]
+shaped for a variety of uses.[LB][END]
+[ES]
+Bark that can be easily[LB]
+shaped for a variety of uses.[LB][END]
+
+
+[MSGH][0000011d][00000056]
+[EN]
+Sturdy timber commonly seen[LB]
+in the south.[LB][END]
+[ES]
+Sturdy timber commonly seen[LB]
+in the south.[LB][END]
+
+
+[MSGH][0000011e][00000068]
+[EN]
+Timber so resistant to heat[LB]
+that it will not burn.[LB][END]
+[ES]
+Timber so resistant to heat[LB]
+that it will not burn.[LB][END]
+
+
+[MSGH][0000011f][0000006e]
+[EN]
+Perennial plant harvested[LB]
+for the blue dye it yields.[LB][END]
+[ES]
+Perennial plant harvested[LB]
+for the blue dye it yields.[LB][END]
+
+
+[MSGH][00000120][0000007a]
+[EN]
+Feels like coral and is very[LB]
+light, but unfit for crafting.[LB][END]
+[ES]
+Feels like coral and is very[LB]
+light, but unfit for crafting.[LB][END]
+
+
+[MSGH][00000121][0000005e]
+[EN]
+It has sharp thorns normally[LB]
+found in hedges.[LB][END]
+[ES]
+It has sharp thorns normally[LB]
+found in hedges.[LB][END]
+
+
+[MSGH][00000122][0000005a]
+[EN]
+Known for its resilient,[LB]
+egg-shaped leaves.[LB][END]
+[ES]
+Known for its resilient,[LB]
+egg-shaped leaves.[LB][END]
+
+
+[MSGH][00000123][0000007a]
+[EN]
+Pod that grows into a sword-[LB]
+shaped shoot with a sharp tip.[LB][END]
+[ES]
+Pod that grows into a sword-[LB]
+shaped shoot with a sharp tip.[LB][END]
+
+
+[MSGH][00000124][0000006c]
+[EN]
+Thin, gray stalk that gives[LB]
+the impression of death.[LB][END]
+[ES]
+Thin, gray stalk that gives[LB]
+the impression of death.[LB][END]
+
+
+[MSGH][00000125][0000003e]
+[EN]
+Crystallized vine of a plant.[LB][END]
+[ES]
+Crystallized vine of a plant.[LB][END]
+
+
+[MSGH][00000126][00000078]
+[EN]
+Dense timber similar enough[LB]
+to iron to be used for swords.[LB][END]
+[ES]
+Dense timber similar enough[LB]
+to iron to be used for swords.[LB][END]
+
+
+[MSGH][00000127][00000074]
+[EN]
+Superb timber which dries[LB]
+quickly and is easily refined.[LB][END]
+[ES]
+Superb timber which dries[LB]
+quickly and is easily refined.[LB][END]
+
+
+[MSGH][00000128][0000005c]
+[EN]
+Soft timber with a uniquely[LB]
+beautiful grain.[LB][END]
+[ES]
+Soft timber with a uniquely[LB]
+beautiful grain.[LB][END]
+
+
+[MSGH][00000129][00000062]
+[EN]
+Its uniquely light weight[LB]
+makes it very useful.[LB][END]
+[ES]
+Its uniquely light weight[LB]
+makes it very useful.[LB][END]
+
+
+[MSGH][0000012a][00000056]
+[EN]
+Sturdy string that rarely[LB]
+snaps or frays.[LB][END]
+[ES]
+Sturdy string that rarely[LB]
+snaps or frays.[LB][END]
+
+
+[MSGH][0000012b][00000076]
+[EN]
+Glitters like the night sky[LB]
+when illuminated in the dark.[LB][END]
+[ES]
+Glitters like the night sky[LB]
+when illuminated in the dark.[LB][END]
+
+
+[MSGH][0000012c][00000074]
+[EN]
+Branch of unknown origin that[LB]
+may or may not be natural.[LB][END]
+[ES]
+Branch of unknown origin that[LB]
+may or may not be natural.[LB][END]
+
+
+[MSGH][0000012d][0000006e]
+[EN]
+Rare, extremely strong fang[LB]
+that's easy to work with.[LB][END]
+[ES]
+Rare, extremely strong fang[LB]
+that's easy to work with.[LB][END]
+
+
+[MSGH][0000012e][00000064]
+[EN]
+Hardened blue fur that once[LB]
+belonged to a beast.[LB][END]
+[ES]
+Hardened blue fur that once[LB]
+belonged to a beast.[LB][END]
+
+
+[MSGH][0000012f][00000062]
+[EN]
+Engraved with intricate,[LB]
+unfathomable patterns.[LB][END]
+[ES]
+Engraved with intricate,[LB]
+unfathomable patterns.[LB][END]
+
+
+[MSGH][00000130][0000005e]
+[EN]
+Unusually dense iron from[LB]
+a Deep One's sword.[LB][END]
+[ES]
+Unusually dense iron from[LB]
+a Deep One's sword.[LB][END]
+
+
+[MSGH][00000131][00000024]
+[EN]
+[9166][8dde][836f][8362][8374][8340]5[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]5[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000132][00000024]
+[EN]
+[9166][8dde][836f][8362][8374][8340]6[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]6[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000133][00000024]
+[EN]
+[9166][8dde][836f][8362][8374][8340]7[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]7[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000134][00000024]
+[EN]
+[9166][8dde][836f][8362][8374][8340]8[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]8[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000135][00000024]
+[EN]
+[9166][8dde][836f][8362][8374][8340]9[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]9[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000136][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]10[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]10[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000137][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]11[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]11[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000138][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]12[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]12[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000139][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]13[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]13[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000013a][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]14[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]14[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000013b][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]15[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]15[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000013c][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]16[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]16[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000013d][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]17[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]17[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000013e][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]18[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]18[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000013f][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]19[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]19[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000140][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]20[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]20[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000141][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]21[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]21[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000142][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]22[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]22[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000143][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]23[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]23[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000144][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]24[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]24[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000145][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]25[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]25[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000146][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]26[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]26[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000147][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]27[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]27[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000148][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]28[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]28[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000149][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]29[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]29[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000014a][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]30[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]30[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000014b][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]31[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]31[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000014c][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]32[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]32[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000014d][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]33[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]33[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000014e][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]34[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]34[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000014f][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]35[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]35[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000150][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]36[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]36[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000151][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]37[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]37[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000152][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]38[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]38[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000153][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]39[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]39[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000154][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]40[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]40[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000155][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]41[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]41[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000156][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]42[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]42[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000157][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]43[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]43[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000158][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]44[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]44[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000159][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]45[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]45[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000015a][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]46[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]46[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000015b][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]47[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]47[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000015c][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]48[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]48[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000015d][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]49[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]49[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000015e][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]50[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]50[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000015f][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]51[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]51[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000160][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]52[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]52[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000161][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]53[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]53[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000162][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]54[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]54[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000163][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]55[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]55[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000164][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]56[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]56[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000165][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]57[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]57[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000166][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]58[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]58[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000167][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]59[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]59[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000168][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]60[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]60[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000169][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]61[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]61[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000016a][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]62[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]62[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000016b][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]63[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]63[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000016c][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]64[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]64[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000016d][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]65[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]65[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000016e][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]66[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]66[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000016f][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]67[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]67[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000170][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]68[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]68[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000171][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]69[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]69[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000172][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]70[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]70[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000173][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]71[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]71[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000174][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]72[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]72[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000175][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]73[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]73[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000176][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]74[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]74[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000177][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]75[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]75[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000178][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]76[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]76[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000179][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]77[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]77[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000017a][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]78[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]78[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000017b][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]79[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]79[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000017c][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]80[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]80[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000017d][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]81[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]81[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000017e][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]82[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]82[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000017f][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]83[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]83[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000180][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]84[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]84[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000181][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]85[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]85[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000182][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]86[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]86[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000183][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]87[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]87[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000184][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]88[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]88[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000185][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]89[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]89[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000186][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]90[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]90[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000187][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]91[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]91[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000188][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]92[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]92[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000189][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]93[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]93[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000018a][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]94[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]94[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000018b][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]95[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]95[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000018c][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]96[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]96[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000018d][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]97[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]97[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000018e][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]98[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]98[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][0000018f][00000026]
+[EN]
+[9166][8dde][836f][8362][8374][8340]99[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]99[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000190][00000028]
+[EN]
+[9166][8dde][836f][8362][8374][8340]100[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+[ES]
+[9166][8dde][836f][8362][8374][8340]100[LB]
+[9166][8dde][92c7][89c1][95aa][82c5][82b7][8142][LB][END]
+
+
+[MSGH][00000191][00000078]
+[EN]
+Traditional medicine of the ocean[LB]
+city. Heals a little HP.[LB][END]
+[ES]
+Traditional medicine of the ocean[LB]
+city. Heals a little HP.[LB][END]
+
+
+[MSGH][00000192][00000080]
+[EN]
+Medicine extracted from a sea[LB]
+beast's skin. Heals moderate HP.[LB][END]
+[ES]
+Medicine extracted from a sea[LB]
+beast's skin. Heals moderate HP.[LB][END]
+
+
+[MSGH][00000193][00000084]
+[EN]
+Medicine extracted from a tree[LB]
+monster's branch. Heals great HP.[LB][END]
+[ES]
+Medicine extracted from a tree[LB]
+monster's branch. Heals great HP.[LB][END]
+
+
+[MSGH][00000194][0000008e]
+[EN]
+Expensive medicine made a drifting[LB]
+monster core. Heals HP completely.[LB][END]
+[ES]
+Expensive medicine made a drifting[LB]
+monster core. Heals HP completely.[LB][END]
+
+
+[MSGH][00000195][00000082]
+[EN]
+Spiritual medicine made from[LB]
+boiled seaweed. Heals a little TP.[LB][END]
+[ES]
+Spiritual medicine made from[LB]
+boiled seaweed. Heals a little TP.[LB][END]
+
+
+[MSGH][00000196][00000084]
+[EN]
+Spiritual medicine made with honey[LB]
+and tonic. Heals moderate TP.[LB][END]
+[ES]
+Spiritual medicine made with honey[LB]
+and tonic. Heals moderate TP.[LB][END]
+
+
+[MSGH][00000197][0000006e]
+[EN]
+Expensive spiritual medicine made[LB]
+from shining wheat.[LB][END]
+[ES]
+Expensive spiritual medicine made[LB]
+from shining wheat.[LB][END]
+
+
+[MSGH][00000198][00000092]
+[EN]
+Expensive medicine made from ground[LB]
+strawberries. Heals HP/TP a little.[LB][END]
+[ES]
+Expensive medicine made from ground[LB]
+strawberries. Heals HP/TP a little.[LB][END]
+
+
+[MSGH][00000199][0000008c]
+[EN]
+Expensive medicine made from a rare[LB]
+plant oil. Heals moderate HP/TP.[LB][END]
+[ES]
+Expensive medicine made from a rare[LB]
+plant oil. Heals moderate HP/TP.[LB][END]
+
+
+[MSGH][0000019a][00000086]
+[EN]
+Life medicine boiled from a pungent[LB]
+flower. Revives with some HP.[LB][END]
+[ES]
+Life medicine boiled from a pungent[LB]
+flower. Revives with some HP.[LB][END]
+
+
+[MSGH][0000019b][00000088]
+[EN]
+Expensive life medicine made from[LB]
+fruit. Revives with moderate HP.[LB][END]
+[ES]
+Expensive life medicine made from[LB]
+fruit. Revives with moderate HP.[LB][END]
+
+
+[MSGH][0000019c][00000090]
+[EN]
+Pricey medicine made from preserved[LB]
+fruit. Heals a little HP of a row.[LB][END]
+[ES]
+Pricey medicine made from preserved[LB]
+fruit. Heals a little HP of a row.[LB][END]
+
+
+[MSGH][0000019d][00000092]
+[EN]
+Pricey medicine made of a legendary[LB]
+flower. Heals moderate HP of a row.[LB][END]
+[ES]
+Pricey medicine made of a legendary[LB]
+flower. Heals moderate HP of a row.[LB][END]
+
+
+[MSGH][0000019e][00000080]
+[EN]
+Status medicine boiled from a[LB]
+starfish. Heals an ally's bonds.[LB][END]
+[ES]
+Status medicine boiled from a[LB]
+starfish. Heals an ally's bonds.[LB][END]
+
+
+[MSGH][0000019f][00000084]
+[EN]
+Status medicine made from a sour[LB]
+fruit. Heals an ally's ailment.[LB][END]
+[ES]
+Status medicine made from a sour[LB]
+fruit. Heals an ally's ailment.[LB][END]
+
+
+[MSGH][000001a0][0000008a]
+[EN]
+Liquid nerve toxin that saps one's[LB]
+will. Nullifies all enemy buffs.[LB][END]
+[ES]
+Liquid nerve toxin that saps one's[LB]
+will. Nullifies all enemy buffs.[LB][END]
+
+
+[MSGH][000001a1][0000008c]
+[EN]
+Medicine made from boiling aquatic[LB]
+flowers. Nullifies party debuffs.[LB][END]
+[ES]
+Medicine made from boiling aquatic[LB]
+flowers. Nullifies party debuffs.[LB][END]
+
+
+[MSGH][000001a2][00000088]
+[EN]
+Candy made from coagulated monster[LB]
+bones. Raises an ally's attack.[LB][END]
+[ES]
+Candy made from coagulated monster[LB]
+bones. Raises an ally's attack.[LB][END]
+
+
+[MSGH][000001a3][00000088]
+[EN]
+Jelly made of coagulated dinosaur[LB]
+fangs. Raises an ally's defense.[LB][END]
+[ES]
+Jelly made of coagulated dinosaur[LB]
+fangs. Raises an ally's defense.[LB][END]
+
+
+[MSGH][000001a4][0000007e]
+[EN]
+Fog that diffuses fire attacks on[LB]
+both the party and enemies.[LB][END]
+[ES]
+Fog that diffuses fire attacks on[LB]
+both the party and enemies.[LB][END]
+
+
+[MSGH][000001a5][0000007c]
+[EN]
+Fog that diffuses ice attacks on[LB]
+both the party and enemies.[LB][END]
+[ES]
+Fog that diffuses ice attacks on[LB]
+both the party and enemies.[LB][END]
+
+
+[MSGH][000001a6][0000007e]
+[EN]
+Fog that diffuses volt attacks on[LB]
+both the party and enemies.[LB][END]
+[ES]
+Fog that diffuses volt attacks on[LB]
+both the party and enemies.[LB][END]
+
+
+[MSGH][000001a7][00000080]
+[EN]
+Fog that diffuses slash attacks[LB]
+on both the party and enemies.[LB][END]
+[ES]
+Fog that diffuses slash attacks[LB]
+on both the party and enemies.[LB][END]
+
+
+[MSGH][000001a8][00000082]
+[EN]
+Fog that diffuses strike attacks[LB]
+on both the party and enemies.[LB][END]
+[ES]
+Fog that diffuses strike attacks[LB]
+on both the party and enemies.[LB][END]
+
+
+[MSGH][000001a9][00000082]
+[EN]
+Fog that diffuses pierce attacks[LB]
+on both the party and enemies.[LB][END]
+[ES]
+Fog that diffuses pierce attacks[LB]
+on both the party and enemies.[LB][END]
+
+
+[MSGH][000001aa][00000052]
+[EN]
+Oil for giving weapons fire[LB]
+properties.[LB][END]
+[ES]
+Oil for giving weapons fire[LB]
+properties.[LB][END]
+
+
+[MSGH][000001ab][00000050]
+[EN]
+Oil for giving weapons ice[LB]
+properties.[LB][END]
+[ES]
+Oil for giving weapons ice[LB]
+properties.[LB][END]
+
+
+[MSGH][000001ac][00000052]
+[EN]
+Oil for giving weapons volt[LB]
+properties.[LB][END]
+[ES]
+Oil for giving weapons volt[LB]
+properties.[LB][END]
+
+
+[MSGH][000001ad][00000064]
+[EN]
+Its annoying chime decreases[LB]
+the encounter rate.[LB][END]
+[ES]
+Its annoying chime decreases[LB]
+the encounter rate.[LB][END]
+
+
+[MSGH][000001ae][00000064]
+[EN]
+Its alluring chime increases[LB]
+the encounter rate.[LB][END]
+[ES]
+Its alluring chime increases[LB]
+the encounter rate.[LB][END]
+
+
+[MSGH][000001af][0000007a]
+[EN]
+Thread used to return the party to[LB]
+town from the Labyrinth.[LB][END]
+[ES]
+Thread used to return the party to[LB]
+town from the Labyrinth.[LB][END]
+
+
+[MSGH][000001b0][00000088]
+[EN]
+Magnetic rock that takes its user[LB]
+to the last used stairs or pole.[LB][END]
+[ES]
+Magnetic rock that takes its user[LB]
+to the last used stairs or pole.[LB][END]
+
+
+[MSGH][000001b1][00000080]
+[EN]
+Nulls special floor effects for an[LB]
+unspecified time when used.[LB][END]
+[ES]
+Nulls special floor effects for an[LB]
+unspecified time when used.[LB][END]
+
+
+[MSGH][000001b2][00000066]
+[EN]
+Open to unleash a ball of fire[LB]
+at a single enemy.[LB][END]
+[ES]
+Open to unleash a ball of fire[LB]
+at a single enemy.[LB][END]
+
+
+[MSGH][000001b3][00000064]
+[EN]
+Open to unleash a sea of flame[LB]
+upon all enemies.[LB][END]
+[ES]
+Open to unleash a sea of flame[LB]
+upon all enemies.[LB][END]
+
+
+[MSGH][000001b4][00000062]
+[EN]
+Open to unleash an ice spear on[LB]
+a single enemy.[LB][END]
+[ES]
+Open to unleash an ice spear on[LB]
+a single enemy.[LB][END]
+
+
+[MSGH][000001b5][0000005e]
+[EN]
+Open to unleash a cold snap upon[LB]
+all enemies.[LB][END]
+[ES]
+Open to unleash a cold snap upon[LB]
+all enemies.[LB][END]
+
+
+[MSGH][000001b6][00000070]
+[EN]
+Open to unleash a bolt of lightning[LB]
+on a single enemy.[LB][END]
+[ES]
+Open to unleash a bolt of lightning[LB]
+on a single enemy.[LB][END]
+
+
+[MSGH][000001b7][00000070]
+[EN]
+Open to unleash blades of wind that[LB]
+slash all enemies.[LB][END]
+[ES]
+Open to unleash blades of wind that[LB]
+slash all enemies.[LB][END]
+
+
+[MSGH][000001b8][0000004e]
+[EN]
+A toxic gas that poisons all[LB]
+enemies.[LB][END]
+[ES]
+A toxic gas that poisons all[LB]
+enemies.[LB][END]
+
+
+[MSGH][000001b9][00000060]
+[EN]
+An anaesthetic gas that paralyzes[LB]
+all enemies.[LB][END]
+[ES]
+An anaesthetic gas that paralyzes[LB]
+all enemies.[LB][END]
+
+
+[MSGH][000001ba][0000004a]
+[EN]
+A dark gas that blinds all[LB]
+enemies.[LB][END]
+[ES]
+A dark gas that blinds all[LB]
+enemies.[LB][END]
+
+
+[MSGH][000001bb][00000062]
+[EN]
+A soporific gas that puts all[LB]
+enemies to sleep.[LB][END]
+[ES]
+A soporific gas that puts all[LB]
+enemies to sleep.[LB][END]
+
+
+[MSGH][000001bc][00000050]
+[EN]
+A demonic gas that curses all[LB]
+enemies.[LB][END]
+[ES]
+A demonic gas that curses all[LB]
+enemies.[LB][END]
+
+
+[MSGH][000001bd][0000005c]
+[EN]
+A mesmerizing gas that confuses[LB]
+all enemies.[LB][END]
+[ES]
+A mesmerizing gas that confuses[LB]
+all enemies.[LB][END]
+
+
+[MSGH][000001be][00000084]
+[EN]
+Disposable, easy-use telescope. It[LB]
+reveals one FOE on the floor.[LB][END]
+[ES]
+Disposable, easy-use telescope. It[LB]
+reveals one FOE on the floor.[LB][END]
+
+
+[MSGH][000001bf][0000006c]
+[EN]
+Use to rest at specific points[LB]
+inside the Labyrinth.[LB][END]
+[ES]
+Use to rest at specific points[LB]
+inside the Labyrinth.[LB][END]
+
+
+[MSGH][000001c0][00000068]
+[EN]
+Increases the strength of the[LB]
+target it's used on.[LB][END]
+[ES]
+Increases the strength of the[LB]
+target it's used on.[LB][END]
+
+
+[MSGH][000001c1][0000006a]
+[EN]
+Increases the technique of[LB]
+the target it's used on.[LB][END]
+[ES]
+Increases the technique of[LB]
+the target it's used on.[LB][END]
+
+
+[MSGH][000001c2][00000068]
+[EN]
+Increases the vitality of the[LB]
+target it's used on.[LB][END]
+[ES]
+Increases the vitality of the[LB]
+target it's used on.[LB][END]
+
+
+[MSGH][000001c3][00000066]
+[EN]
+Increases the agility of the[LB]
+target it's used on.[LB][END]
+[ES]
+Increases the agility of the[LB]
+target it's used on.[LB][END]
+
+
+[MSGH][000001c4][00000060]
+[EN]
+Increases the luck of the[LB]
+target it's used on.[LB][END]
+[ES]
+Increases the luck of the[LB]
+target it's used on.[LB][END]
+
+
+[MSGH][000001c5][00000078]
+[EN]
+Use to decrease the price of the[LB]
+next item bought by half.[LB][END]
+[ES]
+Use to decrease the price of the[LB]
+next item bought by half.[LB][END]
+
+
+[MSGH][000001c6][00000090]
+[EN]
+Provides all monster materials of a[LB]
+monster slain the turn it is used.[LB][END]
+[ES]
+Provides all monster materials of a[LB]
+monster slain the turn it is used.[LB][END]
+
+
+[MSGH][000001c7][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001c8][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001c9][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001ca][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001cb][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001cc][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001cd][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001ce][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001cf][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d0][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d1][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d2][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d3][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d4][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d5][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d6][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d7][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d8][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001d9][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001da][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001db][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001dc][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001dd][0000000c]
+[EN]
+[838a][8355][815b][8375][LB][END]
+[ES]
+[838a][8355][815b][8375][LB][END]
+
+
+[MSGH][000001de][00000010]
+[EN]
+[8341][8355][815b]378[LB][END]
+[ES]
+[8341][8355][815b]378[LB][END]
+
+
+[MSGH][000001df][00000010]
+[EN]
+[8341][8355][815b]379[LB][END]
+[ES]
+[8341][8355][815b]379[LB][END]
+
+
+[MSGH][000001e0][00000010]
+[EN]
+[8341][8355][815b]380[LB][END]
+[ES]
+[8341][8355][815b]380[LB][END]
+
+
+[MSGH][000001e1][00000010]
+[EN]
+[8341][8355][815b]381[LB][END]
+[ES]
+[8341][8355][815b]381[LB][END]
+
+
+[MSGH][000001e2][00000010]
+[EN]
+[8341][8355][815b]382[LB][END]
+[ES]
+[8341][8355][815b]382[LB][END]
+
+
+[MSGH][000001e3][00000010]
+[EN]
+[8341][8355][815b]383[LB][END]
+[ES]
+[8341][8355][815b]383[LB][END]
+
+
+[MSGH][000001e4][00000010]
+[EN]
+[8341][8355][815b]384[LB][END]
+[ES]
+[8341][8355][815b]384[LB][END]
+
+
+[MSGH][000001e5][00000010]
+[EN]
+[8341][8355][815b]385[LB][END]
+[ES]
+[8341][8355][815b]385[LB][END]
+
+
+[MSGH][000001e6][00000010]
+[EN]
+[8341][8355][815b]386[LB][END]
+[ES]
+[8341][8355][815b]386[LB][END]
+
+
+[MSGH][000001e7][00000010]
+[EN]
+[8341][8355][815b]387[LB][END]
+[ES]
+[8341][8355][815b]387[LB][END]
+
+
+[MSGH][000001e8][00000010]
+[EN]
+[8341][8355][815b]388[LB][END]
+[ES]
+[8341][8355][815b]388[LB][END]
+
+
+[MSGH][000001e9][00000010]
+[EN]
+[8341][8355][815b]389[LB][END]
+[ES]
+[8341][8355][815b]389[LB][END]
+
+
+[MSGH][000001ea][00000010]
+[EN]
+[8341][8355][815b]390[LB][END]
+[ES]
+[8341][8355][815b]390[LB][END]
+
+
+[MSGH][000001eb][00000010]
+[EN]
+[8341][8355][815b]391[LB][END]
+[ES]
+[8341][8355][815b]391[LB][END]
+
+
+[MSGH][000001ec][00000010]
+[EN]
+[8341][8355][815b]392[LB][END]
+[ES]
+[8341][8355][815b]392[LB][END]
+
+
+[MSGH][000001ed][00000010]
+[EN]
+[8341][8355][815b]393[LB][END]
+[ES]
+[8341][8355][815b]393[LB][END]
+
+
+[MSGH][000001ee][00000010]
+[EN]
+[8341][8355][815b]394[LB][END]
+[ES]
+[8341][8355][815b]394[LB][END]
+
+
+[MSGH][000001ef][00000010]
+[EN]
+[8341][8355][815b]395[LB][END]
+[ES]
+[8341][8355][815b]395[LB][END]
+
+
+[MSGH][000001f0][00000010]
+[EN]
+[8341][8355][815b]396[LB][END]
+[ES]
+[8341][8355][815b]396[LB][END]
+
+
+[MSGH][000001f1][00000010]
+[EN]
+[8341][8355][815b]397[LB][END]
+[ES]
+[8341][8355][815b]397[LB][END]
+
+
+[MSGH][000001f2][00000010]
+[EN]
+[8341][8355][815b]398[LB][END]
+[ES]
+[8341][8355][815b]398[LB][END]
+
+
+[MSGH][000001f3][00000010]
+[EN]
+[8341][8355][815b]399[LB][END]
+[ES]
+[8341][8355][815b]399[LB][END]
+
+
+[MSGH][000001f4][00000010]
+[EN]
+[8341][8355][815b]400[LB][END]
+[ES]
+[8341][8355][815b]400[LB][END]
+
+
+[MSGH][000001f5][00000078]
+[EN]
+Proof that your guild's residence[LB]
+in Armoroad is approved.[LB][END]
+[ES]
+Proof that your guild's residence[LB]
+in Armoroad is approved.[LB][END]
+
+
+[MSGH][000001f6][00000078]
+[EN]
+Sheepskin used to record one's[LB]
+path through the Labyrinth.[LB][END]
+[ES]
+Sheepskin used to record one's[LB]
+path through the Labyrinth.[LB][END]
+
+
+[MSGH][000001f7][00000074]
+[EN]
+Proof of a sentry who was murdered[LB]
+by something unknown.[LB][END]
+[ES]
+Proof of a sentry who was murdered[LB]
+by something unknown.[LB][END]
+
+
+[MSGH][000001f8][00000080]
+[EN]
+A bead bestowed by Oceanmaster[LB]
+Ketos. A current swirls inside.[LB][END]
+[ES]
+A bead bestowed by Oceanmaster[LB]
+Ketos. A current swirls inside.[LB][END]
+
+
+[MSGH][000001f9][00000086]
+[EN]
+A bee's nest with a sweet aroma.[LB]
+Armoroad's expensive ingredient.[LB][END]
+[ES]
+A bee's nest with a sweet aroma.[LB]
+Armoroad's expensive ingredient.[LB][END]
+
+
+[MSGH][000001fa][00000084]
+[EN]
+Decorative knife made of crystal.[LB]
+A lion's head crowns the hilt.[LB][END]
+[ES]
+Decorative knife made of crystal.[LB]
+A lion's head crowns the hilt.[LB][END]
+
+
+[MSGH][000001fb][0000008e]
+[EN]
+Branch that illuminates lava areas.[LB]
+Its faint blue shine never fades.[LB][END]
+[ES]
+Branch that illuminates lava areas.[LB]
+Its faint blue shine never fades.[LB][END]
+
+
+[MSGH][000001fc][0000008c]
+[EN]
+Fruit that feels rough like stone.[LB]
+People question that it's edible.[LB][END]
+[ES]
+Fruit that feels rough like stone.[LB]
+People question that it's edible.[LB][END]
+
+
+[MSGH][000001fd][00000080]
+[EN]
+A decorative platter that emits a[LB]
+metallic sound when flicked.[LB][END]
+[ES]
+A decorative platter that emits a[LB]
+metallic sound when flicked.[LB][END]
+
+
+[MSGH][000001fe][00000084]
+[EN]
+Three-pronged candlestick. The tint[LB]
+gives it an air of elegance.[LB][END]
+[ES]
+Three-pronged candlestick. The tint[LB]
+gives it an air of elegance.[LB][END]
+
+
+[MSGH][000001ff][00000086]
+[EN]
+Ancient gold coin featuring a[LB]
+portrait of a long-forgotten ruler.[LB][END]
+[ES]
+Ancient gold coin featuring a[LB]
+portrait of a long-forgotten ruler.[LB][END]
+
+
+[MSGH][00000200][00000084]
+[EN]
+Statue of a beautiful woman with[LB]
+weary eyes that face the stars.[LB][END]
+[ES]
+Statue of a beautiful woman with[LB]
+weary eyes that face the stars.[LB][END]
+
+
+[MSGH][00000201][00000088]
+[EN]
+Pot that the shopkeep of Napier's[LB]
+Firm recommended. It's charming.[LB][END]
+[ES]
+Pot that the shopkeep of Napier's[LB]
+Firm recommended. It's charming.[LB][END]
+
+
+[MSGH][00000202][00000086]
+[EN]
+An oddly-sized silver hoop that[LB]
+is neither a ring nor a bracelet.[LB][END]
+[ES]
+An oddly-sized silver hoop that[LB]
+is neither a ring nor a bracelet.[LB][END]
+
+
+[MSGH][00000203][0000008a]
+[EN]
+Lithograph of a sun and birds to[LB]
+give the impression of a vast sky.[LB][END]
+[ES]
+Lithograph of a sun and birds to[LB]
+give the impression of a vast sky.[LB][END]
+
+
+[MSGH][00000204][00000088]
+[EN]
+Lithograph of grass and trees to[LB]
+give the impression of the world.[LB][END]
+[ES]
+Lithograph of grass and trees to[LB]
+give the impression of the world.[LB][END]
+
+
+[MSGH][00000205][00000086]
+[EN]
+Lithograph of a populated city to[LB]
+give the impression of mankind.[LB][END]
+[ES]
+Lithograph of a populated city to[LB]
+give the impression of mankind.[LB][END]
+
+
+[MSGH][00000206][0000008a]
+[EN]
+Offering excavated from an altar.[LB]
+One can sense a mysterious power.[LB][END]
+[ES]
+Offering excavated from an altar.[LB]
+One can sense a mysterious power.[LB][END]
+
+
+[MSGH][00000207][00000086]
+[EN]
+Shriveled fruit with no moisture[LB]
+and bad taste. Used in medicine.[LB][END]
+[ES]
+Shriveled fruit with no moisture[LB]
+and bad taste. Used in medicine.[LB][END]
+
+
+[MSGH][00000208][0000007c]
+[EN]
+A rusted burial marker sword.[LB]
+Its owner's name is illegible.[LB][END]
+[ES]
+A rusted burial marker sword.[LB]
+Its owner's name is illegible.[LB][END]
+
+
+[MSGH][00000209][00000080]
+[EN]
+Star crystal that regained its[LB]
+power when the pieces combined.[LB][END]
+[ES]
+Star crystal that regained its[LB]
+power when the pieces combined.[LB][END]
+
+
+[MSGH][0000020a][00000064]
+[EN]
+Beautifully red flower that[LB]
+lingers around lava.[LB][END]
+[ES]
+Beautifully red flower that[LB]
+lingers around lava.[LB][END]
+
+
+[MSGH][0000020b][00000078]
+[EN]
+"Those who control the campground,[LB]
+control the Labyrinth."[LB][END]
+[ES]
+"Those who control the campground,[LB]
+control the Labyrinth."[LB][END]
+
+
+[MSGH][0000020c][00000082]
+[EN]
+Offering for the stone statue on[LB]
+B6F. It appears to be alcohol.[LB][END]
+[ES]
+Offering for the stone statue on[LB]
+B6F. It appears to be alcohol.[LB][END]
+
+
+[MSGH][0000020d][0000008e]
+[EN]
+Girl's letter that was delivered to[LB]
+Armoroad  in a bottle set adrift.[LB][END]
+[ES]
+Girl's letter that was delivered to[LB]
+Armoroad  in a bottle set adrift.[LB][END]
+
+
+[MSGH][0000020e][00000082]
+[EN]
+It looks ordinary, except for the[LB]
+light radiating from the tip.[LB][END]
+[ES]
+It looks ordinary, except for the[LB]
+light radiating from the tip.[LB][END]
+
+
+[MSGH][0000020f][00000070]
+[EN]
+Salt with more nutrients compared[LB]
+to common city salt.[LB][END]
+[ES]
+Salt with more nutrients compared[LB]
+to common city salt.[LB][END]
+
+
+[MSGH][00000210][00000078]
+[EN]
+Transparent white pampas grass[LB]
+with an elegant look to it.[LB][END]
+[ES]
+Transparent white pampas grass[LB]
+with an elegant look to it.[LB][END]
+
+
+[MSGH][00000211][00000086]
+[EN]
+Pampas grass for offerings that[LB]
+reflects light with a gold sheen.[LB][END]
+[ES]
+Pampas grass for offerings that[LB]
+reflects light with a gold sheen.[LB][END]
+
+
+[MSGH][00000212][0000008c]
+[EN]
+Four-leaf plant rarely found among[LB]
+three-leaf plants, said be lucky.[LB][END]
+[ES]
+Four-leaf plant rarely found among[LB]
+three-leaf plants, said be lucky.[LB][END]
+
+
+[MSGH][00000213][00000084]
+[EN]
+Ordinary stone picked up in order[LB]
+to protect the monsters' rock.[LB][END]
+[ES]
+Ordinary stone picked up in order[LB]
+to protect the monsters' rock.[LB][END]
+
+
+[MSGH][00000214][00000084]
+[EN]
+Warm stone that is rumored to have[LB]
+the power to heal one's body.[LB][END]
+[ES]
+Warm stone that is rumored to have[LB]
+the power to heal one's body.[LB][END]
+
+
+[MSGH][00000215][0000008a]
+[EN]
+Cure for the Green Death epidemic.[LB]
+The ocean city is unaware of it.[LB][END]
+[ES]
+Cure for the Green Death epidemic.[LB]
+The ocean city is unaware of it.[LB][END]
+
+
+[MSGH][00000216][00000090]
+[EN]
+A bell that the princess prayed on,[LB]
+with the power to summon a dragon.[LB][END]
+[ES]
+A bell that the princess prayed on,[LB]
+with the power to summon a dragon.[LB][END]
+
+
+[MSGH][00000217][00000080]
+[EN]
+Proof given to warriors who rose[LB]
+up to defeat the fire dragon.[LB][END]
+[ES]
+Proof given to warriors who rose[LB]
+up to defeat the fire dragon.[LB][END]
+
+
+[MSGH][00000218][0000007e]
+[EN]
+Proof given to warriors who rose[LB]
+up to defeat the ice dragon.[LB][END]
+[ES]
+Proof given to warriors who rose[LB]
+up to defeat the ice dragon.[LB][END]
+
+
+[MSGH][00000219][00000080]
+[EN]
+Proof given to warriors who rose[LB]
+up to defeat the gold dragon.[LB][END]
+[ES]
+Proof given to warriors who rose[LB]
+up to defeat the gold dragon.[LB][END]
+
+
+[MSGH][0000021a][0000008a]
+[EN]
+Mysterious key that glimmers like[LB]
+the stars and opens locked doors.[LB][END]
+[ES]
+Mysterious key that glimmers like[LB]
+the stars and opens locked doors.[LB][END]
+
+
+[MSGH][0000021b][00000084]
+[EN]
+Mysterious key that shines like the[LB]
+moon and opens locked doors.[LB][END]
+[ES]
+Mysterious key that shines like the[LB]
+moon and opens locked doors.[LB][END]
+
+
+[MSGH][0000021c][00000084]
+[EN]
+Mysterious key that wavers like the[LB]
+sun and opens sealed chests.[LB][END]
+[ES]
+Mysterious key that wavers like the[LB]
+sun and opens sealed chests.[LB][END]
+
+
+[MSGH][0000021d][0000008c]
+[EN]
+Letter of friendship written by the[LB]
+ocean city princess to the Deep.[LB][END]
+[ES]
+Letter of friendship written by the[LB]
+ocean city princess to the Deep.[LB][END]
+
+
+[MSGH][0000021e][00000086]
+[EN]
+Offerings from the ocean city to[LB]
+the Deep City. Contents unknown.[LB][END]
+[ES]
+Offerings from the ocean city to[LB]
+the Deep City. Contents unknown.[LB][END]
+
+
+[MSGH][0000021f][0000007e]
+[EN]
+Key that opens the door leading to[LB]
+where the Deep Ones dwell.[LB][END]
+[ES]
+Key that opens the door leading to[LB]
+where the Deep Ones dwell.[LB][END]
+
+
+[MSGH][00000220][00000082]
+[EN]
+Baton said to have been held by[LB]
+generals who led armies to war.[LB][END]
+[ES]
+Baton said to have been held by[LB]
+generals who led armies to war.[LB][END]
+
+
+[MSGH][00000221][00000078]
+[EN]
+Blueprint of humanoid machines[LB]
+developed in the Deep City.[LB][END]
+[ES]
+Blueprint of humanoid machines[LB]
+developed in the Deep City.[LB][END]
+
+
+[MSGH][00000222][00000090]
+[EN]
+Flower that represents immortality.[LB]
+It is important to the ocean city.[LB][END]
+[ES]
+Flower that represents immortality.[LB]
+It is important to the ocean city.[LB][END]
+
+
+[MSGH][00000223][0000007a]
+[EN]
+Mysterious powder that makes it[LB]
+possible to see the unseen.[LB][END]
+[ES]
+Mysterious powder that makes it[LB]
+possible to see the unseen.[LB][END]
+
+
+[MSGH][00000224][0000008c]
+[EN]
+Seal with the ocean city's crest.[LB]
+It nullifies the forest's barrier.[LB][END]
+[ES]
+Seal with the ocean city's crest.[LB]
+It nullifies the forest's barrier.[LB][END]
+
+
+[MSGH][00000225][00000086]
+[EN]
+A regular looking rock that is a[LB]
+clue for the Porcelain Offering.[LB][END]
+[ES]
+A regular looking rock that is a[LB]
+clue for the Porcelain Offering.[LB][END]
+
+
+[MSGH][00000226][0000008a]
+[EN]
+Golden bowl with the power to bring[LB]
+the outer world into existence.[LB][END]
+[ES]
+Golden bowl with the power to bring[LB]
+the outer world into existence.[LB][END]
+
+
+[MSGH][00000227][0000007a]
+[EN]
+Forging hammer that increases the[LB]
+tempered weapon's attack.[LB][END]
+[ES]
+Forging hammer that increases the[LB]
+tempered weapon's attack.[LB][END]
+
+
+[MSGH][00000228][0000007e]
+[EN]
+Forging hammer that increases the[LB]
+tempered weapon's accuracy.[LB][END]
+[ES]
+Forging hammer that increases the[LB]
+tempered weapon's accuracy.[LB][END]
+
+
+[MSGH][00000229][00000088]
+[EN]
+Forging hammer that increases the[LB]
+tempered weapon's critical rate.[LB][END]
+[ES]
+Forging hammer that increases the[LB]
+tempered weapon's critical rate.[LB][END]
+
+
+[MSGH][0000022a][00000082]
+[EN]
+Forging hammer that adds a STR[LB]
+increase to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a STR[LB]
+increase to the tempered weapon.[LB][END]
+
+
+[MSGH][0000022b][00000082]
+[EN]
+Forging hammer that adds a TEC[LB]
+increase to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a TEC[LB]
+increase to the tempered weapon.[LB][END]
+
+
+[MSGH][0000022c][00000082]
+[EN]
+Forging hammer that adds a VIT[LB]
+increase to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a VIT[LB]
+increase to the tempered weapon.[LB][END]
+
+
+[MSGH][0000022d][00000084]
+[EN]
+Forging hammer that adds an AGI[LB]
+increase to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds an AGI[LB]
+increase to the tempered weapon.[LB][END]
+
+
+[MSGH][0000022e][00000082]
+[EN]
+Forging hammer that adds a LUC[LB]
+increase to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a LUC[LB]
+increase to the tempered weapon.[LB][END]
+
+
+[MSGH][0000022f][00000082]
+[EN]
+Forging hammer that adds a fire[LB]
+element to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a fire[LB]
+element to the tempered weapon.[LB][END]
+
+
+[MSGH][00000230][00000082]
+[EN]
+Forging hammer that adds an ice[LB]
+element to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds an ice[LB]
+element to the tempered weapon.[LB][END]
+
+
+[MSGH][00000231][00000082]
+[EN]
+Forging hammer that adds a volt[LB]
+element to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a volt[LB]
+element to the tempered weapon.[LB][END]
+
+
+[MSGH][00000232][0000008a]
+[EN]
+Forging hammer that adds a head[LB]
+bind effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a head[LB]
+bind effect to the tempered weapon.[LB][END]
+
+
+[MSGH][00000233][0000008a]
+[EN]
+Forging hammer that adds an arm[LB]
+bind effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds an arm[LB]
+bind effect to the tempered weapon.[LB][END]
+
+
+[MSGH][00000234][00000088]
+[EN]
+Forging hammer that adds a leg[LB]
+bind effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a leg[LB]
+bind effect to the tempered weapon.[LB][END]
+
+
+[MSGH][00000235][00000080]
+[EN]
+Forging hammer that adds a stun[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a stun[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][00000236][00000082]
+[EN]
+Forging hammer that adds a blind[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a blind[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][00000237][00000082]
+[EN]
+Forging hammer that adds a sleep[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a sleep[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][00000238][00000084]
+[EN]
+Forging hammer that adds a poison[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a poison[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][00000239][00000084]
+[EN]
+Forging hammer that adds a plague[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a plague[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][0000023a][00000086]
+[EN]
+Forging hammer that adds a confuse[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a confuse[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][0000023b][00000088]
+[EN]
+Forging hammer that adds a paralyze[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a paralyze[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][0000023c][00000082]
+[EN]
+Forging hammer that adds a curse[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a curse[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][0000023d][00000086]
+[EN]
+Forging hammer that adds a petrify[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a petrify[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][0000023e][00000082]
+[EN]
+Forging hammer that adds a fatal[LB]
+effect to the tempered weapon.[LB][END]
+[ES]
+Forging hammer that adds a fatal[LB]
+effect to the tempered weapon.[LB][END]
+
+
+[MSGH][0000023f][00000010]
+[EN]
+[8341][8355][815b]575[LB][END]
+[ES]
+[8341][8355][815b]575[LB][END]
+
+
+[MSGH][00000240][00000010]
+[EN]
+[8341][8355][815b]576[LB][END]
+[ES]
+[8341][8355][815b]576[LB][END]
+
+
+[MSGH][00000241][00000010]
+[EN]
+[8341][8355][815b]577[LB][END]
+[ES]
+[8341][8355][815b]577[LB][END]
+
+
+[MSGH][00000242][00000010]
+[EN]
+[8341][8355][815b]578[LB][END]
+[ES]
+[8341][8355][815b]578[LB][END]
+
+
+[MSGH][00000243][00000010]
+[EN]
+[8341][8355][815b]579[LB][END]
+[ES]
+[8341][8355][815b]579[LB][END]
+
+
+[MSGH][00000244][00000010]
+[EN]
+[8341][8355][815b]580[LB][END]
+[ES]
+[8341][8355][815b]580[LB][END]
+
+
+[MSGH][00000245][00000010]
+[EN]
+[8341][8355][815b]581[LB][END]
+[ES]
+[8341][8355][815b]581[LB][END]
+
+
+[MSGH][00000246][00000010]
+[EN]
+[8341][8355][815b]582[LB][END]
+[ES]
+[8341][8355][815b]582[LB][END]
+
+
+[MSGH][00000247][00000010]
+[EN]
+[8341][8355][815b]583[LB][END]
+[ES]
+[8341][8355][815b]583[LB][END]
+
+
+[MSGH][00000248][00000010]
+[EN]
+[8341][8355][815b]584[LB][END]
+[ES]
+[8341][8355][815b]584[LB][END]
+
+
+[MSGH][00000249][00000010]
+[EN]
+[8341][8355][815b]585[LB][END]
+[ES]
+[8341][8355][815b]585[LB][END]
+
+
+[MSGH][0000024a][00000010]
+[EN]
+[8341][8355][815b]586[LB][END]
+[ES]
+[8341][8355][815b]586[LB][END]
+
+
+[MSGH][0000024b][00000010]
+[EN]
+[8341][8355][815b]587[LB][END]
+[ES]
+[8341][8355][815b]587[LB][END]
+
+
+[MSGH][0000024c][00000010]
+[EN]
+[8341][8355][815b]588[LB][END]
+[ES]
+[8341][8355][815b]588[LB][END]
+
+
+[MSGH][0000024d][00000010]
+[EN]
+[8341][8355][815b]589[LB][END]
+[ES]
+[8341][8355][815b]589[LB][END]
+
+
+[MSGH][0000024e][00000010]
+[EN]
+[8341][8355][815b]590[LB][END]
+[ES]
+[8341][8355][815b]590[LB][END]
+
+
+[MSGH][0000024f][00000010]
+[EN]
+[8341][8355][815b]591[LB][END]
+[ES]
+[8341][8355][815b]591[LB][END]
+
+
+[MSGH][00000250][00000010]
+[EN]
+[8341][8355][815b]592[LB][END]
+[ES]
+[8341][8355][815b]592[LB][END]
+
+
+[MSGH][00000251][00000010]
+[EN]
+[8341][8355][815b]593[LB][END]
+[ES]
+[8341][8355][815b]593[LB][END]
+
+
+[MSGH][00000252][00000010]
+[EN]
+[8341][8355][815b]594[LB][END]
+[ES]
+[8341][8355][815b]594[LB][END]
+
+
+[MSGH][00000253][00000010]
+[EN]
+[8341][8355][815b]595[LB][END]
+[ES]
+[8341][8355][815b]595[LB][END]
+
+
+[MSGH][00000254][00000010]
+[EN]
+[8341][8355][815b]596[LB][END]
+[ES]
+[8341][8355][815b]596[LB][END]
+
+
+[MSGH][00000255][00000010]
+[EN]
+[8341][8355][815b]597[LB][END]
+[ES]
+[8341][8355][815b]597[LB][END]
+
+
+[MSGH][00000256][00000010]
+[EN]
+[8341][8355][815b]598[LB][END]
+[ES]
+[8341][8355][815b]598[LB][END]
+
+
+[MSGH][00000257][00000010]
+[EN]
+[8341][8355][815b]599[LB][END]
+[ES]
+[8341][8355][815b]599[LB][END]
+
+
+[MSGH][00000258][00000010]
+[EN]
+[8341][8355][815b]600[LB][END]
+[ES]
+[8341][8355][815b]600[LB][END]
+
+
+[MSGH][00000259][00000010]
+[EN]
+[8341][8355][815b]601[LB][END]
+[ES]
+[8341][8355][815b]601[LB][END]
+
+
+[MSGH][0000025a][00000010]
+[EN]
+[8341][8355][815b]602[LB][END]
+[ES]
+[8341][8355][815b]602[LB][END]
+
+
+[MSGH][0000025b][00000010]
+[EN]
+[8341][8355][815b]603[LB][END]
+[ES]
+[8341][8355][815b]603[LB][END]
+
+
+[MSGH][0000025c][00000010]
+[EN]
+[8341][8355][815b]604[LB][END]
+[ES]
+[8341][8355][815b]604[LB][END]
+
+
+[MSGH][0000025d][00000010]
+[EN]
+[8341][8355][815b]605[LB][END]
+[ES]
+[8341][8355][815b]605[LB][END]
+
+
+[MSGH][0000025e][00000010]
+[EN]
+[8341][8355][815b]606[LB][END]
+[ES]
+[8341][8355][815b]606[LB][END]
+
+
+[MSGH][0000025f][00000010]
+[EN]
+[8341][8355][815b]607[LB][END]
+[ES]
+[8341][8355][815b]607[LB][END]
+
+
+[MSGH][00000260][00000010]
+[EN]
+[8341][8355][815b]608[LB][END]
+[ES]
+[8341][8355][815b]608[LB][END]
+
+
+[MSGH][00000261][00000010]
+[EN]
+[8341][8355][815b]609[LB][END]
+[ES]
+[8341][8355][815b]609[LB][END]
+
+
+[MSGH][00000262][00000010]
+[EN]
+[8341][8355][815b]610[LB][END]
+[ES]
+[8341][8355][815b]610[LB][END]
+
+
+[MSGH][00000263][00000010]
+[EN]
+[8341][8355][815b]611[LB][END]
+[ES]
+[8341][8355][815b]611[LB][END]
+

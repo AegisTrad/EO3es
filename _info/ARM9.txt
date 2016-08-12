@@ -1,0 +1,132 @@
+http://romxhack.esforos.com/inserccion-de-texto-9hours-9-persons-9-doors-t177-30
+
+Pues allá vamos. Esto sirve para cualquier ARM9 de la Nintendo DS. 
+
+Se necesita, además del ARM9.BIN, o como se haya querido llamar al ejecutable, algunas cosillas que están en la cabecera de la ROM: 
+- en 0x0028, ARM9 rom offset, offset del ARM9 en la rom 
+- en 0x0028, ARM9 load address, posición de memoria de la consola donde irá el ARM9 
+- en 0x002C, ARM9 size, longitud del ARM9 
+- en 0x0070, ARM9 autoload, inicio del ARM9 
+
+Esos 4 valores contienen lo que se necesita para extraer/insertar los ARM9 y para su compresión, aunque sólo nos vamos a fijar en el "load address", 
+que es la posición de memoria donde se carga el ARM9 y será necesario para calcular los offsets relativos al ARM9, 
+pues no nos interesa saber dónde está cada cosa en memoria. El otro dato que nos interesa es "autoload", 
+que nos indica dónde empieza el programa, y justo antes de ese offset está almacenado un puntero que nos dirá dónde están las longitudes del ARM9, comprimidas y descomprimidas. 
+
+Se hace lo siguiente, paso a paso: 
+- se coge el valor del "ARM9 load" para actualizar todos los valores 
+- se coge el valor del "ARM9 autoload" 
+- se coge el offset que hay antes de "autoload": 
+- en el primer dword del offset está la longitud del ARM9 menos 0x18 
+- en el segundo dword del offset está la longitud del ARM9 
+- en el sexto dword del offset está la longitud comprimida del ARM9 (0 si está descomprimido) 
+
+Al hablar de valores/dwords me refiero siempre a datos de 4 bytes (32 bits). 
+Todos los valores hacen referencia a la memoria principal de la consola, así que hay que restar a cada uno el 'load address', como se indicó antes. 
+
+Un ejemplo con "WarioWare - Touched! (USA)", que tiene el ARM9 descomprimido (0x0011A9E8): 
+Código:
+NDS[0x000020] = 00004000 ---> ARM9 rom offset 
+NDS[0x000026] = 02004000 ---> ARM9 load address 
+NDS[0x00002C] = 0011A9F8 ---> ARM9 size 
+NDS[0x000070] = 02004A10 ---> ARM9 autoload 
+
+ARM9[A10-1*4] = 02004AFC --->      AFC 
+ARM9[AFC+0*4] = 0211E9E0 --->   11A9E0 
+ARM9[AFC+1*4] = 0211E9F8 --->   11A9F8 
+ARM9[AFC+5*4] = 00000000 --->        0
+
+
+Ahora con "Nine Hours, Nine Persons, Nine Doors (USA)", que tiene el ARM9 comprimido (0x00069940 -> 0x000B0FB8): 
+Código:
+NDS[0x000020] = 00004000 ---> ARM9 rom offset 
+NDS[0x000026] = 02000000 ---> ARM9 load address 
+NDS[0x00002C] = 00069940 ---> ARM9 size 
+NDS[0x000070] = 02000AAC ---> ARM9 autoload 
+
+ARM9[AAC-1*4] = 02000B9C --->      B9C 
+ARM9[B9C+0*4] = 020B0FA0 --->    B0FA0 
+ARM9[B9C+1*4] = 020B0FB8 --->    B0FB8 
+ARM9[B9C+5*4] = 02069940 --->    69940
+
+
+¿Y de qué nos sirve esto? Pues bien fácil. Si tenemos un ARM9 comprimido, como en el juego "999", lo descomprimimos con alguna utilidad que lo haga y buscamos los datos anteriores. 
+En 0xB9C+5*4 está la longitud del fichero comprimido, pero como ahora ya no lo queremos comprimir, ponemos a 0 esos 4 bytes. Y ya está, con eso podemos usar el nuevo ARM9. 
+
+En caso de querer comprimirlo, como el compresor sólo trabaja con ficheros y no con ROMs, habrá que buscar esos 3 offsets para las longitudes y ponerlos a mano. 
+
+Bueno, pues esto ahora se puede probar todo eso con el juego. Se saca el ARM9 con Tinke y se descomprime con BLZ.EXE (ahora mismo actualizo el post de los compresores de DS para que se pueda descargar la nueva versión). 
+Sólo queda cambiar los textos "Yes/No", por ejemplo, sin olvidar que "Sí" no se puede poner tal cual ya que la "í" se compone de 2 bytes, como se ve en la tabla usada para insertar los textos, 
+lo que no debe dar ningún problema porque cambiamos 3 caracteres por otros tres. Se cambia el dato ese a cero y se vuelve a meter todo con el Tinke, pero ahora con el ARM9 sin comprimir. 
+Debería funcionar sin problemas.
+
+
+
+-------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------- 
+
+
+
+
+
+Varios
+-------------------------------------------------------------------------------- 
+Puntero final indica final archivo comprimido
+
+
+
+http://romxhack.esforos.com/fuente-radiant-historia-t91-135
+Se me había olvidado comentarte que pruebes el juego con el ARM9 descomprimido. 
+Lo descomprimes con BLZ -d ARM9.BIN y pones a cero 4 bytes a partir de 0x000B9C, 
+que ahora deben contener 0x02000000 más el tamaño descomprimido. 
+Así hacemos con el juego 999, y si hay que hacer cualquier cambio más, 
+como modificar algún ancho de un carácter o algún texto que haya que traducir, 
+se hace directamente, sin estar comprimiendo y 
+calculando qué valor poner en esa dirección.
+
+
+
+http://romxhack.esforos.com/compresiones-para-las-consolas-gba-ds-de-nintendo-t117-15
+Al ARM9 se le añade siempre una cabecera de 16 bytes, los primeros, 
+donde el CRC16 de los datos entre 0x010 y 0x7FF se guarda en los dos 
+últimos (bytes 15 y 16). El compresor no calcula ese CRC porque únicamente 
+se limita a codificar/decodificar los datos. No hay que olvidar que el proceso 
+es el mismo que se usa en los overlays y en algunos ficheros de datos, donde 
+no hay ningún tipo de CRC16.
+
+
+
+http://romxhack.esforos.com/compresion-de-overlays-de-nds-t87
+http://romxhack.esforos.com/okamiden-and-overlays-t279
+http://gbatemp.net/threads/recompressing-an-overlay-file.329576/#post-4387670
+
+
+
+http://crackerscrap.com/docs/dsromstructure.html
+ARM9 overlays
+They alter how the ARM9 loads resources from the ROM by mapping memory directly 
+to the resources with a structure used to easily load particular resource types
+
+
+
+
+
+
+
+
+http://ximwix.net/mirrors/rhdn/index.php@topic=6764.15.html
+ARM9 and ARM7 Overlay Tables (OVT) (base/size defined in cart header)
+Somehow related to Nintendo's compiler, allows to assign compiler Overlay IDs to filesystem File IDs, and to define additional information such like load addresses.
+
+  Addr Size Expl.
+  00h  4    Overlay ID
+  04h  4    RAM Address ;Point at which to load
+  08h  4    RAM Size    ;Amount to load
+  0Ch  4    BSS Size    ;Size of BSS data region
+  10h  4    Static initialiser start address
+  14h  4    Static initialiser end address
+  18h  4    File ID  (0000h..EFFFh)
+  1Ch  4    Reserved (zero)
+
+

@@ -1,0 +1,246 @@
+[HEAD][00000bb8][0000001e]
+
+[MSGH][00000001][00000038]
+[EN]
+Add a new adventurer[LB]
+to [GUILD].[LB][END]
+[ES]
+Registrar a un nuevo[LB]
+explorador en [GUILD].[LB][END]
+
+
+[MSGH][00000002][00000060]
+[EN]
+Allow a member of [GUILD][LB]
+to leave, retire, or rest.[LB][END]
+[ES]
+Permitir que un miembro de [GUILD][LB]
+abandone, se retire o descanse.[LB][END]
+
+
+[MSGH][00000003][0000005a]
+[EN]
+Form an adventuring party[LB]
+from [GUILD]'s members.[LB][END]
+[ES]
+Crea una formación de batalla[LB]
+con los miembros de [GUILD].[LB][END]
+
+
+[MSGH][00000004][00000034]
+[EN]
+Talk to the Guildmaster.[LB][END]
+[ES]
+Hablar con el líder del gremio.[LB][END]
+
+
+[MSGH][00000005][0000002c]
+[EN]
+Return to the plaza.[LB][END]
+[ES]
+Volver al centro de la ciudad.[LB][END]
+
+
+[MSGH][00000006][0000008e]
+[EN]
+Which adventurer will you[LB]
+work with?[LB]
+(Registered: [DATA][0000]  Slots left: [DATA][0100])[LB][END]
+[ES]
+¿Con qué explorador vas[LB]
+a trabajar?[LB]
+(Registrados: [DATA][0000]  Disponibles: [DATA][0100])[LB][END]
+
+
+[MSGH][00000007][0000007c]
+[EN]
+The adventurer's spot will be[LB]
+filled by an enhanced recruit.[LB][END]
+[ES]
+El puesto del explorador pasará[LB]
+a manos de un nuevo recluta.[LB][END]
+
+
+[MSGH][00000008][0000006a]
+[EN]
+Reset skill points in exchange[LB]
+for losing 5 levels.[LB][END]
+[ES]
+Reiniciar los puntos de habilidad[LB]
+a cambio de perder 5 niveles.[LB][END]
+
+
+[MSGH][00000009][00000064]
+[EN]
+The adventurer will leave[LB]
+the guild immediately.[LB][END]
+[ES]
+El explorador abandonará[LB]
+el gremio de forma inmediata.[LB][END]
+
+
+[MSGH][0000000a][0000002e]
+[EN]
+Rename an adventurer.[LB][END]
+[ES]
+Cambiar el nombre de un explorador.[LB][END]
+
+
+[MSGH][0000000b][00000048]
+[EN]
+Will you let this adventurer rest?[LB][END]
+[ES]
+¿Dar unas vacaciones al explorador?[LB][END]
+
+
+[MSGH][0000000c][00000074]
+[EN]
+Are you certain you want to[LB]
+give this adventurer a rest?[LB][END]
+[ES]
+¿Estás seguro de querer darle[LB]
+unas vacaciones al explorador?[LB][END]
+
+
+[MSGH][0000000d][00000044]
+[EN]
+Will you retire this adventurer?[LB][END]
+[ES]
+¿Deseas jubilar al explorador?[LB][END]
+
+
+[MSGH][0000000e][0000006a]
+[EN]
+Are you certain you want to[LB]
+retire this adventurer?[LB][END]
+[ES]
+¿Estás seguro de querer[LB]
+jubilar al explorador?[LB][END]
+
+
+[MSGH][0000000f][00000078]
+[EN]
+Any equipment the adventurer[LB]
+is wearing will also be lost![LB][END]
+[ES]
+¡La equipación que lleve el personaje[LB]
+se perderá en el proceso![LB][END]
+
+
+[MSGH][00000010][00000046]
+[EN]
+Will you dismiss this adventurer?[LB][END]
+[ES]
+¿Deseas despedir al explorador?[LB][END]
+
+
+[MSGH][00000011][0000006c]
+[EN]
+Are you certain you want to[LB]
+dismiss this adventurer?[LB][END]
+[ES]
+¿Estás seguro de querer[LB]
+despedir al explorador?[LB][END]
+
+
+[MSGH][00000012][00000088]
+[EN]
+The fee to change your registered[LB]
+name is 1000en. Are you certain?[LB][END]
+[ES]
+Las tasas para cambiar el nombre[LB]
+registrado son 1000en. ¿Confirmar?[LB][END]
+
+
+[MSGH][00000013][0000003c]
+[EN]
+You don't have enough money![LB][END]
+[ES]
+¡No dispones de dinero suficiente![LB][END]
+
+
+[MSGH][00000014][0000005a]
+[EN]
+Form an adventuring party[LB]
+from [GUILD]'s members.[LB][END]
+[ES]
+Formar un equipo aventurero[LB]
+con los miembros del gremio [GUILD].[LB][END]
+
+
+[MSGH][00000015][0000005a]
+[EN]
+After [DATA][0000] retired, an[LB]
+apprentice stepped in.[LB][END]
+[ES]
+Tras jubilar a [DATA][0000],[LB]
+un aprendiz llega al gremio.[LB][END]
+
+
+[MSGH][00000016][00000022]
+[EN]
+[DATA][0000] [LB]
+has rested.[LB][END]
+[ES]
+[DATA][0000] [LB]
+ha descansado.[LB][END]
+
+
+[MSGH][00000017][00000032]
+[EN]
+[DATA][0000] [LB]
+has been dismissed.[LB][END]
+[ES]
+[DATA][0000] [LB]
+ha sido expulsado.[LB][END]
+
+
+[MSGH][00000018][0000003c]
+[EN]
+The new recruit was named...[LB][END]
+[ES]
+El nuevo recluta se llamaba...[LB][END]
+
+
+[MSGH][00000019][0000003a]
+[EN]
+Is this the party you wish?[LB][END]
+[ES]
+¿Deseas aventurarte con este equipo?[LB][END]
+
+
+[MSGH][0000001a][00000038]
+[EN]
+No one is registered[LB]
+in [GUILD]![LB][END]
+[ES]
+¡No hay nadie registrado[LB]
+en [GUILD]![LB][END]
+
+
+[MSGH][0000001b][0000002c]
+[EN]
+[DATA][0000]'s roster is full![LB][END]
+[ES]
+¡El gremio [DATA][0000] no tiene plazas vacantes![LB][END]
+
+
+[MSGH][0000001c][000000ba]
+[EN]
+Your inventory is too full to[LB]
+remove any equipment! Please[LB]
+discard some of your belongings.[LB][END]
+[ES]
+¡El inventario está completo![LB]
+Descarta algún objeto antes[LB]
+de retirar piezas del equipo.[LB][END]
+
+
+[MSGH][0000001d][0000007c]
+[EN]
+Dead or petrified adventurers[LB]
+cannot be retired or dismissed[LB][END]
+[ES]
+Los exploradores fallecidos o petrificados[LB]
+no pueden retirarse o expulsarse.[LB][END]
+

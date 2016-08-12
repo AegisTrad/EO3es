@@ -1,0 +1,72 @@
+Obtained <!8068>                        .
+Obtained <!806A>        en.
+The party hasn't the necessary skill to mine here.
+The party hasn't the necessary skill to cut wood here.
+The party hasn't the necessary skill to gather plants here.
+The daily limit has been reached.
+Found nothing.
+Found <!8068>                        , but your stock is full.
+Found <!8068>                        , but your stock is full.
+Save your map data?
+Returning to the Title Screen. Do you want to save your game?
+English
+You cannot hold any more items. Please select something to discard.
+Are you sure you want to discard?
+Licensed by Nintendo
+The Labyrinth swallowed all...
+Innocents were stranded; sinners drowned in the depths; the damned vanished there.
+The great power was lost to Man, and Mother Earth turned her back on the new world.
+Only the cursed king on his throne in the abyss knows the truth...
+Are you sure you would like to delete your data?
+You will not be able to recover the lost data. Are you certain?
+Opening
+Verda Plaza: Day
+Verda Plaza: Midday
+Verda Plaza: Night
+Guildhouse
+Radha Hall
+Emerald Grove
+Primitive Jungle
+Azure Rainforest
+Sandy Barrens
+Lost Shinjuku
+Claret Hollows
+Eager Adventurers
+Seasoned Veterans
+FOE Battle
+Dread Battle
+Blood of Yggdrasil
+The Overlord
+War in the Abyss
+Victory!
+The Truth Revealed
+Foreboding
+Ren & Tlachtga
+Game Over
+Adventure's End
+End of the Weary Road
+Could not read the DS Card. Please turn the power OFF, reinsert the DS Card, then turn the power ON again.
+Could not save data. Turn the power OFF, reinsert the DS Card, then turn the power ON again.
+The option data has been corrupted. Resetting option data.
+Failed to save option data.
+Loading game data...
+Load successful.
+Data loading failed. Turn the power OFF, and reinsert the DS Card.
+The saved data is corrupt.
+B<!806C> F's map has been reset.
+Resuming backup data.
+The saved data is corrupted and needs to be deleted. Choose DELETE DATA in the Option menu.
+No saved game found.
+Saving game data...
+Save successful.
+Data saving failed. Turn the power OFF, and reinsert the DS Card.
+Saving map data...
+Deleting game data...
+Game data successfully deleted.
+Game data deletion failed.
+Have you heard? Some explorers finally solved the Labyrinth's mystery! I think you know them...
+I always knew t'ose guys could do it! Let's go give 'em a big hero's welcome home!
+So those kids made it back safe from the Labyrinth. But the Chieftain's disappeared...
+This town was that man's whole life, you know. There must be a good reason he's not coming back.
+I see... Then it's up to me to become the new Chieftain and watch over Etria in his stead.
+He'd like that. We'll do our part, too. We're interested to see what <!806E>        does next...

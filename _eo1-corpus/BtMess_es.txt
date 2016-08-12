@@ -1,0 +1,136 @@
+Spanish
+Ha aparecido <!812E>                        .
+Ha aparecido un grupo de monstruos.
+Han aparecido unos monstruos.
+¡El enemigo te ha sorprendido!
+Pero <!812D>                         ha anticipado el movimiento.
+Ataque preventivo.
+Aturdidor preventivo activado. El enemigo está aturdido.
+Han aparecido refuerzos.
+Un nuevo monstruo se ha unido a la batalla.
+A medida que la sombra se acerca, se oye un terrible aullido.
+¿Qué quieres hacer?
+Tu grupo no puede actuar.
+La moral de <!8064>                         está al máximo.
+El poder de <!8064>                         es mucho mayor.
+Es un grupo de enemigos.
+<!8131> se ha convertido en piedra.
+<!8131> está durmiendo...
+<!8131> no sabe qué hacer por su estado de confusión.
+<!8131> no se puede mover debido a la parálisis.
+<!8131> es presa del miedo y no se puede mover.
+<!8131>                         sufre un terrible mareo.
+<!8131> tiene la cabeza sellada.
+<!8131> tiene los brazos atados.
+<!8131> tiene las piernas atadas.
+Ataque doble activado.
+Primer ataque activado.
+<!8131> ataca.
+<!8066>    punto de daño.
+¡Golpe crítico! <!8066>    punto de daño.
+<!813B> ha recibido <!8066>    punto de daño.
+¡Golpe crítico! <!8066>    punto de daño.
+<!8131> usa la técnica <!8069>                 .
+<!8064> usa el hechizo <!8069>                 .
+<!8064> canta la canción <!8069>                 .
+<!8064> lanza la maldición <!8069>                 .
+<!8064> adopta la pose del cisne.
+<!8064> adopta la postura Seigan.
+<!8064> adopta la postura Iaidou.
+<!8064> usa <!80C9>                        .
+<!8131> adopta una postura defensiva.
+<!813B> pierde <!8066>    punto de vida debido a la maldición.
+Pero el ataque ha sido desviado.
+Pero no tiene ningún efecto sobre <!8137>                        .
+Pero el ataque ha fallado.
+No se puede escapar.
+Has absorbido la vitalidad del enemigo.
+Se ha absorbido una cantidad de PV.
+<!8131> intenta escapar.
+No has podido escapar.
+No has podido escapar de esta batalla.
+<!8131> ha invocado a otros monstruos.
+<!813B> ha recibido un golpe letal.
+<!813B> se ha convertido en piedra.
+<!813B> se ha dormido...
+<!813B> no sabe qué hacer por su estado de confusión.
+<!813B> es presa del miedo y no se puede mover.
+<!813B> sufre envenenamiento.
+<!813B> no puede ver.
+<!813B> es víctima de una maldición.
+<!813B> sufre parálisis.
+<!813B> sufre un terrible mareo.
+<!813B> tiene la cabeza sellada.
+<!813B> tiene los brazos atados.
+<!813B> tiene las piernas atadas.
+El efecto de la enfermedad en <!8137> ha desaparecido.
+El efecto benéfico en <!8137> ha desaparecido.
+Uno de los estados benéficos en <!8137> se ha anulado.
+Dos de los estados benéficos en <!8137> se han anulado.
+Tres de los estados benéficos en <!8137> se han anulado.
+Se ha curado una enfermedad que sufría <!8137>                        .
+Se han curado dos enfermedades que sufría <!8137>                        .
+Se han curado tres enfermedades que sufría <!8137>                        .
+<!813B> está ahora libre de dos ataduras.
+<!813B> está ahora libre de tres ataduras.
+<!813B> ya no sufre los efectos de la petrificación.
+<!813B> se ha despertado.
+<!813B> ya puede pensar con claridad.
+<!813B> ya no tiene miedo.
+<!813B> no está bajo los efectos del veneno.
+<!813B> ya puede ver.
+<!813B> ya no es víctima de una maldición.
+<!813B> ya se puede mover.
+<!813B> ya no tiene la cabeza sellada.
+<!813B> ya no tiene los brazos atados.
+<!813B> ya no tiene las piernas atadas.
+<!813B> ha recuperado <!8067>    PV.
+<!813B> ha recuperado todos los puntos de vida.
+<!813B> ha recuperado <!8067>    PT.
+<!813B> ha recuperado todos los puntos de técnica.
+<!813B> ha obtenido <!8067>    puntos de moral.
+<!813B> ha vuelto a la batalla.
+No hay adónde escapar.
+Has derrotado <!8139>                        .
+Has vencido al enemigo.
+Has vencido al enemigo.
+<!8065> ha muerto.
+El grupo ha sido derrotado...
+<!813B> ha conseguido sobrevivir al ataque.
+¡<!813B> se ha recuperado de sus heridas!
+<!813B> ha cambiado el orden de los turnos.
+No se ha podido cambiar el orden de los turnos.
+El cielo se oscurece y cae una lluvia de flechas.
+<!8131> se autoataca.
+<!8131> ha lanzado un ataque contra <!8065>                        .
+<!8131> sufre parálisis.
+<!8131> defiende la línea frontal.
+<!8131> defiende la línea trasera.
+<!8064> ha evitado el ataque del enemigo.
+<!8065> ha adivinado el movimiento del enemigo.
+<!813B> resiste el daño provocado por el fuego.
+<!813B> anula el daño provocado por el fuego.
+<!813B> absorbe el daño provocado por el fuego.
+<!813B> resiste el daño provocado por el hielo.
+<!813B> anula el daño provocado por el hielo.
+<!813B> absorbe el daño provocado por el hielo.
+<!813B> resiste el daño provocado por el rayo.
+<!813B> anula el daño provocado por el rayo.
+<!813B> absorbe el daño provocado por el rayo.
+<!813B> tiene ahora mayor resistencia al fuego.
+<!813B> tiene ahora menor resistencia al fuego.
+<!813B> tiene ahora mayor resistencia al hielo.
+<!813B> tiene ahora menor resistencia al hielo.
+<!813B> tiene ahora mayor resistencia a los rayos.
+<!813B> tiene ahora menor resistencia a los rayos.
+¡Golpe de Issen! <!813B>                         ha muerto al instante.
+Corte de fuego activado.
+Corte gélido activado.
+Electrocorte activado.
+Trampa activada.
+Contraataque activado.
+<!8066>    puntos de daño infligidos.
+¡Golpe crítico! <!8066>    puntos de daño infligidos.
+<!8066>    puntos de daño infligidos a <!8139>                        .
+¡Golpe crítico! <!8066>    puntos de daño infligidos.
+<!813B> ha recibido <!8066>    puntos de daño debido a la maldición.

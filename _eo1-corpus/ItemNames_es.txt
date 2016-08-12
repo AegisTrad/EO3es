@@ -1,0 +1,528 @@
+Cuchillo
+Degolladora
+Daga
+Espada corta
+Ensartadora
+Gran espada
+Espada ropera
+Espada vikinga
+Shamshir
+Claymore
+Ejecutora
+Katzbalger
+Hoja damasquina
+Crishmald
+Estoque
+Espada bastarda
+Hoja de fuego
+Duergar
+Espada de dragón
+Hacha ósea
+Hacha ligera
+Céltica
+Hacha
+Hacha de batalla
+Billiomg
+Tabar Zin
+Gran hacha
+Bardiche
+Alabarda
+Varita
+Romperrocas
+Labyris
+Francisca
+Bhuj
+Hacha Fasces
+Hacha de fuego
+Hacha meteoro
+Segur
+Bastón
+Bastón óseo
+Maza ósea
+Bastón alado
+Varita ósea
+Bastón enjoyado
+Maza de guerra
+Bastón de suerte
+Lucero del alba
+Vara mística
+Martillo de Thor
+Vara arcana
+Vara de Minerva
+Wakizashi
+Uchigatana
+Odachi
+Kogarasu
+Shida
+Zanmatou
+Kuzunosada
+Hachi
+Hisamemaru
+Masamune
+Arco de madera
+Arco esmaltado
+Arco pequeño
+Arcunicornio
+Gran honda
+Gran arco
+Hindi
+Arco certero
+Arco de caza
+Arco oceánico
+Arco Natura
+Arco celestial
+Shigetou
+Arco de batalla
+Arbalesta
+Arco infalible
+Arco de Zamiel
+Arco de Apolo
+Látigo ligero
+Látigo dentado
+Látigo de cuero
+Látigo espinoso
+Látigo feroz
+Desgarrador
+Aguijón venenoso
+Látigo elástico
+Multigarras
+Despedazador
+Fusta-aguijón
+Fusta metálica
+Látigo del dolor
+Fusta despiadada
+Látigo mortal
+Atormentador
+Dominador
+Látigo eléctrico
+Fusta de Alraune
+Chaqueta
+Chaleco
+Abrigo ligero
+Chaleco de cuero
+Armadura de piel
+Coraza
+Jubón
+Abrigo de piel
+Briault
+Cota de mallas
+Chaleco floral
+Túnica forestal
+Coraza férrea
+Malla de anillas
+Chaleco de roble
+Chaleco alado
+Gran malla
+Coraza reforzada
+Vestido elegante
+Mantón de piel
+Gran armadura
+Malla acorazada
+Chaleco irisado
+Chaquetilla
+Chaleco de tigre
+Toga de hada
+Túnica siniestra
+Brigantina
+Coraza de ébano
+Lycoris
+Malla de dragón
+Malla de escamas
+Abrigo demoniaco
+Chaleco rúnico
+Túnica mágica
+Malla sangrienta
+Coraza meteoro
+Coraza azur
+Manto de sangre
+Dinocoraza
+Malla demoniaca
+Coraza sílfide
+Armadura sacra
+Túnica fantasma
+Toga de Uróboros
+Toga angelical
+Malla fantástica
+Malla de rubíes
+Manto de brujo
+Manto de Gea
+Manto de fuego
+Manto de hielo
+Manto de rayo
+Horquilla
+Gorro de cuero
+Gorro con pluma
+Cofia de malla
+Casco de goma
+Casco de escama
+Gorra de escamas
+Broche arbóreo
+Gorra de tigre
+Tiara rúnica
+Casco sangriento
+Casco angelical
+Guantes de lana
+Guantes de cuero
+Guantes ligeros
+Guantes de metal
+Guantes de oso
+Guantes de goma
+Guante con garra
+Guantes arenosos
+Garra de tigre
+Guantes rúnicos
+Guantes meteoro
+Guantes de valor
+Guantes de ébano
+Guante mágico
+Guantes granates
+Guantes tóxicos
+Adarga
+Broquel
+Aspis
+Rodela
+Ignoaspis
+Escudo de goma
+Scutum
+Aspis de sombra
+Escudo de plata
+Escudo de káiser
+Escudo celestial
+Escudo sagrado
+Escudo del dolor
+Botas ligeras
+Botas de cuero
+Botas aladas
+Botas de malla
+Mocasines
+Botas de escamas
+Botas de duende
+Botas de tigre
+Botas flámeas
+Botas de piel
+Mallas carmesí
+Botas de Hermes
+Correa de cuero
+Anillo de cuero
+Amuleto carmesí
+Collar de flores
+Talismán
+Anillo turquesa
+Capa forestal
+Anillo de fuego
+Talismán astral
+Talismán afilado
+Collar Ganesha
+Capa de aligátor
+Anillo de ámbar
+Amuleto marino
+Anillo cerúleo
+Capa de Marte
+Amuleto malvado
+Collar de rosas
+Anillo real
+Capa dorada
+Anillo celestial
+Anillo angelical
+Ojo de cristal
+Rubí
+Zafiro
+Topacio
+Turmalina
+Diamante
+Muñeca maligna
+Ocarina
+Laúd
+Flauta
+Cítara
+Oboe doble
+Arpa angelical
+Lira sagrada
+Medalla de Etria
+Corona de Etria
+Anillo de Gea
+Cinta de Gea
+Colmillo corto
+Piel suave
+Hueso de animal
+Caparazón
+Ala de insecto
+Flor pequeña
+Ojo de insecto
+Piel de conejo
+Cuerno
+Corteza
+Vid
+Carbón vegetal
+Piel elástica
+Espina
+Cuerno metálico
+Piel rígida
+Trozo de ámbar
+Manzana de Zeus
+Hoja de Minerva
+Fruta carmesí
+Piedra nívea
+Piroxeno
+Roca de gólem
+Gran colmillo
+Colmillo enorme
+Piel blanca
+Guadaña
+Materia viscosa
+Trozo de acero
+Aguijón
+Telaraña
+Garra curvada
+Madera ligera
+Hoja colorante
+Semilla astral
+Corteza olorosa
+Vid elástica
+Pluma
+Coxis
+Carminita
+Metaesqueleto
+Hoja pesada
+Garra de pájaro
+Colmillo felino
+Piel de tigre
+Hoja de menta
+Chatarra
+Fósil
+Piel de oso
+Pata de pájaro
+Concha fina
+Aguijón tóxico
+Cuerno afilado
+Ala resistente
+Colmillo duro
+Colmillo grande
+Faringe de goma
+Roca de coral
+Cuero elástico
+Ojo cristalino
+Hueso de acero
+Fragmento óseo
+Armazón
+Nido de insecto
+Ala de vampiro
+Limo brillante
+Uña partida
+Piel rojiza
+Molar sangrante
+Escama de pez
+Aleta de pez
+Pata de acero
+Miel de hormiga
+Concha afilada
+Fresa
+Rama marina
+Corindón
+Pinza roja
+Garra mortal
+Gran aleta
+Concha vetusta
+Piel de caimán
+Piel caliente
+Cola de fuego
+Cuero blanco
+Colmillo blanco
+Cuerno luminoso
+Glándula
+Ojo partido
+Ojo plateado
+Hoz mortal
+Tendón
+Vid seca
+Raíz mutante
+Piedra dura
+Pluma de tinta
+Tela arenosa
+Rama arenosa
+Ala de hada
+Sangre de hada
+Pluma roja
+Pico rojo
+Melocotón seco
+Vid vibrante
+Cuerda roja
+Hilo rojo
+Adelfa
+Garra metálica
+Lámina de acero
+Culinan
+Cordyceps
+Savia
+Uña astral
+Diente pequeño
+Piel demoniaca
+Cuello gigante
+Núcleo de joya
+Hilo elástico
+Piel roja
+Sangre roja
+Concha dorada
+Sangre azul
+Tallo mortífero
+Piel dorada
+Colmillo de oro
+Cuerno de oro
+Cáscara astral
+Garra astral
+Ala de ángel
+Miel curativa
+Esternón
+Colmillo del mal
+Piel real
+Sudario
+Mineral rojo
+Ambrosía
+Piedra tricolor
+Cabeza-raíz
+Brazo-raíz
+Pierna-raíz
+Hilo de goma
+Vid reluciente
+Lumisemilla
+Trozo de yeso
+Capa cristalina
+Mineral de jade
+Mineral azur
+Concha maligna
+Escama malvada
+Pluma malvada
+Cresta maligna
+Concha arcaica
+Concha longeva
+Polvo reflector
+Raíz oscura
+Pluma preciosa
+Médula mágica
+Pluma dorada
+Ala infernal
+Terciopelo
+Pata perforada
+Cráneo granate
+Hueso escarlata
+Cadena mágica
+Costilla afilada
+Piel flámea
+Piel congelada
+Piel eléctrica
+Electronúcleo
+Escama flámea
+Colmillo flámeo
+Brazo de gólem
+Ojo de bestia
+Hueso gélido
+Núcleo maligno
+Pluma de ébano
+Espinazo gélido
+Bigote
+Vid celestial
+Hoz infalible
+Melena real
+Gran mandíbula
+Escama gélida
+Látigo púrpura
+Látigo de rosas
+Garra venenosa
+Electroescama
+Mineral dorado
+Exoesqueleto
+Escama fría
+Fruta deforme
+Crucisemilla
+Narciso
+Cactus Neblatio
+Hoja pequeña
+Hoja mediana
+Hoja grande
+Ungüento
+Ungüento II
+Ungüento III
+Ungüento IV
+Ungüento V
+Amrita
+Amrita II
+Haoma
+Megahaoma
+Soma
+Megasoma
+Néctar
+Néctar II
+Néctar III
+Teriaca alfa
+Teriaca beta
+Axcela
+Axcela II
+Axcela III
+Valentus
+Valentus II
+Petro
+Petro II
+Pironiebla
+Geloniebla
+Electroniebla
+Niebla eterna
+Aceite candente
+Aceite gélido
+Electroaceite
+Campana
+Timbal áureo
+Imán
+Mapa
+Agua sagrada
+Agua
+Botella
+Caja de trastos
+Basura
+Medallón
+Semilla
+Piedra dorada
+Piedra dorada
+Piedra lunar
+Queso gouda
+Polvo misterioso
+Moneda de suerte
+Espada oxidada
+Hacha rota
+Varita antigua
+Panacea
+Flor única
+Semilla dorada
+Piedra Vox
+Llave cristalina
+Llave violeta
+Huevo de dragón
+Tarjeta con chip
+Santo Grial
+Tapa de cobre
+Disco brillante
+Botella suave
+Ficha dorada
+Pieza doblada
+Pluma mágica
+Pluma etérea
+Pluma multicolor
+Diamante
+Joya oscura
+Joya brillante
+Pergamino viejo
+Campana mágica
+Mapa
+Nota de Radha
+Hilo de Ariadna
+Tough Fang
+Tough Wing
+Brazo congelado
+anj A
+anj B
+anj C
+anj D
+anj E
+Motor anj
+Bandana
+Perla
+Carne legendaria

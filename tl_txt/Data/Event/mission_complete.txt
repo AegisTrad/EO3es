@@ -1,0 +1,112 @@
+[HEAD][00000610][0000000d]
+
+[MSGH][00000000][00000060]
+[EN]
+Fill in the specified area[LB]
+of B1F on your map![LB][END]
+[ES]
+¡Completa la zona especificada[LB]
+del piso -1 en tu mapa![LB][END]
+
+
+[MSGH][00000001][0000002e]
+[EN]
+Defeat Narmer on B4F![LB][END]
+[ES]
+¡Derrota a Narmer en el piso -4![LB][END]
+
+
+[MSGH][00000002][0000005e]
+[EN]
+Pursue Olympia, who vanished[LB]
+into the forest.[LB][END]
+[ES]
+Persigue a Olimpia, ya que se[LB]
+desvaneció en el bosque.[LB][END]
+
+
+[MSGH][00000003][00000070]
+[EN]
+Find the legendary Deep City[LB]
+at the bottom of the sea![LB][END]
+[ES]
+¡Encuentra la legendaria Inmersópolis[LB]
+en el fondo del mar![LB][END]
+
+
+[MSGH][00000004][00000078]
+[EN]
+Go to the Hall of Conviction[LB]
+located on the Third Stratum.[LB][END]
+[ES]
+Dirígete a la Sala de condena,[LB]
+situada en el Tercer estrato.[LB][END]
+
+
+[MSGH][00000005][00000032]
+[EN]
+Protect the Gatekeeper![LB][END]
+[ES]
+¡Protege al Guardabarreras![LB][END]
+
+
+[MSGH][00000006][0000002c]
+[EN]
+Slay the Gatekeeper![LB][END]
+[ES]
+¡Liquida al Guardabarreras![LB][END]
+
+
+[MSGH][00000007][00000088]
+[EN]
+Find the Amarantos said to be in[LB]
+the depths of the Abyssal Shrine![LB][END]
+[ES]
+¡Halla el Amarantos, del que se dice[LB]
+encontrarse en el Eremitorio abismal![LB][END]
+
+
+[MSGH][00000008][0000008a]
+[EN]
+Find the teleporter said to be in[LB]
+the depths of the Abyssal Shrine![LB][END]
+[ES]
+¡Encuentra el teletransportador que se[LB]
+halla en el Eremitorio abismal![LB][END]
+
+
+[MSGH][00000009][0000007a]
+[EN]
+Enter the Abyssal Shrine and[LB]
+follow Olympia's instructions.[LB][END]
+[ES]
+Adéntrate en el Eremitorio abismal[LB]
+y sigue las instrucciones de Olimpia.[LB][END]
+
+
+[MSGH][0000000a][0000008a]
+[EN]
+Find the teleporter said to be in[LB]
+the depths of the Abyssal Shrine![LB][END]
+[ES]
+¡Encuentra el teletransportador que se[LB]
+halla en el Eremitorio abismal![LB][END]
+
+
+[MSGH][0000000b][00000070]
+[EN]
+Find the Abyssal King who is[LB]
+threatening the Princess![LB][END]
+[ES]
+¡Halla al Rey abismal, que amenaza[LB]
+el bienestar de la Princesa![LB][END]
+
+
+[MSGH][0000000c][00000068]
+[EN]
+Obey the Abyssal King and[LB]
+slay the Porcelain Lady![LB][END]
+[ES]
+¡Obedece al Rey abismal y liquida[LB]
+a la Dama de porcelana![LB][END]
+

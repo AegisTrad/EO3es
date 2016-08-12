@@ -1,0 +1,87 @@
+[HEAD][00000658][00000008]
+
+[MSGH][00000000][000000bc]
+[EN]
+...They say dreams are fleeting...[LB]
+This is a dream, right? Princess[LB]
+Gutrune can't be dead...[LB][END]
+[ES]
+Los sueños se desvanecen... Esto es[LB]
+sueño, ¿verdad? La princesa Gutrune[LB]
+no puede estar muerta...[LB][END]
+
+
+[MSGH][00000001][000000aa]
+[EN]
+So [GUILD] has succeeded.[LB]
+The Abyssal King anticipated great[LB]
+things from you... As did I.[LB][END]
+[ES]
+[GUILD], entonces lo habéis conseguido.[LB]
+El rey Abismal esperaba grandes cosas[LB]
+de vosotros... y yo también.[LB][END]
+
+
+[MSGH][00000002][00000084]
+[EN]
+...Hey, what's going on? Just what[LB]
+happened in the royal forest?[LB][END]
+[ES]
+¡Eh! ¡¿Qué está pasando?! ¡¿Qué ha[LB]
+ocurrido en el bosque real?![LB][END]
+
+
+[MSGH][00000003][000000c6]
+[EN]
+I'm relieved to hear the threat of[LB]
+the Deep Ones is no more. I know[LB]
+the Abyssal King is glad too![LB][END]
+[ES]
+Me tranquiliza saber que la amenaza[LB]
+de los Insondables ha cesado. ¡Y[LB]
+el Rey Abismal también![LB][END]
+
+
+[MSGH][00000004][000000d0]
+[EN]
+The hidden truth becomes apparent...[LB]
+What will happen to Armoroad now?[LB]
+We all need to tread carefully.[LB][END]
+[ES]
+La verdad oculta resulta evidente...[LB]
+¿Qué será del provenir de Armoroad?[LB]
+Hay que ser cautelosos.[LB][END]
+
+
+[MSGH][00000005][000000c0]
+[EN]
+Why did the Abyssal King go to the[LB]
+forest...? Had the memories he[LB]
+lost returned? If so... I...[LB][END]
+[ES]
+¿Por qué iría el Rey Abismal al[LB]
+bosque...? ¿Habría recuperado[LB]
+sus recuerdos? Si fuera así...[LB][END]
+
+
+[MSGH][00000006][000000a8]
+[EN]
+...I am put in mind of a strange[LB]
+girl's face... It evokes some old[LB]
+feeling, but...[LB][END]
+[ES]
+Me recuerda a la faz de una joven[LB]
+desconocida... Evoca unos recuerdos[LB]
+antiguos, pero...[LB][END]
+
+
+[MSGH][00000007][000000d0]
+[EN]
+The Abyssal Lord lost a portion of[LB]
+his memories with his human body.[LB]
+That is how this tragedy began...[LB][END]
+[ES]
+El Lord Abismal ha perdido parte de[LB]
+sus recuerdos junto a su cuerpo humano.[LB]
+Así fue como empezó la tragedia...[LB][END]
+

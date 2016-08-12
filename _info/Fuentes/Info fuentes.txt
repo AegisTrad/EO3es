@@ -1,0 +1,32 @@
+fuentes
+--------------------------------------------------------------------------------
+archivos Data\Event\Font\*.cmp
+
+compresión con LZSS
+
+0x25A/602 caracteres
+
+tabla de anchos de las fuentes en ARM9.BIN:
+  + 0x0E2C58 fnt0
+  + 0x0E3366 fnt1
+  + 0x0E3A74 fnt2
+    - 3 bytes, lo habitual en las fuentes NFTR
+
+tabla de conversión de las fuentes en ARM9.BIN:
+  + 0x0E3A74 fnt0
+  + 0x0E43DC fnt1
+  + 0x0E4D44 fnt2
+    - 2 bytes, código SJIS, low endian
+    - 2 bytes, código usado, low endian
+
+...
+Una corrección, que he visto en otro txt que tengo por aquí: 
+
+
+tabla de anchos de las fuentes en ARM9.BIN: 
+  + 0x0E2C58 fuente 8x8 
+  + 0x0E310C fuente 10x10 
+  + 0x0E35C0 fuente 12x12 
+cada tabla se compone de 602*2 bytes: 
+  - 1 byte, pixeles a saltar 
+  - 1 byte, pixeles a mostrar 

@@ -1,0 +1,112 @@
+[HEAD][00000474][00000010]
+
+[MSGH][00000001][0000005c]
+[EN]
+Hear the requests of[LB]
+Armoroad's townspeople.[LB][END]
+[ES]
+Escuchar las peticiones de[LB]
+la gente de Armoroad.[LB][END]
+
+
+[MSGH][00000002][00000060]
+[EN]
+Confirm a quest's completion[LB]
+or give up on it.[LB][END]
+[ES]
+Confirmar las hazañas de un[LB]
+encargo o rendirse.[LB][END]
+
+
+[MSGH][00000003][0000005e]
+[EN]
+Talk to fellow explorers to[LB]
+gain information.[LB][END]
+[ES]
+Obtener información hablando con[LB]
+otros camaradas exploradores.[LB][END]
+
+
+[MSGH][00000004][00000020]
+[EN]
+Talk to Missy.[LB][END]
+[ES]
+Hablar con Meli.[LB][END]
+
+
+[MSGH][00000005][0000002c]
+[EN]
+Return to the plaza.[LB][END]
+[ES]
+Volver al centro de la ciudad.[LB][END]
+
+
+[MSGH][00000006][0000003a]
+[EN]
+Who do you want to talk to?[LB][END]
+[ES]
+¿Con quién quieres hablar?[LB][END]
+
+
+[MSGH][00000007][00000030]
+[EN]
+There are no requests.[LB][END]
+[ES]
+No hay encargos pendientes.[LB][END]
+
+
+[MSGH][00000008][0000003a]
+[EN]
+Will you accept this quest?[LB][END]
+[ES]
+¿Quieres aceptar este encargo?[LB][END]
+
+
+[MSGH][00000009][0000003a]
+[EN]
+You have accepted the task.[LB][END]
+[ES]
+Te has encomendado la tarea.[LB][END]
+
+
+[MSGH][0000000a][0000003c]
+[EN]
+There are no tasks underway.[LB][END]
+[ES]
+No tienes ningún encargo.[LB][END]
+
+
+[MSGH][0000000b][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][0000000c][0000003e]
+[EN]
+Will you give up on the task?[LB][END]
+[ES]
+¿Vas a rendirte y dejar el encargo?[LB][END]
+
+
+[MSGH][0000000d][00000032]
+[EN]
+You abandoned the task.[LB][END]
+[ES]
+Has abandonado la tarea.[LB][END]
+
+
+[MSGH][0000000e][00000022]
+[EN]
+No one is here.[LB][END]
+[ES]
+No hay nadie.[LB][END]
+
+
+[MSGH][0000000f][00000048]
+[EN]
+You can't take on any more quests![LB][END]
+[ES]
+¡No puedes asumir más encargos![LB][END]
+

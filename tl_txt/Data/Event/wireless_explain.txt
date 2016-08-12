@@ -1,0 +1,14 @@
+[HEAD][0000013c][00000001]
+
+[MSGH][00000000][0000010c]
+[EN]
+An unidentified monster has appeared[LB]
+near Armoroad. We call upon able-bodied[LB]
+explorers from all guilds to fight it![LB]
+[COLOR][0500]Reward: [COLOR][0000]Fame[LB][END]
+[ES]
+Un monstruo desconocido ha aparecido[LB]
+cerca de Armoroad. ¡Hacemos un llamamiento[LB]
+a los exploradores más capaces![LB]
+[COLOR][0500]Recompensa: [COLOR][0000]Fama[LB][END]
+

@@ -1,0 +1,58 @@
+[HEAD][000002d8][00000008]
+
+[MSGH][00000001][0000006c]
+[EN]
+Please choose a guild name[LB]
+using the keyboard below.[LB][END]
+[ES]
+Escribe el nombre de tu gremio[LB]
+con el teclado inferior.[LB][END]
+
+
+[MSGH][00000002][00000040]
+[EN]
+Is this guild name acceptable?[LB][END]
+[ES]
+¿Será este el nombre de tu gremio?[LB][END]
+
+
+[MSGH][00000003][0000006e]
+[EN]
+Enter the adventurer's name[LB]
+using the keyboard below.[LB][END]
+[ES]
+Escribe el nombre del personaje[LB]
+con el teclado inferior.[LB][END]
+
+
+[MSGH][00000004][0000005a]
+[EN]
+Choose a new name using the[LB]
+keyboard below.[LB][END]
+[ES]
+Escribe el nombre utilizando[LB]
+el teclado inferior.[LB][END]
+
+
+[MSGH][00000005][00000034]
+[EN]
+Is this name acceptable?[LB][END]
+[ES]
+¿Será este el nombre del personaje?[LB][END]
+
+
+[MSGH][00000006][00000062]
+[EN]
+Please name your ship using[LB]
+the keyboard below.[LB][END]
+[ES]
+Escribe el nombre de tu barco[LB]
+con el teclado inferior.[LB][END]
+
+
+[MSGH][00000007][0000003e]
+[EN]
+Is this ship name acceptable?[LB][END]
+[ES]
+¿Será este el nombre de tu barco?[LB][END]
+

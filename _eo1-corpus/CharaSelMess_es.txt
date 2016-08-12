@@ -1,0 +1,34 @@
+Spanish
+Mensaje no encontrado.
+Soldado
+Guardabosque
+Paladín
+Cazador oscuro
+Médico
+Hechicero
+Trovador
+Samurái
+Brujo
+Confirmar
+Cancelar
+Expertos del hacha y la espada. Usan una gran variedad de armaduras y armas de combate cuerpo a cuerpo. <!color=0006>Guerreros ideales en la línea frontal.
+Buenos conocedores de los secretos del bosque; usan con pericia el arco, por lo que son grandes aliados. <!color=0006>Rápidos y útiles en ambas filas.
+Defensores sagrados de los débiles. Su escudo y espada son magníficos aliados en las mazmorras. <!color=0006>Destacan en la línea frontal.
+Sus latigazos pueden debilitar a los enemigos, mientras que sus habilidades pueden decidir la batalla. <!color=0006>Mejor usarlos en la línea frontal.
+No se especializan en combate, pero sus dotes curativas mantienen vivos a los guerreros.  <!color=0006>Suelen estar siempre en la retaguardia.
+Saben controlar la propia naturaleza. Pueden invocar el poder del fuego, del hielo y de los rayos. <!color=0006>Usan la magia desde la retaguardia.
+Cantan y bailan para animar a los compañeros del grupo. Su apoyo es vital en las luchas.  <!color=0006>Cualquier fila es buena para animar.
+Maestros de la espada. Para ellos, la muerte es honorable, por lo que no suelen tener gran defensa. <!color=0006>Orgullosos de estar en la línea frontal.
+Su brujería decide si un enemigo ha de vivir o morir. Sus dotes innatas son muy raras.  <!color=0006>Realizan conjuros desde las sombras.
+Usa el teclado para introducir el nombre del personaje.
+Selecciona la clase.
+Selecciona el retrato.
+¿Quieres registrar a este personaje?
+Registro completado.
+¡No puedes usar ese nombre!
+SÍ
+NO
+Usa el teclado para introducir el nombre del gremio.
+Gremio: 
+¿Estás de acuerdo con este nombre para el gremio?
+¿Quieres registrar a otro personaje?

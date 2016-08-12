@@ -1,0 +1,29 @@
+[HEAD][00000100][00000005]
+
+[MSGH][00000001][0000002e]
+[EN]
+The strength of bonds[LB][END]
+[ES]
+La fuerza del vínculo[LB][END]
+
+
+[MSGH][00000002][00000026]
+[EN]
+Fruit of recovery[LB][END]
+[ES]
+Fruta de restauración[LB][END]
+
+
+[MSGH][00000003][00000020]
+[EN]
+My first quest[LB][END]
+[ES]
+Mi primera aventura[LB][END]
+
+
+[MSGH][00000004][0000002c]
+[EN]
+Batavia monster hunt[LB][END]
+[ES]
+A la caza del monstruo de Batavia[LB][END]
+

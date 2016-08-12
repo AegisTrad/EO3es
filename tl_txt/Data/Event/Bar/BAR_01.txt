@@ -1,0 +1,28 @@
+[HEAD][00000242][00000001]
+
+[MSGH][00000000][00000212]
+[EN]
+...Have you folks been out to sea[LB]
+yet? If you're ever out on the[LB]
+water, try catching some [COLOR][0500]fish[COLOR][0000].[LB][PB]
+[ES]
+¿Habéis estado ya en el mar?[LB]
+No lo penséis dos veces y pescad[LB]
+toneladas de [COLOR][0500]peces[COLOR][0000].[LB][PB]
+
+[EN]
+There's all kinds of fish around[LB]
+Armoroad. If you catch any, folks[LB]
+at the port will pay handsomely.[LB][PB]
+[ES]
+En Armoroad los hay de muchas clases.[LB]
+La chavalada del puerto estará[LB]
+encantada de comprar vuestra pesca.[LB][PB]
+
+[EN]
+The rarer your catch, the more[LB]
+you'll rake in. Give it a try.[LB][END]
+[ES]
+Las especies más raras son las que[LB]
+más guita embolsan. ¡Dadle caña![LB][END]
+

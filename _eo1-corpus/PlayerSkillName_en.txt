@@ -1,0 +1,189 @@
+HP Up
+TP Up
+ATK Up
+DEF Up
+Axes
+Swords
+2-Hit
+Mine
+War Cry
+Hell Cry
+Arm Heal
+Crush
+Stunner
+Silencer
+Cleaver
+Tornado
+Allslash
+Blazer
+Shocker
+Freezer
+Flee
+HP Up
+TP Up
+AGI Up
+Bows
+1st Hit
+Ambush
+Chop
+Mine
+Take
+1st Turn
+Trickery
+Quicken
+Trueshot
+Multihit
+Disable
+Apollon
+Cloak
+Escape
+Aware
+Stalker
+Owl-Eye
+HP Up
+TP Up
+DEF Up
+Shields
+Aegis
+En Garde
+Mine
+Provoke
+F. Guard
+B. Guard
+Parry
+Fortify
+Defender
+Smite
+Antifire
+Antivolt
+Anticold
+Cure
+Cure II
+Flee
+Stalker
+HP Up
+TP Up
+ATK Up
+Whips
+Swords
+Boost Up
+Fury
+Take
+Cloak
+Viper
+Gag
+Cuffs
+Shackles
+Ecstasy
+Climax
+Hypnos
+Nerve
+Petrify
+Bait
+Drain
+Mirage
+HP Up
+TP Up
+ATK Up
+Katanas
+Crit Up
+Sight
+Mine
+Ibukigai
+Kesagiri
+Overhead
+Zamba
+Midareba
+Orochi
+Seigan
+Mikiri
+Koteuchi
+Raizuki
+Iaidou
+Kubiuchi
+Gatotsu
+Hyosetsu
+HP Up
+TP Up
+ATK Up
+Healer
+Patch Up
+Scavenge
+TP Regen
+Chop
+Cure
+Cure II
+Cure III
+Salve
+Salve II
+Revive
+Unbind
+Refresh
+Immunize
+Caduceus
+CPR
+Regen
+H. Touch
+TP Up
+Fire Up
+Ice Up
+Volt Up
+Toxins
+Scavenge
+TP Regen
+Chop
+Fire
+Flame
+Inferno
+Ice
+Freeze
+Cocytus
+Volt
+Thunder
+Thor
+Poison
+Venom
+Sight
+Warp
+HP Up
+TP Up
+Songs
+Divinity
+Bravery
+Shelter
+Mercury
+Blaze
+Frost
+Shock
+Erasure
+Stamina
+Ifrit
+Ymir
+Taranis
+Healing
+Relaxing
+Recovery
+Stalker
+Return
+Take
+HP Up
+TP Up
+Curses
+Stagger
+Mine
+Sapping
+Frailty
+Leaden
+Relapse
+Cranial
+Abdomen
+Immobile
+Blinding
+Torpor
+Corrupt
+Evil Eye
+Suicide
+Betrayal
+Paralyze
+Revenge
+Lure

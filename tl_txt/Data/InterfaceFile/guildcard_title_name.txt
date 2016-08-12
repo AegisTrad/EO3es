@@ -1,0 +1,92 @@
+[HEAD][00000298][0000000d]
+
+[MSGH][00000000][0000001a]
+[EN]
+Guild Debut[LB][END]
+[ES]
+Debutante[LB][END]
+
+
+[MSGH][00000001][0000001c]
+[EN]
+Sea Mediator[LB][END]
+[ES]
+Mediador del mar[LB][END]
+
+
+[MSGH][00000002][00000020]
+[EN]
+Porcelain Wish[LB][END]
+[ES]
+Deseo de porcelana[LB][END]
+
+
+[MSGH][00000003][00000020]
+[EN]
+Abyssal Desire[LB][END]
+[ES]
+Voluntad abismal[LB][END]
+
+
+[MSGH][00000004][0000001a]
+[EN]
+Eldest Path[LB][END]
+[ES]
+Caminante antiguo[LB][END]
+
+
+[MSGH][00000005][00000022]
+[EN]
+Starry Visitors[LB][END]
+[ES]
+Visitantes de las estrellas[LB][END]
+
+
+[MSGH][00000006][00000026]
+[EN]
+Master of the Sea[LB][END]
+[ES]
+Maestro de los mares[LB][END]
+
+
+[MSGH][00000007][0000001c]
+[EN]
+Limit Master[LB][END]
+[ES]
+Patrón del límite[LB][END]
+
+
+[MSGH][00000008][00000022]
+[EN]
+Treasure Hunter[LB][END]
+[ES]
+Cazatesoros[LB][END]
+
+
+[MSGH][00000009][00000022]
+[EN]
+Quests Complete[LB][END]
+[ES]
+Búsqueda completa[LB][END]
+
+
+[MSGH][0000000a][00000026]
+[EN]
+Armoroad's Finest[LB][END]
+[ES]
+Crema y nata de Armoroad[LB][END]
+
+
+[MSGH][0000000b][00000024]
+[EN]
+Yggdrasil Hunter[LB][END]
+[ES]
+Cazador de Yggdrasil[LB][END]
+
+
+[MSGH][0000000c][00000026]
+[EN]
+Yggdrasil Curator[LB][END]
+[ES]
+Comisario de Yggdrasil[LB][END]
+

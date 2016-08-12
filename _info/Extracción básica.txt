@@ -1,0 +1,31 @@
+﻿Descomprimimos el juego con DSBuff, como de costumbre, y tenemos los archivos 
+normales, y dentro de la carpeta Data nos encontramos los datos separados del 
+sonido. 
+
+La carpeta /data/data/ está comprimida de una forma especial de ATLUS, pero por 
+suerte CUE hizo una herramienta para descomprimirlo, llamada "NDS_Atlus_Packer-
+CUE".
+
+Descomprimimos y nos encontramos ya los archivos colocaditos por carpetas 
+bastante lógicas.
+
+Los archivos están comprimidos algunos en CMP, que usa una compresión RLE típica 
+de la NDS, por lo que con el DSDecmp podemos descomprimirlos. Se supone que nos 
+darán archivos GFNT, que con TiledGGD podemos mostrar y editar por defecto. 
+Podrían ser también FBIN, que saldrían GFAN (creo que animaciones). NinUnpack 
+creo que iría bien con esto también.
+
+Los NTFP son Nintendo Tile Format Palette, y con Tinke se supone que se podrían 
+ver.
+
+En el ARM9, sobre 0x8B71C empieza a haber algo de texto, y reaparece sobre 
+0x8D0AC. Echar un vistazo si queda algo ingame sin traducir, que probablemente 
+ande el texto por ahí.
+
+Enlaces:
+
+http://code.google.com/p/tinke/
+http://d.hatena.ne.jp/loveemu/20091002/nds_formats
+http://www.romhacking.net/utilities/871/
+http://code.google.com/p/tiledggd/
+http://code.google.com/p/dsdecmp/

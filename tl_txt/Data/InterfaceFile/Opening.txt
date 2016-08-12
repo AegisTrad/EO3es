@@ -1,0 +1,85 @@
+[HEAD][000003b4][0000000c]
+
+[MSGH][00000000][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000001][0000003e]
+[EN]
+Hie thee to the ocean city...[LB][END]
+[ES]
+«Marchen a la ciudad oceánica;[LB][END]
+
+
+[MSGH][00000002][0000003a]
+[EN]
+To the Yggdrasil Labyrinth.[LB][END]
+[ES]
+al Laberinto de Yggdrasil.[LB][END]
+
+
+[MSGH][00000003][00000042]
+[EN]
+A journey to the blue depths...[LB][END]
+[ES]
+Surquen el azul profundo...[LB][END]
+
+
+[MSGH][00000004][00000044]
+[EN]
+To conquer the shadows of night.[LB][END]
+[ES]
+y conquisten la sombras nocturnas».[LB][END]
+
+
+[MSGH][00000005][0000003e]
+[EN]
+Though you know not what this[LB][END]
+[ES]
+Aunque no estás seguro de lo que[LB][END]
+
+
+[MSGH][00000006][00000042]
+[EN]
+means, you go towards Armoroad.[LB][END]
+[ES]
+significa, partes hacia Armoroad.[LB][END]
+
+
+[MSGH][00000007][00000048]
+[EN]
+What awaits is time's end; death's[LB][END]
+[ES]
+Lo que allí te espera es el fin del[LB][END]
+
+
+[MSGH][00000008][00000040]
+[EN]
+demise. A tempestuous dream...[LB][END]
+[ES]
+tiempo y un sueño tempestuoso...[LB][END]
+
+
+[MSGH][00000009][00000048]
+[EN]
+To push away the unfathomable dark[LB][END]
+[ES]
+Desvanecer la oscuridad insondable[LB][END]
+
+
+[MSGH][0000000a][00000040]
+[EN]
+and bring light to Armoroad...[LB][END]
+[ES]
+y traer luz nueva a Armoroad...[LB][END]
+
+
+[MSGH][0000000b][0000003c]
+[EN]
+A stormy adventure begins...[LB][END]
+[ES]
+Una aventura turbulenta...[LB][END]
+

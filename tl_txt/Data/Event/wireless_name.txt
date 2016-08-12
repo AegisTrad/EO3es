@@ -1,0 +1,8 @@
+[HEAD][0000005e][00000001]
+
+[MSGH][00000000][0000002e]
+[EN]
+Hunt the Sea Monster![LB][END]
+[ES]
+¡Caza al Monstruo del mar![LB][END]
+

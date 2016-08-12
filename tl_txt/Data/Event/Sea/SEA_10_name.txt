@@ -1,0 +1,29 @@
+[HEAD][00000100][00000005]
+
+[MSGH][00000001][00000028]
+[EN]
+For a mutated girl[LB][END]
+[ES]
+Para una chica mutada[LB][END]
+
+
+[MSGH][00000002][0000001e]
+[EN]
+Stargazers II[LB][END]
+[ES]
+Contemplar las estrellas II[LB][END]
+
+
+[MSGH][00000003][00000030]
+[EN]
+Don't cross the bridge[LB][END]
+[ES]
+No crucéis el puenteLB][END]
+
+
+[MSGH][00000004][0000002a]
+[EN]
+The beauty of Aeaea[LB][END]
+[ES]
+La belleza de Aeaea[LB][END]
+

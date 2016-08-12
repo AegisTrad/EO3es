@@ -1,0 +1,529 @@
+﻿A small blade anyone can use. ATK+6
+Large knife designed for combat. ATK+8
+Short sword crafted from a small animal fang. ATK+9
+Battle weapon made from a hard shell. ATK+15
+Hunting sword shaped like a beast's fang. ATK+29  STR+3
+Steel double-edged sword with a wide blade. ATK+34
+Sharp steel longsword with a fistguard on the hilt. ATK+45
+Double-edged longsword meant for slicing. ATK+57  STR+5  VIT+2
+Long, curved blade made of steel. ATK+63
+Large, two-handed steel sword with a cross-shaped guard. ATK+78
+Longsword made from the claw of a Killclaw beast. ATK+97  STR+6  TEC+4
+Wide-bladed longsword with a golden S-shaped guard. ATK+106
+Solid longsword made of Damascus steel. ATK+125
+Thin sword with a sharp blade, meant for thrusting. ATK+139  STR+8  AGI+5
+Longsword with a sharp point, meant for thrusting. ATK+151
+Longsword with a curved guard. Used to crush opponents. ATK+167
+Longsword with a wave-like curved blade. ATK+182  STR+13
+Legendary blade said to have been forged by underground beings. ATK+200  STR+14  AGI+9
+Longsword sharp enough to slaughter even the greatest dragons. ATK+250  All Stats+20
+Small hand axe made from animal bone. ATK+11
+Small hand axe whose blade was crafted from a hard shell. ATK+18
+L-shaped axe whose blade was crafted from a large, sharp fang. ATK+32
+Steel axe with a sharp blade designed to crush enemies. ATK+44
+Steel battle axe with a heavy blade designed to sever enemies' limbs. ATK+58
+Axe strengthed by its resilient bird's-leg haft. ATK+77  STR+3
+Steel axe with a crescent- shaped blade. ATK+86
+Powerful steel battle-axe, meant to be wielded with both hands. ATK+97
+Large battle-axe with a rough, crescent-shaped blade. ATK+104  STR+6
+Long weapon that combines a spear with an axe. ATK+116
+Staff used to increase one's concentration when casting spells. ATK+3
+Large axe called "The blade that cracks boulders." ATK+151
+Axe with a sharp, double-edged blade made of Damascus steel. ATK+162  STR+9
+Hand axe with a meteorite steel blade extruding from its haft. ATK+179
+Large battle-axe with a double-edged blade made from golden fangs. ATK+198
+A meteorite steel axe blade attached to tightly bound vines. ATK+207  STR+11
+Legendary battle-axe that burns when striking a foe. ATK+200  STR+9  Element: Fire
+Axe that can shatter the stars, made from a gigantic statue's arm. ATK+240  STR+14
+Light, easy-to-use hand axe. ATK+9
+Two-handed staff for adventurers. ATK+3  TEC+1
+Staff made from animal bones. ATK+5
+Mace made from animal bones and fangs. ATK+15  HP+7
+Two-handed hardwood staff, decorated with feathers. ATK+22  TEC+2
+Striking weapon made by combining an animal tailbone and claw. ATK+47  HP+11
+Short, thin staff tipped with a monster's gleaming glass eye. ATK+53  TEC+4
+Mace used to strike down enemies. ATK+70  HP+15
+Mysterious staff said to bring good fortune to its bearer. ATK+78  LUC+5
+Mace with a spiked sphere at its tip, used to strike down enemies. ATK+99  HP+19
+Rod tipped with a crystal that aids the wielder's concentration. ATK+109  TEC+10
+Battle hammer for striking down enemies. ATK+131  HP+22
+A mystic wand that focuses its bearer's concentration. ATK+100  TEC+15
+Legendary wand said to confer wisdom upon its bearer. ATK+150  TEC+20  TP+30
+Short, sharp katana with a metal blade. ATK+20
+Curved steel katana meant for close combat. ATK+55
+Long-bladed katana made from a monster's claw. ATK+90
+Unusual katana whose tip is double-edged. ATK+119
+Katana with a long, slender, Damascus steel blade. ATK+149
+Beast-hunting katana with a blade longer than the human body. ATK+170
+Sharp katana with beast-warding characters engraved in the blade. ATK+209
+Katana with a Hachi-leaf crest on its guard to bring good luck. ATK+215  LUC+15
+Legendary katana said to be enveloped in a misty rain when unsheathed. ATK+229  Element: Ice
+Ancient, yet still sharp, sword for slaying demons. ATK+240  STR+15
+Common bow made from carved wood. ATK+7
+Small bow made from a hard ivory horn. ATK+9
+Small, easy-to-carry bow. ATK+15
+Longbow made by stringing a large beast's fang. ATK+24  STR+2  TEC+1
+Sling slicked with monsters' ichor. ATK+30
+Powerful longbow crafted from a beast's tailbone. ATK+39
+Small combat bow made from the Jungle King's horn. ATK+49  TEC+4
+A bow, all made from the same material. ATK+59
+Light, easy-to-use hunting bow. ATK+75
+Longbow made from the fin of a large fish. ATK+88  STR+5  TEC+4
+Advanced archer's bow strengthened with animal tendons and vines. ATK+97
+Legendary bow that can release shafts at the speed of light. ATK+111
+Long bow fitted with a pliable string. ATK+123  STR+8
+Large combat bow favored by armies. ATK+140
+Long-range weapon that pierces easily through metal armor. ATK+161
+Legendary bow that can hit any target. ATK+181  STR+7  TEC+6
+Demon's bow decorated with feathers, granting its user infinite power. ATK+202  AGI+15
+The Ocean King's longbow, whose arcing arrows deeply pierce foes. ATK+220  STR+12  TEC+8
+Thin, cord-shaped weapon used to bind the enemy's movement. ATK+7
+Whip with a small beast fang attached to its tip. ATK+10
+Whip made by weaving leather and plant vines. ATK+16
+Whip with hard thorns embedded for a higher kill rate. ATK+28  STR+1
+Whip with a large monster claw attached to its tip. ATK+38
+Whip with a treated monster claw that rips enemies to shreds. ATK+49
+Whip with a deadly purple stinger attached for a higher kill rate. ATK+57  STR+4
+Tough whip made by braiding elastic frog throats together. ATK+70
+Long whip tipped with crab legs that twine around its target. ATK+79
+Whip with a sharp blade at its end that rips everything apart. ATK+94  STR+6  AGI+3
+Long whip tipped with a tiger fang that pierces its foes' hearts. ATK+103
+Difficult-to-handle metal whip made from nine connected metal pieces. ATK+115
+Royal cat o' nine tails adorned with beautiful ornaments. ATK+125  STR+8  AGI+6
+Leather and metal strips twisted together and soaked in monster blood. ATK+136
+Ominous red whip made from corpse entrails drenched in blood. ATK+157
+Whip used for torture that's said to lead its victims to heaven. ATK+175  STR+10
+Graceful, long whip adorned with decadent tooling. ATK+180  STR+7  Boost Rate ↑
+Whip made from the Dragon's barbel. Calls down lightning when swung. ATK+200  STR+11  Element: Volt
+Whip made by braiding Alraune's vine with a steel cord. ATK+195  STR+13  TEC+9
+Clothes of woven sheep's wool. DEF+1
+Upper-body clothing made with beast leather from the forest. DEF+3
+Long coat made from treated flowers and vines. DEF+1  AGI+1
+Vest made with beast leather. DEF+2
+Reinforced armor made by tanning beast leather. DEF+4  HP+5
+Breastplate carved from a metallic horn. DEF+5  VIT+2  AGI-1
+Short jacket made by weaving tanned rabbit fur. DEF+3  VIT+1
+Coat made from rabbit tails, animal hide, and plant vines. DEF+2  AGI+3
+Jacket made from white leather. The sleeves are quite spacious. DEF+5  VIT+1  Ice Resist ↑
+Armor made from linked steel rings. DEF+7
+Coat made from woven plants. DEF+4  AGI+2
+A tunic of thick woven leaves. DEF+6
+Breastplate carved from a steel shell. DEF+12  HP+9
+Armor reinforced with metal rings beneath the surface. DEF+16  AGI-2
+Jacket made from rare, aromatic forest trees. DEF+8  TP+8
+Lightweight coat with feather ornaments. DEF+6
+Lightweight chainmail to allow greater ease of movement. DEF+10  AGI+4
+A vest reinforced with metal studs. DEF+17
+Elegant ornamental clothes. DEF+11  VIT+3
+Form-fitting mantle woven from beast leather. DEF+16
+Full metal armor with grooves to parry sword attacks. DEF+22  HP+12
+Armor strengthened with layers of metal plates. DEF+26
+Rainbow-colored short jacket. DEF+18  TP+10
+Light red mantle chiefly worn on top of armor. DEF+16
+Expensive thick coat made from white tiger hide. DEF+27
+Weightless mantle made from fairy wings. DEF+24
+Black tunic designed for stealthy movement in the dark. DEF+26
+Metal armor lined with small steel plates. DEF+32
+Metal armor made of layered black steel. DEF+36
+Clothes dyed with a special black compound, enhancing their defense. DEF+28
+Excellent armor made by weaving Wyvern leather with steel. DEF+26  All Resist ↑
+Layered metal plates on top of a leather jacket. DEF+35  HP+18  TP+10
+Thick jacket made from beast leather. DEF+37
+Clothes dyed red and inscribed with holy wards on the lining. DEF+24  AGI+4  TP+10
+Tunic of crimson fur, with holy words inscribed on it. DEF+36  TP+15
+Dyed red chainmail of carefully woven meteorite steel. DEF+42
+Armor reinforced with layers of meteorite steel plates. DEF+46  HP+14  AGI-4
+Clothes enhanced with a special blue dye. DEF+38  AGI+5
+Coat made from golden fur drenched in blood. DEF+36
+Strong breastplate carved from a Dinolich's sternum. DEF+32  Physical Resist ↑
+Extremely hard armor made of layered demon shells. DEF+52  STR+10  HP+20
+Clothes made with demon feathers that ease the wearer's movement. DEF+47  AGI+11  HP+15
+Legendary armor that can only be worn by the pure of heart. DEF+56  HP+25  Physical Resist ↑
+Armor that cloaks its wearer in a mirage. DEF+47  AGI+18  TEC+10
+Fine robe embroidered with the legendary Ouroboros' shape. DEF+34  TEC+10  TP+20
+A robe sewn for angels. DEF+45  AGI+7  TP+22
+Weightless metal armor said to have been woven by fairies. DEF+47  AGI+10  TP+16
+Metal armor made from the legendary Crimsonite. DEF+42  STR+8  HP+22
+Mantle whose chain blinds foes, heightening the effect of hexes. DEF+34  TEC+12  LUC+15
+Expensive coat made from Yggdrasil. DEF+35  Elemental Resist ↑
+Fire-resistant coat made from tanning wyrm hide. DEF+40  Fire Resist ↑↑
+Ice-resistant coat made from tanning drake hide. DEF+40  Ice Resist ↑↑
+Volt-resistant coat made from tanning dragon hide. DEF+40  Volt Resist ↑↑
+Hairpin carved from a piece of wood. DEF+1
+Hat made of layered leather strips. DEF+1  TP+5
+Broad-brimmed hat decorated with a large feather. DEF+2  TP+7
+Helm made of woven steel threads. DEF+3
+Helm made from elastic, rubbery leather. DEF+3  TP+9
+Helm made with hard swordfish scales. DEF+4
+Tough cap made from layering swordfish scales. DEF+6  TP+12
+Hairpin made from the bark of a rare tree in the forest's depths. DEF+4  TP+14
+Tiger-skin cap designed to intimidate enemies. DEF+7
+Beautiful head ornament decorated with gold and crystals. DEF+5  TP+20
+Helm carved from a hard shell and varnished with blood. DEF+8
+Helm made by weaving together luxurious butterfly wings. DEF+10  TP+30
+Gloves for novice adventurers unaccustomed to using weapons. DEF+1
+Thick gloves made from layered beast leather. DEF+1  STR+1
+Elegant gloves decorated with large feathers. DEF+2
+Gloves of woven steel laid over tiger skin. DEF+3
+Thick gloves made from bear fur. DEF+3  STR+2  TEC+1
+Gloves made from tanned, rubbery leather and fish fins. DEF+3  TEC+2
+Rustic gloves with crimson fangs projecting from the knuckles. DEF+4  STR+2
+Gloves made by weaving cloth found deep in the forest. DEF+4  TEC+3
+Tiger-skin gloves that provide excellent defense. DEF+6
+Crystal-studded gloves with holy words inscribed on them. DEF+5  TEC+5
+Gauntlets of tempered meteorite steel. DEF+8  STR+3
+High-quality gauntlets made from demon scales. DEF+11  STR+12
+Black gloves that help their wearer blend in with the shadows. DEF+9  AGI+11
+Gauntlets that enhance techniques by eliminating the margin of error. DEF+7  TEC+10
+Red gauntlets made from legendary Crimsonite. DEF+10  AGI+9  TEC+7
+Gauntlets made from the tanned hide of a demon's hand. DEF+2  Ailment Resist ↑↑
+Small shield that protects the shoulders and joints. DEF+1
+Small shield reinforced with beast leather. DEF+2
+Oval-shaped shield made from a hard shell. DEF+2  VIT+1
+Round steel shield. DEF+5
+Large steel shield that hides the torso from the knees up. DEF+10  Fire Resist ↑
+Small round shield with rubbery leather coating its surface. DEF+7  Volt Resist ↑
+Large, thick steel shield that hides the entire body. DEF+14  VIT+3  Ice Resist ↑
+Oval-shaped black shield made of layered stones and steel. DEF+10
+Beautiful circular shield made from tempered silver. DEF+20  VIT+4
+Large oval shield with a golden sheen. DEF+14  VIT+5
+Shining white shield said to grant heaven's protection. DEF+28  Instant Death Resist ↑
+Legendary shield that can only be carried by the pure of heart. DEF+32  Bind Resist ↑
+Large, hard shield covered in spikes. Used for both offense and defense. DEF+60  All Resist ↓↓
+Boots made from forest leaves. DEF+1  AGI+1
+Durable boots of layered leather. DEF+1  AGI+2
+Durable boots designed for forest exploration with a feather decoration. DEF+2  AGI+3
+Leg armor made of steel rings. DEF+3  AGI+4
+Slip-on red shoes with no heels. DEF+3  AGI+5
+Leg armor made of scales from the fish in the forest. DEF+4  AGI+6
+Mysterious boots that make the wearer feel light as a fairy. DEF+4  AGI+7
+Leg armor covered with thick tiger skin. DEF+6  AGI+9
+Noble leg armor decorated with legendary fire tails. DEF+6  AGI+11
+Boots decorated with golden fur that seems to shine. DEF+7  AGI+14
+Durable leg armor dyed a deep red. DEF+8  AGI+15
+Boots that increase the wearer's running speed. DEF+12  AGI+20  LUC+15
+Belt made of beast leather. DEF+1  HP+5
+Ring of braided strips of leather. DEF+1  Slash Resist ↑
+Charm made from dried red berries found in the forest. DEF+1  TP+5
+Wreath made from small flowers that grow in the forest. DEF+1  TEC+1
+Swordsman's charm, made from a small scythe. DEF+2  HP+9
+Ring with a shining stone found in the forest.
+DEF+1  Volt Resist ↑
+Sleeveless mantle made of leaves. DEF+2  HP+10
+Fire-resistant ring with a Carminite setting. DEF+1  Fire Resist ↑
+Simple necklace made by connecting Starseeds. DEF+1  TP+10
+Charm made of large fangs harvested from forest monsters. DEF+1  VIT+3
+Choker with mysterious powers from old fossils. DEF+1  LUC+8
+Thick mantle made from tough crocodile hide. DEF+2  HP+15
+Legendary charm said to protect its wearer's body. DEF+1  Ailment Resist ↑
+Holy ward made of various shells from the forest. DEF+1  TP+20
+Clear blue ring with ice resistance. DEF+1  Ice Resist ↑
+Red mantle that looks as if it was dyed with blood. DEF+2  HP+19
+Mysterious charm said to expel misfortunes with inhuman power. DEF+1  TP+25
+Scented necklace decorated with beautiful flowers. DEF+1  VIT+4  AGI+7
+Expensive ring that only royalty can afford. DEF+1  Bind Resist ↑
+Cape woven from fine golden thread. DEF+3  HP+25
+Legendary ring said to confer the divine protection of seraphs. DEF+2  TP+35
+Gem that drives away evil. DEF+2  TEC+8
+Expensive, evil-repelling jewel. DEF+2  Instant Death Resist ↑
+Crimson jewel cut from a red crystal. DEF+4  Fire Resist ↑
+Beryl jewel cut from a blue crystal. DEF+4  Ice Resist ↑
+Amber jewel cut from a yellow crystal. DEF+4  Volt Resist ↑
+Multicolored jewel cut from a Tri-Color. DEF+6  Elemental Resist ↑
+Dazzling jewel cut from a Cullinan diamond. DEF+6  Physical Resist ↑
+Eerie doll crafted from Yggdrasil's roots. DEF+7  TP+50
+Wind instrument made from a horn with holes carved out. TP+10
+Stringed instrument that plays a trembling tune. TP+15
+Wind instrument played by blowing into the mouthpiece. TP+20
+Stringed instrument played on formal occasions. TP+30
+Wind instrument that comes in single- and double-reed varieties. TP+40
+Small stringed instrument that plays a soothing tune. TP+50
+Steel wind instrument that resonates over long distances. TP+70
+Proof of passage through the Yggdrasil Labyrinth. HP+100  TP+50
+Proof of mastery over the Yggdrasil Labyrinth. HP+100  TP+50  All Stats+15
+Ring made of a twined Yggdrasil leaf. HP+80  STR+10  VIT+10
+Choker made with an Yggdrasil leaf. TP+70  AGI+15  TEC+15
+A small, sharp animal fang.
+Soft leather skinned from beasts.
+Relatively hard mole's sternum.
+Shiny outer shell of a crab.
+Beautiful wing with a mysterious shine.
+A fragrant white flower from the starting areas.
+Butterfly eye that's worthless if damaged.
+Fluffy rabbit tail.
+Elastic and easily worked horn.
+Piece of a Mandrake's body.
+A durable Mandrake root.
+The ashes of a Mandrake.
+Elastic leather used for armor joints.
+Red thorn from a crab's shell.
+Bull horn with traces of steel.
+Hard, stiff wolf's fur.
+Solidified nectar used in making medicine.
+Small, red fruit that gives an energy boost.
+A bitter green herb that increases concentration.
+Deep red fruit that's unsuitable for eating.
+Ivory stone used as construction material.
+Shard of a clear, shining stone.
+Golem fragment that's hard as a rock.
+Large beast fang good for carving.
+Fenrir's fang, used for crafting weapons.
+Fenrir's hide from below its fur.
+Sharp but thin mantis scythe.
+Adhesive tissue from a Gel.
+Rare piece of pure steel obtained from a Gel.
+Needle-shaped tail with venom glands.
+Spider's silk that strengthens when dried.
+Large claw with a distinctive curve.
+Supple wood used to make various items.
+Colored petals used for ornaments and dyes.
+Bitter seed that's good as an antidote.
+Fragrant tree bark used as a mild restorative.
+Plant vine composed of bundled fibers.
+A jungle avian's large feather.
+The tailbone of a bird used in making bows.
+Crystallized remains of the Firebird.
+Steel crab's shell tempered in flame.
+Thick, round leaves that can be boiled into jelly.
+Small talon shaped like a hook.
+Steel tiger fang used to make sharp blades.
+Slick tiger skin used as an insole for armors.
+Cool-tasting herb. Clears one's head.
+Scrap material with traces of iron.
+Worthless shattered bones embedded in rock.
+Sturdy, thick bear fur.
+The limb of an ancient bird.
+High-quality crab shell that's very thin.
+Rare scorpion barb dyed purple with venom.
+Cernunos' horn. It has magnetic properties.
+Wyvern wing resistant to all types of attack.
+Fluted fang taken from an intact Wyvern head.
+Large mammoth tusk broken at the root.
+Can balloon to ten times its original size.
+Can be brewed to form medicine.
+Strong leather that absorbs shocks.
+Glassy frog's eye.
+Small frog bone containing steel.
+Shard of a frog bone that contains steel.
+Gigantic shell made of steel.
+Moriyana nest material made of oak branches.
+Wing supported by three bones.
+Oily fluid that creates a rainbow dye.
+Thin nail used to shred meat.
+Deep red bear fur.
+Fang stained with blood.
+Bristly fish scales.
+Soft, silky fin from the Sworder's belly.
+Curved crab limb with steel joints.
+Cluster of honey stored in ants' abdomens.
+Conch with sixteen spikes.
+Its high sugar content provides an energy boost.
+Beautiful branch that fetches a high price.
+Ore that shines blue and red when polished.
+A blood-encrusted crab's pincer.
+The Royalant's blade-like claw.
+Cotrangl's fin made of flexible fibers.
+A 100-year old tortoise's shell.
+Hard skin covered with wedge-shaped scales.
+Mouse skin that radiates heat.
+Mouse tail that radiates heat.
+Pure white tiger skin that's soft to the touch.
+Sharp, yet somewhat supple, fang.
+Deer horn that prevents rusting in other metals.
+Deer gland with a red liquid that solidifies when cooled.
+A mantis eye that broke during battle.
+A mantis eye with flecks of steel.
+A soft white mantis scythe with red stains.
+A large Achilles tendon.
+Its intertwining hard fibers are uncuttable.
+Mutant Y-shaped vine that wards off bad luck.
+Rock shard used by the forest folk.
+Carried in a pouch and used for writing.
+Knitted grass cloth from the Sandy Barrens.
+Wood gathered from the Sandy Barrens.
+Wing from the smallest of the forest folk.
+Honey gathered by the forest folk.
+Feather taken from a Redbeak's wing.
+Sharp beak from a predatory bird.
+Peach that can be brewed into medicine.
+Tentacle-like wood that moves even after cutting.
+Whip-like vine carried by Cruellas.
+Whip-like vine carried by Diabolixes.
+White flower that grows in the Sandy Barrens.
+Iwaopeln's claw. Contains various metals.
+Used by the forest folk. Contains various metals.
+Gigantic gem cut from pyroxene ore.
+Fungus that grows on the corpses of fairies.
+Extracted from trees in the Sandy Barrens.
+Nail of uncategorizable meteorite steel.
+Blade-like tooth for attacking prey.
+From a demonic rabbit that slaughters humans.
+Highly elastic Kingfrog's throat.
+Crystal core sometimes found in gels.
+Spider's silk with hooked protrusions.
+Flame-colored wolf's fur.
+Flame-colored wolf's fur that doesn't fade.
+Shining shell of a gigantic insect.
+Gigantic insect blood excellent for dyeing.
+Dark stem that evokes a feeling of death.
+Fur of a ferocious golden beast.
+Triangular tusk containing gold.
+Twisted bull horn containing gold.
+Shell of uncategorizable meteorite steel.
+Claw of uncategorizable meteorite steel.
+The translucent wing of a Kingapis.
+Honey that cures any infirmity.
+A Dinolich sternum that's harder than steel.
+Mammoth tusk with ominous engravings.
+Smooth yet tough alligator hide.
+Fragile bark enveloping Yggdrasil's corpse.
+Yggdrasil cells that became red pyroxene.
+Renewing flower vital to the Yggdrasil Project.
+Multicolored pyroxene with mystical powers.
+Yggdrasil bulb shaped like a human head.
+Yggdrasil bulb shaped like a human arm.
+Yggdrasil bulb shaped like a human leg.
+Thin string wrapped in a rubbery outer skin.
+Crystallized plant vine.
+Shining seed used for medicinal purposes.
+Brittle gray material usable for construction.
+Shard whose rock core is usable for construction.
+Yggdrasil cells that became green pyroxene.
+Yggdrasil cells that became blue pyroxene.
+Ogre shell drenched in sorrow.
+Green scale taken from the Ogre's arm.
+Beautiful feather from the Hunter's arm.
+Feathers that adorn the Hunter's head.
+Shell of a 1000-year old tortoise.
+Intact shell of a 1000- year old tortoise.
+Mysterious powder that disperses light.
+Became black by feeding on abandoned corpses.
+Mysterious tail feather enclosed in crystal.
+Bone center unaffected by alchemic reactions.
+Iwaopeln's stunning wing feathers.
+A beautiful wing colored red and blue.
+Exquisite cloth made from Alraune's petals.
+Steel crab leg with holes drilled into it.
+Skull composed of the mythical Crimsolite.
+Bone composed of the mythical Crimsolite.
+Polished chain that deludes those who see it.
+A rare sword-like rib taken from Dinolich.
+Dragon skin that's resistant to fire.
+Dragon skin that's resistant to ice.
+Dragon skin that's resistant to voltage.
+Embryo of a dragon's cell.
+A single sharp scale from the Wyrm.
+Wyrm's fang that radiates intense heat.
+An intact Golem arm.
+Manticor's eye with a multicolored shine.
+Icy bone of the Drake.
+The Primevil's core essence.
+A black feather. A bird has only one on its body.
+Chilled spine of the Cotrangl.
+The Dragon's whisker-like barbel.
+Part of the vines adorning Alraune.
+Scythe capable of reaping anything.
+Noble mane of the Jungle King.
+The Royalant's mighty crushing jaw.
+A single sharp scale from the Drake.
+Cruella's scented purple lash.
+Diabolix's sweet- smelling red lash.
+A black beast hand containing strong venom.
+A single sharp scale from the Dragon.
+Yggdrasil cells that became yellow pyroxene.
+Butterfly scale from the forest's depths.
+The result of scales frozen in battle.
+Fruit that oddly resembles a human head.
+Seed from a flower with cross-like petals.
+Fleshy flower with water stored in its petals.
+Mysterious plant that perpetually spreads mist.
+Small leaf taken from a Yggdrasil bud.
+Regular leaf taken from a Yggdrasil bud.
+Large leaf taken from a Yggdrasil bud.
+Medicine made of boiled herbs. Recovers 30 HP.
+Medicine made of flower extract. Recovers 100 HP.
+Medicine made of crushed nutshells. Recovers 200 HP.
+Medicine made of pulverized rock coral. Recovers 350 HP.
+Medicine made of Yggdrasil's honey. Recovers full HP.
+Tonic made of pulverized forest herbs. Recovers 15 TP.
+Tonic made of honey-soaked strawberries. Recovers 50 TP.
+Potion made of scented honey. Recovers 300 HP and 50 TP.
+Potion made of Yggdrasil's honey. Recovers full HP and TP.
+Potion made of fairy honey. Recovers partial party HP.
+Potion made of a rare flower. Recovers full party HP.
+Revival elixir made of honey. Resurrects with low HP.
+Revival elixir made of peaches. Resurrects with medium HP.
+Revival elixir made of dragon scales. Resurrects with full HP.
+Panacea made of boiled flower petals. Removes bindings.
+Panacea made of boiled star- seeds. Removes status ailments.
+Herbal perfume that adds 10 boost points.
+Strawberry extract perfume that adds 30 boost points.
+Perfume fit for a queen. Adds 100 boost points.
+Bitter mugworts. Slightly increases attack. Decreases defense.
+Ant honey. Greatly increases attack. Decreases defense.
+Jelly made of boiled leaves. Slightly increases defense.
+Jelly made of mushroom paste. Greatly increases defense.
+Fire-dissipating mist. Briefly lessens fire damage.
+Ice-dissipating mist. Briefly lessens ice damage.
+Voltage-dissipating mist. Briefly lessens volt damage.
+Elemental-dissipating mist. The effect lasts for 5 turns.
+Oil that imbues a weapon with the element of fire.
+Oil that imbues a weapon with the element of ice.
+Oil that imbues a weapon with the element of voltage.
+Its repellent chime decreases the encounter rate.
+Its repellent chime greatly decreases the encounter rate.
+Magnet that warps you back to the last Geomagnetic Field used.
+Map event.
+Water rumored to cure all diseases.
+Plain drinking water.
+Bottle to carry water.
+Box filled with various junk.
+Box full of junk.
+A family portrait is inside.
+Orchid seed beloved of the Duchess Schezan.
+Shining golden stone.
+Shining golden stone.
+Stone with a vibrant reflection.
+Tasty-looking cheese with a pungent odor.
+Suspicious powder that withers plants.
+A stained coin.
+A sword rusted through and through.
+An axe chipped from years of use.
+A shattered old wand.
+Medicine said to cure all diseases.
+An extremely rare, beautiful flower
+Special flower seed.
+Stone that transmits sound to faraway places.
+Key that unlocks the clear crystal seals in the Labyrinth.
+Key that unlocks the violet crystal seals in the Labyrinth.
+An egg the size of a man.
+Rectangular in shape, with strange designs and stripes on its surface.
+Recovers 150 HP.
+Gives a slight shock when you touch both ends of it.
+Mysterious mirror with a hole in the center.
+Looks like a glass bottle, but with a oddly soft feel.
+A dull golden token with ancient designs engraved on it.
+Folded piece of metal. Its purpose and method of use is unknown.
+Legendary bird's feather. So clear it looks transparent.
+Legendary bird's feather. Its black color absorbs all light.
+Legendary bird's feather. Shines all the colors of the rainbow.
+Fist-size diamond found with the bird's feather.
+Black diamond found with the bird's feather. Shines unusually brightly.
+Many-colored diamond found with the bird's feather.
+Scroll passed down among samurai. Take this to the Guildhouse to begin registering samurai.
+Used in a hexcaster's training. Take this to the Guildhouse to begin registering hexcasters.
+Parchment used to map the inside of the Yggdrasil Labyrinth.
+Letter from Radha Hall permitting Shilleka to sell items to your guild.
+Thread used to return the party to town from the Labyrinth.
+Flute-shaped fang taken from the Wyvern's intact head.
+Wyvern wing that grants high resistance to all types of attacks.
+The arm an adventurer lost while challenging an ice dragon.
+One of the mysterious parts found in the underground city ruins.
+One of the mysterious parts found in the underground city ruins.
+One of the mysterious parts found in the underground city ruins.
+One of the mysterious parts found in the underground city ruins.
+One of the mysterious parts found in the underground city ruins.
+Mysterious device made from the collected parts.
+Bandana worn by the adventurer known as the Rainbow Knight.
+Pearl dropped by an adventurer.
+The legendary bird's preferred meal.

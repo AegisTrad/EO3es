@@ -1,0 +1,39 @@
+English
+Confirm
+--------
+If you form this party, everyone will be moved to the front line.
+Is this the party you wish?
+Dead or petrified adventurers cannot form a party!
+Unequip
+Used <!8069> .
+Used <!8069> , but it had no effect.
+Used <!8069> , but there was nowhere to travel to.
+You haven't any skills to use!
+Use Discard
+Will you discard this item?
+You have discarded <!8068> .
+Used <!8068> .
+You used <!8068> , but it had no effect.
+You used <!8068> , but there was nowhere to travel to.
+You don't have any items!
+Raise the LV<!806C>  <!8069>                  to LV<!806D> ?
+Will you learn LV<!806D>  <!8069> ?
+Learning this skill requires: <!8069> above LV<!806C>  <!806F> above LV<!806D> 
+Learning this skill requires: <!8069> above LV<!806C> 
+You don't have enough skill points!
+<!8069>  is now available!
+Quests Quests Done Missions Missions Done
+You have no tasks right now.
+You haven't finished any tasks.
+In the <!color=0006>Items<!color=0004> menu, you can use or throw away items in your inventory.
+In the <!color=0006>Skills<!color=0004> menu, you can use the skills that are available outside of combat.
+In the <!color=0006>Status<!color=0004> menu, you can see a party member's status, equipment, and skills.
+In the <!color=0006>Equip<!color=0004> menu, you can adjust a party member's equipment. <!color=0006>Some classes require particular weapons<!color=0004> to use some of their skills. Be mindful of this.
+In the <!color=0006>Custom<!color=0004> menu, you can spend skill points to learn new skills. In this game, <!color=0006>for each level you gain, you earn only one skill point<!color=0004>. Use them wisely either to strengthen existing skills or to learn new ones.
+In the <!color=0006>Party<!color=0004> menu, you can reconfigure your party formation. In battle, <!color=0006>if the entire front line dies, it will be replaced by the back line<!color=0004>. Should the back line replace the fallen front line, remember to reform the party afterward.
+In the <!color=0006>Quests<!color=0004> menu, you can check the quests you've accepted and completed so far.
+--------
+--Weapon--
+--Armor--
+--Armor--
+--Armor--

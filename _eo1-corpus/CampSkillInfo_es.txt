@@ -1,0 +1,190 @@
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Aumenta el daño físico durante la batalla.
+Aumenta la defensa física durante la batalla.
+Aumenta el daño con hacha. Sirve para aprender técnicas de hacha.
+Aumenta el daño con espada. Sirve para aprender técnicas de espada.
+Ocasionalmente permite duplicar los golpes de un ataque normal.
+Permite extraer materiales en los yacimientos.
+Aumenta el ataque a expensas de la defensa.
+Aumenta mucho el ataque a cambio de defensa y vitalidad.
+Permite liberar los brazos atados.
+Fuerte hachazo.
+Ataque con el hacha que desequilibra al enemigo.
+Hachazo que puede sellar la cabeza del enemigo.
+Rápido tajo con la espada.
+Golpe giratorio con la espada que golpea a enemigos contiguos.
+Técnica de espada. Golpea a un grupo de enemigos de 2 a 4 veces.
+Efectúa un tajo flamígero después de un hechizo de fuego.
+Efectúa un tajo eléctrico después de un hechizo de electricidad.
+Efectúa un corte gélido después de un hechizo de hielo.
+Permite huir del enemigo y volver a la planta anterior a costa de PV.
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Confiere mayor rapidez durante la batalla.
+Aumenta daño con arco. Sirve para aprender técnicas de arco.
+Puede que actúes primero el pró- ximo turno (da igual la velocidad).
+Aumenta las posibilidades de ataques preventivos.
+Permite cortar leña en los yacimientos.
+Permite extraer materiales en los yacimientos.
+Permite cosechar plantas en los yacimientos.
+Puede que el miembro que elijas actúe primero en la batalla.
+Reduce la precisión del enemigo mediante un juego de piernas.
+Motiva al grupo entero y aumenta su velocidad.
+Un disparo poderoso y penetrante.
+Dispara dos flechas, y en niveles superiores, incluso tres.
+Apunta a los pies del enemigo para atarle las piernas.
+Se necesitan tres turnos para realizar este devastador disparo.
+Permite ocultarse en las sombras para que el enemigo no te ataque.
+Aumenta la posibilidad de huir. En niveles altos, aumenta la defensa.
+Reduce las posibilidades de emboscadas enemigas.
+Cuidadosos pasos que reducen los encuentros con enemigos.
+Permite descubrir la ubicación de los MALO.
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Aumenta la defensa física durante la batalla.
+Aumenta la defensa elemental. Sirve para aprender técnicas de escudo.
+Estar preparado contra la muerte te permite sobrevivir con 1 PV.
+Posibilidad de bloquear ataques enemigos de manera automática.
+Permite extraer materiales en los yacimientos.
+Aumenta la defensa y llama la atención del enemigo.
+Posibilidad de recibir el daño infligido en la línea frontal.
+Posibilidad de recibir el daño infligido en la línea trasera.
+Espera el ataque del enemigo para esquivarlo y no recibir daño.
+Permite atrincherarse para conseguir una defensa férrea.
+Organiza al grupo de tal manera que aumenta la defensa.
+Golpe tremendo con el escudo.
+Técnica que aumenta brevemente la resistencia del grupo al fuego.
+Técnica que aumenta brevemente la resistencia del grupo a descargas.
+Técnica que aumenta brevemente la resistencia del grupo al hielo.
+Técnica del paladín que restituye una pequeña cantidad de PV.
+Técnica del paladín que restituye una cantidad media de PV.
+Permite huir del enemigo y volver a la planta anterior a costa de PV.
+Cuidadosos pasos que reducen los encuentros con enemigos.
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Aumenta el daño físico durante la batalla.
+Aumenta el daño del látigo. Sirve para aprender técnicas de látigo.
+Aumenta el daño con espada. Sirve para aprender técnicas de espada.
+Aumenta las mejoras obtenidas cuando la moral está al máximo.
+Aumenta el daño infligido cuando se tienen pocos PV.
+Permite cosechar plantas en los yacimientos.
+Permite ocultarse en las sombras para que el enemigo no te ataque.
+Latigazo que puede envenenar al enemigo.
+Latigazo que puede sellar la cabeza del enemigo.
+Latigazo que puede atar los brazos del enemigo.
+Latigazo que puede atar las piernas del enemigo.
+Latigazo que inflige gran daño a los enemigos totalmente atados.
+Latigazo que quizá mate y drene PV de enemigos con pocos PV.
+Estocada que puede dormir a los enemigos.
+Estocada al sistema nervioso que puede paralizar al enemigo.
+Estocada a los músculos del enemigo que puede petrificarle.
+Usa de cebo a los compañeros contiguos y tiende una trampa.
+Estocada que absorbe PV del enemigo a través de la hoja.
+Estocada directa al cráneo que puede aturdir al enemigo.
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Aumenta el daño físico durante la batalla.
+Aumenta el daño con katana. Sirve para aprender técnicas de katana.
+Aumenta las posibilidades de realizar ataques críticos.
+Aumenta el ataque físico cuando es de noche o se está cegado.
+Extraer materiales en los yacimientos.
+Recupera PV mediante una técnica de respiración.
+Dar un paso hacia delante y blandir la katana para atacar.
+Pose del cisne temporal que aumenta ataque y defensa.
+Poderoso corte con katana desde la pose del cisne.
+Varios golpes efectuados desde la pose del cisne.
+Tajo de fuego con la katana desde la pose del cisne.
+Postura Seigan temporal que aumenta ataque y defensa.
+Desvía un ataque enemigo con la katana desde la postura Seigan.
+Técnica de inmovilización de los brazos desde la postura Seigan.
+Tajo eléctrico con la katana desde la postura Seigan.
+Postura Iaidou temporal que aumenta la velocidad.
+Aumenta la posibilidad de un golpe letal desde la posición Iaidou.
+Tajo muy poderoso y rápido efectuado desde la posición Iaidou.
+Tajo de hielo con la katana desde la postura Iaidou.
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Aumenta el daño físico durante la batalla.
+Aumenta la eficacia de las curas. Necesaria para la magia curativa.
+Ligera cura después de las batallas sin ningún coste de PT.
+Aumenta la posibilidad de que el enemigo suelte un objeto.
+Restablece una pequeña cantidad de PT cada turno.
+Permite cortar leña en los yacimientos.
+Restablece una pequeña cantidad de PV.
+Restablece una cantidad media de PV.
+Restablece todos los PV.
+Restablece una pequeña cantidad de PV a todo el grupo.
+Restablece una cantidad media de PV a todo el grupo.
+Resucita a un aliado.
+Elimina las ataduras de un aliado.
+Cura las enfermedades de todo el grupo.
+Otorga resistencia contra todos los elementos al grupo entero.
+Poderoso mazazo que puede aturdir al enemigo.
+Mayor posibilidad de sobrevivir a golpes letales con 1 PV.
+Restablece cada turno una ligera cantidad de PV a un aliado.
+Cura a todos hasta una cantidad fija por pocos PT fuera de batalla.
+Aumenta los PT máximos.
+Aumenta el daño de fuego. Sirve para aprender hechizos de fuego.
+Aumenta el daño de hielo. Sirve para aprender hechizos de hielo.
+Aumenta el daño eléctrico. Sirve para aprender hechizos eléctricos.
+Aumenta el daño del veneno. Sirve para aprender hechizos tóxicos.
+Aumenta la posibilidad de que el enemigo suelte objetos.
+Restablece una pequeña cantidad de PT cada turno.
+Permite cortar leña en los yacimientos.
+Hechizo que lanza una bola de fuego al enemigo.
+Hechizo que crea una llamarada alrededor del enemigo.
+Hechizo que desata un infierno que chamusca a los enemigos.
+Hechizo que lanza un témpano de hielo al enemigo.
+Lluvia de granizo que cae sobre el enemigo.
+Hechizo que crea una ventisca y congela a los enemigos.
+Hechizo que lanza una descarga al enemigo.
+Hechizo que invoca un rayo y electrocuta al enemigo.
+Hechizo que desata la ira de Thor y una gran tormenta.
+Hechizo que puede convertir la sangre del enemigo en veneno.
+Hechizo que puede convertir la sangre de los enemigos en veneno.
+Conjuro para poder avistar en el mapa a todos los MALO.
+Conjuro para teletransportarse al último punto geomagnético visto.
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Habilidad necesaria para aprender canciones.
+Aumenta la experiencia obtenida por los miembros del grupo.
+Ritmo vibrante que aumenta la fuerza de todo el grupo.
+Himno triunfal que aumenta la defensa de todo el grupo.
+Aria Vivace que aumenta la velocidad del grupo.
+Canción que confiere a un arma el poder del fuego.
+Canción que confiere a un arma el poder del hielo.
+Canción que confiere a un arma el poder del rayo.
+Ritmo fuerte que elimina los estados benéficos de un enemigo.
+Ritmo tribal que aumenta los PV máximos del grupo.
+La resistencia al fuego del grupo aumenta, la del enemigo decrece.
+La resistencia al hielo del grupo aumenta, la del enemigo decrece.
+Mayor resistencia eléctrica del grupo, la del enemigo decrece.
+Melodía curativa que regenera algunos PV del grupo cada turno.
+Copla relajante que regenera algunos PT del grupo cada turno.
+Aria celestial para curar las enfermedades más rápido.
+Cuidadosos pasos que reducen los encuentros con enemigos.
+Melodía nostálgica que te lleva a la planta anterior.
+Permite cosechar plantas en los yacimientos.
+Aumenta los PV máximos.
+Aumenta los PT máximos.
+Necesario para aprender maldiciones.
+Posibilidad de aturdir a los enemigos al principio de la batalla.
+Permite extraer materiales en los yacimientos.
+Maldición que reduce la fuerza de todos los enemigos.
+Maldición que reduce la defensa de todos los enemigos.
+Maldición que reduce la velocidad de todos los enemigos.
+Maldición que ralentiza la mejora de enfermedades de los enemigos.
+Maldición que puede sellar la cabeza del enemigo.
+Maldición que puede atar los brazos del enemigo.
+Maldición que puede atar las piernas del enemigo.
+Maldición que puede cegar a todos los enemigos.
+Maldición que puede dormir a todos los enemigos.
+Hechizo que puede causar en los enemigos el estado maldito.
+Mirada malvada que puede aterrorizar al enemigo.
+Ordena a un enemigo aterrado que se quite la vida.
+Ordena a un enemigo aterrado que ataque a sus aliados.
+Ordena a un enemigo aterrado que permanezca quieto.
+Hechizo que inflige daño a través de las artes oscuras.
+Maldición por la que el grupo se topa con más enemigos.
+

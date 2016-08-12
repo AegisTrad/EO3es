@@ -1,0 +1,350 @@
+[HEAD][00001160][00000022]
+
+[MSGH][00000001][0000003a]
+[EN]
+Is this the party you wish?[LB][END]
+[ES]
+¿Estás conforme con este grupo?[LB][END]
+
+
+[MSGH][00000002][00000030]
+[EN]
+Create a suspend save?[LB][END]
+[ES]
+¿Suspender la partida actual?[LB][END]
+
+
+[MSGH][00000003][00000066]
+[EN]
+Thank you for playing.[LB]
+Please turn the power OFF.[LB][END]
+[ES]
+Muchas gracias por jugar.[LB]
+Ya puedes apagar la consola.[LB][END]
+
+
+[MSGH][00000004][0000001c]
+[EN]
+No condition[LB][END]
+[ES]
+Sin estado[LB][END]
+
+
+[MSGH][00000005][0000003c]
+[EN]
+You will learn [DATA][0000].[LB]
+Continue?[LB][END]
+[ES]
+Vas a aprender [DATA][0000].[LB]
+¿Continuar?[LB][END]
+
+
+[MSGH][00000006][00000038]
+[EN]
+Raise the LV[DATA][0100] [DATA][0000][LB]
+to LV[DATA][0200]?[LB][END]
+[ES]
+¿Quieres subir la habilidad [DATA][0000][LB]
+del nivel [DATA][0100] al [DATA][0200]?[LB][END]
+
+
+[MSGH][00000007][0000002e]
+[EN]
+[DATA][0000] [LB]
+is now available![LB][END]
+[ES]
+¡[DATA][0000] [LB]
+ya está disponible![LB][END]
+
+
+[MSGH][00000008][0000004a]
+[EN]
+You don't have enough skill points![LB][END]
+[ES]
+No tienes suficientes puntos de habilidad.[LB][END]
+
+
+[MSGH][00000009][0000004e]
+[EN]
+Learning this skill requires:[LB]
+[DATA][0000] LV[DATA][0100][LB][END]
+[ES]
+Para aprenderla, necesitas:[LB]
+[DATA][0000] de nivel [DATA][0100].[LB][END]
+
+
+[MSGH][0000000a][0000005e]
+[EN]
+Learning this skill requires:[LB]
+[DATA][0000] LV[DATA][0100][LB]
+[DATA][0200] LV[DATA][0300][LB][END]
+[ES]
+Para aprenderla, necesitas:[LB]
+[DATA][0000] de nivel [DATA][0100] y[LB]
+[DATA][0200] de nivel [DATA][0300].[LB][END]
+
+
+[MSGH][0000000b][00000014]
+[EN]
+Used [DATA][0000].[LB][END]
+[ES]
+Has usado [DATA][0000].[LB][END]
+
+
+[MSGH][0000000c][0000003a]
+[EN]
+Will you discard this item?[LB][END]
+[ES]
+¿Quieres deshacerte de este objeto?[LB][END]
+
+
+[MSGH][0000000d][00000030]
+[EN]
+You have discarded [DATA][0000].[LB][END]
+[ES]
+Has descartado [DATA][0000].[LB][END]
+
+
+[MSGH][0000000e][00000040]
+[EN]
+You haven't any skills to use![LB][END]
+[ES]
+¡No tienes ninguna habilidad![LB][END]
+
+
+[MSGH][0000000f][00000096]
+[EN]
+In the [COLOR][0300]Items[COLOR][0000] menu, you can use[LB]
+or throw away items in your[LB]
+inventory.[LB][END]
+[ES]
+En el menú [COLOR][0300]Objetos[COLOR][0000] puedes usar[LB]
+o desechar enseres que tengas[LB]
+disponibles en el inventario.[LB][END]
+
+
+[MSGH][00000010][000000ac]
+[EN]
+In the [COLOR][0300]Skills[COLOR][0000] menu, you can use[LB]
+the skills that are available[LB]
+outside of combat.[LB][END]
+[ES]
+En el menú [COLOR][0300]Habilidades[COLOR][0000] puedes valerte[LB]
+de las aptitudes disponibles[LB]
+fuera del combate.[LB][END]
+
+
+[MSGH][00000011][00000142]
+[EN]
+In the [COLOR][0300]Equip[COLOR][0000] menu, you can[LB]
+adjust a party member's[LB]
+equipment.[LB][PB]
+[ES]
+En el menú [COLOR][0300]Equipo[COLOR][0000] puedes[LB]
+ajustar la equipación de los[LB]
+miembros del grupo.[LB][PB]
+
+[EN]
+[COLOR][0300]Some classes require particular[LB]
+weapons[COLOR][0000] to use some of their[LB]
+skills. Be mindful of this.[LB][END]
+[ES]
+[COLOR][0300]Ten en cuenta que algunas clases[LB]
+necesitan armas específicas[COLOR][0000] en[LB]
+ciertas habilidades.[LB][END]
+
+
+[MSGH][00000012][000001c8]
+[EN]
+In the [COLOR][0300]Custom[COLOR][0000] menu, you can[LB]
+spend skill points to learn[LB]
+new [COLOR][0300]skills[COLOR][0000].[LB][PB]
+[ES]
+En el menú [COLOR][0300]Personalizar[COLOR][0000] puedes[LB]
+distribuir puntos de habilidad para[LB]
+aprender [COLOR][0300]técnicas y hechizos[COLOR][0000].[LB][PB]
+
+[EN]
+In this game, [COLOR][0300]for each level[LB]
+you gain, you earn only one[LB]
+skill point[COLOR][0000].[LB][PB]
+[ES]
+En este juego obtendrás [COLOR][0300]un punto[LB]
+de habilidad por cada nivel[LB]
+que subas[COLOR][0000].[LB][PB]
+
+[EN]
+Use them wisely either to[LB]
+strengthen existing skills[LB]
+or to learn new ones.[LB][END]
+[ES]
+Distribúyelos sabiamente para[LB]
+reforzar ciertos atributos[LB]
+o aprender técnicas nuevas.[LB][END]
+
+
+[MSGH][00000013][000001ea]
+[EN]
+In the [COLOR][0300]Party[COLOR][0000] menu, you can[LB]
+reconfigure your party[LB]
+formation.[LB]
+[LB][PB]
+[ES]
+En el menú [COLOR][0300]Grupo[COLOR][0000] puedes[LB]
+asignar la formación de batalla[LB]
+de los miembros del equipo.[LB]
+[LB][PB]
+
+[EN]
+In battle, [COLOR][0300]if the entire front[LB]
+line dies, it will be replaced[LB]
+by the back line[COLOR][0000].[LB][PB]
+[ES]
+Si los miembros del frente mueren,[LB]
+[COLOR][0300]serán sustituidos por los de[LB]
+la retaguardia[COLOR][0000].[LB][PB]
+
+[EN]
+Should the back line replace the[LB]
+fallen front line, remember to[LB]
+reform the party afterward.[LB][END]
+[ES]
+Si esto ocurriera, recuerda que[LB]
+debes reorganizar tu formación[LB]
+de batalla más tarde.[LB][END]
+
+
+[MSGH][00000014][00000116]
+[EN]
+In the [COLOR][0300]Book[COLOR][0000] menu, you can view[LB]
+any accepted or completed quests[LB]
+and missions.[LB][PB]
+[ES]
+En el menú [COLOR][0300]Libro[COLOR][0000]puedes[LB]
+comprobar las misiones y encargos[LB]
+aceptados y completados.[LB][PB]
+
+[EN]
+You may also view your collection[LB]
+of guild cards here.[LB][END]
+[ES]
+También puedes contemplar tu[LB]
+colección de tarjetas de gremios.[LB][END]
+
+
+[MSGH][00000015][000000ae]
+[EN]
+Cannot equip the doll without[LB]
+removing another weapon. Do you[LB]
+still wish to equip it?[LB][END]
+[ES]
+No puedes equiparte la muñeca[LB]
+sin antes retirar otra arma.[LB]
+¿Aún quieres equiparla?[LB][END]
+
+
+[MSGH][00000016][00000078]
+[EN]
+That cannot be removed without[LB]
+first discarding something.[LB][END]
+[ES]
+No puedes deshacerte de esto[LB]
+sin antes retirar algo.[LB][END]
+
+
+[MSGH][00000017][0000003c]
+[EN]
+You have no active requests.[LB][END]
+[ES]
+No tienes ningún encargo pendiente.[LB][END]
+
+
+[MSGH][00000018][00000066]
+[EN]
+Are you sure you wish to discard[LB]
+this guild card?[LB][END]
+[ES]
+¿Quieres retirar esta tarjeta[LB]
+del gremio?[LB][END]
+
+
+[MSGH][00000019][00000048]
+[EN]
+The guild card has been discarded.[LB][END]
+[ES]
+Has retirado la tarjeta del gremio.[LB][END]
+
+
+[MSGH][0000001a][00000034]
+[EN]
+[DATA][0000]'s strength is[LB]
+now [DATA][0100]![LB][END]
+[ES]
+¡La fuerza de [DATA][0000][LB]
+ahora es [DATA][0100]![LB][END]
+
+
+[MSGH][0000001b][00000036]
+[EN]
+[DATA][0000]'s technique is[LB]
+now [DATA][0100]![LB][END]
+[ES]
+¡La técnica de [DATA][0000][LB]
+ahora es [DATA][0100]![LB][END]
+
+
+[MSGH][0000001c][00000034]
+[EN]
+[DATA][0000]'s vitality is[LB]
+now [DATA][0100]![LB][END]
+[ES]
+¡La vitalidad de [DATA][0000][LB]
+ahora es [DATA][0100]![LB][END]
+
+
+[MSGH][0000001d][00000032]
+[EN]
+[DATA][0000]'s agility is[LB]
+now [DATA][0100]![LB][END]
+[ES]
+¡La agilidad de [DATA][0000][LB]
+ahora es [DATA][0100]![LB][END]
+
+
+[MSGH][0000001e][0000002c]
+[EN]
+[DATA][0000]'s luck is[LB]
+now [DATA][0100]![LB][END]
+[ES]
+¡La suerte de [DATA][0000][LB]
+ahora es [DATA][0100]![LB][END]
+
+
+[MSGH][0000001f][0000002c]
+[EN]
+There was no effect![LB][END]
+[ES]
+¡No ha surtido efecto![LB][END]
+
+
+[MSGH][00000020][000000aa]
+[EN]
+In the [COLOR][0300]Status[COLOR][0000] menu, you can[LB]
+see a party member's status,[LB]
+equipment, and skills.[LB][END]
+[ES]
+En el menú [COLOR][0300]Estado[COLOR][0000] puedes[LB]
+comprobar los atributos, equipación[LB]
+y habilidades de los personajes.[LB][END]
+
+
+[MSGH][00000021][000000c0]
+[EN]
+You have equipped a weapon that[LB]
+will enable [COLOR][0500]Second Sword[COLOR][0000] to always[LB]
+follow a normal attack.[LB][END]
+[ES]
+Has equipado un arma que activa[LB]
+[COLOR][0500]Dos espadas[COLOR][0000]; esto[LB]
+prosigue a un ataque normal.[LB][END]
+

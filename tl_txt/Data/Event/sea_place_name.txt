@@ -1,0 +1,92 @@
+[HEAD][000002be][0000000d]
+
+[MSGH][00000000][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000001][0000002c]
+[EN]
+Skandalia Lighthouse[LB][END]
+[ES]
+Faro de Skandalia[LB][END]
+
+
+[MSGH][00000002][0000002e]
+[EN]
+Trade City of Batavia[LB][END]
+[ES]
+Ciudad comercial de Batavia[LB][END]
+
+
+[MSGH][00000003][00000020]
+[EN]
+Ayutthaya Port[LB][END]
+[ES]
+Puerto de Ayutthaya[LB][END]
+
+
+[MSGH][00000004][00000020]
+[EN]
+Tortuga Island[LB][END]
+[ES]
+Isla Tortuga[LB][END]
+
+
+[MSGH][00000005][0000002c]
+[EN]
+Marine City of Sheba[LB][END]
+[ES]
+Ciudad marina de Sheba[LB][END]
+
+
+[MSGH][00000006][0000002a]
+[EN]
+Ruins of the Giants[LB][END]
+[ES]
+Ruinas de los gigantes[LB][END]
+
+
+[MSGH][00000007][0000001a]
+[EN]
+Dark Forest[LB][END]
+[ES]
+Bosque oscuro[LB][END]
+
+
+[MSGH][00000008][0000002a]
+[EN]
+Trade City Damavand[LB][END]
+[ES]
+Ciudad comercial de Damavand[LB][END]
+
+
+[MSGH][00000009][00000024]
+[EN]
+Tower of Victory[LB][END]
+[ES]
+Torre de la victoria[LB][END]
+
+
+[MSGH][0000000a][00000024]
+[EN]
+Trade City Aeaea[LB][END]
+[ES]
+Ciudad comercial de Aeaea[LB][END]
+
+
+[MSGH][0000000b][00000026]
+[EN]
+Trade City Ugarit[LB][END]
+[ES]
+Ciudad comercial de Ugarit[LB][END]
+
+
+[MSGH][0000000c][0000001e]
+[EN]
+Aerial Forest[LB][END]
+[ES]
+Bosque aéreo[LB][END]
+

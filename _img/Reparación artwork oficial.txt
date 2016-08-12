@@ -1,0 +1,6 @@
+He seguido los siguientes pasos para restaurar de manera aceptable el artwork oficial de EO3. 
+
+- Filtro > Ruido > Destramar
+- Filtro > Ruido > Mediana > 1 px
+- Imagen > Tamaño de imagen > 50 % > Bicúbica más enfocada
+- Edición > Transformación libre > (Alinear) > Bicúbica más enfocada > Aceptar

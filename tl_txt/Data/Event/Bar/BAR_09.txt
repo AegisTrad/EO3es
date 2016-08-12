@@ -1,0 +1,17 @@
+[HEAD][000000f8][00000001]
+
+[MSGH][00000000][000000c8]
+[EN]
+......[LB][PB]
+[ES]
+...[LB][PB]
+
+[EN]
+...Don't push your luck in the[LB]
+forest. If a monster seems too[LB]
+strong for you, steer clear.[LB][END]
+[ES]
+No tentéis vuestra suerte en el[LB]
+bosque. Si un monstruo es demasiado[LB]
+fuerte para vosotros, manteneos al margen.[LB][END]
+

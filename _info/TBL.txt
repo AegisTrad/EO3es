@@ -1,0 +1,7 @@
+
+cabecera de 2 bytes:
+- 2 bytes, numero de textos
+directorio de 1 byte por cada texto:
+- 2 bytes, tamaño del texto + anteriores (offset raro)
+textos:
+- X bytes codificados en Shif-JIS, terminados en 0x00 (por tanto siempre impares)

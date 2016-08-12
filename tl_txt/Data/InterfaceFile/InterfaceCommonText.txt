@@ -1,0 +1,202 @@
+[HEAD][000008fc][0000001a]
+
+[MSGH][00000000][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000002][00000024]
+[EN]
+Obtained [COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+[ES]
+Obtienes [COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][00000003][0000002c]
+[EN]
+Obtained [COLOR][0500][DATA][0000][COLOR][0000] x[DATA][0100].[LB][END]
+[ES]
+Obtienes [COLOR][0500][DATA][0000][COLOR][0000] x[DATA][0100].[LB][END]
+
+
+[MSGH][00000004][0000002a]
+[EN]
+Obtained [COLOR][0500][DATA][0000][COLOR][0000]en. [LB][END]
+[ES]
+Obtienes [COLOR][0500][DATA][0000][COLOR][0000] en.[LB][END]
+
+
+[MSGH][00000005][0000003a]
+[EN]
+Discard the selected items?[LB][END]
+[ES]
+¿Desechar los objetos seleccionados?[LB][END]
+
+
+[MSGH][00000006][00000068]
+[EN]
+Your inventory is full.[LB]
+Choose an item to discard.[LB][END]
+[ES]
+El inventario está lleno.[LB]
+Elige objetos que desechar.[LB][END]
+
+
+[MSGH][00000007][00000020]
+[EN]
+Main class: [DATA][0000][LB][END]
+[ES]
+Clase principal: [DATA][0000][LB][END]
+
+
+[MSGH][00000008][0000001c]
+[EN]
+Subclass: [DATA][0100][LB][END]
+[ES]
+Subclase: [DATA][0100][LB][END]
+
+
+[MSGH][00000009][00000016]
+[EN]
+Class: [DATA][0000][LB][END]
+[ES]
+Clase: [DATA][0000][LB][END]
+
+
+[MSGH][0000000a][0000004a]
+[EN]
+Save your map and exploration data?[LB][END]
+[ES]
+¿Guardar el mapa y los datos de exploración?[LB][END]
+
+
+[MSGH][0000000b][00000086]
+[EN]
+Your guild card register is full.[LB]
+Choose a guild card to discard.[LB][END]
+[ES]
+El registro de gremios está completo.[LB]
+Elige tarjetas que desechar.[LB][END]
+
+
+[MSGH][0000000c][0000007c]
+[EN]
+Are you certain you wish to discard[LB]
+the selected guild card?[LB][END]
+[ES]
+¿Estás seguro de que quieres[LB]
+desechar las tarjetas seleccionadas?[LB][END]
+
+
+[MSGH][0000000d][00000050]
+[EN]
+You've discovered a new monster![LB]
+[COLOR][0600][DATA][0000][COLOR][0000][END]
+[ES]
+¡Has descubierto un nuevo monstruo![LB]
+[COLOR][0600][DATA][0000][COLOR][0000][END]
+
+
+[MSGH][0000000e][0000004c]
+[EN]
+Discovered a new item:[LB]
+      [COLOR][0600][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Has descubierto un nuevo objeto![LB]
+      [COLOR][0600][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][0000000f][0000004c]
+[EN]
+Discovered a new item:[LB]
+      [COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Has descubierto un nuevo objeto![LB]
+      [COLOR][0900][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][00000010][00000058]
+[EN]
+Discovered a new trade item:[LB]
+      [COLOR][0600][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Has descubierto una nueva mercancía![LB]
+      [COLOR][0600][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][00000011][00000058]
+[EN]
+Discovered a new trade item:[LB]
+      [COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Has descubierto una nueva mercancía![LB]
+      [COLOR][0900][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][00000012][00000032]
+[EN]
+Save your cleared game?[LB][END]
+[ES]
+¿Guardar la partida completada?[LB][END]
+
+
+[MSGH][00000013][00000064]
+[EN]
+Are you sure you would[LB]
+like to delete your data?[LB][END]
+[ES]
+¿Estás seguro de querer[LB]
+eliminar tu partida?[LB][END]
+
+
+[MSGH][00000014][00000082]
+[EN]
+You will not be able to recover[LB]
+the lost data. Are you certain?[LB][END]
+[ES]
+No podrás recuperar los datos[LB]
+eliminados. ¿Seguir adelante?[LB][END]
+
+
+[MSGH][00000015][00000042]
+[EN]
+Game data successfully deleted.[LB][END]
+[ES]
+Partida eliminada con éxito.[LB][END]
+
+
+[MSGH][00000016][00000038]
+[EN]
+Game data deletion failed.[LB][END]
+[ES]
+Ha fallado la eliminación.[LB][END]
+
+
+[MSGH][00000017][00000076]
+[EN]
+Load your game? (The existing[LB]
+quicksave will be deleted.)[LB][END]
+[ES]
+¿Cargar partida? La partida[LB]
+suspendida se perderá.[LB][END]
+
+
+[MSGH][00000018][00000064]
+[EN]
+Start a new game?[LB]
+The quicksave will be deleted.[LB][END]
+[ES]
+¿Empezar una nueva partida?[LB]
+La partida suspendida se perderá.[LB][END]
+
+
+[MSGH][00000019][00000080]
+[EN]
+Start a [COLOR][0500]new game[COLOR][0000]? (The existing[LB]
+quicksave will be deleted.[LB][END]
+[ES]
+¿Empezar una [COLOR][0500]nueva partida[COLOR][0000]? La partida[LB]
+suspendida se perderá.[LB][END]
+

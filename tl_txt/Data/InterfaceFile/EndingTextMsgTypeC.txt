@@ -1,0 +1,267 @@
+[HEAD][00000c7c][00000027]
+
+[MSGH][00000001][00000050]
+[EN]
+"The path away from ruin is now open."[LB][END]
+[ES]
+«El camino a la ruina está abierto».[LB][END]
+
+
+[MSGH][00000002][0000004c]
+[EN]
+The dreadful Eldest One, long a pawn[LB][END]
+[ES]
+El temible Insondable, peón de la[LB][END]
+
+
+[MSGH][00000003][00000040]
+[EN]
+of the evil, slowly collapses.[LB][END]
+[ES]
+maldad, se desploma lentamente.[LB][END]
+
+
+[MSGH][00000004][00000044]
+[EN]
+"Listen, Children of Man... Heed[LB][END]
+[ES]
+«Hijos de la Humanidad... Oíd las [LB][END]
+
+
+[MSGH][00000005][00000048]
+[EN]
+the last Words of the Deep Ones...[LB][END]
+[ES]
+últimas Palabras de los Insondables...[LB][END]
+
+
+[MSGH][00000006][0000004c]
+[EN]
+"In a Stratum below the Deep City...[LB][END]
+[ES]
+«En un Estrato inferior a Inmersópolis...[LB][END]
+
+
+[MSGH][00000007][00000042]
+[EN]
+Our God slumbers in the Depths.[LB][END]
+[ES]
+Nuestro Dios dormita en las Profundidades.[LB][END]
+
+
+[MSGH][00000008][0000004a]
+[EN]
+The Eldest One crossed Heaven's Pit[LB][END]
+[ES]
+El Inmemorial cruzó la Fosa del Cielo[LB][END]
+
+
+[MSGH][00000009][00000048]
+[EN]
+with It to descend on these Lands.[LB][END]
+[ES]
+con Él para descender a estas Tierras.[LB][END]
+
+
+[MSGH][0000000a][00000040]
+[EN]
+"But that God faced unexpected[LB][END]
+[ES]
+Pero ese Dios se tropezó con[LB][END]
+
+
+[MSGH][0000000b][00000046]
+[EN]
+Opposition... The Entity known as[LB][END]
+[ES]
+algo que se opuso... Esa Entidad era[LB][END]
+
+
+[MSGH][0000000c][0000001c]
+[EN]
+Yggdrasil...[LB][END]
+[ES]
+Yggdrasil...[LB][END]
+
+
+[MSGH][0000000d][00000046]
+[EN]
+"It, too, crossed the pitch-black[LB][END]
+[ES]
+También cruzó el oscuro Mar[LB][END]
+
+
+[MSGH][0000000e][0000003c]
+[EN]
+Sea and came to these Lands.[LB][END]
+[ES]
+y llegó a estas Tierras.[LB][END]
+
+
+[MSGH][0000000f][00000040]
+[EN]
+"What fell upon the Lands then[LB][END]
+[ES]
+Lo que cayó a esas Tierras fue[LB][END]
+
+
+[MSGH][00000010][00000048]
+[EN]
+was the Porcelain Offering: a pure[LB][END]
+[ES]
+la Ofrenda de Porcelana: una forma[LB][END]
+
+
+[MSGH][00000011][00000046]
+[EN]
+form of Mana fell from the pitch-[LB][END]
+[ES]
+pura de maná que caía del negro[LB][END]
+
+
+[MSGH][00000012][0000002a]
+[EN]
+black Sea as Sleet.[LB][END]
+[ES]
+Mar como Aguanieve.[LB][END]
+
+
+[MSGH][00000013][0000004c]
+[EN]
+"What I gave you was the last of it.[LB][END]
+[ES]
+Lo que os he dado es lo que queda.[LB][END]
+
+
+[MSGH][00000014][00000050]
+[EN]
+"The Dew and the Crown I once had that[LB][END]
+[ES]
+El Rocío y la Corona que "convertía en[LB][END]
+
+
+[MSGH][00000015][0000003c]
+[EN]
+'made the intangible Solid.'[LB][END]
+[ES]
+Sólido lo Intangible".[LB][END]
+
+
+[MSGH][00000016][0000004c]
+[EN]
+"The Porcelain Offering is restored.[LB][END]
+[ES]
+La Ofrenda de Porcelana se ha restaurado.[LB][END]
+
+
+[MSGH][00000017][0000004a]
+[EN]
+The Girl is Human again and has the[LB][END]
+[ES]
+La Chica es Humana de nuevo y volverá[LB][END]
+
+
+[MSGH][00000018][0000003c]
+[EN]
+Reunion she so yearned for."[LB][END]
+[ES]
+con el Hermano que tanto anhelaba».[LB][END]
+
+
+[MSGH][00000019][0000003c]
+[EN]
+...With that, the Eldest One[LB][END]
+[ES]
+Tras hablar, el Inmemorial[LB][END]
+
+
+[MSGH][0000001a][00000044]
+[EN]
+returned to the darkness, a hint[LB][END]
+[ES]
+regresa a la oscuridad, satisfecho[LB][END]
+
+
+[MSGH][0000001b][0000003e]
+[EN]
+of satisfaction in its voice.[LB][END]
+[ES]
+por el tono de su voz.[LB][END]
+
+
+[MSGH][0000001c][00000044]
+[EN]
+As the king fades into the deep,[LB][END]
+[ES]
+Mientras el rey se desvanece en el[LB][END]
+
+
+[MSGH][0000001d][00000040]
+[EN]
+blue sea, it speaks once more.[LB][END]
+[ES]
+profundo mar azul, habla una vez más:[LB][END]
+
+
+[MSGH][0000001e][00000044]
+[EN]
+"We walk a Path washed in Blood.[LB][END]
+[ES]
+«Nuestro Camino está bañado de Sangre.[LB][END]
+
+
+[MSGH][0000001f][00000042]
+[EN]
+"Those who sense Blood's Weight[LB][END]
+[ES]
+Quienes sientan el Peso de la Sangre[LB][END]
+
+
+[MSGH][00000020][00000044]
+[EN]
+and know how precious it is will[LB][END]
+[ES]
+y sepan lo preciada que es, jamás[LB][END]
+
+
+[MSGH][00000021][0000004c]
+[EN]
+not drown or become drunk from Blood[LB][END]
+[ES]
+se ahogarán o embriagarán por ella,[LB][END]
+
+
+[MSGH][00000022][0000004a]
+[EN]
+and the Path will one day be clean.[LB][END]
+[ES]
+y el Camino volverá a estar limpio.[LB][END]
+
+
+[MSGH][00000023][00000042]
+[EN]
+"To end all Strife... Go to the[LB][END]
+[ES]
+Para acabar con el Conflicto... Id a[LB][END]
+
+
+[MSGH][00000024][00000046]
+[EN]
+deepest Abyss in the darkest Land[LB][END]
+[ES]
+lo más profundo del Abismo y[LB][END]
+
+
+[MSGH][00000025][00000042]
+[EN]
+and venture where Death sleeps.[LB][END]
+[ES]
+aventuraos adonde duerme la Muerte.[LB][END]
+
+
+[MSGH][00000026][00000042]
+[EN]
+There, our God will judge you!"[LB][END]
+[ES]
+¡Allí os juzgará nuestro Dios!»[LB][END]
+

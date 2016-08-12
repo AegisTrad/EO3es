@@ -1,0 +1,136 @@
+English
+<!8064> has appeared!
+Monsters have appeared!
+Monsters have appeared!
+Monsters blindsided the party!
+But <!8064>                         anticipated the move.
+Preemptive attack!
+Preemptive stunner activated! The monsters have been stunned!
+Support has arrived!
+A new monster has joined the fray!
+A fearsome howl pierces the air as the black shadow comes forth!
+What will you do?
+Your party is powerless to act!
+<!8064> activated Boost!
+<!8064>                        's power is vastly increased!
+It's a herd of monsters!
+<!8064> is petrified!
+<!8064> is sleeping...
+<!8064> is confused!
+<!8064> can't move due to paralysis!
+<!8064> is too terrified to move!
+<!8064> is stunned!
+<!8064>                        's head has been sealed!
+<!8064>                        's arms have been sealed!
+<!8064>                        's legs have been sealed!
+Double Attack activated!
+First Strike activated!
+<!8064> attacks!
+Dealt <!8066>    damage!
+Critical hit! Dealt <!8066>    damage!
+Dealt <!8066>    damage to <!8065>                        !
+Critical hit! Dealt <!8066>    damage!
+<!8064> used <!8069>                 !
+<!8064> used the <!8069>                  formula!
+<!8064> sang the song of <!8069>                 !
+<!8064> cast the <!8069>                  Curse!
+<!8064> took the Overhead stance!
+<!8064> took the Seigan stance!
+<!8064> took the Iaidou stance!
+<!8064> used a <!8068>                        !
+<!8064> is defending.
+<!8065> suffered <!8066>    damage from the curse!
+But the attack was reflected!
+But there was no effect on <!8065>                        .
+But the attack missed.
+Escape is impossible!
+Drained the enemy's health!
+HP has been drained!
+<!8064> attempts to escape!
+You were unable to run!
+You found yourself unable to run from this battle!
+<!8064> calls for help!
+<!8065> was killed instantly!
+<!8065> has been petrified!
+<!8065> has fallen asleep...
+<!8065> is confused! 
+<!8065> is terrified!
+<!8065> has been poisoned!
+<!8065> has been blinded!
+<!8065> has been cursed!
+<!8065> has been paralyzed!
+<!8065> has been stunned!
+<!8065>                        's head has been sealed!
+<!8065>                        's arms have been sealed!
+<!8065>                        's legs have been sealed!
+The status ailment on <!8065> has dissipated!
+The beneficial effect on <!8065> has dissipated!
+Nullified one of <!8065>                        's beneficial effects!
+Nullified two of <!8065>                        's beneficial effects!
+Nullified three of <!8065>                        's beneficial effects!
+Nullified one of <!8065>                        's status ailments!
+Nullified two of <!8065>                        's status ailments!
+Nullified three of <!8065>                        's status ailments!
+Lifted two of the seals upon <!8065>                        !
+Lifted three of the seals upon <!8065>                        !
+<!8065>                        's petrification has been removed!
+<!8065> woke up!
+<!8065>                        's head has cleared!
+<!8065> is no longer afraid!
+<!8065> is free from the effects of poison!
+<!8065>                        's sight has been restored!
+<!8065>                        's curse has been lifted!
+<!8065>                        's paralysis has been removed!
+The seal upon <!8065>                        's head has been lifted!
+The seal upon <!8065>                        's arms has been lifted!
+The seal upon <!8065>                        's legs has been lifted!
+<!8065>                        's health was recovered by <!8067>   !
+<!8065>                        's health has been fully restored!
+<!8065> was refreshed by <!8067>   !
+<!8065> has been fully refreshed!>
+<!8065>                        's Boost has been charged by <!8067>   !
+<!8065> has rejoined the battle!
+There's nowhere to run! Escape is impossible!
+Defeated the <!8065>                        !
+The enemy has fallen!
+Defeated <!8065>                        !
+<!8065> is dead!
+The adventurers have fallen...
+<!8065> managed to survive the blow!
+<!8065>                        's wounds have closed, allowing it to attack again!
+<!8065> switched the turn order!
+...Failed! The turn order wasn't switched!
+Arrows rain from the skies!
+<!8064> attacked itself!
+<!8064> attacked <!8065>                        !
+<!8064> is unable to move!
+<!8064> defended the front line!
+<!8064> defended the back line!
+<!8064> parried the enemy's attack!
+<!8065> saw through the enemy's attack!
+<!8065> resists the fire damage!
+<!8065> nullifies the fire damage!
+<!8065> drains the fire damage!
+<!8065> resists the ice damage!
+<!8065> nullifies the ice damage!
+<!8065> drains the ice damage!
+<!8065> resists the volt damage!
+<!8065> nullifies the volt damage!
+<!8065> drains the volt damage!
+<!8065>                        's resistance to fire has increased!
+<!8065>                        's resistance to fire has decreased!
+<!8065>                        's resistance to ice has increased!
+<!8065>                        's resistance to ice has decreased!
+<!8065>                        's resistance to voltage has increased!
+<!8065>                        's resistance to voltage has decreased!
+Issen Slash! <!8065> was killed instantly!
+Blazer activated!
+Freezer activated!
+Shocker activated!
+The trap is set!
+Counter activated!
+Dealt <!8066>    damage!
+Critical hit! Dealt <!8066>    damage!
+Dealt <!8066>    damage to <!8065>                        !
+Critical hit! Dealt <!8066>    damage!
+<!8065> suffered <!8066>    damage from the curse!

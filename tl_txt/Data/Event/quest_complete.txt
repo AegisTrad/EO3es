@@ -1,0 +1,439 @@
+[HEAD][000017b0][00000034]
+
+[MSGH][00000000][0000004e]
+[EN]
+Step into the Labyrinth[LB]
+of Yggdrasil![LB][END]
+[ES]
+¡Adéntrate en el Laberinto[LB]
+de Yggdrasil![LB][END]
+
+
+[MSGH][00000001][00000076]
+[EN]
+Turn 1 [COLOR][0500]Frog Cheek[COLOR][0000] and[LB]
+3 [COLOR][0500]Slimy Legs[COLOR][0000] in to the bar![LB][END]
+[ES]
+¡Lleva 1 [COLOR][0500]Carrillo de rana[COLOR][0000] y[LB]
+3 [COLOR][0500]Ancas de rana[COLOR][0000] al bar![LB][END]
+
+
+[MSGH][00000002][0000005c]
+[EN]
+Observe and report the[LB]
+perfect napping spot![LB][END]
+[ES]
+¡Busca el mejor sitio para echarse[LB]
+una siesta e informa sobre ello![LB][END]
+
+
+[MSGH][00000003][0000004c]
+[EN]
+Bring 1 [COLOR][0500]Gigapede Leg[COLOR][0000] to the bar![LB][END]
+[ES]
+¡Trae 1 [COLOR][0500]Pierna de gigampiés[COLOR][0000] al bar![LB][END]
+
+
+[MSGH][00000004][0000004c]
+[EN]
+Sell 1 [COLOR][0500]Small Flower[COLOR][0000] to the Firm![LB][END]
+[ES]
+¡Véndele 1 [COLOR][0500]flor pequeña[COLOR][0000] a Napier![LB][END]
+
+
+[MSGH][00000005][0000003e]
+[EN]
+Find the missing guild party![LB][END]
+[ES]
+¡Encuentra al gremio perdido![LB][END]
+
+
+[MSGH][00000006][00000060]
+[EN]
+Bring a Farmer at level 2 or[LB]
+above to the bar![LB][END]
+[ES]
+¡Trae a un Granjero de nivel 2[LB]
+o superior al bar![LB][END]
+
+
+[MSGH][00000007][0000006e]
+[EN]
+Find an [COLOR][0500]Amber Bee Nest[COLOR][0000] and turn[LB]
+it in to the bar![LB][END]
+[ES]
+¡Encuentra un [COLOR][0500]nido de abeja[COLOR][0000] y[LB]
+tráelo al bar![LB][END]
+
+
+[MSGH][00000008][00000084]
+[EN]
+Eliminate as many [COLOR][0500]Fanged Fish[COLOR][0000][LB]
+and [COLOR][0500]Devilfish[COLOR][0000] as possible![LB][END]
+[ES]
+¡Acaba con tantos [COLOR][0500]peces tigre[COLOR][0000][LB]
+y [COLOR][0500]peces demonio[COLOR][0000] como puedas![LB][END]
+
+
+[MSGH][00000009][00000038]
+[EN]
+Turn in 1 [COLOR][0500]Indigo Pith[COLOR][0000]![LB][END]
+[ES]
+¡Entrega 1 [COLOR][0500]médula vegetal añil[COLOR][0000]![LB][END]
+
+
+[MSGH][0000000a][00000064]
+[EN]
+Investigate the mutated monster[LB]
+dwelling on B8F![LB][END]
+[ES]
+¡Investiga acerca del monstruo[LB]
+mutante del -8![LB][END]
+
+
+[MSGH][0000000b][00000060]
+[EN]
+Defeat the monsters that have[LB]
+appeared on B1F![LB][END]
+[ES]
+¡Acaba con los monstruos que[LB]
+han aparecido en el -1![LB][END]
+
+
+[MSGH][0000000c][00000082]
+[EN]
+Investigate the swarm of starfish[LB]
+that appears on B7F at night![LB][END]
+[ES]
+¡Investiga sobre el enjambre de estrellas[LB]
+de mar que aparece de noche en el -7![LB][END]
+
+
+[MSGH][0000000d][00000050]
+[EN]
+Turn 1 [COLOR][0500]Thick Throat[COLOR][0000] in to the bar![LB][END]
+[ES]
+¡Trae 1 [COLOR][0500]garganta gruesa[COLOR][0000] al bar![LB][END]
+
+
+[MSGH][0000000e][0000002e]
+[EN]
+Find Ruffalo's knife![LB][END]
+[ES]
+¡Encuentra el cuchillo de Ruffalo![LB][END]
+
+
+[MSGH][0000000f][00000052]
+[EN]
+Take the offering to the[LB]
+statue on B6F![LB][END]
+[ES]
+¡Lleva la ofrenda a la[LB]
+estatua del -6![LB][END]
+
+
+[MSGH][00000010][00000034]
+[EN]
+Find the buried fossils![LB][END]
+[ES]
+¡Encuentra los fósiles enterrados![LB][END]
+
+
+[MSGH][00000011][0000006a]
+[EN]
+Bring whatever you can mine[LB]
+from the Third Stratum![LB][END]
+[ES]
+¡Trae lo que puedas picar[LB]
+del tercer estrato![LB][END]
+
+
+[MSGH][00000012][000000ca]
+[EN]
+Find the [COLOR][0500]Monster Bones[COLOR][0000] dropped[LB]
+by the [COLOR][0500]Stegosaurus[COLOR][0000], [COLOR][0500]Cave Elephant[COLOR][0000],[LB]
+and [COLOR][0500]Flame Lizard[COLOR][0000]![LB][END]
+[ES]
+Encuentra [COLOR][0500]huesos de monstruo[COLOR][0000][LB]
+de [COLOR][0500]estegosaurio[COLOR][0000], [COLOR][0500]elefante cavernícola[COLOR][0000][LB]
+y [COLOR][0500]lagarto fogoso[COLOR][0000]![LB][END]
+
+
+[MSGH][00000013][0000003a]
+[EN]
+Re-temper the rusted sword![LB][END]
+[ES]
+¡Vuelve a templar la espada mellada![LB][END]
+
+
+[MSGH][00000014][00000072]
+[EN]
+Find and bring back a [COLOR][0500]shining[LB]
+blue branch[COLOR][0000] from B9F![LB][END]
+[ES]
+¡Trae una [COLOR][0500]rama azul[LB]
+brillante[COLOR][0000] del -9![LB][END]
+
+
+[MSGH][00000015][00000064]
+[EN]
+Investigate the hot springs in[LB]
+the lava caverns![LB][END]
+[ES]
+¡Investiga sobre las aguas termales[LB]
+de las cuevas de lava![LB][END]
+
+
+[MSGH][00000016][0000004e]
+[EN]
+Turn in 3 pieces of [COLOR][0500]Igneous Rock[COLOR][0000]![LB][END]
+[ES]
+¡Trae 3 [COLOR][0500]rocas ígneas[COLOR][0000]![LB][END]
+
+
+[MSGH][00000017][00000052]
+[EN]
+Bring back a [COLOR][0500]Pomona Fruit[COLOR][0000] from B9F![LB][END]
+[ES]
+¡Trae una [COLOR][0500]manzana de Pomona[COLOR][0000] del -9![LB][END]
+
+
+[MSGH][00000018][0000006e]
+[EN]
+Destroy the monster hiding beyond[LB]
+the secret passage![LB][END]
+[ES]
+¡Destruye al monstruo que se esconde[LB]
+tras el pasadizo secreto![LB][END]
+
+
+[MSGH][00000019][00000086]
+[EN]
+Obtain an antique item from the[LB]
+Abyssal Shrine and bring it back![LB][END]
+[ES]
+¡Consigue alguna antigüedad del[LB]
+Eremitorio abismal y tráela de vuelta![LB][END]
+
+
+[MSGH][0000001a][00000046]
+[EN]
+Solve the mystery of the tablets![LB][END]
+[ES]
+¡Resuelve el misterio de las tabletas![LB][END]
+
+
+[MSGH][0000001b][00000088]
+[EN]
+Pick a [COLOR][0500]shriveled fruit[COLOR][0000] from a[LB]
+withered vine and bring it back![LB][END]
+[ES]
+¡Recoge [COLOR][0500]uvas pasas[COLOR][0000] de[LB]
+una vid marchita y tráelas![LB][END]
+
+
+[MSGH][0000001c][0000008c]
+[EN]
+Find 5 [COLOR][0500]Spearhead Chips[COLOR][0000] and[LB]
+1 [COLOR][0500]Damascus Edge[COLOR][0000] and turn them in![LB][END]
+[ES]
+¡Encuentra 5 [COLOR][0500]puntas de tridente[COLOR][0000][LB]
+y 1 [COLOR][0500]filo de Damasco[COLOR][0000] y entrégalos![LB][END]
+
+
+[MSGH][0000001d][00000038]
+[EN]
+Return the tempered sword![LB][END]
+[ES]
+¡Devuelve la espada reparada![LB][END]
+
+
+[MSGH][0000001e][00000060]
+[EN]
+Defeat the armored beast that[LB]
+appears on B15F![LB][END]
+[ES]
+¡Acaba con la bestia armada[LB]
+que aparece en el -15![LB][END]
+
+
+[MSGH][0000001f][00000064]
+[EN]
+Stop the statue monsters from[LB]
+appearing on B14F![LB][END]
+[ES]
+¡Detén a los monstruos estatua[LB]
+que aparecen en el -14![LB][END]
+
+
+[MSGH][00000020][00000078]
+[EN]
+Help the boy at the inn respond[LB]
+to the letter he received![LB][END]
+[ES]
+¡Ayuda al joven de la posada a[LB]
+responder a una carta![LB][END]
+
+
+[MSGH][00000021][0000006e]
+[EN]
+Help the boy at the inn decide[LB]
+how to write a letter![LB][END]
+[ES]
+¡Ayuda al joven de la posadaLB]
+a escribir una carta![LB][END]
+
+
+[MSGH][00000022][0000007e]
+[EN]
+Find a flower for the boy at the[LB]
+inn to send with his letter![LB][END]
+[ES]
+¡Trae una flor al chico de la posada[LB]
+para que pueda mandarla con la carta![LB][END]
+
+
+[MSGH][00000023][00000054]
+[EN]
+Go on a voyage and defeat a[LB]
+[COLOR][0500]tanniyn[COLOR][0000]![LB][END]
+[ES]
+¡Emprende un viaje a derrotar a un[LB]
+[COLOR][0500]leviatanino[COLOR][0000]![LB][END]
+
+
+[MSGH][00000024][00000074]
+[EN]
+Find out what is bothering the[LB]
+girl sending the letters![LB][END]
+[ES]
+¡Descubre qué es lo que preocupa[LB]
+a la chica de las cartas![LB][END]
+
+
+[MSGH][00000025][00000036]
+[EN]
+Find Salt and turn it in![LB][END]
+[ES]
+¡Encuentra sal y entrégala![LB][END]
+
+
+[MSGH][00000026][00000050]
+[EN]
+Find some Pampas Grass and[LB]
+turn it in![LB][END]
+[ES]
+¡Encuentra hiebra de la pampa[LB]
+y entrégala![LB][END]
+
+
+[MSGH][00000027][0000006a]
+[EN]
+Find the stone that heals wounds[LB]
+and bring it back![LB][END]
+[ES]
+¡Encuentra la piedra que cura[LB]
+heridas y entrégala![LB][END]
+
+
+[MSGH][00000028][00000072]
+[EN]
+Find a lucky [COLOR][0500]4-Leaf Clover[COLOR][0000] and[LB]
+bring it to the bar![LB][END]
+[ES]
+¡Encuentra un [COLOR][0500]trébol de 4 hojas[COLOR][0000] y[LB]
+entrégalo en el bar![LB][END]
+
+
+[MSGH][00000029][0000007a]
+[EN]
+Proceed to the white forest and[LB]
+answer the guard's request![LB][END]
+[ES]
+¡Procede al bosque blanco y[LB]
+responde a la llamada del guarda![LB][END]
+
+
+[MSGH][0000002a][0000003e]
+[EN]
+Spy on Napier's Firm's owner![LB][END]
+[ES]
+¡Espía a Napier![LB][END]
+
+
+[MSGH][0000002b][0000008c]
+[EN]
+Eliminate the bird monsters that[LB]
+have appeared on the First Stratum![LB][END]
+[ES]
+¡Elimina a las aves monstruosas[LB]
+que han aparecido en el primer estrato![LB][END]
+
+
+[MSGH][0000002c][00000074]
+[EN]
+Defeat as many monsters as you[LB]
+can on the Third Stratum![LB][END]
+[ES]
+¡Derrota a todos los monstruos que[LB]
+puedas en el tercer estrato![LB][END]
+
+
+[MSGH][0000002d][0000007a]
+[EN]
+Collect as many materials as you[LB]
+can on the Fourth Stratum![LB][END]
+[ES]
+¡Recoge tantos materiales como[LB]
+puedas en el cuarto estrato![LB][END]
+
+
+[MSGH][0000002e][00000048]
+[EN]
+Find and defeat the fated monster![LB][END]
+[ES]
+¡Encuentra y acaba con el monstruo del destino![LB][END]
+
+
+[MSGH][0000002f][00000050]
+[EN]
+Find the [COLOR][0500]cure for the Green Death[COLOR][0000]![LB][END]
+[ES]
+¡Encuentra una [COLOR][0500]cura para la peste verde[COLOR][0000]![LB][END]
+
+
+[MSGH][00000030][00000088]
+[EN]
+Defeat the [COLOR][0500]Alarune[COLOR][0000] that has[LB]
+escaped into the Porcelain Forest![LB][END]
+[ES]
+¡Acaba con [COLOR][0500]Alarune[COLOR][0000], que ha[LB]
+huido al Bosque de porcelana![LB][END]
+
+
+[MSGH][00000031][00000080]
+[EN]
+Record your encounters with[LB]
+monsters into the Monstrous Codex![LB][END]
+[ES]
+¡Realiza un informe de tus combates[LB]
+contra monstruos en el Códice de monstruos![LB][END]
+
+
+[MSGH][00000032][00000076]
+[EN]
+Record the items you have found[LB]
+into the Item Compendium![LB][END]
+[ES]
+¡Realiza un informe de los objetos[LB]
+que has encontrado en el Códice de objetos![LB][END]
+
+
+[MSGH][00000033][00000082]
+[EN]
+Defeat the giant [COLOR][0500]sea anemone[COLOR][0500][LB]
+lurking on the Second Stratum![LB][END]
+[ES]
+¡Acaba con la [COLOR][0500]anémona[COLOR][0500][LB]
+que acecha en el segundo estrato![LB][END]
+

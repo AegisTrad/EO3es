@@ -1,0 +1,958 @@
+You take your first step into the Yggdrasil Labyrinth, filled with danger and mystery.
+Strange plants cover the landscape, and the cries of beasts echo through the forest.
+The fresh air and lush vegetation mask the dangers that await you ahead.
+Come now into the forest, and begin your adventure!
+You step into a dead end at the forest's edge, covered with brush and brambles.
+An old rucksack, seemingly abandoned by a past explorer, is lying at your feet.
+<!color=0007>Pick up the rucksack? <!color=0000>
+You peer inside the rucksack and find a number of coins inside.
+You decide it would be better to leave the old rucksack where it lies.
+From this point on, your surroundings are not plotted on the map you were given.
+You must take pen in hand and create a map for yourself.
+The true adventure begins with your next step!
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+You find a narrow trail hidden between the trees...
+But the path is too narrow for you to squeeze through.
+You find a narrow trail hidden between the trees...
+The path seems to have widened. It may be passable if you attempt to push through.
+Continue forth?
+While walking through the narrow trail, you find a trickle of water near the end.
+The clear, cool water seems extremely tempting after your arduous hike.
+You hesitate, unsure of whether to slake your thirst or to pass by the water.
+<!color=0007>What will you do? <!color=0000>Put your hand in the water Take a sip of the water Leave
+You reach out and put your hand into the spring water flowing from the rocks.
+The icy water cools your heated skin.
+You wonder whether you should try a sip or leave without taking action.
+Cupping your hands in the stream, you bring a sip of water to your lips...
+The clear, cold water quenches your thirst.
+<!color=0007>The party recovered 10 TP! <!color=0000>
+Feeling much better after drinking the spring water, you decide to move on.
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+You find a narrow trail hidden between the trees...
+But the path is too narrow for you to squeeze through.
+You find a narrow trail hidden between the trees...
+The path seems to have widened. It may be passable if you attempt to push through.
+Continue forth?
+There's no need to explore virgin territory yet.
+First seek the soldier waiting in the known areas of the forest!
+As you continue down the path, you find red fruit growing on the wall of trees.
+It hangs just within reach, seemingly daring you to pluck it and take a bite.
+You consider for a moment whether or not to eat the fruit...
+Eat the red fruit?
+The fruit's sweet juices slid down <!8065>'s throat.
+<!color=0007><!8065> recovered 10 HP! <!color=0000>
+Wary of the mysterious fruit, you resolve not to be tempted by its bright color.
+While walking through the forest, you find something furry at the trail's end.
+Initially thinking it a creature, you lower your guard upon realizing it's a boot.
+Could it have belonged to an adventurer?
+You weigh the options of picking up the dirty boot or leaving it where it lies.
+<!color=0007>What will you do? <!color=0000>Pick up the boot Look around Ignore it and leave
+You gingerly pick up the dirty boot.
+It's rather heavy, due to the ivory-colored rock its previous owner hid inside.
+As you marvel at the rock, the ground begins to shift unnaturally.
+The dreadful monsters who likely killed the boot's owner ambush you!
+You thoroughly inspect the area around the boot.
+A close look reveals torn clothes and reddish stains on the ground.
+The signs point to dangerous beasts lurking nearby.
+Eyeing the boot, you wonder whether picking it up is worth whatever danger is in store.
+You decide to ignore the boot and leave this place.
+As you continue down the path, you spy a blue fruit growing on the wall of trees.
+Its misshapen body looks rather unappetizing.
+It hangs low enough to take and eat, should you choose.
+Eat the blue fruit?
+<!8065> savored the taste of the delicious fruit, contrary to its twisted appearance.
+<!color=0007><!8065> recovered 10 TP! <!color=0000>
+As you continue into the forest, you reach a clearing.
+Squarish boxes are lined up before you.
+It's possible they were left by fellow explorers of the Labyrinth.
+Then, they may also be part of the treasure rumored to litter the Labyrinth...
+The boxes sit ready to be opened, offering no clues to their nature.
+As you walk, you reach a clearing filled with blooming flowers.
+The nameless flowers sway in the wind, and you catch the scent of their fragrance...
+You contemplate whether to rest and enjoy their sweet smell, or leave immediately.
+Rest amongst the flowers?
+You decide to relax in the fragrant clearing.
+However, you aren't the only creature in the forest lured by the sweet floral scent.
+Before you can react, a pack of woodflies swarm around you.
+Woodflies...?
+Nay, these are the extremely poisonous breed known as venomflies!
+Knowing that escape is futile, you brandish your weapons and prepare for battle!
+You decide to vacate the sweet-smelling clearing at once.
+The Yggdrasil Labyrinth...
+One task must be performed before challenging its depths.
+As you have some skill at adventuring, some <!color=0005>3 Skill Points<!color=0000> should be available to you.
+To spend them on <!color=0005>skills<!color=0000> useful in the Labyrinth, open the Main Menu with the Y Button. Select <!color=0005>Custom<!color=0000> to allocate skill points, but think carefully before doing so.
+You may already be aware of this, in which case this advice is happily unnecessary.
+If so, then hesitate no longer to begin your adventure in this lush, green forest!
+There's a small but carefully made gravestone.
+A small flower rests upon it; no doubt it was left by someone as an offering.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+As you continue your adventure, a ferocious roar echoes through the forest.
+Moments afterward, you hear heavy hoofed footsteps galloping through the forest.
+A dreadful enemy unlike any you have yet seen is fast approaching!
+After reaching the new floor, you suddenly remember...
+Your first mission was to map B1F and present the results to Radha Hall!
+It would be best to finish that task before exploring uncharted levels.
+Present a completed map to Radha Hall at the first opportunity.
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+As you continue into the brush, a noise ahead draws your attention.
+An intermittent sound is coming from the brush.
+Something seems to be inside the tall grass before you.
+You peer futilely into it, wondering whether to chance it or leave the sound alone.
+<!color=0007>Investigate? <!color=0000>
+As a party leader, <!8065> reached out and pushed back the tall grass.
+Suddenly, <!8065>'s hand was struck by a sharp pain!
+The noise seems to have come from a small snake.
+After biting <!8065>'s outstretched hand, it slithered off into the forest.
+<!color=0007><!8065> lost 5 HP. <!color=0000>
+You pull yourselves together and continue on the adventure.
+You decide to leave such a suspicious sound alone.
+As you continue on the winding path, you see a soldier basking in the warm sunlight.
+Noticing your presence, the soldier calls to you.
+"Ho there.
+Explorers, I see...
+How goes your adventure thus far?"
+After a brief chat, it comes out that he is here to help those navigating the forest.
+The soldier offers to sell you any of his tools you find yourself in need of.
+Choose the item you believe you will need most from the following:
+<!color=0007>Which will you choose? <!color=0000>A weapon to battle monsters Medicine to heal the injured We're fine, thank you
+You inquire of the soldier if he has any strong weapons.
+Upon hearing this, the soldier removes the sword from the scabbard on his back.
+"Will this serve?
+It's a small sword, but I believe it will do for your purposes.
+"As for the price...
+Since you're licensed explorers, you may have it for 500 ental."
+Pay the soldier his 500 ental, or reconsider your purchase?
+<!color=0007>Pay 500en? You pay the soldier his money and receive the short sword in return.
+"Best of luck, explorers, and I hope to see you again on your journey."
+The transaction having been completed, the soldier bids you farewell.
+You return to your own business of investigating the forest labyrinth.
+Your response elicits a disappointed nod from the soldier.
+"If we have no business to conduct, then farewell."
+Having delivered these parting words, the soldier leaves.
+You return to your own business of investigating the forest labyrinth.
+You start to speak, then stop, knowing your lies of payment will be fruitless.
+Disappointed, the soldier shakes his head sadly.
+"If we have no business to conduct, then farewell."
+Having delivered these parting words, the soldier leaves.
+You return to your own business of investigating the forest labyrinth.
+You tell the soldier you have need of medicine to heal wounds.
+Hearing this, the soldier removes a small bottle from his pack.
+"This medicine should serve your restorative needs.
+"As for the price...
+Since you're licensed explorers, you may have it for 100 ental."
+Pay the soldier his 100 ental, or reconsider your purchase?
+<!color=0007>Pay 100en? You pay the soldier his money and receive the medicine in return.
+"Best of luck, explorers, and I hope to see you again on your journey."
+The transaction having been completed, the soldier bids you farewell.
+You return to your own business of investigating the forest labyrinth.
+Your response elicits a disappointed nod from the soldier.
+"If we have no business to conduct, then farewell."
+Having delivered these parting words, the soldier leaves.
+You return to your own business of investigating the forest labyrinth.
+You start to speak, then stop, knowing your lies of payment will be fruitless.
+Disappointed, the soldier shakes his head sadly.
+"If we have no business to conduct, then farewell."
+Having delivered these parting words, the soldier leaves.
+You return to your own business of investigating the forest labyrinth.
+As you continue down the path, you spot an orange fruit growing on the wall of trees.
+The edible-looking fruit makes your mouth water.
+It would be no trouble to take the fruit and eat it.
+Eat the orange fruit?
+The fruit's delicious-looking exterior proved a sham, as <!8065> discovered.
+<!color=0007><!8065> lost 10 TP! <!color=0000>
+Wary of the unknown fruit, you leave without tasting it.
+Coming to a dead end, you see a suspiciously-placed hunk of meat near the shadows.
+Close examination shows that the soil nearby has been disturbed as well.
+You look about your party to see if you brought along a survivalist.
+A member of that class would be able to accurately assess the situation...
+Is a survivalist present?
+In the survivalist's estimation, the scene is obviously an animal trap.
+You carefully remove the hunk of meat without touching the trap.
+The meat seems to be bait to lure beasts.
+It may prove useful to bring along.
+Alas, wishing does not make it so. There is, in fact, no survivalist in your party.
+Without one at hand, you must judge the scene for yourself.
+Either venture toward the suspicious meat, or leave.
+Without a survivalist at hand, you must judge the scene for yourself.
+Either venture toward the suspicious meat, or leave.
+Approach the hunk of meat?
+<!8065> slowly approached the piece of meat...
+Suddenly, the ground beneath you gives way as a wooden stake shoots at you from the brush!
+<!color=0007><!8065> lost 10 HP. <!color=0000>
+The tableau is revealed as a trap for beasts. <!8065> took the meat from the trap, holding onto the painful wound.
+The hard-won meat may prove useful as bait.
+You leave the highly suspicious meat alone.
+On the tree standing at the end of the narrow trail, you see a shriveled green fruit.
+Judging from its color and shape, it doesn't look edible.
+If you really wish, you can pluck the fruit and eat it.
+Attempt to eat the green fruit?
+Appearances to the contrary, the fruit was fresh and juicy.
+<!color=0007><!8065> recovered 10 HP! <!color=0000>
+Unsure about the mysterious fruit, you left it alone.
+<!color=0007>The dot on the map is a type of enemy known as an FOE: Foedus Obrepit Errabundus. <!color=0007>For every movement you make, it makes one as well. Consider any FOEs before taking action. <!color=0000>
+As you walk through the forest, you come across two female adventurers.
+One has black robes and flame hair, while the other bears a fierce look and a katana.
+"Who's there!?" demands the hard-bitten woman, one hand ready to draw her katana.
+The adventurers appear to be veterans, and have made no move to lower their defenses.
+Perhaps they'll relent if you tell them that you are also adventurers from Etria.
+<!color=0007>Tell them you are adventurers? <!color=0000>
+Once you inform them you are adventurers, they nod and lower their guard ever so slightly.
+"Ah, Etrian explorers.
+Didn't the Radha notify you?"
+The katana-wielding woman, realizing your ignorance, shakes her head in dismay.
+"We have orders from the Radha to guard this place," says the severe woman with the sword.
+"I am Ren, a samurai, and she is Tlachtga, a hexcaster.
+"Return to town at once and get the details from Radha Hall."
+Ren barks these cold, sharp words, then lapses into a silent glare.
+It seems you should ask the Radha official for details regarding the situation.
+The severe warrior woman gives an exasperated sigh at your refusal to speak.
+"Are you men, or beasts, incapable of speech?
+"This area is closed.
+Return to town and take the matter up with Radha Hall.
+"I am Ren, a samurai, and she is Tlachtga, a hexcaster.
+We guard here under the Radha's orders."
+The hard-looking woman called Ren barks the words at you coldly, with a glare to match.
+It seems you should ask the Radha official for details of the situation.
+Neither of the female adventurers have moved from the spot they occupy.
+"We are guards, not guides," spits the katana-wielding woman.
+"Take it up with Radha."
+Realizing the abysmal likelihood of obtaining these women's cooperation, you turn and leave.
+As you walk through the forest, you come across two female adventurers.
+One has black robes and flame hair, while the other bears a fierce look and a katana.
+"Who's there!?" demands the hard-bitten woman, one hand ready to draw her katana.
+"This area is closed.
+You lot will have to leave."
+After saying this, the two women move to obstruct your path.
+It seems you cannot continue forth at present.
+As you walk through the forest, a wall of trees blocks your progress.
+However, there seems to be a minute crack that could be passable, if you kneel.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+As you venture forth among the trees, the adventurer called Ren appears once more.
+Smiling as if to congratulate you on your steady progress, the warrior woman greets you.
+"It seems there are no wolves on this floor yet," she remarks.
+"I'll give you some advice, before you go back on your way through the forest. "The trees are not always as impassable as they look.
+"Finding the hidden paths will allow you to move about more efficiently.
+Keep an eye out.
+"There's a hidden path around here, in fact," she hints.
+"See if you can spot it."
+Without another word, Ren walks away.
+You glance about, searching idly for the narrow, hidden path she spoke of.
+After passing through the door, you reach a clearing.
+Without warning, an ear-piercing scream sounds out, followed by the growl of a fierce beast.
+Mere yards away, a giant wolf is preparing to spring onto an unlucky soldier!
+The wounded soldier seems to be petrified with horror.
+An urge to draw your weapon and save the soldier wells up within you...
+<!color=0007>Rescue the soldier?
+As you gird yourself for battle, the faint ringing of a bell reaches your ears...
+Searching for its source, you find the hexcaster Tlachtga standing quietly there.
+Her lips scarcely parting, the girl with the ringing bell murmurs a mysterious chant.
+All at once, the wolf that had stood ready to pounce stops moving, its muscles tensed...
+At a final word from the girl, blood spews from the wolf's jaws, and it collapses.
+"They don't hear or see well," the flame-haired girl whispers, "but they can smell blood."
+Fixing her pale-eyed gaze upon you, the girl approaches.
+"You should be careful.
+It's dangerous to fight wolves with open wounds like his."
+Hand outstretched, Tlachtga sprinkles some droplets of shining water on you.
+<!color=0007>Your HP and TP were recovered!<!color=0000>
+"I'll tend to this soldier.
+You should go on...
+The stairs to the 4th floor are not far."
+As she speaks, Tlachtga points you to the back of the room.
+"I'll stay here until you defeat Fenrir.
+Come back if your wounds become too severe."
+Tlachtga turns away, her attention focused on treating the collapsed soldier's wounds.
+The way is clear to continue forth.
+You stand there, trying to work up the nerve to intervene.
+Before you do so, the faint ringing of a bell reaches your ears...
+Searching for its source, you find the hexcaster Tlachtga standing quietly there.
+Her lips scarcely parting, the girl with the ringing bell murmurs a mysterious chant.
+All at once, the wolf that had stood ready to pounce stops moving, its muscles tensed...
+At a final word from the girl, blood spews from the wolf's jaws, and it collapses.
+"They don't hear or see well," the flame-haired girl whispers, "but they can smell blood."
+Fixing her pale-eyed gaze upon you, the girl approaches.
+"You should be careful.
+It's dangerous to fight wolves with open wounds like his."
+Hand outstretched, Tlachtga sprinkles some droplets of shining water on you.
+After passing through the door, you reach a clearing.
+Without warning, an ear-piercing scream sounds out, followed by the growl of a fierce beast.
+Mere yards away, a giant wolf is preparing to spring onto an unlucky soldier!
+The wounded soldier seems to be petrified with horror.
+You take a step forward...
+The desire to draw your weapon and rescue the soldier wells up within you...
+The flame-haired hexcaster is standing in the same place as before, her stance unchanged.
+She gives you a faint nod as she turns to face you.
+"How fare you?
+I hope you're not pushing yourself too hard," she says demurely.
+As she does, she sprinkles a few more of her shining droplets on you.
+"Water from a spring deep in the forest," she explains.
+"It heals your stamina."
+She speaks the truth; you find your stamina restored as the cool water soaks into your skin.
+"The 4th floor is home to many wolves.
+Take care..."
+The girl shyly turns her head away after delivering her warning to you.
+Your strength regained, you feel ready to continue your adventure into the forest.
+As you descend into a new floor, a premonition of bloodshed sends a chill down your spine.
+Even new adventurers such as yourself can clearly feel the overwhelming sensation...
+It is the specter of death, looming over you as you prepare to face unknown dangers.
+Take heed!
+Beasts red of tooth and claw run rampant here!
+Fleeing from these creatures is no shameful thing.
+In these depths, survival is paramount!
+The distant howling of wolves reaches your ears as you venture deeper into the forest.
+Their wild cries echo through the trees...
+You suddenly recall Tlachtga's words.
+She warned you that this is a dreadful place where feral wolves dwell.
+You continue forth, the threat of approaching wolves uppermost in your mind...
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+As you reach the new Stratum, you find a mysterious light shining in front of you.
+As you gaze upon the enigmatic scene, you hear someone descend the stairs behind you.
+You turn to see two familiar adventurers with smiles on their faces.
+"Well done, <!806E> explorers.
+Rid of the wolves, the Emerald Grove again knows peace."
+Grim satisfaction is evident on the warrior woman Ren's face as she gazes into your eyes.
+"It pleases me to see such young adventurers triumph in the face of such adversity.
+"After defeating Fenrir, you will be known as high- ranking adventurers of Etria.
+"We salute your hard work.
+May your continued exploration go as well as it has thus far."
+The pleasantries thus dispensed with, Ren points to the unearthly light behind you.
+In the blink of an eye, the two of them disappear from where they previously stood.
+Is this the power of the Geomagnetic Field?
+Ren's words stay with you as you continue...
+After reaching the new Stratum, you suddenly remember...
+You had undertaken a mission from the Radha to defeat Fenrir!
+It would be best to report your victory over the beast before exploring this new region.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+"See that light?
+We call it the <!color=0005>Geomagnetic Field<!color=0000>, and we use it to investigate the Labyrinth.
+"Truthfully, no one knows what created it, or for what purpose, but its power is formidable.
+"Touch it, and you will find yourself elsewhere.
+The Radha's Chieftain pioneered its use.
+"Though you must be eager to explore a new Stratum, I advise you to return to town first."
+Ren and her flame-haired partner brush past you and approach the pillar of light.
+You push through the dense plants to reach a small clearing in the forest.
+Water flows between the trees here, and there are standing pools of water.
+Merely by standing here, your body begins to feel lighter.
+You ache to rest here...
+But suddenly, you sense an ominous presence nearby.
+It feels as though you are being stalked by some dangerous creature...
+The sense of foreboding is enough to drive you from the spring immediately.
+It may be best not to return here again.
+You return to the forest spring, but the ominous presence you felt has not abated.
+You cautiously take your leave from the ill-favored clearing.
+You ache to rest here...
+But suddenly, you sense an ominous presence nearby.
+Whatever vile creature blocks the spring's water is targeting you!
+As you look about, a gigantic crab steps forth from the cascading water.
+Its large, sharp claws and hard shell make it seem a harder adversary than any you've faced.
+You vow to stand your ground and defeat the thing to restore this spring to its natural state!
+The gigantic crab silently collapses to the floor...
+With that, the pools of water below you audibly begin to drain somewhere.
+The crab's demise seems to have unblocked their flow to the lower regions.
+Your task complete, you decide to return to the main goal of exploring the Labyrinth.
+While wandering the Labyrinth, you notice odd patterns inscribed in the roots below your feet.
+The obviously man-made markings are of a crossed circle, seemingly scratched in with a knife.
+It's possible that another adventurer left these behind.
+With no way to be certain, you elect to leave them alone.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+You obtain a crystal shard that emits a wondrous light.
+It releases a low pitch and a dazzling glow, as if resonating with something...
+Perhaps it opens the mysterious crystals entwined with ivy, seen elsewhere in the Labyrinth.
+A shrill scream comes from the direction you face, and flapping wings are audible as well.
+You break into a cold sweat, sensing the presence of a formidable enemy.
+A dreadful beast unlike any you've encountered so far is lurking nearby!
+Maybe Radha Hall will have some more information on it.
+As you stand marveling at the jungle trees, you spot a narrow road between their trunks.
+<!color=0007>Continue down the narrow road? <!color=0000>
+You decide to give the narrow road a clear berth.
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+After pushing through the thick brush, you reach a place with exposed roots surrounding a bud.
+The roots reach to the ceiling as if to receive something, but they do so in vain.
+As you puzzle over this, you suddenly hear familiar voices approach behind you.
+"Ever further do you descend into the Labyrinth, warriors of <!806E> .
+We congratulate you.
+The warrior woman Ren hails you, her constant companion Tlachtga standing silently by her side.
+The samurai and hexcaster seem pleased with your progress thus far.
+"We have a favor to ask of such accomplished explorers.
+"Usually, the waters of a healing spring can be found here.
+"Lately, though, the water has stopped, creating a great nuisance for adventurers.
+Ren punctuates her bitter explanation with a quick point to the ceiling.
+"A monster blocking the spring in the floor above is to blame.
+It is tiresome and vexing.
+"Warriors of <!806E> ...
+Will you go to the spring, and free it from that vile monster?
+"We could make short work of it ourselves, but we have other matters to attend to.
+"If you mean to further explore the Labyrinth, to do this would be in your best interests.
+With this, Ren and her wordless companion turn to leave.
+"Luck be with you, warriors.
+Gain victory over the monster, and bring honor to your guild."
+With those final words, the two adventurers leave this place.
+You can go defeat the monster as requested, or continue your investigation.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+A large bud's roots project from the ground in front of you.
+They reach to the ceiling as if to receive something, but they do so in vain.
+Perhaps if you defeat the monster to unblock the spring on the floor above...
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+As you walk through the jungle, you sense an imminent threat from deeper in the Labyrinth.
+Something lurks here unlike anything encountered to date. It may be dangerous to proceed.
+You seriously consider returning to town and making further preparations before continuing.
+As you tread through the Labyrinth, you spot a red stone at your feet.
+Upon closer examination, it's a mere painted pebble, and not a valuable jewel.
+Certain sling-using survivalists retrieve their ammunition for expediency's sake...
+This must have been colored so as to make it easier to find, once loosed at an enemy.
+The ordinary stone is valueless. You lose interest immediately.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+You slowly step into the azure sea of trees.
+As you take your first steps into this new land, a soldier appears and hails you.
+"Are you the adventurers who defeated the King of the Jungle?
+"Your exploits are the talk of Radha Hall.
+You should return there to see what I mean."
+The soldier smiles, delivers a mock salute, and goes on his way.
+Perhaps it would be a good idea to heed his words, and visit the Radha...
+In your journey through these forests, tinted blue as the ocean, you encounter a soldier.
+The worry creasing his brow lifts when he sees you, and he smiles as he greets you.
+"You're the adventurers sent by the Radha on the mission down here, no?
+"We've been looking forward to meeting the skilled warriors who felled the King of the Jungle.
+"So, you've heard that we were ordered to map the corridors of B11F and B12F.
+"But with these dreadful beasts, and these twisted passages...
+We were at our wits' end. "I tell you, it's a sure relief to have help from the fine members of <!806E> !"
+The soldier fishes through his pack, producing a parchment.
+"It isn't much, but here's the result of my work so far in mapping this floor."
+The soldier hands you his hand-drawn map!
+"I trust you'll have no problem filling in the rest."
+Barely affording you a glance as he leaves, the soldier walks briskly back home.
+Taking the soldier's partially completed map in hand, you continue your exploration.
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+In the depths of the forest, you find the oft-encountered samurai, alone for once.
+She notices you as well, and turns to speak with you.
+"So... You've reached the third Stratum.
+You've come far... but what is it you seek?"
+Ren stares coldly at you, awaiting your answer.
+You ponder the question.
+<!color=0007>How will you answer her? <!color=0000>To solve the mysteries To become the strongest To kill time
+"The mysteries of Yggdrasil...
+The reason for the Labyrinth's existence...
+"You are certainly not the only explorers seeking to unravel these enigmas."
+A faint smile creases the harsh warrior woman's face before she continues.
+"Hear me, then. "Etria was once a small frontier town, in the days before the Labyrinth was discovered...
+"But ever since then, it has become a boomtown with the influx of adventurers.
+"What do you think will happen to Etria once the mysteries of the Labyrinth are solved?"
+Ren's cold stare remains locked into your eyes, as though she is testing you.
+"You'll do what you must, I suppose.
+If you are to continue down this road..."
+Ren pauses, producing a weathered scroll from her belongings. "...Then consider where such a road must eventually lead."
+"If, after doing so, you decide to continue, this secret scroll of the samurai will be of use."
+Ren hands you the scroll, turns to leave, and pauses before she disappears into the foliage.
+"The road you walk, and mine...
+They will meet again. Until then, take care."
+With that, she is gone.
+You give her words thought as you return to your investigation.
+"To become the strongest...
+One of the most basic reasons an adventurer can give.
+"I must warn you, then.
+"The road you walk is honorable.
+But should you find it taking you to the forest's secrets...
+Ren pauses, producing a weathered scroll from her belongings. "...Then consider where such a road must eventually lead."
+"If you wish to become stronger, this secret scroll of the samurai will speed you to your goal."
+Ren hands you the scroll, turns to leave, and pauses before she disappears into the foliage.
+"The road you walk, and mine...
+They will meet again. Until then, take care."
+With that, she is gone.
+You give her words thought as you return to your investigation.
+"A flippant answer, I see.
+You may as well say, 'Because it is there,' hm?"
+A sly smile creases the warrior woman's face before she continues.
+"Then, let me caution you.
+"Idling the days aways, poking around the forest, is an acceptable road to walk.
+"But do not let your idylls take you to the mysteries at the heart of this forest.
+"It's in Etria's best interests that the Labyrinth's secrets remain safe.
+If they do not..." Ren pauses, producing a weathered scroll from her belongings. "...Then consider where such a road must eventually lead."
+"Here... this secret scroll of the samurai should provide you some amusement, I think."
+Ren hands you the scroll, turns to leave, and pauses before she disappears into the foliage.
+"The road you walk, and mine...
+They will meet again. Until then, take care."
+With that, she is gone.
+You give her words thought as you return to your investigation.
+You have traversed every corner of this floor and created an excellent map!
+Radha Hall will be quite pleased to see your handiwork.
+If you are done mapping B12F as well, then return to the Radha and show them the results.
+If not, then move along to the next floor, and complete the second half of your task.
+As you walk the Labyrinth's passages, you stop, feeling something odd beneath your feet.
+A rusted sword and shield are buried here.
+They must be the remains of expired adventurers.
+Unfortunately, the atmosphere here has not been kind to them, and they appear unusable.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+You slowly step into the azure sea of trees.
+You wonder if you shouldn't return to the Radha before commencing exploration here.
+They may have some advice on journeying through this new and unknown Stratum.
+You have traversed every corner of this floor and created an excellent map!
+Radha Hall will be quite pleased to see your handiwork.
+If you are done mapping B11F as well, then return to the Radha and show them the results.
+If not, then return to the previous floor, and complete the second half of your task.
+As you walk the Labyrinth's passages, you find a large hole at your feet.
+It seems to be a nest of some kind, but nothing is emerging from it now.
+You carefully tiptoe around the hole, so as not to disturb whatever sleeps there.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+After falling through the pit on the floor above, you sense something ferocious about you.
+The prints in the mud and bite marks on the trees indicate that this floor is an ant's nest!
+Exercise great caution as you venture forth...
+It's likely that many ants will appear to stymie your passage through this floor.
+As you take your first steps into a new floor, you suddenly remember...
+You were given a mission to complete before venturing this far down.
+It's best to return to Radha Hall immediately with completed maps of B11F and B12F.
+In the depths of the forest, you suddenly catch a glimpse of someone's shadow.
+From its place in a nearby brush, it closely watches your every move.
+Who would be here, this deep in the Labyrinth...?
+Ren and Tlachtga, perhaps?
+But they are usually more direct, never hiding themselves in shadow like this...
+You mentally debate over whether to approach the shadow or pay it no heed.
+<!color=0007>Approach the shadow? <!color=0000>
+You take a tenuous step toward the shadow, but it instantly withdraws into the trees.
+You resolve to keep an eye out for the unknown shadow from now on in your travels.
+You decide not to take heed of the shadow in the distance.
+After a while, you reason, the shadow will lose interest in you and wander away.
+Forgetting about the shadow, you continue your adventure.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+After taking your first steps into a new floor, you halt for a moment.
+You recall a request at Radha Hall to investigate a mysterious organism here...
+It might be wise to accept that mission before proceeding with the exploration of this floor.
+You obtain a purple crystal shard that emits a wondrous light.
+It releases a low pitch and a dazzling glow, as if resonating with something...
+Perhaps it opens the purple crystals entwined with ivy, seen elsewhere in the Labyrinth.
+...The dread monster begins to slowly fall before your eyes.
+The shadow behind the collapsing horror has apparently already escaped.
+But where it lurked, you find a stone tablet engraved with a mysterious language.
+If it came from the unknown shadow, it may be a useful clue.
+Radha Hall might know more...
+As you navigate the blue forest, you sense a strong imminent threat from beyond the door.
+Even with your experience thus far, the presence is stronger than anything you've faced.
+Are you ready for anything?
+Have you prepared yourself to confront any creature?
+If you have confidence in your skills, then open the door and meet your fate!
+As you walk through the forest, a wall of trees blocks your progress.
+A man-made hollow is in the tree before you, waiting to receive something.
+You remember the stone tablet dropped by the mysterious shadow not long ago.
+Perhaps it would fit here...
+You resolve to fetch it from Radha Hall's storage.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+As you fit the stone tablet into the tree, a dazzling light engulfs you!
+When you regain your vision, you see that a new path is open to you now.
+You step into yet another new Stratum.
+A lonely, withered forest, unlike the other Strata you have seen, spreads before you.
+It would be prudent to return to town before investigating its dusty expanses...
+Radha Hall may have information regarding either the stone tablet or the mysterious girl.
+Continuing through the lonely forest of flowing sands, you notice a fellow adventurer.
+The black-clad, flame-haired girl notices your presence and turns to you slowly.
+"You, from <!806E> ... You've come far..."
+You wonder how the quiet, wide-eyed girl with the small voice came to be here.
+You consider whether you should ask the shy girl, or leave her to her own devices.
+<!color=0007>Ask her? <!color=0000>
+You ask the hexcaster Tlachtga what has brought her to these sandy vales.
+In answer, the girl's gaze shifts to the flowing sands.
+"I've waited here alone for you.
+I pass the time by listening to the sand..."
+The flame-haired girl fixes you with her powerful, unnerving stare.
+"I'm worried for Ren.
+She's bound too much to her past... It will crush her someday.
+"Someone must expose the truth of the Labyrinth before that happens."
+The girl's hand emerges silently from her cloak, holding a small golden bell.
+"This is the cursed bell of my kind.
+May it aid you in your journey from here on."
+The timid girl hands you the bell without another word, then goes silently on her way.
+You tuck the bell into your pocket, then watch the girl until she disappears.
+You match the silent gaze of the hexcaster Tlachtga.
+Sensing your reluctance to speak, the girl's gaze shifts to the flowing sands.
+"I've waited here alone for you.
+I pass the time by listening to the sand..."
+The flame-haired girl fixes you with her powerful, unnerving stare.
+"I'm worried for Ren.
+She's bound too much to her past... It will crush her someday.
+"Someone must expose the truth of the Labyrinth before that happens."
+The girl's hand emerges silently from her cloak, holding a small golden bell.
+"This is the cursed bell of my kind.
+May it aid you in your journey from here on."
+The timid girl hands you the bell without another word, then goes silently on her way.
+Gazing at the wall of trees, you suddenly see a narrow path between those trunks.
+<!color=0007>Travel down the path? <!color=0000>
+You decide to ignore the path.
+Beyond the narrow path, you feel a cold wind blowing through the spaces in the wall of trees.
+There seems to be a clearing beyond the wall, but you have no means of getting there.
+Beyond the narrow path, you feel a cold wind blowing through the spaces in the wall of trees.
+Haven't you been here before...?
+If so, there was certainly no such hole on your previous visit!
+Whatever lurks beyond is sure to be a fierce opponent...
+If you mean to continue, then take the utmost caution.
+<!color=0007>Continue through the hole? <!color=0000>
+At the end of the long corridor, you reach an open area.
+Upon entering it, the low growl of a beast reaches your ears.
+You instinctively steel yourself for combat against the gigantic monster standing before you.
+The grotesque beast has an animal's body, a scorpion's tail, and a human's face.
+Beating its two large wings against the dry air, it stares directly at you.
+Spying an escape route, you quickly weigh whether to run or stand and fight.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+The party will barely fit through the crack in the cluster of trees ahead.
+Continue forth?
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+The claw marks of a large beast can be seen on the tree before you.
+They seem fresh...
+It's possible that the beast who made them is still close at hand.
+There must be some beast in this Stratum you have not yet encountered.
+Continue your exploration with great caution!
+A warp point is here.
+<!color=0007>Warp? <!color=0000>
+You decided against using the warp point.
+As you travel through the withered forest, you reach a place with a mysterious aura.
+Space seems to distort beyond the hole in the tree that's barely wide enough for you.
+Something unusual is sure to happen if you enter the hole.
+<!color=0007>Enter the hole?
+In the dense wall of trees before you is a hole that would scarcely admit a person.
+You peer at it, but nothing happens.
+When you open your eyes, you realize that you are standing far from your previous location.
+After defeating the golden guardian bird, its glow fades as it collapses to the ground.
+At last, you have overcome the guardian bird of the forest folk!
+As you rest from the arduous battle, the pale-skinned girl of the forest folk appears.
+Look at her?
+You attempt to speak to the girl, who seems to have collapsed.
+But the only answer the forest girl can give is a weak groan.
+The unicorn's horn may be useful in this situation...
+You avert your eyes from the collapsed forest girl.
+On a battleground such as this, there is nothing you could do for her.
+Give her the unicorn's horn?
+You recall the unicorn horn that you obtained earlier.
+If your memory serves, the horn is said to have the power to heal any wound or malady.
+Perhaps it may yet save the pale-skinned girl.
+You give her the unicorn's horn.
+The rest is up to the forest maiden's strength.
+You can do nothing more for her.
+It's best to continue your journey into the Labyrinth.
+Alas, you are not carrying a unicorn's horn.
+Wish though you may, you cannot save the pale-skinned maiden.
+She lies before you, slowly but surely growing weaker.
+You can do nothing more for her. You must leave her here, and continue your journey.
+You decide not to give the unicorn horn to her after all.
+It seems folly to waste such a valuable item on the forest folk.
+The pale-skinned forest maiden lies before you, slowly but surely growing weaker.
+You can do nothing more for her. You must leave her here, and continue your journey.
+Continue through the trees?
+You stand before a hole that leads to the next Stratum.
+A new Stratum lies past this point...
+The deepest part of the Labyrinth awaits you.
+But first, you must report your vanquishment of the forest folk to Radha Hall.
+You check your map for the fastest way back to town.
+A mysterious crystal entwined with ivy blocks your path...
+It seems you cannot proceed.
+"...How could the Iwaopeln have fallen to humans...?"
+The pale-skinned forest maiden speaks in hushed tones as she stares balefully at you.
+Her cohorts defeated and her guardian bird slain, the girl is powerless to intervene further.
+Still gazing at you, the forest girl continues.
+"Everything is gone... I can do nothing else.
+Go below, if that is what thou desire.
+"The stairs to the next Stratum are in the small area north of here.
+"Take the hidden path in the wall of trees to reach it."
+The forest girl casts her head down and makes to leave, bidding a final goodbye.
+"Farewell, humans.
+Nothing stands in thy way now; not my brethren, and not myself..."
+Within moments, the pale-skinned maiden has blended invisibly with the rest of the forest.
+You have carried out the mission given to you by the Radha.
+You may either search for the small area the forest girl spoke of, or return to town.
+As you step down into the next Stratum, strange and wonderful buildings fill your sight.
+The vast underground is strewn with these unknown structures!
+You look about you in speechless awe.
+What could these ruins mean?
+Taking care with every step, you cautiously continue onward.
+While passing through the ancient buildings, you find some sort of unknown device.
+The contraption of glass and metal is installed against the wall at the rear of the room.
+You notice a kind of switch or button within reach on the device's center.
+You consider the ramifications of turning on an unknown device inside ancient ruins...
+<!color=0007>Press the button? <!color=0000>
+With great trepidation, you slowly push the button...
+The device gives off a sudden, unearthly grinding noise.
+The low, dreadful sound echoes through the room, and you hear something moving far away.
+It seems a device somewhere in these ancient ruins has been activated.
+But what was it...?
+You wrack your brain, trying to remember what you've seen thus far.
+Though whether you recall or not, you're certain to run across it sooner or later.
+You decide not to touch the unknown ancient device...
+After all, there's no sense inviting danger this deep within the Labyrinth.
+The control panel remains untouched.
+The unknown device once again squats before you.
+Nothing has changed since you first discovered it.
+You consider the ramifications of turning on an unknown device inside ancient ruins...
+On the ground before you lies a small, ankh-shaped piece of metal.
+You have no earthly idea what value it could be to anyone.
+You nudge the piece of metal with your foot; when nothing happens, you leave.
+You gaze down the path connecting the ancient ruins.
+Standing in the center of the long path are two figures.
+As they approach, you can see that they are the adventurers Ren and Tlachtga.
+"You've come all this way... but this place was never meant for humans."
+The warrior woman Ren speaks, an almost sorrowful expression on her normally severe face.
+"Etria depends on the constant stream of adventurers exploring the Labyrinth... You know this.
+"The town only prospers from the people burning to discover the Labyrinth's secrets.
+"Do you understand now?
+No one must be allowed to actually solve the forest's mysteries.
+"Curiosity is welcome up to a a point, but those who learn too much are troublesome...
+"Thus, the Radha has charged us with eliminating you before you learn the truth of Yggdrasil."
+With this, Ren slowly draws her katana, and adopts a fighting stance.
+"We admire your skill... But for Etria's sake, you will not leave this Stratum alive."
+The flame-haired Tlachtga moves beside her, quietly supporting her companion.
+"If Ren wishes it, I will fight you with what strength I have..."
+A confrontation with the two determined women before you is now inevitable.
+Seeing this, you unsheathe your weapons and stand ready for battle!
+Though the women's sword skills and hexes were fierce, you have emerged victorious.
+Ren and Tlachtga have collapsed to the floor, exhausted.
+"Visil...
+We failed.
+These explorers are beyond our strength," Ren mutters.
+"We are beaten, adventurers.
+Continue forth...
+We will stand in your way no longer.
+"Visil will be waiting for your arrival at the deepest floor.
+"Hear from him there the truth of the Labyrinth, the forest folk, and our mission...
+"I trust that you can make it there."
+Saying this, the two seem more beaten than before, letting their bodies droop to the floor.
+Though breathless, they continue to speak.
+"Go, adventurers, and worry no more about us.
+Take this and proceed onward."
+Ren hands you a small piece of metal.
+"Keep walking the road you believe to be true...
+Your destination still lies ahead."
+Raising their battered bodies, the two women support one another as they walk off.
+It seems the Labyrinth's end is drawing near.
+With new determination, you press on.
+As the two are nearly gone, Ren turns around and comes back to you.
+"Your skill defeated even we two...
+I'm interested to see how strong you can become."
+With these words, Ren takes an old scroll from her belongings.
+"This is the secret scroll of the samurai way. I want you to have it."
+Having given you the scroll, Ren once again turns her back and rejoins her companion.
+As the two are nearly gone, Tlachtga turns around and comes back to you.
+"I believe in you.
+I know you can solve the Labyrinth's mysteries."
+The girl's hand emerges silently from her cloak, holding a small golden bell.
+"This is the cursed bell of my kind.
+May it aid in your journey from here on."
+The timid girl hands you the bell without another word, then goes silently on her way.
+As the two are nearly gone, Ren turns around and comes back to you.
+"Your skill defeated even we two...
+I'm interested to see how strong you can become."
+With these words, Ren takes an old scroll and a bell from her belongings.
+"These gifts are from both of us to you.
+They should help in your journey from here on."
+Having given you the scroll and bell, Ren again turns her back and rejoins her companion.
+You bid them farewell before returning to your travels.
+Treading through the ancient ruins, you see a large tree bridging two buildings.
+The outdoor landscape of lush greens and open sky calms your weary soul.
+But before you can relax, you feel a powerful threat nearby!
+You strain to see two figures standing in the center of the bridge, blocking your path.
+If you go to meet them, you're sure to face an exceptionally fierce battle.
+You glance behind you at the way leading back to town...
+You must be certain you are ready to face whatever may lie in wait on the bridge.
+You climb down the stairs in the mysterious ruins...
+As you step off the last stair, a wall directly in front of you obstructs your path.
+Before you turn to head back, you notice a paper, yellowed with age, lying on the floor.
+You can vaguely make out words on the paper, which seems on the verge of disintegrating.
+Holding the paper to the window for light, you examine the blurred writing...
+You climb up the stairs in the mysterious ruins...
+As you step off the last stair, a wall directly in front of you obstructs your path.
+Before you turn to head back, you notice a paper, yellowed with age, lying on the floor.
+You can vaguely make out words on the paper, which seems on the verge of disintegrating.
+"We... seven... our staff... inaugurated... save... Earth... ...destruction..."
+Before you can make out the entire message, the paper turns to dust in your hand...
+It must have been an extremely old letter.
+As nothing else here catches your eye, you decide to leave this place.
+On the ground before you lies a small, ankh-shaped piece of metal.
+You have no earthly idea what value it could be to anyone.
+You nudge the piece of metal with your foot; when nothing happens, you leave.
+"To save... this Earth... Yggd...
+Project..."
+"Wife waiting...
+Japan... must... nue... research...
+For... ake... mankind..."
+Before you can make out the entire message, the paper turns to dust in your hand...
+It must have been an extremely old letter.
+As nothing else here catches your eye, you decide to leave this place.
+You continue down the corridor in the mysterious ruins...
+At the immediate end of the corridor is a wall obstructing your path.
+Before you turn to head back, you notice a paper, yellowed with age, lying on the floor.
+You can vaguely make out words on the paper, which seems on the verge of disintegrating. "...last... left... I...
+Yggdrasil... caught in... eter... life..."
+"Only worry about...
+Visil... husband... left alone... he's..."
+"Solitude... person... It's... ...st... cruel..."
+Before you can make out the entire message, the paper turns to dust in your hand...
+It must have been an extremely old letter.
+As nothing else here catches your eye, you decide to leave this place.
+On the ground before you lies a small, ankh-shaped piece of metal.
+You have no earthly idea what value it could be to anyone.
+You nudge the piece of metal with your foot; when nothing happens, you leave.
+You gaze down the path connecting the ancient ruins.
+Standing in the center of that long corridor are two figures.
+As they approach, you can see that they are the adventurers Ren and Tlachtga.
+"You've come all this way... But this place was never meant for humans."
+The warrior woman Ren speaks, an almost sorrowful expression on her normally severe face.
+"Etria depends on the constant stream of adventurers exploring the Labyrinth... You know this.
+"The town only prospers from the people burning to discover the Labyrinth's secrets.
+"Do you understand now?
+No one must be allowed to actually solve the forest's mysteries.
+"Curiosity is welcome up to a a point, but those who learn too much are troublesome...
+"Thus, the Radha has charged us with eliminating you before you learn the truth of Yggdrasil."
+With this, Ren slowly draws her katana, and adopts a fighting stance.
+"We admire your skill... But for Etria's sake, you will not leave this Stratum alive."
+The flame-haired Tlachtga moves beside her, quietly supporting her companion.
+"If Ren wishes it, I will fight you with what strength I have..."
+A confrontation with the two determined women before you is now inevitable.
+Seeing this, you unsheathe your weapons and stand ready for battle!
+Though the women's sword skills and hexes were fierce, you have emerged victorious.
+Ren and Tlachtga have collapsed to the floor, exhausted.
+"Visil...
+We failed.
+These explorers are beyond our strength," Ren mutters.
+"We are beaten, adventurers.
+Continue forth...
+We will stand in your way no longer.
+"Visil will be waiting for your arrival at the deepest floor.
+"Hear from him there the truth of the Labyrinth, the forest folk, and our mission...
+"I trust that you can make it there."
+Saying this, the two seem more beaten than before, letting their bodies droop to the floor.
+Though breathless, they continue to speak.
+"Go, adventurers, and worry no more about us.
+Take this and proceed onward."Ren hands you a small piece of metal.
+"Keep walking the road you believe to be true...
+Your destination still lies ahead."
+Raising their battered bodies, the two women support one another as they walk off.
+It seems the Labyrinth's end is drawing near.
+With new determination, you press on.
+On the ground before you lies a small, ankh-shaped piece of metal.
+You have no earthly idea what value it could be to anyone.
+You nudge the piece of metal with your foot; when nothing happens, you leave.
+As you tread what seems to be the deepest part of the forest, you find a massive door.
+You reach for its control panel, but stop when a voice suddenly speaks out.
+Ask what lies beyond the door?
+"Beyond that door...?"
+The Chief barks a hollow laugh, and seems to choose his next words very carefully.
+"Why, the truth of Yggdrasil.
+Will you be the ones to finally witness the Labyrinth's secret?"
+His tone becomes harsh, as if to reproach you for daring to ask.
+"If you wish to know the things I know, then by all means, go through the door.
+"But if you're not willing to stake your life on the truth, then don't waste your time."
+The Chieftain falls silent, then slowly disappears beyond the door standing before you.
+You reach the depths once again to find the Chieftain awaiting you in front of the door.
+"Not satisfied, then?
+You still wish to learn what secrets lie beyond this door?"
+The Chieftain puts on a strained smile as he answers.
+"Why, the truth of Yggdrasil.
+Will you be the ones to finally witness the Labyrinth's secret?"
+His tone becomes harsh, as if to reproach you for daring to ask.
+"If you wish to know the things I know, then by all means, go through the door.
+"But if you're not willing to stake your life on the truth, then don't waste your time."
+The Chieftain falls silent, then slowly disappears beyond the door standing before you.
+"I thought not.
+No, there's no need to worry yourselves over such things."
+The Chieftain looks at you with a triumphant smile.
+"You've already achieved so much.
+No one could have expected more from you.
+"You can go back to town, proud men. The Chieftain watches you walk the path back to town."
+"If you enter, be prepared. In exchange for your lives, I will tell you the Labyrinth's secret."
+The door swings firmly closed on the Chieftain's words.
+Your heart pounding, you think carefully before deciding your next move.
+There is still time to prepare in town before pursuing the Chieftain through the door...
+You think hard on your party's current status, debating if the time has come to proceed...
+The decision to go past that point of no return can only be made by you.
+As you walk through the forest, you are faced by a wall of trees.
+<!color=0007>Continue forth?
+A small crack is visible in the wall of trees before you.
+But it seems you cannot pass through from this side.
+You explore the corridor behind the hall where you once fought the Lord of Yggdrasil...
+Believing everything to be over, you're surprised to see a man-sized hole in the floor.
+As you peer into it, you realize it leads to another Stratum you have never seen.
+It seems your adventure has not yet ended!
+Your heart racing in your chest, you stand poised to explore the unknown Stratum!
+You produce the Card Key given to you by the two adventurers.
+As you bring it near the door, the noise of a lock lifting sounds through the passage.
+"Mark well my words before you open that door."
+The Chieftain whom you spoke to so often at Radha Hall appears, a grave look on his face.
+He moves to stand between you and the door as he speaks.
+"You have done well to defeat such skilled warriors as the forest folk, Ren, and Tlachtga.
+"Truly, none who have traveled the Yggdrasil Labyrinth are your equals.
+"Return to town, and you'll receive fame and fortune. You don't have to do anymore."
+The Chieftain's promise tempts you, but your gaze is still drawn to the massive door...
+You stand torn between taking him up on the offer, and finding the truth behind the door.
+There is a mysterious space which feels different from what is around you.
+You wait expectantly, but nothing seems to be happening here now.
+From this point on, you will not be able to turn back.
+Are you willing to proceed?
+<!color=0007>Continue onward?
+From this point on, you will not be able to turn back.
+Are you willing to proceed?
+<!color=0007>Continue onward?
+There is a mysterious space which feels different from what is around you.
+<!color=0007>Will you try entering it?
+You reach the true depths of the Yggdrasil Labyrinth's ominous red caverns...
+Before you squats an abomination born from your most terrible nightmares.
+The monster dwelling in these blood-soaked depths must be the Labyrinth's final enemy!
+Unsheathing your weapons, you prepare to face the heart of the Labyrinth!
+You stand within the ominous lowest reaches of the Labyrinth, surrounded by red walls...
+There, you reach a door that seems to lead into the deepest parts of the Labyrinth.
+A seal fashioned after a dragon's face is carved on it.
+As you reach out to touch the door, a mysterious voice rings inside your head.
+"Only those who have bested the Labyrinth's mightiest behemoth shall earn passage here.
+"That mightiest of beasts is... "<!color=0006>The Grand Wyrm. <!color=0007>"If thou would challenge the transcendent one in the depths, first defeat its guardian!"
+The mysterious voice withdraws from your head...
+It seems you cannot yet pass through this door.
+As you reach out to touch the door, a mysterious voice rings inside your head.
+"Only those who have bested the Labyrinth's marvelous creature shall earn passage here.
+"That most marvelous of beasts is... "<!color=0006>The Majestic Drake. <!color=0007>"If thou would challenge the transcendent one in the depths, first defeat its guardian!"
+The mysterious voice withdraws from your head...
+It seems you cannot yet pass through this door.
+As you reach out to touch the door, a mysterious voice rings inside your head.
+"Only those who have bested the Labyrinth's fearsome creature shall earn passage here.
+"That most dreaded colossus is... "<!color=0006>The Terrible Dragon. <!color=0007>"If thou would challenge the transcendent one in the depths, first defeat its guardian!"
+The mysterious voice withdraws from your head...
+It seems you cannot yet pass through this door.
+As you approach, the seal on the door slowly fades away.
+Nothing more stands in your path! The way is clear to continue forth!
+It seems as though you can push through this scarlet, blood-drenched wall...
+But there is no guarantee of safe return once you have breached its confines.
+You gather your courage to challenge the very deepest part of the Labyrinth...

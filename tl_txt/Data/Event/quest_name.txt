@@ -1,0 +1,365 @@
+[HEAD][00000be4][00000034]
+
+[MSGH][00000000][0000003a]
+[EN]
+Investigating the Labyrinth[LB][END]
+[ES]
+Investigación del laberinto[LB][END]
+
+
+[MSGH][00000001][0000003a]
+[EN]
+Butterfly Bistro's new menu[LB][END]
+[ES]
+Nuevo menú del Bistró mariposa[LB][END]
+
+
+[MSGH][00000002][0000002c]
+[EN]
+The fisherman's rest[LB][END]
+[ES]
+El descanso del pescador[LB][END]
+
+
+[MSGH][00000003][00000026]
+[EN]
+Ho! The gigapede![LB][END]
+[ES]
+¡Hipelopendra![LB][END]
+
+
+[MSGH][00000004][0000002e]
+[EN]
+Request from the Firm[LB][END]
+[ES]
+Petición del taller[LB][END]
+
+
+[MSGH][00000005][0000003a]
+[EN]
+The bond between guildmates[LB][END]
+[ES]
+El lazo que une al gremio[LB][END]
+
+
+[MSGH][00000006][00000026]
+[EN]
+Man versus nature[LB][END]
+[ES]
+El último superviviente[LB][END]
+
+
+[MSGH][00000007][0000001e]
+[EN]
+Amber delight[LB][END]
+[ES]
+Delicia ámbar[LB][END]
+
+
+[MSGH][00000008][00000026]
+[EN]
+The fish festival[LB][END]
+[ES]
+La feria del pez[LB][END]
+
+
+[MSGH][00000009][00000016]
+[EN]
+Deep blue[LB][END]
+[ES]
+En la profundidad del mar[LB][END]
+
+
+[MSGH][0000000a][00000024]
+[EN]
+Unknown mutation[LB][END]
+[ES]
+Mutación desconocida[LB][END]
+
+
+[MSGH][0000000b][00000026]
+[EN]
+Too close to home[LB][END]
+[ES]
+Muy cerca de casa[LB][END]
+
+
+[MSGH][0000000c][0000003e]
+[EN]
+Professor Scott's all-nighter[LB][END]
+[ES]
+Velada nocturna del Profesor Scott[LB][END]
+
+
+[MSGH][0000000d][00000024]
+[EN]
+Clinic's request[LB][END]
+[ES]
+Petición de la clínica[LB][END]
+
+
+[MSGH][0000000e][0000001e]
+[EN]
+Lost treasure[LB][END]
+[ES]
+Tesoro perdido[LB][END]
+
+
+[MSGH][0000000f][0000002a]
+[EN]
+Statue of salvation[LB][END]
+[ES]
+La estatua de la salvación[LB][END]
+
+
+[MSGH][00000010][00000038]
+[EN]
+Messages from aeons past I[LB][END]
+[ES]
+Mensajes del pasado I[LB][END]
+
+
+[MSGH][00000011][0000002e]
+[EN]
+The jeweler's request[LB][END]
+[ES]
+Petición del joyero[LB][END]
+
+
+[MSGH][00000012][0000003a]
+[EN]
+Messages from aeons past II[LB][END]
+[ES]
+Mensajes del pasado II[LB][END]
+
+
+[MSGH][00000013][00000016]
+[EN]
+Forging 1[LB][END]
+[ES]
+Forja 1[LB][END]
+
+
+[MSGH][00000014][0000002a]
+[EN]
+Wishing on a branch[LB][END]
+[ES]
+Pídele un deseo[LB][END]
+
+
+[MSGH][00000015][0000002e]
+[EN]
+Searching for springs[LB][END]
+[ES]
+Buscando manantiales[LB][END]
+
+
+[MSGH][00000016][00000030]
+[EN]
+The sculptor's request[LB][END]
+[ES]
+Petición del escultor[LB][END]
+
+
+[MSGH][00000017][00000030]
+[EN]
+The gourmand's demands[LB][END]
+[ES]
+Exigencias del sibarita[LB][END]
+
+
+[MSGH][00000018][00000016]
+[EN]
+Ant agony[LB][END]
+[ES]
+Agonía formícida[LB][END]
+
+
+[MSGH][00000019][00000032]
+[EN]
+Treasures of the depths[LB][END]
+[ES]
+Tesoros de las profundidades[LB][END]
+
+
+[MSGH][0000001a][0000002e]
+[EN]
+Secrets on a pedestal[LB][END]
+[ES]
+Secretos en un pedestal[LB][END]
+
+
+[MSGH][0000001b][00000022]
+[EN]
+The shrub fruit[LB][END]
+[ES]
+El fruto del matorral[LB][END]
+
+
+[MSGH][0000001c][00000030]
+[EN]
+An artisan's curiosity[LB][END]
+[ES]
+La curiosidad del artesano[LB][END]
+
+
+[MSGH][0000001d][00000016]
+[EN]
+Forging 2[LB][END]
+[ES]
+Forja 2[LB][END]
+
+
+[MSGH][0000001e][00000034]
+[EN]
+A comrade sleeping below[LB][END]
+[ES]
+El camarada durmiente[LB][END]
+
+
+[MSGH][0000001f][0000002e]
+[EN]
+Statues of limitation[LB][END]
+[ES]
+Estatuas de la limitación[LB][END]
+
+
+[MSGH][00000020][0000002c]
+[EN]
+Letter in a bottle I[LB][END]
+[ES]
+Mensaje en una botella I[LB][END]
+
+
+[MSGH][00000021][00000026]
+[EN]
+Letter not used 1[LB][END]
+[ES]
+Carta sin usar 1[LB][END]
+
+
+[MSGH][00000022][00000026]
+[EN]
+Letter not used 2[LB][END]
+[ES]
+Carta sin usar 2[LB][END]
+
+
+[MSGH][00000023][00000022]
+[EN]
+Tanniyn hunting[LB][END]
+[ES]
+A la caza del leviatanino[LB][END]
+
+
+[MSGH][00000024][00000026]
+[EN]
+Letter not used 3[LB][END]
+[ES]
+Carta sin usar 3[LB][END]
+
+
+[MSGH][00000025][0000002a]
+[EN]
+A salty exploration[LB][END]
+[ES]
+Exploración salada[LB][END]
+
+
+[MSGH][00000026][00000036]
+[EN]
+Praying with pampas grass[LB][END]
+[ES]
+Rezos entre hierbas de Pampas[LB][END]
+
+
+[MSGH][00000027][0000001e]
+[EN]
+Rock of wages[LB][END]
+[ES]
+Roca del valor[LB][END]
+
+
+[MSGH][00000028][0000002a]
+[EN]
+Mooning over clover[LB][END]
+[ES]
+El trébol de cuatro hojas[LB][END]
+
+
+[MSGH][00000029][00000024]
+[EN]
+A secret request[LB][END]
+[ES]
+Una petición secreta[LB][END]
+
+
+[MSGH][0000002a][00000012]
+[EN]
+Sisters[LB][END]
+[ES]
+Hermanas[LB][END]
+
+
+[MSGH][0000002b][0000001e]
+[EN]
+The bird pair[LB][END]
+[ES]
+La pareja de aves[LB][END]
+
+
+[MSGH][0000002c][00000022]
+[EN]
+Elval's hobby I[LB][END]
+[ES]
+La afición de Elval I[LB][END]
+
+
+[MSGH][0000002d][00000024]
+[EN]
+Elval's hobby II[LB][END]
+[ES]
+La afición de Elval II[LB][END]
+
+
+[MSGH][0000002e][00000028]
+[EN]
+Elval's grim truth[LB][END]
+[ES]
+La cruda realidad de Elval[LB][END]
+
+
+[MSGH][0000002f][0000002e]
+[EN]
+Letter in a bottle II[LB][END]
+[ES]
+Mensaje en una botella II[LB][END]
+
+
+[MSGH][00000030][0000003a]
+[EN]
+Monster from across the sea[LB][END]
+[ES]
+El monstruo allende los mares[LB][END]
+
+
+[MSGH][00000031][0000003a]
+[EN]
+Filling the Monstrous Codex[LB][END]
+[ES]
+Completar el códice de monstruos[LB][END]
+
+
+[MSGH][00000032][0000003a]
+[EN]
+Filling the Item Compendium[LB][END]
+[ES]
+Completar el compendio de objetos[LB][END]
+
+
+[MSGH][00000033][0000002e]
+[EN]
+Shrouded in the Abyss[LB][END]
+[ES]
+Rodeado en el abismo[LB][END]
+

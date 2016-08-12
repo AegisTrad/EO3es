@@ -1,0 +1,34 @@
+English
+Message not found.
+Landsknecht
+Survivalist
+Protector
+Dark Hunter
+Medic
+Alchemist
+Bard
+Samurai
+Hexcaster
+Enter
+Cancel
+Masters of sword and axe, able to use a wide range of weapons and armor in close combat.  <!color=0006>Balanced warriors for the front line.
+Wise in the ways of the forest, their bow skills make them desirable allies.  <!color=0006>Fast-acting fighters useful in either line.
+Willing to sacrifice themselves to save their allies. They are invaluable when in the dungeon.  <!color=0006>Best used as front- line warriors.
+Hunters who use their whips to weaken opponents and turn the tide of battles.  <!color=0006>Their skills are best used in the front.
+Unskilled in battle, their healing arts allow experienced warriors to survive difficult battles.  <!color=0006>Use their healing gifts from the back.
+Those who study the control of nature. The power of fire, ice, and lightning is at their command.  <!color=0006>Elementalists who prefer the back.
+Lively dancers and singers who inspire the party. Their support is always welcome in combat.  <!color=0006>Supporters able to work on either line.
+These masters of combat consider honorable death a virtue, so their defense is poor.  <!color=0006>Proud soldiers who fight in front.
+Their hexes dictate whether an enemy lives or dies. Their innate gifts are rarely seen.  <!color=0006>Tormentors used to the back line.
+Enter the adventurer's name using the keyboard below.
+Select the adventurer's class.
+Select the adventurer's portrait.
+Is this adventurer ready to register?
+Registration complete.
+You cannot use that name!
+YES
+NO
+Please choose a guild name using the keyboard below.
+Guild: 
+Is this guild name acceptable?
+Register another adventurer?

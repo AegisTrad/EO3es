@@ -1,0 +1,1446 @@
+[HEAD][000050bc][000000c9]
+
+[MSGH][00000000][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000001][0000005e]
+[EN]
+While exploring, you come across[LB]
+a large box.[LB][END]
+[ES]
+Explorando el laberinto, encuentras[LB]
+un arcón enorme.[LB][END]
+
+
+[MSGH][00000002][00000038]
+[EN]
+Would you like to open it?[LB][END]
+[ES]
+¿Te gustaría abrirlo?[LB][END]
+
+
+[MSGH][00000003][00000026]
+[EN]
+Obtained [COLOR][0600][DATA][0000][COLOR][0000]. [LB][END]
+[ES]
+Obtienes [COLOR][0600][DATA][0000][COLOR][0000]. [LB][END]
+
+
+[MSGH][00000004][00000024]
+[EN]
+Obtained [COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Obtienes [COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+
+
+[MSGH][00000005][00000020]
+[EN]
+Obtained [DATA][0000]en.[LB][END]
+[ES]
+¡Obtienes [DATA][0000]en.[LB][END]
+
+
+[MSGH][00000006][00000048]
+[EN]
+However, you cannot hold any more.[LB][END]
+[ES]
+Muy a tu pesar, no puedes cargar con más.[LB][END]
+
+
+[MSGH][00000007][00000066]
+[EN]
+The box has already been emptied[LB]
+of its contents.[LB][END]
+[ES]
+El arcón parece estar vacío[LB]
+de contenido.[LB][END]
+
+
+[MSGH][00000008][00000060]
+[EN]
+There is a switch on the wall in[LB]
+front of you.[LB][END]
+[ES]
+Encuentras un interruptor en la pared[LB]
+que hay frente a ti.[LB][END]
+
+
+[MSGH][00000009][0000003a]
+[EN]
+Would you like to press it?[LB][END]
+[ES]
+¿Te gustaría pulsarlo?[LB][END]
+
+
+[MSGH][0000000a][00000066]
+[EN]
+You press it, but nothing seems[LB]
+to have happened.[LB][END]
+[ES]
+Si bien lo pulsas, no parece haber[LB]
+ocurrido nada.[LB][END]
+
+
+[MSGH][0000000b][00000070]
+[EN]
+A terrible sound of screeching[LB]
+metal echoes all about![LB][END]
+[ES]
+¡Un chirriante sonido metálico[LB]
+retumba por las paredes![LB][END]
+
+
+[MSGH][0000000c][0000003e]
+[EN]
+The metal shutters come down![LB][END]
+[ES]
+¡Las puertas metálicas descienden![LB][END]
+
+
+[MSGH][0000000d][0000008e]
+[EN]
+The floor gives way as you realize[LB]
+you've stumbled into a booby trap![LB][END]
+[ES]
+El suelo parece guiarte, ¡mas pronto[LB]
+descubres que has caído en una trampa![LB][END]
+
+
+[MSGH][0000000e][0000007a]
+[EN]
+You come across a chopping point.[LB]
+Chop the vegetation here?[LB][END]
+[ES]
+En esta zona se puede podar.[LB]
+¿Talar materiales?[LB][END]
+
+
+[MSGH][0000000f][0000006c]
+[EN]
+You come across a mining point.[LB]
+Mine for items here?[LB][END]
+[ES]
+En esta zona se puede picar.[LB]
+¿Extraer materiales?[LB][END]
+
+
+[MSGH][00000010][00000078]
+[EN]
+You come across a harvesting point.[LB]
+Gather materials here?[LB][END]
+[ES]
+En esta zona se puede cosechar.[LB]
+¿Arrancar materiales?[LB][END]
+
+
+[MSGH][00000011][00000046]
+[EN]
+You're too exhausted to continue.[LB][END]
+[ES]
+El cansancio no te permite continuar.[LB][END]
+
+
+[MSGH][00000012][00000050]
+[EN]
+You have reached your limit[LB]
+for today.[LB][END]
+[ES]
+Has alcanzado el límite[LB]
+diario.[LB][END]
+
+
+[MSGH][00000013][00000072]
+[EN]
+No one in your party is skilled[LB]
+in chopping vegetation.[LB][END]
+[ES]
+Ningún miembro del grupo sabe[LB]
+talar materiales.[LB][END]
+
+
+[MSGH][00000014][00000058]
+[EN]
+No one in your party is skilled[LB]
+at mining.[LB][END]
+[ES]
+Ningún miembro del grupo sabe[LB]
+extraer materiales.[LB][END]
+
+
+[MSGH][00000015][00000072]
+[EN]
+No one in your party is skilled[LB]
+at gathering materials.[LB][END]
+[ES]
+Ningún miembro del grupo sabe[LB]
+arrancar materiales.[LB][END]
+
+
+[MSGH][00000016][00000034]
+[EN]
+You can't hold any more.[LB][END]
+[ES]
+No puedes cargar con más.[LB][END]
+
+
+[MSGH][00000017][000000a8]
+[EN]
+You realize with regret that your[LB]
+pack is full and you cannot hold[LB]
+any more items.[LB][END]
+[ES]
+Al poco tiempo, te percatas de que[LB]
+el morral está lleno y lamentas no[LB]
+poder cargar con más objetos.[LB][END]
+
+
+[MSGH][00000018][00000010]
+[EN]
+......[LB][END]
+[ES]
+...[LB][END]
+
+
+[MSGH][00000019][00000052]
+[EN]
+You inhale sharply at what you[LB]
+find...![LB][END]
+[ES]
+¡Lo que encuentras corta[LB]
+drásticamente tu respiración...![LB][END]
+
+
+[MSGH][0000001a][0000003a]
+[EN]
+You have discovered[LB]
+[COLOR][0600][DATA][0000][COLOR][0000].[LB][END]
+[ES]
+Has descubierto[LB]
+[COLOR][0600][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][0000001b][0000003a]
+[EN]
+You have discovered[LB]
+[COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Has descubierto[LB]
+[COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+
+
+[MSGH][0000001c][000000c2]
+[EN]
+You feel that you're on the verge[LB]
+of finding quality materials, but[LB]
+you detect danger nearby...[LB][END]
+[ES]
+Sientes que estás a punto de[LB]
+encontrar material de calidad, pero[LB]
+notas la presencia del peligro...[LB][END]
+
+
+[MSGH][0000001d][00000026]
+[EN]
+Continue to chop?[LB][END]
+[ES]
+¿Seguir talando?[LB][END]
+
+
+[MSGH][0000001e][00000026]
+[EN]
+Continue to mine?[LB][END]
+[ES]
+¿Seguir extrayendo?[LB][END]
+
+
+[MSGH][0000001f][0000002a]
+[EN]
+Continue to gather?[LB][END]
+[ES]
+¿Seguir arrancando?[LB][END]
+
+
+[MSGH][00000020][00000092]
+[EN]
+You don't detect any imminent[LB]
+threat. It is no doubt safe to[LB]
+camp here.[LB][END]
+[ES]
+No detectas ningún peligro[LB]
+inminente. Sin pensarlo dos veces,[LB]
+decides acampar.[LB][END]
+
+
+[MSGH][00000021][000000c2]
+[EN]
+You don't strongly detect any[LB]
+imminent threat. You're not sure,[LB]
+but you can probably camp here.[LB][END]
+[ES]
+No logras discernir si existe alguna[LB]
+amenaza, aunque consideras[LB]
+acampar en el lugar.[LB][END]
+
+
+[MSGH][00000022][00000030]
+[EN]
+Pitch a tent and camp?[LB][END]
+[ES]
+¿Armar una tienda de campaña?[LB][END]
+
+
+[MSGH][00000023][00000078]
+[EN]
+As you have no tents, you cannot[LB]
+make use of the campsite.[LB][END]
+[ES]
+Debido a la ausencia de tiendas de[LB]
+campaña, no puedes acampar.[LB][END]
+
+
+[MSGH][00000024][0000007a]
+[EN]
+The party decided to pitch a tent[LB]
+and rest at the campsite.[LB][END]
+[ES]
+El equipo decide armar una tienda[LB]
+y acampar en la zona.[LB][END]
+
+
+[MSGH][00000025][00000010]
+[EN]
+......[LB][END]
+[ES]
+...[LB][END]
+
+
+[MSGH][00000026][00000052]
+[EN]
+An enemy attacked, destroying[LB]
+the tent![LB][END]
+[ES]
+¡Un enemigo irrumpe y destruye[LB]
+la tienda![LB][END]
+
+
+[MSGH][00000027][00000052]
+[EN]
+The party rested, recovering[LB]
+HP and TP.[LB][END]
+[ES]
+El equipo descansa y recupera[LB]
+PV y PT.[LB][END]
+
+
+[MSGH][00000028][000000b8]
+[EN]
+The attack prevented you from[LB]
+getting a proper rest. You only[LB]
+recovered partial HP and TP.[LB][END]
+[ES]
+El ataque provocó que el equipo[LB]
+no tuviera un descanso reparador.[LB]
+Recuperas PV y PT parcialmente.[LB][END]
+
+
+[MSGH][00000029][000000c2]
+[EN]
+You fled the campsite, leaving the[LB]
+tent behind! Unable to rest, you[LB]
+leave the area still tired.[LB][END]
+[ES]
+Huyes del lugar de acampada dejando[LB]
+la tienda atrás. Aún sin un descanso[LB]
+en condiciones, abandonas el sitio.[LB][END]
+
+
+[MSGH][0000002a][00000078]
+[EN]
+It's a Submagnetic Pole.[LB]
+Return to Armoroad[LB]
+Save[LB]
+Ignore it[LB][END]
+[ES]
+Es un punto geomagnético.[LB]
+Regresar a Armoroad[LB]
+Guardar[LB]
+Ignorarlo[LB][END]
+
+
+[MSGH][0000002b][000000a8]
+[EN]
+It's a Submagnetic Pole.[LB]
+Return to Armoroad[LB]
+Return to the Deep City[LB]
+Save[LB]
+Ignore it[LB][END]
+[ES]
+Es un punto geomagnético.[LB]
+Regresar a Armoroad[LB]
+Regresar a Inmersópolis[LB]
+Guardar[LB]
+Ignorarlo[LB][END]
+
+
+[MSGH][0000002c][0000002c]
+[EN]
+Go back to Armoroad?[LB][END]
+[ES]
+¿Regresar a Armoroad?[LB][END]
+
+
+[MSGH][0000002d][00000036]
+[EN]
+Go back to the Deep City?[LB][END]
+[ES]
+¿Regresar a Inmersópolis?[LB][END]
+
+
+[MSGH][0000002e][0000000e]
+[EN]
+Save?[LB][END]
+[ES]
+¿Guardar?[LB][END]
+
+
+[MSGH][0000002f][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000030][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000031][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000032][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000033][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][00000034][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][00000035][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][00000036][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][00000037][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][00000038][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][00000039][00000014]
+[EN]
+Proceed?[LB][END]
+[ES]
+¿Proceder?[LB][END]
+
+
+[MSGH][0000003a][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][0000003b][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][0000003c][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][0000003d][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][0000003e][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][0000003f][000000b0]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][END]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][00000040][0000011c]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][PB]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+[EN]
+However, it appears to be[LB]
+impassable from this side.[LB][END]
+[ES]
+Mas sin embargo, es imposible[LB]
+cruzarlo desde este lado.[LB][END]
+
+
+[MSGH][00000041][0000011c]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][PB]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+[EN]
+However, it appears to be[LB]
+impassable from this side.[LB][END]
+[ES]
+Mas sin embargo, es imposible[LB]
+cruzarlo desde este lado.[LB][END]
+
+
+[MSGH][00000042][0000011c]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][PB]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+[EN]
+However, it appears to be[LB]
+impassable from this side.[LB][END]
+[ES]
+Mas sin embargo, es imposible[LB]
+cruzarlo desde este lado.[LB][END]
+
+
+[MSGH][00000043][0000011c]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][PB]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+[EN]
+However, it appears to be[LB]
+impassable from this side.[LB][END]
+[ES]
+Mas sin embargo, es imposible[LB]
+cruzarlo desde este lado.[LB][END]
+
+
+[MSGH][00000044][0000011c]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][PB]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+[EN]
+However, it appears to be[LB]
+impassable from this side.[LB][END]
+[ES]
+Mas sin embargo, es imposible[LB]
+cruzarlo desde este lado.[LB][END]
+
+
+[MSGH][00000045][0000011c]
+[EN]
+A small crevice is visible in the[LB]
+wall before you. Perhaps a person[LB]
+may fit through...[LB][PB]
+[ES]
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+[EN]
+However, it appears to be[LB]
+impassable from this side.[LB][END]
+[ES]
+Mas sin embargo, es imposible[LB]
+cruzarlo desde este lado.[LB][END]
+
+
+[MSGH][00000046][00000014]
+[EN]
+Proceed?[LB][END]
+[ES]
+¿Proceder?[LB][END]
+
+
+[MSGH][00000047][000001aa]
+[EN]
+The door before you with a star-[LB]
+shaped insignia has no handle and[LB]
+does not budge when you push it.[LB][PB]
+[ES]
+La puerta frente a ti tiene un[LB]
+emblema con forma de estrella, pero[LB]
+no tiene pomo y no parece moverse.[LB][PB]
+
+[EN]
+You seem to have no way to open[LB]
+this door at the moment.[LB][PB]
+[ES]
+Al parecer aún no dispones de[LB]
+medios para abrir la puerta.[LB][PB]
+
+[EN]
+You leave it be for the moment to[LB]
+explore elsewhere.[LB][END]
+[ES]
+La dejas por el momento para seguir[LB]
+explorando en otro sitio.[LB][END]
+
+
+[MSGH][00000048][000001aa]
+[EN]
+The door before you with a moon-[LB]
+shaped insignia has no handle and[LB]
+does not budge when you push it.[LB][PB]
+[ES]
+La puerta frente a ti tiene un[LB]
+emblema con forma de luna, pero[LB]
+no tiene pomo y no parece moverse.[LB][PB]
+
+[EN]
+You seem to have no way to open[LB]
+this door at the moment.[LB][PB]
+[ES]
+Al parecer aún no dispones de[LB]
+medios para abrir la puerta.[LB][PB]
+
+[EN]
+You leave it be for the moment to[LB]
+explore elsewhere.[LB][END]
+[ES]
+La dejas por el momento para seguir[LB]
+explorando en otro sitio.[LB][END]
+
+
+[MSGH][00000049][000001a8]
+[EN]
+The door before you with the odd[LB]
+elephant on it has no handle and[LB]
+does not budge when you push it.[LB][PB]
+[ES]
+La puerta frente a ti tiene incrustado[LB]
+un extraño elefante, pero no tiene[LB]
+pomo y no parece moverse.[LB][PB]
+
+[EN]
+You seem to have no way to open[LB]
+this door at the moment.[LB][PB]
+[ES]
+Al parecer aún no dispones de[LB]
+medios para abrir la puerta.[LB][PB]
+
+[EN]
+You leave it be for the moment to[LB]
+explore elsewhere.[LB][END]
+[ES]
+La dejas por el momento para seguir[LB]
+explorando en otro sitio.[LB][END]
+
+
+[MSGH][00000051][00000062]
+[EN]
+[DATA][0000] stood there and[LB]
+spent an hour doing nothing.[LB][END]
+[ES]
+[DATA][0000] se quedó esperando[LB]
+una hora sin hacer nada.[LB][END]
+
+
+[MSGH][00000052][00000142]
+[EN]
+A bug on the ground caught[LB]
+[DATA][0000]'s attention, who[LB]
+started observing it keenly.[LB][PB]
+[ES]
+Un bicho del suelo llamó la[LB]
+atención de [DATA][0000] y empezó[LB]
+a observarlo detenidamente.[LB][PB]
+
+[EN]
+......[LB][PB]
+[ES]
+...[LB][PB]
+
+[EN]
+After some time passed,[LB]
+[DATA][0000] lost interest and[LB]
+stood up to resume exploring.[LB][END]
+[ES]
+Después de un largo rato,[LB]
+[DATA][0000] perdió el interés[LB]
+y procedió a explorar de nuevo.[LB][END]
+
+
+[MSGH][00000053][00000150]
+[EN]
+[DATA][0000] stopped to inspect[LB]
+what seemed like a ragged shoe,[LB]
+then began to patch it up.[LB][PB]
+[ES]
+[DATA][0000] se detuvo para inspeccionar[LB]
+lo que parecía un par de zapatos[LB]
+andrajosos y decidió arreglarlos.[LB][PB]
+
+[EN]
+......[LB][PB]
+[ES]
+......[LB][PB]
+
+[EN]
+After an hour, [DATA][0000][LB]
+replaced the fixed shoes, wearing[LB]
+a wide, satisfied smile.[LB][END]
+[ES]
+Después de una hora, [DATA][0000][LB]
+logró remendar los zapatos y[LB]
+esbozó una gran sonrisa.[LB][END]
+
+
+[MSGH][00000054][00000156]
+[EN]
+The scattered rocks drew[LB]
+[DATA][0000]'s attention, who[LB]
+thought they might be useful...[LB][PB]
+[ES]
+Las piedras dispersas por el[LB]
+suelo llamaron la atención de [DATA][0000][LB]
+ y pensó que serían útiles...[LB][PB]
+
+[EN]
+......[LB][PB]
+[ES]
+...[LB][PB]
+
+[EN]
+An hour worth of investigating[LB]
+showed them to be mere rocks.[LB]
+[DATA][0000] resumed the trek...[LB][END]
+[ES]
+Tras investigar durante una hora,[LB]
+lo único que le quedó en claro a [DATA][0000][LB]
+es que no eran más que piedras.[LB][END]
+
+
+[MSGH][00000055][0000013e]
+[EN]
+[DATA][0000] felt a nice breeze[LB]
+and stopped walking to bask in[LB]
+the wind.[LB][PB]
+[ES]
+[DATA][0000] sintió una fresca brisa[LB]
+y se detuvo para disfrutar del[LB]
+paraje.[LB][PB]
+
+[EN]
+......[LB][PB]
+[ES]
+...[LB][PB]
+
+[EN]
+The brisk wind was nice for quite[LB]
+a while, but eventually became too[LB]
+chilly to stand.[LB][END]
+[ES]
+La brisa era muy apetecible por[LB]
+un rato, pero al poco empezó a hacer[LB]
+demasiado frío.[LB][END]
+
+
+[MSGH][00000056][00000144]
+[EN]
+[DATA][0000] felt nostalgic and[LB]
+started talking about past[LB]
+exploits.[LB][PB]
+[ES]
+[DATA][0000] sintió nostalgia[LB]
+y empezó a hablar de proezas[LB]
+del pasado.[LB][PB]
+
+[EN]
+...[LB][PB]
+[ES]
+...[LB][PB]
+
+[EN]
+Others joined in the conversation,[LB]
+shutting down all progress in the[LB]
+investigation for an hour.[LB][END]
+[ES]
+Otros tantos se unieron a la conversación,[LB]
+lo que interrumpió las exploraciones[LB]
+durante al menos una hora.[LB][END]
+
+
+[MSGH][00000057][00000180]
+[EN]
+[DATA][0000], finding it hard[LB]
+to go on, emptied the pack and[LB]
+started organizing the contents.[LB][PB]
+[ES]
+A [DATA][0000] le costaba mucho[LB]
+avanzar en su dicha, por lo que[LB]
+vació su macuto y organizó su contenido.[LB][PB]
+
+[EN]
+......[LB][PB]
+[ES]
+...[LB][PB]
+
+[EN]
+The others quickly followed suit,[LB]
+and organizing their belongings[LB]
+occupied the party for an hour.[LB][END]
+[ES]
+El resto siguió su ejemplo y[LB]
+organizaron sus pertenencias; esto[LB]
+les llevó alrededor de una hora.[LB][END]
+
+
+[MSGH][00000081][000000ba]
+[EN]
+The whirlpool took hold of the[LB]
+ship, severely damaging it![LB][PB]
+[ES]
+¡El remolino se apoderó del barco[LB]
+y le produjo daños graves![LB][PB]
+
+[EN]
+You return to town for repairs.[LB][END]
+[ES]
+Decides regresar para repararlo.[LB][END]
+
+
+[MSGH][00000082][000000c4]
+[EN]
+The ship took heavy damage from[LB]
+colliding with a pirate vessel![LB][PB]
+[ES]
+¡El navío recibió daños graves[LB]
+tras colisionar con el barco pirata![LB][PB]
+
+[EN]
+You return to town for repairs.[LB][END]
+[ES]
+Decides regresar para repararlo.[LB][END]
+
+
+[MSGH][00000083][00000074]
+[EN]
+You defeated a pirate ship by[LB]
+ramming it with your prow![LB][END]
+[ES]
+¡Logras deshacerte del barco pirata[LB]
+con el ariete de proa![LB][END]
+
+
+[MSGH][00000084][00000056]
+[EN]
+You're out of provisions.[LB]
+Return to town?[LB][END]
+[ES]
+Te has quedado sin provisiones.[LB]
+¿Regresar a la ciudad?[LB][END]
+
+
+[MSGH][00000085][0000007a]
+[EN]
+Would you like to cut your voyage[LB]
+short and return to town?[LB][END]
+[ES]
+¿Te gustaría interrumpir la[LB]
+travesía y regresar a la ciudad?[LB][END]
+
+
+[MSGH][00000086][0000003e]
+[EN]
+You decide to return to town.[LB][END]
+[ES]
+Decides regresar a la ciudad.[LB][END]
+
+
+[MSGH][00000087][00000034]
+[EN]
+The pirate ship is sunk![LB][END]
+[ES]
+¡El barco pirata se ha hundido![LB][END]
+
+
+[MSGH][00000088][00000096]
+[EN]
+You fire your cannon, but the[LB]
+shell hits nothing and explodes[LB]
+harmlessly.[LB][END]
+[ES]
+Abres fuego con el cañón, pero[LB]
+el proyectil no impacta con nada[LB]
+y la explosión es inocua.[LB][END]
+
+
+[MSGH][00000089][000000c4]
+[EN]
+Your cannon hits the pirate ship[LB]
+squarely, but its armor is thick[LB]
+enough to withstand the blast![LB][END]
+[ES]
+¡La bala de cañón golpea al barco[LB]
+pirata de lleno, pero su blindaje [LB]
+es muy grueso y lo resiste![LB][END]
+
+
+[MSGH][0000008a][00000010]
+[EN]
+......[LB][END]
+[ES]
+...[LB][END]
+
+
+[MSGH][0000008b][00000030]
+[EN]
+Obtained [COLOR][0600][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB][END]
+[ES]
+Obtienes [COLOR][0600][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB][END]
+
+
+[MSGH][0000008c][00000030]
+[EN]
+Obtained [COLOR][0900][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB][END]
+[ES]
+Obtienes [COLOR][0900][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB][END]
+
+
+[MSGH][0000008d][00000044]
+[EN]
+...You failed to catch anything.[LB][END]
+[ES]
+No has logrado pescar nada.[LB][END]
+
+
+[MSGH][0000008e][000000dc]
+[EN]
+You have charted a safe route to[LB]
+[DATA][0000]![LB][PB]
+[ES]
+¡Has trazado una ruta segura a[LB]
+[DATA][0000]![LB][PB]
+
+[EN]
+When next you set sail, you will[LB]
+be able to begin your voyage[LB]
+from [DATA][0000]![LB][END]
+[ES]
+¡La próxima vez que zarpes,[LB]
+podrás empezar tu travesía[LB]
+desde [DATA][0000]![LB][END]
+
+
+[MSGH][0000008f][00000078]
+[EN]
+The seas past here are beyond your[LB]
+range of investigation![LB][END]
+[ES]
+¡No puedes explorar más allá de[LB]
+estos mares![LB][END]
+
+
+[MSGH][00000090][00000024]
+[EN]
+Obtained [COLOR][0600][DATA][0000][COLOR][0000].[LB][END]
+[ES]
+Obtienes [COLOR][0600][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][00000091][00000024]
+[EN]
+Obtained [COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Obtienes [COLOR][0900][DATA][0000][COLOR][0000]![LB][END]
+
+
+[MSGH][00000092][000000a2]
+[EN]
+Something floated your way from[LB]
+the remains of the pirate ship.[LB][PB]
+[ES]
+De los restos del barco pirata[LB]
+algo sale a flote.[LB][PB]
+
+[EN]
+Obtained [DATA][0000]en.[LB][END]
+[ES]
+Obtienes [DATA][0000] en.[LB][END]
+
+
+[MSGH][00000093][000000c6]
+[EN]
+There is a [COLOR][0500]hidden reef[COLOR][0000] nearby.[LB]
+Your ship's current durability[LB]
+makes it dangerous to continue.[LB][END]
+[ES]
+Hay un [COLOR][0500]escollo oculto[COLOR][0000] cerca.[LB]
+El barco no resistirá el golpe, por[LB]
+lo que es peligroso continuar.[LB][END]
+
+
+[MSGH][00000094][000000c4]
+[EN]
+The sea is thick with [COLOR][0500]seaweed[COLOR][0000],[LB]
+which will entangle your ship[LB]
+and prevent it from proceeding.[LB][END]
+[ES]
+El mar está repleto de [COLOR][0500]algas[COLOR][0000].[LB]
+El barco se quedaría enredado, por[LB]
+lo que es peligroso continuar.[LB][END]
+
+
+[MSGH][00000095][0000009c]
+[EN]
+You collided with a merchant[LB]
+vessel, damaging the ship![LB][PB]
+[ES]
+¡Has colisionado con el barco[LB]
+mercante y has dañado tu buque![LB][PB]
+
+[EN]
+You return to town.[LB][END]
+[ES]
+Regresas a la ciudad.[LB][END]
+
+
+[MSGH][00000096][00000056]
+[EN]
+You have obliterated the merchant[LB]
+vessel![LB][END]
+[ES]
+¡Has hecho desaparecer al barco[LB]
+mercante del mapa![LB][END]
+
+
+[MSGH][0000009b][00000068]
+[EN]
+You see the shadow of a tanniyn[LB]
+below the waves...[LB][END]
+[ES]
+Ves la sombra de un leviatanino[LB]
+bajo las olas del mar...[LB][END]
+
+
+[MSGH][0000009c][000000c4]
+[EN]
+You see the shadow of a tanniyn[LB]
+under the waves... Its movements[LB]
+are slow and it may be wounded.[LB][END]
+[ES]
+Ves la sombra de un leviatanino[LB]
+bajo las olas... Se mueve torpemente[LB]
+y puede que esté herido.[LB][END]
+
+
+[MSGH][0000009d][000000aa]
+[EN]
+You see the shadow of a tanniyn[LB]
+under the waves... It seems to[LB]
+be greatly weakened![LB][END]
+[ES]
+Ves la sombra de un leviatanino[LB]
+bajo las olas... ¡Parece estar[LB]
+gravemente debilitado![LB][END]
+
+
+[MSGH][0000009e][00000040]
+[EN]
+Launch a spear at the tanniyn?[LB][END]
+[ES]
+¿Arponear al leviatanino?[LB][END]
+
+
+[MSGH][0000009f][000000e4]
+[EN]
+The tanniyn's speared tail hit[LB]
+the hull of your ship, causing [LB]
+grievous damage![LB][PB]
+[ES]
+¡La afilada cola del leviatanino[LB]
+ha causado graves daños[LB]
+al casco del barco![LB][PB]
+
+[EN]
+You return to town for repairs.[LB][END]
+[ES]
+Regresas a la ciudad para repararlo.[LB][END]
+
+
+[MSGH][000000a0][00000078]
+[EN]
+The spear hit the tanniyn squarely[LB]
+in its vulnerable spot![LB][END]
+[ES]
+¡El arpón alcanza de lleno al punto[LB]
+débil del leviatanino![LB][END]
+
+
+[MSGH][000000a1][000000ae]
+[EN]
+You wounded the tanniyn! However,[LB]
+it still seems to have a lot of[LB]
+fight left in it...[LB][END]
+[ES]
+¡Has herido al leviatanino! Mas parece[LB]
+que aún está dispuesto a[LB]
+seguir resistiendo...[LB][END]
+
+
+[MSGH][000000a2][00000094]
+[EN]
+You wounded the tanniyn! Its[LB]
+movements are becoming noticeably[LB]
+slower...[LB][END]
+[ES]
+¡Has herido al leviatanino! Parece[LB]
+que se mueve con mucha menos[LB]
+celeridad...[LB][END]
+
+
+[MSGH][000000a3][00000066]
+[EN]
+You wounded the tanniyn! Only one[LB]
+more strike...![LB][END]
+[ES]
+¡Has herido al leviatanino![LB]
+¡Solo un poco más![LB][END]
+
+
+[MSGH][000000a4][0000002e]
+[EN]
+The tanniyn is yours![LB][END]
+[ES]
+¡El leviatanino ya es tuyo![LB][END]
+
+
+[MSGH][000000ab][0000009c]
+[EN]
+The small fishing flag has[LB]
+taken effect! You've found a new[LB]
+school of fish! [LB][END]
+[ES]
+¡El estandarte de pesca ha surtido[LB]
+efecto! ¡Ha aparecido un nuevo[LB]
+banco de peces! [LB][END]
+
+
+[MSGH][000000ac][0000009a]
+[EN]
+The great fishing flag has taken[LB]
+effect! You've found a new school[LB]
+of fish![LB][END]
+[ES]
+¡El gran estandarte de pesca ha surtido[LB]
+efecto! ¡Ha aparecido un nuevo[LB]
+banco de peces![LB][END]
+
+
+[MSGH][000000ad][000000c2]
+[EN]
+The small and great fishing flags'[LB]
+effects have combined! You sense[LB]
+a large haul in the offing![LB][END]
+[ES]
+¡Los efectos de los dos estandartes[LB]
+de pesca han surtido efecto! ¡Notas[LB]
+algo en la distancia![LB][END]
+
+
+[MSGH][000000ae][000000a0]
+[EN]
+The large fishing flag has taken[LB]
+effect! You sense a large haul[LB]
+in the offing![LB][END]
+[ES]
+¡El magno estandarte de pesca[LB]
+ha surtido efecto! ¡Notas algo[LB]
+en la distancia![LB][END]
+
+
+[MSGH][000000af][000000c2]
+[EN]
+The small and large fishing flags'[LB]
+effects have combined! You sense[LB]
+a large haul in the offing![LB][END]
+[ES]
+¡El efecto de los dos estandartes[LB]
+de pesca han surtido efecto! ¡Notas[LB]
+algo en la distancia![LB][END]
+
+
+[MSGH][000000b0][000000c2]
+[EN]
+The great and large fishing flags'[LB]
+effects have combined! You sense[LB]
+a large haul in the offing![LB][END]
+[ES]
+¡El efecto de los dos estandartes[LB]
+de pesca han surtido efecto! ¡Notas[LB]
+algo en la distancia![LB][END]
+
+
+[MSGH][000000b1][000000b0]
+[EN]
+The effects of all three flags[LB]
+have combined! You sense an[LB]
+immense haul in the offing![LB][END]
+[ES]
+¡Los efectos de los tres estandartes[LB]
+han surtido efecto! ¡Notas algo[LB]
+en la distancia![LB][END]
+
+
+[MSGH][000000b5][0000008a]
+[EN]
+The dolphin statue has taken effect![LB]
+You discover a new, rare fish![LB][END]
+[ES]
+¡La estatua del delfín ha surtido efecto![LB]
+¡Has encontrado un pez raro![LB][END]
+
+
+[MSGH][000000b6][00000090]
+[EN]
+The dolphin statue has taken effect![LB]
+You discover many new, rare fish![LB][END]
+[ES]
+¡La estatua del delfín ha surtido efecto![LB]
+¡Has encontrado numerosos peces raros![LB][END]
+
+
+[MSGH][000000b7][00000086]
+[EN]
+The Sedna statue has taken effect![LB]
+You discover a new, rare fish![LB][END]
+[ES]
+¡La estatua de Sedna ha surtido efecto![LB]
+¡Has encontrado numerosos peces raros![LB][END]
+
+
+[MSGH][000000b8][0000008c]
+[EN]
+The Sedna statue has taken effect![LB]
+You discover many new, rare fish![LB][END]
+[ES]
+¡La estatua de Sedna ha surtido efecto![LB]
+¡Has encontrado numerosos peces raros![LB][END]
+
+
+[MSGH][000000b9][000000ba]
+[EN]
+The dolphin statue and Sedna[LB]
+statues' effects have combined![LB]
+You discover a new, rare fish![LB][END]
+[ES]
+¡Las estatuas del delfín y Sedna[LB]
+surten efecto combinado![LB]
+¡Has encontrado numerosos peces raros![LB][END]
+
+
+[MSGH][000000ba][000000c0]
+[EN]
+The dolphin statue and Sedna[LB]
+statues' effects have combined![LB]
+You discover many new, rare fish![LB][END]
+[ES]
+¡Las estatuas del delfín y Sedna[LB]
+surten efecto combinado![LB]
+¡Has encontrado numerosos peces raros![LB][END]
+
+
+[MSGH][000000bf][000000b4]
+[EN]
+You obtained [COLOR][0600][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB]
+With the help of the net, you also[LB]
+caught an additional [DATA][0300][DATA][0200].[LB][END]
+[ES]
+Has obtenido [COLOR][0900][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB]
+¡Gracias a la red, has obtenido[LB]
+[DATA][0300][DATA][0200] adicionales![LB][END]
+
+
+[MSGH][000000c0][000000b4]
+[EN]
+You obtained [COLOR][0900][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB]
+With the help of the net, you also[LB]
+caught an additional [DATA][0300][DATA][0200]![LB][END]
+[ES]
+Has obtenido [COLOR][0900][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200].[LB]
+¡Gracias a la red, has obtenido[LB]
+[DATA][0300][DATA][0200] adicionales![LB][END]
+
+
+[MSGH][000000c1][0000006c]
+[EN]
+With the help of the net, you[LB]
+obtained [COLOR][0600][DATA][0000][COLOR][0000] x[DATA][0300][DATA][0200].[LB][END]
+[ES]
+¡Gracias a la red, has obtenido[LB]
+[COLOR][0600][DATA][0000][COLOR][0000] x[DATA][0300][DATA][0200].[LB][END]
+
+
+[MSGH][000000c2][0000006c]
+[EN]
+With the help of the net, you[LB]
+obtained [COLOR][0900][DATA][0000][COLOR][0000] x[DATA][0300][DATA][0200]![LB][END]
+[ES]
+¡Gracias a la red, has obtenido[LB]
+[COLOR][0900][DATA][0000][COLOR][0000] x[DATA][0300][DATA][0200]![LB][END]
+
+
+[MSGH][000000c4][0000008a]
+[EN]
+The South Banner has taken effect![LB]
+You see a fleet of pirate ships![LB][END]
+[ES]
+¡El estandarte sureño ha surtido efecto![LB]
+¡Ha aparecido una flota de barcos piratas![LB][END]
+
+
+[MSGH][000000c5][0000008a]
+[EN]
+The North Banner has taken effect![LB]
+You see a fleet of pirate ships![LB][END]
+[ES]
+¡El estandarte norteño ha surtido efecto![LB]
+¡Ha aparecido una flota de barcos piratas![LB][END]
+
+
+[MSGH][000000c8][0000006c]
+[EN]
+A network error has occurred.[LB]
+Returning to the port.[LB][END]
+[ES]
+Error de red.[LB]
+Regresando al puerto.[LB][END]
+

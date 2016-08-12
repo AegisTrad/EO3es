@@ -1,0 +1,600 @@
+[HEAD][00001c3c][00000083]
+
+[MSGH][00000000][00000032]
+[EN]
+Sail the seas on the[LB]
+[SHIP].[LB][END]
+[ES]
+Surcar los mares en el barco[LB]
+[SHIP].[LB][END]
+
+
+[MSGH][00000001][00000062]
+[EN]
+Cooperate with other guilds to[LB]
+complete quests.[LB][END]
+[ES]
+Cooperar con otros gremios[LB]
+para realizar encargos.[LB][END]
+
+
+[MSGH][00000002][00000072]
+[EN]
+Exchange items and guild cards[LB]
+wirelessly with your DS.[LB][END]
+[ES]
+Intercambiar tarjetas de gremios[LB]
+de forma inalámbrica con tu DS.[LB][END]
+
+
+[MSGH][00000003][00000068]
+[EN]
+Review all items found at sea[LB]
+during your voyages.[LB][END]
+[ES]
+Revisar todos los objetos encontrados[LB]
+en los viajes de ultramar.[LB][END]
+
+
+[MSGH][00000004][00000036]
+[EN]
+Talk to the harbormaster.[LB][END]
+[ES]
+Hablar con el capitán.[LB][END]
+
+
+[MSGH][00000005][0000002c]
+[EN]
+Return to the plaza.[LB][END]
+[ES]
+Regresar a la plaza.[LB][END]
+
+
+[MSGH][00000006][0000005c]
+[EN]
+Take NPC characters along on a[LB]
+quest at sea.[LB][END]
+[ES]
+Embárcate en una aventura con[LB]
+personajes controlados por la consola.[LB][END]
+
+
+[MSGH][00000007][00000076]
+[EN]
+Take on multiplayer wireless[LB]
+quests. (5 players maximum.)[LB][END]
+[ES]
+Embárcate en una aventura[LB]
+inalámbrica (límite de 5 jugadores.)[LB][END]
+
+
+[MSGH][00000008][0000007c]
+[EN]
+Set DS to exchange guild cards[LB]
+wirelessly during Sleep Mode.[LB][END]
+[ES]
+Intercambia tarjetas de gremios[LB]
+de forma inalámbrica en suspensión.[LB][END]
+
+
+[MSGH][00000009][0000005e]
+[EN]
+Exchange items wirelessly[LB]
+with other players.[LB][END]
+[ES]
+Intercambia objetos de forma[LB]
+inalámbrica con otros jugadores.[LB][END]
+
+
+[MSGH][0000000a][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][0000000b][00000014]
+[EN]
+Armoroad[LB][END]
+[ES]
+Armoroad[LB][END]
+
+
+[MSGH][0000000c][0000001c]
+[EN]
+2nd Foothold[LB][END]
+[ES]
+2.º asentamiento[LB][END]
+
+
+[MSGH][0000000d][0000001c]
+[EN]
+3rd Foothold[LB][END]
+[ES]
+3.º asentamiento[LB][END]
+
+
+[MSGH][0000000e][0000001c]
+[EN]
+4th Foothold[LB][END]
+[ES]
+4.º asentamiento[LB][END]
+
+
+[MSGH][00000014][00000084]
+[EN]
+Outfitting your vessel to set sail[LB]
+will cost [DATA][0000]en. Is this okay?[LB][END]
+[ES]
+Los costes de embarcación ascienden[LB]
+a [DATA][0000]en. ¿Seguir adelante?[LB][END]
+
+
+[MSGH][00000015][0000003c]
+[EN]
+You don't have enough money![LB][END]
+[ES]
+¡No tienes dinero suficiente![LB][END]
+
+
+[MSGH][00000016][00000066]
+[EN]
+Come back when you've loaded food[LB]
+onto your ship![LB][END]
+[ES]
+¡Vuelve cuando tengas víveres[LB]
+para el barco![LB][END]
+
+
+[MSGH][00000017][0000003e]
+[EN]
+You have no equippable items.[LB][END]
+[ES]
+No tienes objetos que llevar.[LB][END]
+
+
+[MSGH][0000001e][00000050]
+[EN]
+Reported your discovery of the[LB]
+[COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+[ES]
+Has informado del descubrimiento de[LB]
+[COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][00000028][00000048]
+[EN]
+There are no explorers or traders.[LB][END]
+[ES]
+No hay exploradores o comerciantes.[LB][END]
+
+
+[MSGH][00000029][0000002e]
+[EN]
+Dispatch an explorer?[LB][END]
+[ES]
+¿Llevas al explorador a una expedición?[LB][END]
+
+
+[MSGH][0000002a][00000046]
+[EN]
+The explorer has been dispatched.[LB][END]
+[ES]
+Se ha enviado al explorador.[LB][END]
+
+
+[MSGH][0000002b][00000032]
+[EN]
+Call back the explorer?[LB][END]
+[ES]
+¿Traer al explorador de vuelta?[LB][END]
+
+
+[MSGH][0000002c][00000042]
+[EN]
+The explorer has been recalled.[LB][END]
+[ES]
+El explorador ha regresado.[LB][END]
+
+
+[MSGH][00000032][0000003a]
+[EN]
+Continue the oceanic quest?[LB][END]
+[ES]
+¿Continuar con la aventura oceánica?[LB][END]
+
+
+[MSGH][00000033][00000022]
+[EN]
+Save your game?[LB][END]
+[ES]
+¿Guardar partida?[LB][END]
+
+
+[MSGH][00000034][00000064]
+[EN]
+Awaiting decisions from the rest[LB]
+of the party...[LB][END]
+[ES]
+Esperando las decisiones[LB]
+del resto del grupo...[LB][END]
+
+
+[MSGH][00000035][0000002c]
+[EN]
+Resuming the voyage![LB][END]
+[ES]
+¡Proseguimos el viaje![LB][END]
+
+
+[MSGH][00000036][00000034]
+[EN]
+Suspending connection...[LB][END]
+[ES]
+Suspendiendo conexión...[LB][END]
+
+
+[MSGH][00000037][000000b2]
+[EN]
+A member has withdrawn. The[LB]
+session will be terminated and[LB]
+and the oceanic quest ended.[LB][END]
+[ES]
+Un miembro se ha retirado.[LB]
+Se van a finalizar la sesión y[LB]
+la misión oceánica.[LB][END]
+
+
+[MSGH][00000038][000000b4]
+[EN]
+A recruit has withdrawn. The[LB]
+session will be terminated and[LB]
+and the oceanic quest ended.[LB][END]
+[ES]
+Un recluta se ha retirado.[LB]
+Se van a finalizar la sesión y[LB]
+la misión oceánica.[LB][END]
+
+
+[MSGH][00000039][000000bc]
+[EN]
+Lost connection to the host. The[LB]
+session will be terminated and[LB]
+and the oceanic quest ended.[LB][END]
+[ES]
+Conexión perdida.[LB]
+Se van a finalizar la sesión y[LB]
+la misión oceánica.[LB][END]
+
+
+[MSGH][0000003a][000000c2]
+[EN]
+There has been a network error.[LB]
+The session will be terminated[LB]
+and and the oceanic quest ended.[LB][END]
+[ES]
+Error de red.[LB]
+Se van a finalizar la sesión y[LB]
+la misión oceánica.[LB][END]
+
+
+[MSGH][0000003c][00000032]
+[EN]
+Begin passive exchange?[LB][END]
+[ES]
+¿Comenzar intercambio pasivo?[LB][END]
+
+
+[MSGH][0000003d][00000068]
+[EN]
+Would you like to save your game[LB]
+before beginning?[LB][END]
+[ES]
+¿Te gustaría guardar la partida[LB]
+antes de comenzar?[LB][END]
+
+
+[MSGH][0000003e][000000cc]
+[EN]
+Passive exchange commencing! It is[LB]
+safe to close the DS. You may end[LB]
+the exchange with the A Button.[LB][END]
+[ES]
+Intercambio iniciado. Ya puedes[LB]
+cerrar la consola. Para detener[LB]
+el intercambio, pulsa el botón A.[LB][END]
+
+
+[MSGH][0000003f][0000005c]
+[EN]
+Would you like to halt the[LB]
+passive exchange?[LB][END]
+[ES]
+¿Te gustaría detener el[LB]
+intercambio pasivo?[LB][END]
+
+
+[MSGH][00000040][00000096]
+[EN]
+Obtained [COLOR][0500][DATA][0000][COLOR][0000]'s guild[LB]
+card! You may end the exchange[LB]
+with the A Button.[LB][END]
+[ES]
+¡La tarjeta del gremio [COLOR][0500][DATA][0000][COLOR][0000][LB]
+está en tu colección! Para detener[LB]
+el intercambio, pulsa el botón A.[LB][END]
+
+
+[MSGH][00000041][00000036]
+[EN]
+Terminating connection...[LB][END]
+[ES]
+Terminando conexión...[LB][END]
+
+
+[MSGH][00000042][00000030]
+[EN]
+Connection terminated.[LB][END]
+[ES]
+Conexión terminada.[LB][END]
+
+
+[MSGH][00000043][00000040]
+[EN]
+Obtained [COLOR][0500][DATA][0000][COLOR][0000]'s [LB]
+guild card![LB][END]
+[ES]
+¡La tarjeta del gremio [COLOR][0500][DATA][0000][COLOR][0000] [LB]
+está en tu colección![LB][END]
+
+
+[MSGH][00000044][00000040]
+[EN]
+Obtained [COLOR][0500][DATA][0000][COLOR][0000] guild card(s)![LB][END]
+[ES]
+¡Has conseguido [COLOR][0500][DATA][0000][COLOR][0000] tarjetas![LB][END]
+
+
+[MSGH][00000064][00000064]
+[EN]
+The marine goods acquired on this[LB]
+voyage are... [LB][END]
+[ES]
+Has adquirido los siguientes[LB]
+bienes en tu viaje... [LB][END]
+
+
+[MSGH][00000065][00000058]
+[EN]
+Acquired [COLOR][0500][DATA][0000][COLOR][0000] x[DATA][0100][DATA][0200]![LB]
+Acquired [COLOR][0500][DATA][0300][COLOR][0000]en! [LB][END]
+[ES]
+¡Consigues [DATA][0100][DATA][0200]x [COLOR][0500][DATA][0000][COLOR][0000][LB]
+por valor de [COLOR][0500][DATA][0300][COLOR][0000] en! [LB][END]
+
+
+[MSGH][00000066][00000030]
+[EN]
+Acquired [DATA][0000]en in all! [LB][END]
+[ES]
+¡Consigues [DATA][0000] en total! [LB][END]
+
+
+[MSGH][00000067][00000056]
+[EN]
+The ship repairs incurred will cost[LB]
+[DATA][0000]en.[LB][END]
+[ES]
+Los costes incurridos de la[LB]
+reparación del barco son [DATA][0000] en.[LB][END]
+
+
+[MSGH][00000068][00000102]
+[EN]
+You have been billed [DATA][0000]en[LB]
+to fix the ship.[LB][PB]
+[ES]
+La factura asciende a [DATA][0000] en[LB]
+para reparar el barco.[LB][PB]
+
+[EN]
+You haven't enough money, but the[LB]
+shipwrights have agreed to take[LB]
+what you do have.[LB][END]
+[ES]
+Como no tienes suficiente, los[LB]
+carpinteros aceptan a cambio[LB]
+todo lo que tengas.[LB][END]
+
+
+[MSGH][00000069][0000006c]
+[EN]
+The cost of repairs to the merchant[LB]
+vessel was [DATA][0000]en.[LB][END]
+[ES]
+Los costes de la reparación del barco[LB]
+mercante son [DATA][0000] en.[LB][PB]
+
+
+[MSGH][0000006a][00000116]
+[EN]
+The cost of repairs to the merchant[LB]
+vessel was [DATA][0000]en.[LB][PB]
+[ES]
+Los costes de la reparación del barco[LB]
+mercante son [DATA][0000] en.[LB][PB]
+
+[EN]
+You haven't enough money, but the[LB]
+shipwrights have agreed to take[LB]
+what you do have.[LB][END]
+[ES]
+Como no tienes suficiente, los[LB]
+carpinteros aceptan a cambio[LB]
+todo lo que tengas.[LB][END]
+
+
+[MSGH][0000006e][0000004c]
+[EN]
+Search for someone willing[LB]
+to trade.[LB][END]
+[ES]
+Buscando a alguien[LB]
+con quien comerciar.[LB][END]
+
+
+[MSGH][0000006f][00000058]
+[EN]
+Search for a trader with wares[LB]
+on display.[LB][END]
+[ES]
+Buscando mercader con[LB]
+mercancías disponibles.[LB][END]
+
+
+[MSGH][00000070][00000036]
+[EN]
+Go back to the port menu.[LB][END]
+[ES]
+Regresar al menú del puerto.[LB][END]
+
+
+[MSGH][00000071][0000003c]
+[EN]
+Connection to trader failed.[LB][END]
+[ES]
+Conexión fallada con el mercader.[LB][END]
+
+
+[MSGH][00000072][0000008c]
+[EN]
+Searching... Press the A Button to[LB]
+choose or the B Button to cancel.[LB][END]
+[ES]
+Buscando... Pulsa el botón A para[LB]
+elegir o el botón B para cancelar.[LB][END]
+
+
+[MSGH][00000073][00000038]
+[EN]
+Searching for customers...[LB][END]
+[ES]
+Buscando clientes...[LB][END]
+
+
+[MSGH][00000074][00000038]
+[EN]
+Searching for customers...[LB][END]
+[ES]
+Buscando clientes...[LB][END]
+
+
+[MSGH][00000075][00000028]
+[EN]
+Trade with [COLOR][0500][DATA][0000][COLOR][0000]?[LB][END]
+[ES]
+¿Comerciar con [COLOR][0500][DATA][0000][COLOR][0000]?[LB][END]
+
+
+[MSGH][00000076][0000002c]
+[EN]
+Proposing a trade...[LB][END]
+[ES]
+Proponiendo...[LB][END]
+
+
+[MSGH][00000077][0000002c]
+[EN]
+Proposing a trade...[LB][END]
+[ES]
+Proponiendo...[LB][END]
+
+
+[MSGH][00000078][00000048]
+[EN]
+The trade request has been denied.[LB][END]
+[ES]
+Propuesta denegada.[LB][END]
+
+
+[MSGH][00000079][00000054]
+[EN]
+Are you certain you want to send[LB]
+[COLOR][0500][DATA][0000][COLOR][0000]?[LB][END]
+[ES]
+¿Estás seguro de querer enviar[LB]
+[COLOR][0500][DATA][0000][COLOR][0000]?[LB][END]
+
+
+[MSGH][0000007a][00000032]
+[EN]
+Choose an item to send.[LB][END]
+[ES]
+Elige un objeto para enviarlo.[LB][END]
+
+
+[MSGH][0000007b][00000020]
+[EN]
+Please wait...[LB][END]
+[ES]
+Espera...[LB][END]
+
+
+[MSGH][0000007c][00000020]
+[EN]
+Please wait...[LB][END]
+[ES]
+Espera...[LB][END]
+
+
+[MSGH][0000007d][00000082]
+[EN]
+The game will automatically save[LB]
+after the trade. Is this okay?[LB][END]
+[ES]
+El juego se guardará tras terminar[LB]
+el intercambio. ¿Estás de acuerdo?[LB][END]
+
+
+[MSGH][0000007e][00000024]
+[EN]
+Received [COLOR][0500][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡Has recibido [COLOR][0500][DATA][0000][COLOR][0000]![LB][END]
+
+
+[MSGH][0000007f][0000003a]
+[EN]
+Cancel the trading session?[LB][END]
+[ES]
+¿Cancelar la sesión de comercio?[LB][END]
+
+
+[MSGH][00000080][00000096]
+[EN]
+The connection with the trader[LB]
+has been lost. Returning to the[LB]
+port menu.[LB][END]
+[ES]
+La conexión con el mercader[LB]
+se ha perdido. Regresando al[LB]
+menú del puerto.[LB][END]
+
+
+[MSGH][00000081][00000076]
+[EN]
+There has been a a network error.[LB]
+Returning to port menu.[LB][END]
+[ES]
+Error de red. Regresando al[LB]
+menú del puerto.[LB][END]
+
+
+[MSGH][00000082][00000042]
+[EN]
+You can't part with the[LB]
+[COLOR][0500][DATA][0000][COLOR][0000]![LB][END]
+[ES]
+¡No puedes partir con [LB]
+[COLOR][0500][DATA][0000][COLOR][0000]![LB][END]
+

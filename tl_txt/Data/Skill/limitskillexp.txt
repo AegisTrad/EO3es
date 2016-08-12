@@ -1,0 +1,218 @@
+[HEAD][00000c92][00000019]
+
+[MSGH][00000000][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000001][0000007e]
+[EN]
+Deal powerful slash damage to one[LB]
+enemy when the turn begins.[LB][END]
+[ES]
+Inflige daño con un tajo a un[LB]
+enemigo cuando el turno comience.[LB][END]
+
+
+[MSGH][00000002][00000094]
+[EN]
+When fatally injured, you will have[LB]
+1 HP left. Effect ends after battle.[LB][END]
+[ES]
+Cuando te hieren de muerte, tendrás[LB]
+1 PV restante. El efecto termina con la batalla.[LB][END]
+
+
+[MSGH][00000003][00000078]
+[EN]
+Raise ally attack for five turns[LB]
+at the start of the turn.[LB][END]
+[ES]
+Aumenta el ataque aliado durante[LB]
+5 turnos cuando comience el turno.[LB][END]
+
+
+[MSGH][00000004][0000008c]
+[EN]
+Unleash three strike attacks to all[LB]
+enemies at random at turn start.[LB][END]
+[ES]
+Desata tres ataques por impacto[LB]
+a enemigos aleatorios al empezar el turno.[LB][END]
+
+
+[MSGH][00000005][0000007a]
+[EN]
+Raise ally defense for five turns[LB]
+at the start of the turn.[LB][END]
+[ES]
+Aumenta la defensa aliada durante[LB]
+5 turnos cuando comience el turno.[LB][END]
+
+
+[MSGH][00000006][0000005e]
+[EN]
+Completely recover HP at the end[LB]
+of the turn.[LB][END]
+[ES]
+Recupera todos los PV al final[LB]
+del turno.[LB][END]
+
+
+[MSGH][00000007][00000082]
+[EN]
+Give all allies critical strength[LB]
+for five turns at turn start.[LB][END]
+[ES]
+Concede fuerza crítica a todos los[LB]
+aliados durante 5 turnos al inicio del mismo.[LB][END]
+
+
+[MSGH][00000008][0000008a]
+[EN]
+Nullify all physical damage to all[LB]
+allies at the start of the turn.[LB][END]
+[ES]
+Anula todo daño físico a los aliados[LB]
+al empezar el turno.[LB][END]
+
+
+[MSGH][00000009][00000086]
+[EN]
+Deal powerful fire damage to all[LB]
+enemies at random at turn start.[LB][END]
+[ES]
+Inflige daño de fuego potente a[LB]
+enemigos aleatorios al inicio del turno.[LB][END]
+
+
+[MSGH][0000000a][0000008e]
+[EN]
+Increase all ally evasion rates for[LB]
+5 turns at the start of the turn.[LB][END]
+[ES]
+Aumenta la tasa de evasión de los aliados[LB]
+durante 5 turnos al empezar el turno.[LB][END]
+
+
+[MSGH][0000000b][00000084]
+[EN]
+Deal powerful ice damage to all[LB]
+enemies at random at turn start.[LB][END]
+[ES]
+Inflige daño de hielo potente a[LB]
+enemigos aleatorios al inicio del turno.[LB][END]
+
+
+[MSGH][0000000c][0000008c]
+[EN]
+Nullify all elemental damage to all[LB]
+allies at the start of the turn.[LB][END]
+[ES]
+Anula todo daño elemental a los[LB]
+aliados al empezar el turno.[LB][END]
+
+
+[MSGH][0000000d][00000084]
+[EN]
+Deal non-elemental damage to one[LB]
+enemy at the start of the turn.[LB][END]
+[ES]
+Inflige daño no elemental a un[LB]
+enemigo al inicio del turno.[LB][END]
+
+
+[MSGH][0000000e][0000008c]
+[EN]
+All allies recover HP and status[LB]
+ailments for 5 turns at turn start.[LB][END]
+[ES]
+Todos los aliados restauran sus PV[LB]
+y enfermedades durante 5 turnos al inicio del mismo.[LB][END]
+
+
+[MSGH][0000000f][00000082]
+[EN]
+Deal powerful volt damage to all[LB]
+enemies at random at turn end.[LB][END]
+[ES]
+Inflige daño de electricidad potente a[LB]
+enemigos aleatorios al inicio del turno.[LB][END]
+
+
+[MSGH][00000010][00000066]
+[EN]
+All attacks on allies are nullified[LB]
+for one turn.[LB][END]
+[ES]
+Todos los ataques sobre los aliados[LB]
+se anulan durante un turno.[LB][END]
+
+
+[MSGH][00000011][0000008e]
+[EN]
+Deal powerful, non-elemental damage[LB]
+to all enemies at the turn's end.[LB][END]
+[ES]
+Inflige daño no elemental potente a[LB]
+enemigos aleatorios al inicio del turno.[LB][END]
+
+
+[MSGH][00000012][00000074]
+[EN]
+Deal break damage to one enemy[LB]
+at the start of the turn.[LB][END]
+[ES]
+Deal break damage to one enemy[LB]
+at the start of the turn.[LB][END]
+
+
+[MSGH][00000013][00000092]
+[EN]
+Break damage on one enemy at turn's[LB]
+end. If lethal, it drops all items.[LB][END]
+[ES]
+Break damage on one enemy at turn's[LB]
+end. If lethal, it drops all items.[LB][END]
+
+
+[MSGH][00000014][00000084]
+[EN]
+All allies will absorb attacks for[LB]
+the turn at the turns' start.[LB][END]
+[ES]
+Todos los aliados absorben ataques[LB]
+del mismo turno cuando empiece.[LB][END]
+
+
+[MSGH][00000015][0000008c]
+[EN]
+All allies will recover from status[LB]
+ailments at the end of the turn.[LB][END]
+[ES]
+Todos los aliados se recuperan[LB]
+de sus enfermedades al final del turno.[LB][END]
+
+
+[MSGH][00000016][0000000a]
+[EN]
+[975c][94f5]1[LB][END]
+[ES]
+[975c][94f5]1[LB][END]
+
+
+[MSGH][00000017][0000000a]
+[EN]
+[975c][94f5]2[LB][END]
+[ES]
+[975c][94f5]2[LB][END]
+
+
+[MSGH][00000018][0000000a]
+[EN]
+[975c][94f5]3[LB][END]
+[ES]
+[975c][94f5]3[LB][END]
+

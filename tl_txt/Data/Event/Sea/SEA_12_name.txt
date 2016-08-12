@@ -1,0 +1,29 @@
+[HEAD][000000f0][00000005]
+
+[MSGH][00000001][00000022]
+[EN]
+I shall aid you[LB][END]
+[ES]
+Yo te ayudaré[LB][END]
+
+
+[MSGH][00000002][00000022]
+[EN]
+Me return favor[LB][END]
+[ES]
+Yo devolver favor[LB][END]
+
+
+[MSGH][00000003][00000026]
+[EN]
+Princess and crew[LB][END]
+[ES]
+La princesa y la tripulación[LB][END]
+
+
+[MSGH][00000004][00000026]
+[EN]
+Elder dragon hunt[LB][END]
+[ES]
+La caza del dragón vetusto[LB][END]
+

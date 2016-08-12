@@ -1,0 +1,52 @@
+[HEAD][00000234][00000008]
+
+[MSGH][00000001][00000080]
+[EN]
+Please choose the destination for[LB]
+your voyage across the seas.[LB][END]
+[ES]
+Elige el destino de tu viaje[LB]
+allende los mares.[LB][END]
+
+
+[MSGH][00000002][00000034]
+[EN]
+Please choose a request.[LB][END]
+[ES]
+Elige un encargo.[LB][END]
+
+
+[MSGH][00000003][0000003a]
+[EN]
+Will you accept this quest?[LB][END]
+[ES]
+¿Aceptas esta aventura?[LB][END]
+
+
+[MSGH][00000004][00000036]
+[EN]
+Please select your party.[LB][END]
+[ES]
+Elige a los miembros del grupo.[LB][END]
+
+
+[MSGH][00000005][0000003a]
+[EN]
+Is this the party you wish?[LB][END]
+[ES]
+¿Deseas llevar este grupo?[LB][END]
+
+
+[MSGH][00000006][00000024]
+[EN]
+Is this correct?[LB][END]
+[ES]
+¿Correcto?[LB][END]
+
+
+[MSGH][00000007][00000022]
+[EN]
+Anchors aweigh![LB][END]
+[ES]
+¡Levanten anclas![LB][END]
+

@@ -1,0 +1,60 @@
+[HEAD][00000372][00000005]
+
+[MSGH][00000000][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000001][000001fa]
+[EN]
+In the [COLOR][0300]Custom[COLOR][0000] menu, you can[LB]
+set limit skills on your party[LB]
+members.[LB][PB]
+[ES]
+En el menú [COLOR][0300]Personalizar[COLOR][0000] puedes[LB]
+indicar las habilidades límite de los[LB]
+miembros de tu grupo.[LB][PB]
+
+[EN]
+Only a certain number of party[LB]
+members can use a given limit[LB]
+skill, so be mindful of this.[LB][PB]
+[ES]
+Solo cierto número de miembros[LB]
+podrá utilizar una habilidad[LB]
+a la vez. Tenlo en cuenta.[LB][PB]
+
+[EN]
+Use the various limit skills in[LB]
+battle to your advantage when[LB]
+exploring the Labyrinth.[LB][END]
+[ES]
+Usa las diferentes habilidades[LB]
+en batalla a tu favor mientras[LB]
+exploras el laberinto.[LB][END]
+
+
+[MSGH][00000002][00000078]
+[EN]
+Please review your party's limit[LB]
+skills before continuing.[LB][END]
+[ES]
+Revisa las habilidades de tu[LB]
+equipo antes de continuar.[LB][END]
+
+
+[MSGH][00000003][00000040]
+[EN]
+Are these settings acceptable?[LB][END]
+[ES]
+¿Aceptar la configuración?[LB][END]
+
+
+[MSGH][00000004][00000042]
+[EN]
+Return to the formation screen?[LB][END]
+[ES]
+¿Regresar a la pantalla de formación?[LB][END]
+

@@ -1,0 +1,143 @@
+[HEAD][0000053c][0000001c]
+
+[MSGH][00000000][0000000e]
+[EN]
+Dummy[LB][END]
+[ES]
+Dummy[LB][END]
+
+
+[MSGH][00000001][0000007c]
+[EN]
+You will begin at the selected[LB]
+Stratum. Enter the Labyrinth?[LB][END]
+[ES]
+Comenzarás en este estrato.[LB]
+¿Aventurarse en el laberinto?[LB][END]
+
+
+[MSGH][00000002][0000003a]
+[EN]
+Go to the selected Stratum.[LB][END]
+[ES]
+Descender al estrato seleccionado.[LB][END]
+
+
+[MSGH][00000003][0000002c]
+[EN]
+Go to the Deep City.[LB][END]
+[ES]
+Ir a Inmersópolis.[LB][END]
+
+
+[MSGH][00000004][0000002c]
+[EN]
+Return to the plaza.[LB][END]
+[ES]
+Volver al centro de la ciudad.[LB][END]
+
+
+[MSGH][00000005][00000022]
+[EN]
+Go to Armoroad.[LB][END]
+[ES]
+Dirigirse a Armoroad.[LB][END]
+
+
+[MSGH][0000000b][00000034]
+[EN]
+Go to the First Stratum.[LB][END]
+[ES]
+Descender al primer estrato.[LB][END]
+
+
+[MSGH][0000000c][00000036]
+[EN]
+Go to the Second Stratum.[LB][END]
+[ES]
+Descender al segundo estrato.[LB][END]
+
+
+[MSGH][0000000d][00000034]
+[EN]
+Go to the Third Stratum.[LB][END]
+[ES]
+Descender al tercer estrato.[LB][END]
+
+
+[MSGH][0000000e][00000036]
+[EN]
+Go to the Fourth Stratum.[LB][END]
+[ES]
+Descender al cuarto estrato.[LB][END]
+
+
+[MSGH][0000000f][00000034]
+[EN]
+Go to the Fifth Stratum.[LB][END]
+[ES]
+Descender al quinto estrato.[LB][END]
+
+
+[MSGH][00000010][00000034]
+[EN]
+Go to the Sixth Stratum.[LB][END]
+[ES]
+Descender al sexto estrato.[LB][END]
+
+
+[MSGH][00000011][00000032]
+[EN]
+Go to the Grotto's end.[LB][END]
+[ES]
+Descender al final de la gruta.[LB][END]
+
+
+[MSGH][00000015][0000002a]
+[EN]
+1st: Waterfall Wood[LB][END]
+[ES]
+1.º Bosque de la cascada[LB][END]
+
+
+[MSGH][00000016][0000002c]
+[EN]
+2nd: Undersea Grotto[LB][END]
+[ES]
+2.º Gruta submarina[LB][END]
+
+
+[MSGH][00000017][00000026]
+[EN]
+3rd: Molten Caves[LB][END]
+[ES]
+3.º Cuevas fundidas[LB][END]
+
+
+[MSGH][00000018][0000002a]
+[EN]
+4th: Abyssal Shrine[LB][END]
+[ES]
+4.º Eremitorio abismal[LB][END]
+
+
+[MSGH][00000019][0000002e]
+[EN]
+5th: Porcelain Forest[LB][END]
+[ES]
+5.º Bosque de porcelana[LB][END]
+
+
+[MSGH][0000001a][0000002c]
+[EN]
+6th: Cyclopean Haunt[LB][END]
+[ES]
+6.º La caza del cíclope[LB][END]
+
+
+[MSGH][0000001b][00000030]
+[EN]
+Undersea Grotto Depths[LB][END]
+[ES]
+Profundidades submarinas[LB][END]
+

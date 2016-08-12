@@ -1,0 +1,192 @@
+[HEAD][000007c0][00000019]
+
+[MSGH][00000000][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000001][00000050]
+[EN]
+Sleep at the inn to recover[LB]
+HP and TP.[LB][END]
+[ES]
+Dormir en la posada para[LB]
+recuperar PV and PH.[LB][END]
+
+
+[MSGH][00000002][0000006a]
+[EN]
+Treat your party's wounds and[LB]
+heal status ailments.[LB][END]
+[ES]
+Tratar las heridas y afecciones[LB]
+del grupo.[LB][END]
+
+
+[MSGH][00000003][0000002e]
+[EN]
+Store or claim goods.[LB][END]
+[ES]
+Almacenar o reclamar bienes.[LB][END]
+
+
+[MSGH][00000004][00000032]
+[EN]
+Talk to the innkeeper. [LB][END]
+[ES]
+Hablar con el posadero. [LB][END]
+
+
+[MSGH][00000005][00000022]
+[EN]
+Save your game.[LB][END]
+[ES]
+Guardar tu partida.[LB][END]
+
+
+[MSGH][00000006][0000002c]
+[EN]
+Return to the plaza.[LB][END]
+[ES]
+Regresar a la plaza.[LB][END]
+
+
+[MSGH][00000007][0000006e]
+[EN]
+Stay at the inn until 7AM[LB]
+to fully recover HP and TP.[LB][END]
+[ES]
+Alojarse hasta las 7 AM[LB]
+para restaurar todos los PV y PH.[LB][END]
+
+
+[MSGH][00000008][0000006e]
+[EN]
+Stay at the inn until 7PM[LB]
+to fully recover HP and TP.[LB][END]
+[ES]
+Alojarse hasta las 7 PM[LB]
+para restaurar todos los PV y PH.[LB][END]
+
+
+[MSGH][00000009][00000038]
+[EN]
+There are no items stored![LB][END]
+[ES]
+¡No hay objetos almacenados![LB][END]
+
+
+[MSGH][0000000a][0000003a]
+[EN]
+You have no items to store![LB][END]
+[ES]
+¡No tienes objetos que almacenar![LB][END]
+
+
+[MSGH][0000000b][00000028]
+[EN]
+Stored [DATA][0000] item(s).[LB][END]
+[ES]
+Has almacenado [DATA][0000] objeto(s).[LB][END]
+
+
+[MSGH][0000000c][0000002a]
+[EN]
+Claimed [DATA][0000] item(s).[LB][END]
+[ES]
+Has reclamado [DATA][0000] objetos(s).[LB][END]
+
+
+[MSGH][0000000d][00000038]
+[EN]
+Store [DATA][0000] item(s)[LB]
+for [DATA][0100]en?[LB][END]
+[ES]
+¿Almacenar [DATA][0000] objetos(s)[LB]
+por [DATA][0100]en?[LB][END]
+
+
+[MSGH][0000000e][00000068]
+[EN]
+Taking out [DATA][0000] item(s).[LB]
+Is that all right with you?[LB][END]
+[ES]
+Vas a reclamar [DATA][0000] objetos(s).[LB]
+¿Estás de acuerdo?[LB][END]
+
+
+[MSGH][0000000f][00000036]
+[EN]
+The storage room is full![LB][END]
+[ES]
+¡El depósito está lleno![LB][END]
+
+
+[MSGH][00000010][00000032]
+[EN]
+Your inventory is full![LB][END]
+[ES]
+¡Tu inventario está lleno![LB][END]
+
+
+[MSGH][00000011][00000030]
+[EN]
+Choose items to store.[LB][END]
+[ES]
+Elige objetos que almacenar.[LB][END]
+
+
+[MSGH][00000012][00000030]
+[EN]
+Choose items to claim.[LB][END]
+[ES]
+Elige objetos que reclamar.[LB][END]
+
+
+[MSGH][00000013][0000006a]
+[EN]
+Your stay will be [DATA][0000]en.[LB]
+Is that all right with you?[LB][END]
+[ES]
+Tu estancia costará [DATA][0000]en.[LB]
+¿De acuerdo?[LB][END]
+
+
+[MSGH][00000014][0000003c]
+[EN]
+You don't have enough money![LB][END]
+[ES]
+¡No tienes dinero suficiente![LB][END]
+
+
+[MSGH][00000015][00000032]
+[EN]
+Who requires treatment?[LB][END]
+[ES]
+¿Quién requiere tratamiento?[LB][END]
+
+
+[MSGH][00000016][00000038]
+[EN]
+No one requires treatment.[LB][END]
+[ES]
+Nadie requiere tratamiento.[LB][END]
+
+
+[MSGH][00000017][00000054]
+[EN]
+The afflicted explorer has[LB]
+been treated.[LB][END]
+[ES]
+El explorador afligido ha recibido[LB]
+el tratamiento pertinente.[LB][END]
+
+
+[MSGH][00000018][00000032]
+[EN]
+Would you like to save?[LB][END]
+[ES]
+¿A quién quieres salvar?[LB][END]
+

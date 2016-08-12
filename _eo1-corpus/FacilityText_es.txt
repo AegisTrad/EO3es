@@ -1,0 +1,158 @@
+El gallo cantarín
+Botica del Dr. Hoffman
+Tienda de Shileka
+El ciervo dorado
+Gremio de guerreros
+Sala de Radha
+Entrada al bosque
+Descansar y guardar la partida.
+Curar tus heridas.
+Comprar y vender objetos.
+Organizar los encargos.
+Dirigir el gremio.
+Recibir misiones.
+Entrar al laberinto.
+No tienes suficientes <!8068> .
+Dormir
+Echarse una siesta
+Hablar
+Guardar la partida
+Irse
+Dormir toda la noche. Revitaliza todos los PV y PT.
+Echarse una siesta. Revitaliza todos los PV y PT.
+Hablar con el dependiente.
+Guardar la partida.
+Volver a la plaza.
+No tienes suficiente dinero.
+La estancia cuesta <!806A> en. ¿Estás conforme?
+¿Quieres guardar la partida?
+Has guardado la partida.
+Resucitar
+Comprar medicinas
+Hablar
+Irse
+Resucitar a miembros petrificados o que hayan perecido.
+Comprar medicinas.
+Hablar con el Dr. Hoffman.
+Volver a la plaza.
+Eso cuesta <!806A> en. ¿Estás de acuerdo?
+No tenéis suficiente dinero.
+¡Listo! Te acabo de curar.
+Yo creo que estáis bien.
+Necesitas lo siguiente:
+Comprar
+Vender
+Hablar
+Irse
+Comprar objetos.
+Vender objetos.
+Hablar con Shileka.
+Volver a la plaza.
+¿Qué quieres comprar?
+¿Qué quieres vender?
+El precio es <!806A> en. ¿Te parece bien?
+Has comprado <!80C9> .
+Has vendido <!80C9> .
+No tienes nada que vender.
+Shileka tiene un nuevo objeto:    <!color=0006><!80C8> <!color=0000>
+¡No me queda nada!
+No puedes llevar más objetos.
+Te daré <!8070> en por <!80CA> x <!806C> .
+Te daré <!806A> en por ese objeto.
+El Dr. Hoffman tiene una nueva medicina:    <!color=0006><!8068> <!color=0000>
+Has vendido <!80CA> x <!806C> .
+Armas
+Armaduras
+Accesorios
+Objetos
+Necesitas lo siguiente:
+Registrar
+Organizar
+Formar
+Hablar
+Irse
+Registrar a un nuevo aventurero en <!806E>       .
+Permitir que alguien de <!806E>        se vaya, descanse o se retire.
+Formar un grupo con miembros de <!806E>       .
+Hablar con el jefe del gremio.
+Volver a la plaza.
+¿De qué aventurero te vas a ocupar?
+El puesto del aventurero lo tomará un recluta.
+Reajustar los puntos de habilidad a cambio de 10 niveles.
+El aventurero abandonará inmediatamente el gremio.
+Confirmar
+No hay nadie registrado en <!806E>       .
+Si formas este grupo, todos estarán en la línea frontal.
+¿Este es el grupo que quieres formar?
+Perderás todo lo que tenga equipado el aventurero.
+¿Quieres dejar que este aventurero se vaya?
+¿Seguro que quieres dejar que este aventurero se vaya?
+Has despedido a <!8071>       .
+No puedes seleccionar este personaje.
+¿Se va a retirar este aventurero?
+¿Seguro que este aventurero se va a retirar?
+Después de que <!8064>                         se retire, su aprendiz toma su puesto.
+¿Quieres dejar que este aventurero descanse?
+¿Seguro que quieres dejar que este aventurero descanse?
+Tras descansar una temporada, <!8064>                         ha perdido 10 niveles.
+El gremio <!806E>        no puede aceptar más aventureros.
+Los aventureros que estén petrificados o que hayan perecido no pueden formar grupos.
+En tu grupo tiene que haber alguien vivo o no petrificado.
+En tu grupo tiene que haber alguien vivo o no petrificado.
+Retirarse
+Descansar
+Irse
+Aceptar encargos
+Informar de resultados
+Hablar
+Irse
+Escuchar las peticiones de los ciudadanos de Etria.
+Confirmar la finalización de un encargo o dejarlo.
+Hablar con Valerie, la encargada de la taberna.
+Volver a la plaza.
+Pedir información por aquí.
+No hay nuevos encargos.
+No has aceptado ningún encargo.
+¿Quieres aceptar este encargo?
+No has terminado este encargo. ¿Quieres dejarlo?
+Has aceptado el encargo.
+Has abandonado el encargo.
+Si no habéis obtenido el permiso en la sala de Radha, no os puedo ofrecer trabajo.
+No puedes aceptar más encargos.
+Aceptar misiones
+Informar de resultados
+Informar de hallazgos
+Hablar
+Irse
+Aceptar misiones oficiales de la sala de Radha.
+Presentar un informe tras finalizar las misiones.
+Informar en Radha acerca de nuevos objetos y monstruos.
+Hablar con el alférez Quinn.
+Volver a la plaza.
+No hay misiones nuevas.
+No has aceptado ninguna misión.
+¿Quieres aceptar esta misión?
+¿Quieres cancelar esta misión?
+Has aceptado esta misión.
+¿Quieres escuchar los detalles de nuevo?
+Has informado del descubrimiento <!color=0006><!8130> <!color=0000>.
+Has informado del descubrimiento <!color=0006><!80CB> <!color=0000>.
+Bestiario
+Objetos
+Valor:
+Laberinto de Yggdrasil
+Punto geomagnético
+Volver al pueblo
+Entrar al laberinto.
+Teletransportarse a un estrato.
+Volver a la plaza.
+Seleccionar un estrato.
+No puedes ir con este grupo.
+1.º: Arboleda esmeralda
+2.º: Jungla perdida
+3.º: Selva cerúlea
+4.º: Desierto baldío
+5.º: La ciudad eterna
+6.º: Pesadilla carmesí
+¿Usar el punto geomagnético para teletransportarte al laberinto?
+Aún no puedes usarlo.

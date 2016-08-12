@@ -1,0 +1,268 @@
+[HEAD][00000d62][00000023]
+
+[MSGH][00000000][0000007e]
+[EN]
+This will cause you to host a[LB]
+wireless session as the leader.[LB][END]
+[ES]
+Serás el anfitrión de esta partida[LB]
+inalámbrica como líder ???.[LB][END]
+
+
+[MSGH][00000001][00000088]
+[EN]
+This will begin searching for a[LB]
+player hosting a wireless session.[LB][END]
+[ES]
+Comenzará una búsqueda de[LB]
+jugadores anfitriones de una partida.[LB][END]
+
+
+[MSGH][00000002][00000034]
+[EN]
+Return to the port menu.[LB][END]
+[ES]
+Regresar al menú del puerto.[LB][END]
+
+
+[MSGH][00000003][00000082]
+[EN]
+Searching for members to recruit.[LB]
+Press the B Button to cancel.[LB][END]
+[ES]
+Buscando miembros que reclutar.[LB]
+Pulsa el botón B para cancelar.[LB][END]
+
+
+[MSGH][00000004][00000036]
+[EN]
+A recruit has been found.[LB][END]
+[ES]
+Recluta encontrado.[LB][END]
+
+
+[MSGH][00000005][00000044]
+[EN]
+Please choose your character(s).[LB][END]
+[ES]
+Elige a tu(s) personaje(s).[LB][END]
+
+
+[MSGH][00000006][0000008e]
+[EN]
+Please wait while the rest of the[LB]
+recruits choose their character(s).[LB][END]
+[ES]
+Espera mientras el resto de reclutas[LB]
+escogen a sus personajes.[LB][END]
+
+
+[MSGH][0000000a][00000042]
+[EN]
+Is this the formation you wish?[LB][END]
+[ES]
+¿Deseas esta formación?[LB][END]
+
+
+[MSGH][0000000b][0000003a]
+[EN]
+Please organize your party.[LB][END]
+[ES]
+Organiza el grupo.[LB][END]
+
+
+[MSGH][0000000c][00000088]
+[EN]
+Searching... Press the A Button to[LB]
+join or the B Button to cancel.[LB][END]
+[ES]
+Buscando... Pulsa el botón A para unirte[LB]
+o el botón B para cancelar.[LB][END]
+
+
+[MSGH][0000000d][00000090]
+[EN]
+The host is still searching for[LB]
+recruits. Press the B Button[LB]
+to leave.[LB][END]
+[ES]
+El anfitrión aún busca reclutas.[LB]
+Pulsa el botón B para abandonar[LB]
+la sesión.[LB][END]
+
+
+[MSGH][0000000f][00000072]
+[EN]
+Please wait while the host[LB]
+chooses the party formation.[LB][END]
+[ES]
+Espera mientras el anfitrión[LB]
+elige la formación del grupo.[LB][END]
+
+
+[MSGH][00000010][0000005a]
+[EN]
+Please wait while the host[LB]
+selects a quest.[LB][END]
+[ES]
+Espera mientras el anfitrión[LB]
+elige un encargo.[LB][END]
+
+
+[MSGH][00000011][0000005a]
+[EN]
+[COLOR][0500][DATA][0000][COLOR][0000] has been[LB]
+selected. Prepare yourself![LB][END]
+[ES]
+Se ha elegido [COLOR][0500][DATA][0000][COLOR][0000].[LB]
+¡Preparaos![LB][END]
+
+
+[MSGH][00000012][00000028]
+[EN]
+Accept this quest?[LB][END]
+[ES]
+¿Aceptar encargo?[LB][END]
+
+
+[MSGH][00000013][0000004c]
+[EN]
+[COLOR][0500][DATA][0100][COLOR][0000] at[LB]
+[COLOR][0500][DATA][0000][COLOR][0000] [LB]
+has been selected![LB][END]
+[ES]
+¡Se ha elegido[LB]
+[COLOR][0500][DATA][0100][COLOR][0000][LB]
+en [COLOR][0500][DATA][0000][COLOR][0000]![LB][END]
+
+
+[MSGH][00000014][00000068]
+[EN]
+Please choose a destination for[LB]
+your ocean voyage.[LB][END]
+[ES]
+Elige un destino para tu[LB]
+viaje marítimo.[LB][END]
+
+
+[MSGH][00000015][00000030]
+[EN]
+Please choose a quest.[LB][END]
+[ES]
+Elige un encargo.[LB][END]
+
+
+[MSGH][00000016][00000022]
+[EN]
+Anchors aweigh![LB][END]
+[ES]
+¡Leven anclas![LB][END]
+
+
+[MSGH][00000017][0000002a]
+[EN]
+Is this acceptable?[LB][END]
+[ES]
+¿Aceptar?[LB][END]
+
+
+[MSGH][00000018][0000005e]
+[EN]
+Please wait while the host sets[LB]
+limit skills.[LB][END]
+[ES]
+Espera mientras el anfitrión[LB]
+las habilidades límite.[LB][END]
+
+
+[MSGH][00000019][0000001e]
+[EN]
+Please wait. [LB][END]
+[ES]
+Espera, por favor. [LB][END]
+
+
+[MSGH][0000001a][00000034]
+[EN]
+Connection to host lost.[LB][END]
+[ES]
+Conexión perdida.[LB][END]
+
+
+[MSGH][0000001b][00000086]
+[EN]
+Network error! Terminating[LB]
+session and returning you[LB]
+to the port.[LB][END]
+[ES]
+¡Error de red! Finalizando[LB]
+sesión y regresando al[LB]
+puerto.[LB][END]
+
+
+[MSGH][0000001c][000000b4]
+[EN]
+A recruit's connection has been[LB]
+lost. Terminating session and[LB]
+returning you to the port.[LB][END]
+[ES]
+Se ha perdido la conexión con[LB]
+un recluta. Finalizando sesión[LB]
+y regresando al puerto.[LB][END]
+
+
+[MSGH][0000001d][000000a6]
+[EN]
+Connection with the host lost.[LB]
+Terminating session and returning[LB]
+you to the port.[LB][END]
+[ES]
+Se ha perdido la conexión con el.[LB]
+anfitrión. Finalizando sesión y[LB]
+regresando al puerto.[LB][END]
+
+
+[MSGH][0000001e][00000064]
+[EN]
+You have too many members to[LB]
+attempt that quest.[LB][END]
+[ES]
+Dispones de demasiados miembros[LB]
+para intentar el encargo.[LB][END]
+
+
+[MSGH][0000001f][00000068]
+[EN]
+End the ocean voyage early and[LB]
+return to the port?[LB][END]
+[ES]
+¿Terminar con el viaje antes de[LB]
+tiempo y regresar al puerto?[LB][END]
+
+
+[MSGH][00000020][00000064]
+[EN]
+Return to the ocean voyage[LB]
+quest selection menu?[LB][END]
+[ES]
+¿Regresar al menú de selección[LB]
+de encargos marítimos?[LB][END]
+
+
+[MSGH][00000021][00000066]
+[EN]
+Please wait while the host[LB]
+selects another quest.[LB][END]
+[ES]
+Espera mientras el anfitrión[LB]
+elige otro encargo.[LB][END]
+
+
+[MSGH][00000022][00000056]
+[EN]
+Return to the character[LB]
+selection screen?[LB][END]
+[ES]
+¿Regresar a la pantalla de[LB]
+selección de personajes?[LB][END]
+

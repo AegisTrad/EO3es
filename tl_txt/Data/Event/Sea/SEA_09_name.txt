@@ -1,0 +1,29 @@
+[HEAD][00000102][00000005]
+
+[MSGH][00000001][00000032]
+[EN]
+The Buddha's stone bowl[LB][END]
+[ES]
+El tazón de Buda[LB][END]
+
+
+[MSGH][00000002][00000024]
+[EN]
+Brains and brawn[LB][END]
+[ES]
+Ingenio y músculo[LB][END]
+
+
+[MSGH][00000003][00000026]
+[EN]
+View from the top[LB][END]
+[ES]
+Vista desde la cima[LB][END]
+
+
+[MSGH][00000004][00000026]
+[EN]
+Ascent to victory[LB][END]
+[ES]
+Pendiente hacia la victoria[LB][END]
+

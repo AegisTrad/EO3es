@@ -1,0 +1,253 @@
+[HEAD][000008b0][00000024]
+
+[MSGH][00000000][0000002a]
+[EN]
+Eager-to-join woman[LB][END]
+[ES]
+Mujer entusiasta[LB][END]
+
+
+[MSGH][00000001][00000024]
+[EN]
+Tanned fisherman[LB][END]
+[ES]
+Pescador moreno[LB][END]
+
+
+[MSGH][00000002][0000002c]
+[EN]
+Bertram Guild member[LB][END]
+[ES]
+Miembro del gremio Bertram[LB][END]
+
+
+[MSGH][00000003][00000020]
+[EN]
+Scavenger Toma[LB][END]
+[ES]
+Pordiosero[LB][END]
+
+
+[MSGH][00000004][0000002e]
+[EN]
+Long-haired blond man[LB][END]
+[ES]
+Hombre rubio de pelo largo[LB][END]
+
+
+[MSGH][00000005][0000002e]
+[EN]
+Seafood-eating Buster[LB][END]
+[ES]
+Grandullón comiendo marisco[LB][END]
+
+
+[MSGH][00000006][0000002e]
+[EN]
+Monster scholar Scott[LB][END]
+[ES]
+Reinaldo, el erudito en monstruos[LB][END]
+
+
+[MSGH][00000007][00000032]
+[EN]
+Helpful older swordsman[LB][END]
+[ES]
+Espadachín jubilado[LB][END]
+
+
+[MSGH][00000008][00000026]
+[EN]
+Filthy-booted man[LB][END]
+[ES]
+Hombre con botas roñosas[LB][END]
+
+
+[MSGH][00000009][0000002a]
+[EN]
+Scarily intense guy[LB][END]
+[ES]
+Tipo de mirada agresiva[LB][END]
+
+
+[MSGH][0000000a][00000020]
+[EN]
+Gentle old man[LB][END]
+[ES]
+Anciano amable[LB][END]
+
+
+[MSGH][0000000b][0000001c]
+[EN]
+Unlucky lady[LB][END]
+[ES]
+Señorita desafortunada[LB][END]
+
+
+[MSGH][0000000c][00000036]
+[EN]
+Gaudy swordswoman Dezerte[LB][END]
+[ES]
+Dimas, el espadachín ostentoso[LB][END]
+
+
+[MSGH][0000000d][00000030]
+[EN]
+Loud martial arts girl[LB][END]
+[ES]
+Muchacha marcial ruidosa[LB][END]
+
+
+[MSGH][0000000e][0000002a]
+[EN]
+Bandage-covered man[LB][END]
+[ES]
+Hombre lleno de vendas[LB][END]
+
+
+[MSGH][0000000f][00000028]
+[EN]
+Bistro's head chef[LB][END]
+[ES]
+Jefe de cocina del bistró[LB][END]
+
+
+[MSGH][00000010][00000038]
+[EN]
+Elderly Amoro Group hunter[LB][END]
+[ES]
+Cazador del grupo Amoro[LB][END]
+
+
+[MSGH][00000011][0000003e]
+[EN]
+Nearsighted astrologist Synus[LB][END]
+[ES]
+Silvio, el astrólogo miope[LB][END]
+
+
+[MSGH][00000012][0000002e]
+[EN]
+Ruddy-cheeked warrior[LB][END]
+[ES]
+Guerrero de mejillas rojadas[LB][END]
+
+
+[MSGH][00000013][00000036]
+[EN]
+Traveling flower merchant[LB][END]
+[ES]
+Mercader ambulante de flores[LB][END]
+
+
+[MSGH][00000014][00000026]
+[EN]
+Botanist Wisteria[LB][END]
+[ES]
+Violeta, la botánica[LB][END]
+
+
+[MSGH][00000015][0000002c]
+[EN]
+Novice postal worker[LB][END]
+[ES]
+Funcionario novato del servicio postal[LB][END]
+
+
+[MSGH][00000016][00000036]
+[EN]
+Ninja with an order given[LB][END]
+[ES]
+Ninja con una orden[LB][END]
+
+
+[MSGH][00000017][00000018]
+[EN]
+Dr. Cooper[LB][END]
+[ES]
+Dr. Cooper[LB][END]
+
+
+[MSGH][00000018][00000032]
+[EN]
+Tomboy hammerist Nerona[LB][END]
+[ES]
+Nerona, la machona[LB][END]
+
+
+[MSGH][00000019][00000024]
+[EN]
+Astrologist Aura[LB][END]
+[ES]
+Aurora, la astróloga[LB][END]
+
+
+[MSGH][0000001a][0000003c]
+[EN]
+Two-fisted historian Bongaro[LB][END]
+[ES]
+Meseguer, el arqueólogo[LB][END]
+
+
+[MSGH][0000001b][00000032]
+[EN]
+Bandaged Bertram member[LB][END]
+[ES]
+Miembro del Bertram en vendas[LB][END]
+
+
+[MSGH][0000001c][00000038]
+[EN]
+Gaussian Princess Victoria[LB][END]
+[ES]
+Victoria, la princesa gaussiana[LB][END]
+
+
+[MSGH][0000001d][0000002c]
+[EN]
+Ale-drinking soldier[LB][END]
+[ES]
+Soldado bebiendo cerveza[LB][END]
+
+
+[MSGH][0000001e][0000002a]
+[EN]
+Tanned longshoreman[LB][END]
+[ES]
+Estibador moreno[LB][END]
+
+
+[MSGH][0000001f][00000034]
+[EN]
+Gotland merchant mariner[LB][END]
+[ES]
+Marinero mercante de Gotland[LB][END]
+
+
+[MSGH][00000020][00000038]
+[EN]
+Harpist troubadour Wolfram[LB][END]
+[ES]
+Wolfram, el trovador del arpa[LB][END]
+
+
+[MSGH][00000021][0000002e]
+[EN]
+Novice dress merchant[LB][END]
+[ES]
+Mercader novel de ropajes[LB][END]
+
+
+[MSGH][00000022][00000032]
+[EN]
+Eyepatch-wearing sailor[LB][END]
+[ES]
+Marinero con parche[LB][END]
+
+
+[MSGH][00000023][0000001e]
+[EN]
+Quiet scholar[LB][END]
+[ES]
+Erudito tranquilo[LB][END]
+

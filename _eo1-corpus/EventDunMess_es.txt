@@ -1,0 +1,958 @@
+Te adentras por vez primera en el laberinto de Yggdrasil, un lugar envuelto en un aura de misterio.
+Insólitas plantas se extienden a lo largo del paisaje, mientras las bestias del bosque emiten diversos sonidos que resuenan entre los recovecos del bosque.
+El fresco aire y la frondosa vegetación ocultan los peligros que te aguardan.
+¡Adéntrate en el bosque y empieza sin dilación tu aventura!
+Llegas a las afueras del bosque, donde los arbustos y espinos hacen el camino impracticable.
+A tus pies encuentras una vieja mochila que debió de pertenecer a algún explorador.
+<!color=0007>¿Quieres recoger la mochila? <!color=0000>
+Echas un vistazo al interior de la mochila y encuentras un puñado de monedas.
+Decides que será mejor dejar la vieja mochila donde la encontraste.
+A partir de ahora no aparecerán pintados los alrededores en el mapa que recibiste.
+Lápiz en mano, has de dibujar tú mismo el mapa.
+¡Ahora es cuando comienza la verdadera aventura!
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+Descubres un estrecho sendero escondido entre los árboles...
+Sin embargo, es demasiado angosto para pasar.
+Descubres un estrecho sendero escondido entre los árboles...
+Parece que se ha ensanchado, así que quizá puedas pasar empujando un poco.
+¿Quieres seguir hacia delante?
+Al atravesar el estrecho sendero, avistas al fondo un manantial de agua.
+Tras la caminata, al ver la fresca y cristalina agua tienes la tentación de tomar un trago.
+Dudas entre saciar tu sed o pasar de largo.
+<!color=0007>¿Qué quieres hacer? <!color=0000>Mojar la mano en el agua Tomar un trago Pasar de largo
+Alargas la mano y la pones bajo el chorro de agua que fluye entre las rocas.
+El agua gélida refresca tu piel.
+Te preguntas si deberías tomar un trago o irte sin más.
+Ahuecas las manos, recoges un poco de agua y te la llevas a la boca...
+El agua fresca y cristalina sacia tu sed.
+<!color=0007>¡El grupo ha recobrado 10 PT! <!color=0000>
+Tras el refrescante trago de agua del manantial, te pones de nuevo en marcha.
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+Descubres un estrecho sendero escondido entre los árboles...
+Sin embargo, es demasiado angosto para pasar.
+Descubres un estrecho sendero escondido entre los árboles...
+Parece que se ha ensanchado, así que quizá puedas pasar empujando un poco.
+¿Quieres seguir hacia delante?
+No tienes por qué explorar aún territorio que desconoces.
+Ve a hablar primero con el soldado que se encuentra en las zonas exploradas del bosque.
+Mientras sigues por el sendero, ves una fruta roja que cuelga de un árbol.
+Está al alcance de tu mano, por lo que es muy tentador arrancarla y pegarle un mordisco.
+Consideras la posibilidad de comerte o no la fruta...
+¿Quieres comerte la fruta roja?
+<!8065> saborea el delicioso jugo de la fruta.
+<!color=0007>¡<!8065> ha recobrado 10 PV! <!color=0000>
+Decides ser cauto y, a pesar del tentador color brillante de la fruta, no te la comes.
+Mientras caminas por el bosque, avistas al final del sendero algo peludo en el suelo.
+Al principio crees que es un animal, pero bajas la guardia al darte cuenta de que es una bota.
+Quizá perteneciera a algún aventurero...
+Sopesas la posibilidad de levantar del suelo la sucia bota o dejarla donde está.
+<!color=0007>¿Qué quieres hacer? <!color=0000>Levantar la bota Mirar alrededor Irte
+Levantas la sucia bota con cautela.
+Pesa bastante, ya que su propietario escondió dentro una piedra de color marfil.
+Mientras contemplas atónito la piedra, el suelo se empieza a mover de una manera extraña.
+¡Los terribles monstruos que han matado seguramente al propietario te han tendido una emboscada!
+Inspeccionas concienzudamente los alrededores de la bota.
+Descubres jirones de ropa y manchas de sangre en el suelo.
+Estos indicios te hacen pensar que puede que haya bestias merodeando no muy lejos.
+Observas la bota y te preguntas si vale la pena levantarla, a pesar del posible riesgo que conlleve.
+Decides dejar la bota donde está y abandonar este lugar.
+Mientras andas por el sendero, te fijas en una fruta azul que cuelga de la rama de un árbol.
+No tiene una apariencia demasiado apetitosa.
+Está al alcance de tu mano, por lo que podrías cogerla y probarla.
+¿Quieres comerte la fruta azul?
+<!8065> ha disfrutado del rico sabor de la fruta, a pesar de la apariencia que tenía.
+<!color=0007>¡<!8065> ha recobrado 10 PT! <!color=0000>
+Después de andar un rato por el bosque, llegas a un descampado.
+Delante de ti hay alineadas unas grandes cajas cuadradas.
+Quizá las hayan dejado aquí otros aventureros.
+Puede que sean parte del tesoro que, según cuentan, se halla desperdigado por el laberinto...
+No brindan ninguna pista sobre su naturaleza, y por su disposición se prestan a que las abras.
+Sigues andando por el bosque hasta que llegas a un descampado lleno de flores en pleno esplendor.
+El viento mece estas flores desconocidas y llega a tu nariz el aroma de su fragancia...
+Contemplas la posibilidad de descansar y disfrutar de este agradable aroma o irte del lugar.
+¿Quieres descansar entre las flores?
+Decides hacer una pausa y descansar en este cómodo y aromático descampado.
+Sin embargo, no eres el único al que este dulce aroma floral ha atraído hasta aquí.
+Antes de que puedas reaccionar, un puñado de mariposas te rodean.
+¿Mariposas?...
+¡Peor aún! ¡Se trata de una raza muy venenosa conocida como mariposa tóxica!
+Sabes que es inútil escapar, así que empuñas tu arma y te preparas para la batalla.
+Crees que es mejor abandonar este descampado en seguida.
+El laberinto de Yggdrasil...
+Debes realizar una tarea antes de adentrarte en sus profundidades.
+Como ya tienes algo de experiencia, tendrás <!color=0005>3 puntos de habilidad<!color=0000> a tu disposición.
+Para usarlos en <!color=0005>habilidades<!color=0000> que te serán útiles en el laberinto, abre el menú principal con el Botón Y. Selecciona <!color=0005>Personalizar<!color=0000> para usar los puntos, pero reflexiona bien antes de hacerlo.
+Quizá ya lo sepas, y si es así, esta advertencia no es de especial importancia.
+¡Ya puedes adentrarte en el frondoso bosque para comenzar tu aventura!
+Hay una lápida pequeña pero de detallada construcción.
+Una pequeña flor yace sobre ella; seguramente alguien la haya dejado como ofrenda.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Mientras sigues con tu aventura, escuchas un terrible rugido que resuena en el bosque.
+Momentos después oyes unas fuertes pisadas de cascos de algo que galopa por el bosque.
+¡Se acerca un temible enemigo, más poderoso que todos contra los que has luchado hasta ahora!
+Nada más llegar a la nueva planta, recuerdas de repente...
+Tu primera misión era dibujar un mapa de una zona de la planta -1 y llevarlo a la sala de Radha...
+Sería una buena idea terminar esta tarea antes de explorar niveles desconocidos.
+Lleva el mapa a la sala de Radha en cuanto puedas.
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+Al abrirte paso a través de la maleza, oyes un ruido delante de ti.
+Es un sonido intermitente que proviene del arbusto.
+Parece que hay algo escondido entre los matojos.
+Echas un vistazo, pero sin éxito; no sabes si quedarte a investigar el sonido o irte.
+<!color=0007>¿Quieres investigarlo? <!color=0000>
+<!8065> , como líder del grupo, aparta los matojos con las manos.
+¡De repente, <!8065> nota un agudo dolor en su mano!
+Parece ser que el sonido provenía de una serpiente.
+Tras morder a <!8065> , se aleja reptando por el suelo y desaparece entre la maleza.
+<!color=0007><!8065> ha perdido 5 PV. <!color=0000>
+Te calmas y continúas con tu aventura.
+Prefieres olvidarte de ese sospechoso ruido y alejarte.
+A medida que caminas por el serpenteante sendero divisas a un soldado disfrutando del sol.
+Este repara en tu presencia y te llama.
+«¡Eh!
+Ah, sois exploradores...
+¿Qué tal va por ahora vuestra aventura?»
+Después de hablar un rato contigo, te hace saber que ayuda a los que exploran el bosque.
+El soldado se ofrece a venderte algunas de sus herramientas si las necesitas.
+Elige de entre los siguientes objetos el que creas que te hará más falta:
+<!color=0007>¿Cuál eliges? <!color=0000>Un arma para combatir Medicina para curar las heridas Nada, gracias
+Le preguntas al soldado si tiene algún arma poderosa.
+Tras escuchar tus palabras, el soldado desenvaina la espada que lleva a la espalda.
+«¿Qué os parece?
+Es pequeña, pero perfecta para vuestros propósitos.
+En lo que al precio se refiere...
+¿Quieres pagarle 500 ental al soldado o lo reconsideras?
+<!color=0007>¿Quieres pagar 500 ental?
+Le entregas en mano al soldado la cantidad acordada y recibes a cambio una espada corta.
+«Os deseo buena suerte, y ojalá nos volvamos a encontrar durante vuestra aventura.»
+Después de la venta, el soldado se despide de ti y se aleja.
+Prosigues tu aventura para descubrir los secretos que guarda el laberinto.
+Ante tu decisión, el soldado, decepcionado, asiente con la cabeza.
+«Si no requerís mis servicios, que tengáis un buen día.»
+Tras pronunciar estas palabras, el soldado se aleja.
+Prosigues tu aventura para descubrir los secretos que guarda el laberinto.
+Empiezas a hablar, pero lo dejas, ya que sabes que tus mentiras serán en vano.
+Decepcionado, el soldado inclina la cabeza con tristeza.
+«Si no requerís mis servicios, que tengáis un buen día.»
+Tras pronunciar estas palabras, el soldado se aleja.
+Prosigues tu aventura para descubrir los secretos que guarda el laberinto.
+Le dices al soldado que necesitas una medicina curativa para las heridas.
+Tras escuchar tus palabras, el soldado saca de su mochila un pequeño bote.
+«Esta medicina habría de seros útil para curar las heridas.
+En lo que al precio se refiere...
+¿Quieres pagarle 100 ental al soldado o lo reconsideras?
+<!color=0007>¿Quieres pagar 100 ental?
+Le entregas en mano al soldado la cantidad acordada y recibes a cambio la medicina.
+«Os deseo buena suerte, y ojalá nos volvamos a encontrar durante vuestra aventura.»
+Después de la venta, el soldado se despide de ti.
+Prosigues tu aventura para descubrir los secretos que guarda el laberinto.
+Ante tu decisión, el soldado, decepcionado, asiente con la cabeza.
+«Si no requerís mis servicios, que tengáis un buen día.»
+Tras pronunciar estas palabras, el soldado se aleja.
+Prosigues tu aventura para descubrir los secretos que guarda el laberinto.
+Empiezas a hablar, pero lo dejas, ya que sabes que tus mentiras serán en vano.
+Decepcionado, el soldado hace un gesto negativo con la cabeza.
+«Si no requerís mis servicios, que tengáis un buen día.»
+Tras pronunciar estas palabras, el soldado se aleja.
+Prosigues tu aventura para descubrir los secretos que guarda el laberinto.
+Caminando por el sendero, te fijas en una fruta de color naranja que cuelga de un árbol.
+Se te hace la boca agua al ver tan apetitosa fruta.
+No supondría ningún problema coger la fruta y comértela.
+¿Quieres comerte la fruta naranja?
+<!8065> la prueba, pero está muy mala. No es oro todo lo que reluce...
+<!color=0007>¡<!8065> ha perdido 10 PT!<!color=0000>
+Decides ser cauto y no probar la fruta, así que te vas.
+Llegas a un punto sin salida y reparas en un trozo de carne oculto entre las sombras.
+Tras inspeccionarlo, te das cuenta de que el suelo de alrededor está removido.
+Echas un vistazo entre las filas de tu grupo a ver si hay algún guardabosque.
+Un aliado con esa especialidad podría evaluar con precisión la situación...
+¿Hay algún guardabosque?
+Según el guardabosque, se trata, sin ninguna duda, de una trampa para animales.
+Quitas con cuidado el trozo de carne sin activar la trampa.
+La carne parece atraer a las bestias.
+Quizá te sea de utilidad más adelante.
+Aunque esperabas que fuera al contrario, en tu grupo no hay ningún guardabosque.
+Te tocará a ti juzgar la situación.
+O te acercas a investigar la carne o te vas.
+Como no hay ningún guardabosque en tu grupo, tendrás que ser tú quien evalúe la situación.
+O te acercas a investigar la carne o te vas.
+¿Quieres acercarte al trozo de carne?
+<!8065> se acerca lentamente al trozo de carne...
+De repente, ¡el suelo cede y del arbusto sale disparada una estaca de madera hacia ti!
+<!color=0007><!8065> ha perdido 10 PV.<!color=0000>
+Parece ser que se trataba de una trampa para animales. <!8065> coge el trozo de carne de la trampa mientras se tapa la herida.
+El trozo de carne, obtenido con esfuerzo, puede resultar útil como señuelo.
+Decides pasar de largo y dejar ahí el sospechoso trozo de carne.
+En el árbol que hay al final del angosto sendero divisas una fruta verde y marchita.
+Por su color y apariencia no crees que se pueda comer.
+Pero si quieres, puedes arrancarla y comértela.
+¿Quieres pegarle un bocado a la fruta de color verde?
+No hay que juzgar un libro por su portada... Resulta que la fruta estaba muy rica.
+<!color=0007>¡<!8065> ha recobrado 10 PV! <!color=0000>
+No te fías de esta extraña fruta y decides pasar de largo.
+<!color=0007>El punto que aparece en el mapa es un enemigo llamado MALO: Malignus Alter Letalix Opponentus. <!color=0007>Por cada paso que des, él también dará uno, así que tenlo siempre en cuenta. <!color=0000>
+Mientras caminas tranquilamente por el bosque, te encuentras a dos aventureras.
+Una lleva negros ropajes y es pelirroja, y la otra tiene una katana y una penetrante mirada.
+«¿Quién anda ahí?», pregunta la aguerrida mujer, con una mano en la empuñadura de la katana.
+Parecen aventureras con experiencia y no han bajado la guardia en ningún momento.
+Quizá se calmen si les dices que también sois aventureros de Etria.
+<!color=0007>¿Les vas a decir que sois aventureros? <!color=0000>
+Cuando les dices que sois aventureros, asienten y bajan un poco la guardia, pero no mucho.
+«¡Ah, aventureros de Etria!
+¿No os han dicho nada en Radha?»
+La mujer que lleva la katana, dándose cuenta de tu ignorancia, mueve la cabeza consternada.
+«En Radha nos han ordenado vigilar esta zona», te dice la severa mujer que lleva la espada.
+«Yo soy Ren, una samurái, y ella es Tlachtga, una bruja.
+Volved al pueblo y que os den los detalles en la sala de Radha.»
+Ren espeta estas frías palabras y después te mira atentamente sin decir nada.
+Parece que tienes que ir a preguntarle al portavoz de Radha acerca de esta situación.
+La guerrera, exasperada, suspira ante tu negativa a hablar con ellas.
+«¿Sois humanos o bestias que no articulan palabra?
+No se puede pasar a esta zona.
+Volved al pueblo y hablad con el responsable en la sala de Radha.
+Yo soy Ren, una samurái, y ella es Tlachtga, una bruja.
+Vigilamos esta zona bajo las órdenes de Radha.»
+Ren espeta estas frías palabras y después te mira atentamente sin decir nada.
+Parece que tienes que ir a preguntarle al portavoz de Radha acerca de esta situación.
+Ninguna de las dos aventureras se ha movido de donde estaba.
+«Somos guardias, no guías», espeta la samurái.
+«Id a la sala de Radha si tenéis algún problema.»
+Te das cuenta de que estas aventureras no van a cooperar, así que te das la vuelta y te vas.
+Mientras caminas tranquilamente por el bosque, te encuentras a dos aventureras.
+Una lleva negros ropajes y es pelirroja, y la otra tiene una katana y una penetrante mirada.
+«¿Quién anda ahí?», pregunta la aguerrida mujer, con una mano en la empuñadura de la katana.
+«No podéis pasar por aquí.
+Tenéis que iros.»
+Tras decir esto, ambas mujeres te bloquean el camino.
+Parece que no puedes pasar por ahora por esta zona.
+A medida que avanzas, te topas con un arboleda que te impide continuar.
+Sin embargo, parece que hay una pequeña grieta por la que puedes pasar si te arrodillas.
+<!color=0007>¿Quieres continuar?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Te adentras entre los árboles y de repente aparece de nuevo la aventurera llamada Ren.
+La guerrera te saluda con una sonrisa como elogio por tu progreso.
+«Parece que aún no hay lobos en esta planta», comenta.
+«Antes de que os adentréis de nuevo en el bosque, os daré un consejo: las arboledas no son tan impenetrables como parecen.
+Si encontráis senderos ocultos podréis moveros con más rapidez.
+Prestad siempre atención.»
+«De hecho, cerca de aquí hay un sendero secreto», te revela.
+«A ver si lo encontráis.»
+Sin decir nada más, Ren se aleja.
+Miras a tu alrededor con la esperanza de avistar el angosto sendero oculto.
+Tras atravesar la puerta, llegas a un descampado.
+Sin previo aviso, oyes un grito estremecedor, acompañado el rugido de una bestia.
+A apenas unos metros, ¡un lobo gigante se prepara para atacar a un pobre soldado!
+El soldado herido parece estar petrificado de miedo.
+Sientes el impulso de empuñar tu arma y salvar al soldado de un terrible destino...
+<!color=0007>¿Quieres rescatar al soldado?
+En el momento en el que te empiezas a preparar para la batalla, oyes el débil tañido de una campana...
+Al intentar localizar su origen, descubres a la bruja Tlachtga, rígida e inmóvil.
+Sin apenas mover los labios, la bruja murmulla un misterioso cántico.
+De repente, el lobo, que estaba dispuesto a atacar, deja de moverse y sus músculos se tensan...
+Con la última palabra de la bruja, el lobo empieza a desangrarse por la boca y cae muerto.
+«No oyen ni ven bien», susurra la chica pelirroja, «pero huelen la sangre desde lejos.»
+Fija su vacía y fría mirada en ti mientras se te acerca.
+«Tendríais que tener cuidado.
+Es peligroso luchar contra lobos si tenéis heridas abiertas.»
+Tlachtga alarga la mano y rocía unas gotas de agua brillante sobre ti.
+<!color=0007>¡El grupo ha recuperado todos los PV y PT!<!color=0000>
+«Voy a cuidar a este soldado.
+Vosotros continuad...
+La entrada a la planta -4 no está lejos.»
+Mientras habla, Tlachtga señala a la puerta de la parte trasera.
+«Permaneceré aquí hasta que derrotéis a Fenrir.
+Volved aquí si necesitáis que os cure las heridas.»
+Tlachtga se da la vuelta y se concentra en atender las heridas del soldado.
+Ya puedes seguir adelante.
+Te quedas de pie, intentando reunir el valor y las fuerzas necesarios para actuar.
+Antes de que lo hagas, llega a tus oídos el débil tañido de una campana...
+Al intentar localizar su origen, descubres a la bruja Tlachtga rígida e inmóvil.
+Sin apenas mover los labios, la bruja murmulla un misterioso cántico.
+De repente, el lobo, que estaba dispuesto a atacar, deja de moverse y sus músculos se tensan...
+Con la última palabra de la bruja, el lobo empieza a desangrarse por la boca y cae muerto.
+«No oyen ni ven bien», susurra la chica pelirroja, «pero huelen sangre desde lejos.»
+Fija su vacía y fría mirada en ti mientras se te acerca.
+«Tendríais que tener cuidado.
+Es peligroso luchar contra lobos si tenéis heridas abiertas.»
+Tlachtga alarga la mano y rocía unas gotas de agua brillante sobre ti.
+Tras atravesar la puerta, llegas a un descampado.
+Sin previo aviso, oyes un grito estremecedor, acompañado del rugido de una bestia.
+A apenas unos metros, ¡un lobo gigante se prepara para atacar a un pobre soldado!
+El soldado herido parece estar petrificado de miedo.
+Das un paso hacia delante...
+Sientes el impulso de empuñar tu arma y salvar al soldado de un terrible destino...
+La bruja de pelo flamígero sigue en el mismo lugar de antes, sin cambiar su postura.
+Asiente ligeramente con la cabeza al verte.
+«¿Qué tal vais?
+Espero que no os esté resultando muy duro», dice de manera recatada.
+Mientras lo dice, te rocía con unas pocas gotas de la brillante agua.
+«Es agua de un manantial de las profundidades del bosque», te explica.
+«Te cura totalmente.»
+La bruja tiene razón; nada más sentir la fresca agua mojar tu piel, recuperas toda tu energía.
+«En la planta -4 habitan muchos lobos.
+Andad con cuidado...»
+La tímida bruja, tras pronunciar estas palabras, se da la vuelta.
+Has recuperado las fuerzas y te dispones a continuar con tu aventura.
+Al llegar a la nueva planta, presientes un baño de sangre. Sientes escalofríos.
+Hasta nuevos aventureros como tú pueden sentir esta terrible y apabullante sensación...
+Es la propia Muerte, que se cierne sobre ti cuando te enfrentas a peligros desconocidos.
+¡Ten cuidado!
+Aquí proliferan temibles bestias con garras y colmillos empapados en sangre.
+No te avergüences de escapar.
+En las profundidades, lo más importante es sobrevivir.
+A medida que te adentras en el bosque, llegan a tus oídos los aullidos de una manada de lobos.
+Sus terribles aullidos resuenan entre los árboles.
+De repente recuerdas las palabras de Tlachtga.
+Te advirtió que aquí habitan terribles y feroces lobos.
+Prosigues tu camino, sin quitarte de la cabeza la imagen de esos feroces lobos...
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+Nada más llegar al nuevo estrato, descubres una brillante y misteriosa luz frente a ti.
+Te quedas atónito ante este haz de luz, pero te percatas de que alguien baja las escaleras tras de ti.
+Te das la vuelta y ves los rostros familiares de las aventureras sonriéndote.
+«Muy bien hecho, miembros de <!806E> .
+Sin la amenaza de los lobos, la paz ha vuelto al bosque.»
+En el rostro de Ren se refleja un severo gesto de satisfacción al mirarte a los ojos.
+«Cada vez que superéis nuevos retos y os volváis más fuertes, honraréis a vuestro gremio.
+Después de derrotar a Fenrir, se os conocerá en Etria como aventureros de alto rango.
+Os felicitamos por vuestro duro trabajo.
+Que os siga yendo bien en vuestra aventura.»
+Tras estas palabras de felicitación, Ren señala a la misteriosa luz detrás de ti.
+En un abrir y cerrar de ojos, las dos aventureras desaparecen.
+¿Este es el poder del punto geomagnético?
+Las palabras de Ren vienen a tu mente...
+Al llegar al nuevo estrato, recuerdas que tenías una misión...
+Habías aceptado la misión de Radha de exterminar a Fenrir...
+Antes de seguir explorando, deberías volver al pueblo para informar acerca de tu victoria.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+«¿Veis esa luz?
+La llamamos <!color=0005>punto geomagnético<!color=0000>, y sirve para investigar el laberinto.
+La verdad es que nadie conoce su origen o para qué se creó, pero su poder es impresionante.
+Si lo tocáis, apareceréis en otro lugar.
+El capitán de Radha fue el pionero en su uso.
+Aunque estéis ansiosos por descubrir un nuevo estrato, os aconsejo volver al pueblo antes.»
+Ren y la bruja de pelo flamígero pasan a tu lado y tocan el pilar de luz.
+Te abres paso a través de la densa vegetación y llegas a un pequeño descampado.
+El agua fluye de entre los árboles y hay unos cuantos estanques y charcos.
+Solo por el hecho de estar aquí, tienes la impresión de que tu cuerpo es más ligero.
+Te mueres por descansar aquí...
+Pero notas una terrible presencia en los alrededores.
+Te da la impresión de que una peligrosa criatura te vigila...
+Esta sensación es suficiente para quitarte de la cabeza la idea de descansar aquí.
+Será mejor que no vuelvas a este manantial.
+Vuelves de nuevo al manantial, pero sigues teniendo esa sensación de peligro.
+Te alejas con cautela de este misterioso descampado.
+Te mueres por descansar aquí...
+Pero notas una terrible presencia en los alrededores.
+¡La horrorosa criatura que bloqueaba el agua del manantial te tiene en su punto de mira!
+Al mirar a tu alrededor, un enorme cangrejo sale de debajo de la cascada.
+Sus enormes y afiladas pinzas, así como su dura concha, lo convierten en un terrible enemigo.
+Te preparas para derrotar al monstruo y devolver así el manantial a su estado natural.
+El gigantesco cangrejo se desploma en el suelo...
+Oyes cómo empieza a discurrir el agua hacia la planta inferior.
+Parece ser que el cangrejo impedía de alguna manera que el agua fluyera libremente.
+Tras terminar la misión, vuelves a tu tarea de explorar el laberinto.
+Mientras deambulas por el laberinto, te fijas en unos extraños dibujos inscritos en las raíces a tus pies.
+Estas marcas, realizadas sin ninguna duda por una persona, parecen hechas con un cuchillo y muestran un círculo tachado.
+Quizá las haya dejado otro aventurero que haya pasado antes por aquí.
+Como no puedes cerciorarte, decides seguir tu camino.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Has obtenido un fragmento de cristal que emite una luz preciosa.
+Despide una luz cegadora y emite un tono débil, como si sintonizara con algo...
+Quizá sirva para desbloquear los cristales con hiedra que has visto en el laberinto.
+Al frente oyes un estridente rugido, así como el sonido de un aleteo.
+Un sudor frío te recorre el cuerpo al notar la presencia de un terrible enemigo.
+¡No muy lejos hay una bestia muchísimo más fuerte que todas a las que te has enfrentado!
+Si aún no tienes ningún tipo de información, puedes volver a la sala de Radha a preguntar.
+Mientras admiras los árboles tropicales, avistas un pequeño sendero entre los troncos.
+<!color=0007>¿Quieres seguir por el angosto sendero? <!color=0000>
+Prefieres alejarte del angosto sendero.
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+Después de abrirte paso a través de la densa arboleda, llegas a una zona en la cual puedes ver un montón de raíces que rodean un brote.
+Las raíces llegan hasta el techo como si buscaran algo, pero en vano.
+Intentas imaginarte el porqué, y de repente oyes unas voces familiares que se acercan.
+«Cada vez os adentráis más en el laberinto, guerreros de <!806E> .
+Os felicito por ello.»
+La guerrera Ren te saluda, mientras que Tlachtga, a su lado, permanece en silencio.
+Parece que la samurái y la bruja están bastante satisfechas con tu progreso hasta ahora.
+«Hemos de pediros un favor, ¡oh, magníficos aventureros!
+Aquí solía haber un manantial de agua curativa.
+Sin embargo, últimamente ha dejado de fluir el arroyo, lo cual supone una gran molestia para los aventureros heridos.»
+Ren acompaña su fría explicación apuntando brevemente hacia el techo.
+«El culpable es un monstruo en la planta superior que bloquea el flujo.
+Es una bestia temible.
+Guerreros de <!806E> ...
+¿Iréis al manantial y derrotaréis a esa terrible bestia?
+Nosotras podríamos hacerlo rápidamente, pero tenemos cosas importantes de las que encargarnos.
+Si pretendéis seguir investigando el laberinto, os interesaría matar a esta criatura.»
+Tras decirte esto, Ren y su silenciosa compañera se dan la vuelta.
+«Que la suerte os acompañe, guerreros.
+Derrotad al monstruo y haced honor a vuestro gremio.»
+Nada más decir estas palabras, las dos aventureras se alejan.
+Puedes ir a matar al monstruo como te han pedido o puedes continuar explorando el laberinto.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Las raíces de un enorme brote sobresalen del suelo a tus pies.
+Se extienden hacia al techo como si buscaran algo, pero lo hacen en vano.
+Quizá si vences al monstruo de la planta superior que está bloqueando el manantial...
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+A medida que avanzas por la jungla sientes una amenaza inminente que surge de las profundidades.
+Hay una bestia en esta planta más poderosa que a las que te has enfrentado, ¡ten cuidado!
+Piensas en volver al pueblo para hacerte con equipo nuevo antes de continuar explorando.
+Caminando por el laberinto, te topas con una piedra roja que yace a tus pies.
+La examinas y determinas que no es ninguna joya, sino una mera piedra pintada de rojo.
+Algunos guardabosques que usan hondas podrían utilizarla como munición...
+Seguramente la hayan pintado para que fuera más fácil localizarla después de haber sido disparada.
+Esta piedra no tiene ningún valor y pierdes el interés en ella.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Te adentras poco a poco en el mar azur de árboles.
+Nada más poner el pie en esta nueva planta, aparece un soldado y te saluda.
+«¿Sois los aventureros que han vencido al rey de la jungla?
+Vuestras hazañas son tema de conversación en la sala de Radha.
+Haríais bien en volver allí.»
+El soldado sonríe y simula un saludo, para momentos después volver por donde vino.
+Quizá fuera una buena idea hacerle caso y volver a la sala de Radha...
+Tras pasear un rato por estos bosques azulados como el océano, te encuentras con un soldado.
+La preocupación en su rostro se esfuma al verte y te sonríe a la vez que te saluda.
+«Sois los aventureros que ha enviado Radha hasta aquí en una misión, ¿no?
+Teníamos ganas de conocer a los hábiles guerreros que derrotaron al rey de la jungla.
+Supongo que sabréis que nos han ordenado dibujar el mapa de las plantas -11 y -12.
+Pero con tanta bestia terrible y retorcidos pasadizos, estamos en las últimas.
+¡Os puedo asegurar que es una bendición contar con la ayuda de los valerosos miembros de <!806E> !»
+El soldado rebusca en su mochila y saca de ella un pergamino.
+«No es que sea gran cosa, pero aquí tenéis los dibujos que he realizado hasta ahora de la zona.»
+El soldado te da el mapa que ha dibujado.
+«Confío en que no tendréis ningún problema en terminar de dibujarlo.»
+Sin apenas echarte una mirada, el soldado se aleja rápidamente de vuelta a casa.
+Con el mapa parcial del soldado en tus manos, te dispones a seguir explorando el laberinto.
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+En el profundo bosque te encuentras de nuevo con la samurái, pero esta vez sola.
+Ella también se da cuenta de tu presencia y se gira hacia ti.
+«Veo que habéis llegado al tercer estrato...
+Habéis avanzado mucho... ¿Qué es lo que buscáis?»
+Ren fija su fría mirada en ti, esperando una respuesta.
+Reflexionas sobre la pregunta.
+<!color=0007>¿Qué vas a responder? <!color=0000>Resolver el misterio Ser los más fuertes Pasar el rato
+«Los misterios de Yggdrasil...
+La razón de la mismísima existencia del laberinto.
+No sois los únicos aventureros que quieren desentrañar estos enigmas.»
+Una ligera sonrisa surca el severo rostro de la guerrera antes de continuar.
+«Muy bien, escuchad lo que os voy a contar: Hace tiempo, Etria era un pueblo fronterizo, antes de que se descubriera el laberinto...
+Pero desde entonces, ha crecido mucho gracias a la afluencia de aventureros.
+¿Qué creéis que le pasaría al pueblo de Etria si se descubrieran los misterios del laberinto?»
+La gélida mirada de Ren sigue anclada en tus ojos, como si te estuviera midiendo.
+«Haréis lo que tengáis que hacer, supongo.
+Si vais a continuar por ese sendero...»
+Ren hace una pausa y saca de entre sus pertenencias un desgastado pergamino. «Tened en cuenta adónde lleva tal camino.
+Si tras deliberarlo queréis seguir vuestra aventura, este antiguo pergamino del samurái os será útil.»
+Ren te da el pergamino, se gira y se aleja; antes de desaparecer entre el follaje, hace una pausa.
+«Vuestro camino y el mío... se volverán a cruzar.
+Hasta entonces, que os vaya bien.»
+Tras estas palabras, desaparece.
+Le das vueltas a ese comentario mientras continúas explorando.
+«Convertirse en el más fuerte...
+Una de las razones de ser más básicas de un aventurero.
+Entonces he de advertiros...
+Vuestro camino es loable.
+Pero si os conduce hasta los misterios que esconde el bosque...»
+Ren hace una pausa y saca un desgastado pergamino de entre sus pertenencias. «Tened en cuenta adónde lleva tal camino.
+Si queréis volveros más fuertes, este pergamino secreto del samurái os será de gran utilidad.»
+Ren te da el pergamino, se gira y se aleja; antes de desaparecer entre el follaje, hace una pausa.
+«Vuestro camino y el mío... se volverán a cruzar.
+Hasta entonces, que os vaya bien.»
+Tras estas palabras, desaparece.
+Le das vueltas a ese comentario antes de emprender tu aventura.
+«Una frívola respuesta...
+Cualquier otra respuesta me habría agradado más.»
+Una ligera sonrisa surca el rostro de la guerrera antes de continuar hablando.
+«Dejadme entonces que os ofrezca una advertencia.
+Sois libres de desperdiciar vuestro tiempo paseando por el bosque, es vuestra decisión.
+Pero que esas andanzas no os lleven a descubrir el secreto que rodea a este bosque...
+A Etria no le interesa que se descubran los secretos del laberinto; si no...»
+Ren hace una pausa y saca un desgastado pergamino de entre sus pertenencias. «Tened en cuenta adónde lleva tal camino.
+Tomad... este pergamino secreto del samurái os vendrá bien para matar el tiempo, supongo».
+Ren te da el pergamino, se gira y se aleja; antes de desaparecer entre el follaje, hace una pausa.
+«Vuestro camino y el mío... se volverán a cruzar.
+Hasta entonces, que os vaya bien.»
+Tras estas palabras desaparece.
+Le das vueltas a ese comentario mientras continúas explorando.
+¡Has explorado a fondo todos los recovecos de esta planta y has creado un mapa excelente!
+En la sala de Radha estarán satisfechos con tu trabajo.
+Si también has dibujado el mapa de la planta -12, vuelve a la sala de Radha para entregarlos.
+Si no, ve a la planta siguiente para acabar la segunda parte de tu misión.
+Mientras exploras los pasadizos del laberinto, te paras y notas algo raro bajo tus pies.
+Encuentras una espada y un escudo oxidados.
+Deben de ser los restos de algún aventurero.
+Tanto tiempo a la intemperie los ha desgastado bastante y no te sirven de nada.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Te adentras lentamente en el mar azur de árboles.
+Te preguntas si no deberías volver a la sala de Radha antes de seguir explorando esta nueva zona.
+Puede que te ofrezcan algún consejo para explorar este nuevo y desconocido estrato.
+¡Has explorado a fondo todos los recovecos de esta planta y has creado un mapa excelente!
+En la sala de Radha estarán satisfechos con tu trabajo.
+Si también has dibujado el mapa de la planta -11, vuelve a la sala de Radha para entregarlos.
+Si no, vuelve a la planta anterior y completa la segunda parte de tu misión.
+Sigues caminando por los pasadizos, pero de repente descubres un agujero a tus pies.
+Probablemente era un nido, pero no hay nada en su interior ahora mismo.
+Pasas con cuidado al lado del agujero para no molestar a lo que esté durmiendo ahí dentro.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Tras caer por el pozo de la planta superior, notas algo extraño a tu alrededor.
+Las señales en el barro y las marcas en los árboles te hacen pensar que es un nido de hormigas.
+Ten cuidado al adentrarte en las profundidades...
+Seguramente te encontrarás con hormigas que te querrán impedir el paso.
+Nada más dar unos pasos en esta nueva planta recuerdas algo...
+Te habían asignado una misión antes de adentrarte en esta zona.
+Lo mejor será volver a la sala de Radha con los mapas de las plantas -11 y -12.
+En las profundidades del bosque, vislumbras la sombra de alguien que se desvanece.
+Desde un arbusto cercano vigila todos y cada uno de tus movimientos.
+¿Quién anda en las profundidades del laberinto?...
+¿Quizá Ren y Tlachtga?
+Pero suelen ser más directas, nunca se esconderían en las sombras de esta manera...
+No sabes si acercarte a inspeccionar la sombra o no hacerle caso.
+<!color=0007>¿Quieres acercarte a la sombra? <!color=0000>
+Te acercas hacia la sombra, pero se esconde rápidamente entre la maleza.
+Decides que a partir de ahora prestarás más atención.
+Decides no hacer caso a la sombra.
+Supones que dentro de un rato perderá el interés en ti y se alejará.
+Olvidas la sombra y continúas tu camino.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Nada más llegar a esta nueva planta, te paras y haces memoria.
+Recuerdas que te encomendaron una misión en la sala de Radha acerca de unos seres extraños...
+Sería mejor aceptar esa misión antes de seguir explorando esta planta.
+Has obtenido un fragmento de cristal púrpura que emite una luz preciosa.
+Despide una luz cegadora y emite un tono débil, como si sintonizara con algo...
+Quizá sirva para desbloquear los cristales púrpura con hiedra que has visto en el laberinto.
+El malvado y terrible monstruo cae lentamente a tus pies.
+La sombra que había tras el monstruo, ya abatido, parece haber escapado.
+Pero allí donde estaba, hay una placa de piedra grabada con signos en un extraño lenguaje.
+Si es de la extraña sombra, será de gran ayuda.
+En la sala de Radha quizá sepan algo más...
+Al pasear por el azulado bosque, llegas a una puerta tras la cual presientes una terrible amenaza.
+Aun con la experiencia que tienes, es un enemigo terrible, más fuerte que cualquiera que hayas visto.
+¿Podrás hacer frente a lo que sea?
+¿Tienes valor suficiente?
+¡Si confías en tus habilidades, abre la puerta y ríndete al destino!
+Caminando por el bosque llegas hasta una arboleda que te impide el paso.
+En el árbol de enfrente hay un agujero en el que parece que puedes meter algún objeto.
+Recuerdas la placa de piedra que se le cayó a la chica del bosque tras matar al monstruo.
+Quizá quepa aquí...
+Decides volver al almacén de Radha para cogerla.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Al insertar la placa de piedra en el árbol, te envuelve una luz cegadora.
+Cuando recuperas la visión, te das cuenta de que delante de ti se ha abierto un sendero.
+Has llegado a un nuevo estrato.
+Ante ti se extiende un solitario y marchito bosque diferente a todo lo que has visto hasta ahora.
+Sería prudente volver al pueblo antes de investigar y explorar estos áridos terrenos...
+En la sala de Radha quizá te puedan dar información sobre la placa de piedra o la chica extraña.
+Explorando el desolado bosque de arenas movedizas, te encuentras de repente a una aventurera conocida.
+La chica pelirroja de ropajes negros se da cuenta de tu presencia y se gira lentamente hacia ti.
+«Guerreros de <!806E> , habéis llegado lejos...»
+Te preguntas cómo esta chica de grandes ojos y tímida voz ha llegado hasta aquí.
+Consideras la posibilidad de preguntarle al respecto o de dejar que siga a su aire.
+<!color=0007>¿Quieres preguntarle? <!color=0000>
+Le preguntas a la bruja Tlachtga qué la trae por estas áridas tierras arenosas.
+Como respuesta, la bruja se queda mirando a las arenas movedizas.
+«Os he estado esperando aquí.
+Paso el tiempo escuchando cómo discurre la arena...»
+La chica de pelo flamígero clava su mirada en ti, una mirada fija, poderosa y desconcertante.
+«Me preocupa Ren.
+Se centra demasiado en su pasado... y algún día eso la destrozará.
+Alguien ha de revelar los secretos del laberinto antes de que eso ocurra.»
+La chica saca en silencio la mano de su toga y te entrega una campana dorada.
+«Es la campana mágica de los míos.
+Espero que os sea de ayuda a partir de ahora.»
+La tímida chica te entrega la campana y, sin decir nada, se gira y sigue su camino.
+Te guardas la campana en el bolsillo mientras contemplas cómo se desvanece la bruja.
+Respondes a la silenciosa mirada de la bruja mirándola fijamente a los ojos.
+Se da cuenta de tu reticencia a hablar y fija la mirada en las arenas movedizas.
+«Os he estado esperando aquí.
+Paso el tiempo escuchando cómo discurre la arena...»
+La chica de pelo flamígero clava su mirada en ti, una mirada fija, poderosa y desconcertante.
+«Me preocupa Ren.
+Se centra demasiado en su pasado... y algún día eso la destrozará.
+Alguien ha de revelar los secretos del laberinto antes de que eso ocurra.»
+La chica saca en silencio la mano de su toga y te entrega una campana dorada.
+«Es la campana mágica de los míos.
+Espero que os sea de ayuda a partir de ahora.»
+La tímida chica te entrega la campana y, sin decir nada, se gira y sigue su camino.
+Te fijas bien en la arboleda y avistas un pequeño sendero entre los árboles.
+<!color=0007>¿Quieres adentrarte en este sendero? <!color=0000>
+Decides pasar de largo.
+Más allá del angosto sendero sientes un frío viento que sopla entre los resquicios de la arboleda.
+Parece que tras la arboleda hay un descampado, pero no puedes llegar hasta el otro lado.
+Más allá del angosto sendero sientes un frío viento que sopla entre los resquicios de la arboleda.
+¿No has estado aquí antes?...
+Seguro que antes no había un agujero como este...
+Seguramente encuentres más allá a un temible y feroz enemigo...
+Si deseas continuar, ten cuidado y sé prudente.
+<!color=0007>¿Quieres meterte por el agujero? <!color=0000>
+Al final del pasillo encuentras una bastísima área.
+Nada más entrar, el rugido de una bestia llega a tus oídos.
+De manera instintiva te preparas para luchar contra la gigantesca bestia que tienes enfrente.
+Esta terrible bestia tiene cuerpo de animal, la cola de un escorpión y una cara humana.
+Aletea sus dos enormes alas y fija su mirada asesina en ti.
+Miras a tu alrededor en busca de una posible ruta de escape, y sopesas si es buena idea combatir.
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+A duras penas podrás pasar por el resquicio que hay entre la arboleda.
+¿Quieres intentar seguir adelante?
+Sigues andando por el bosque hasta que te topas con una arboleda que te impide seguir.
+<!color=0007>¿Quieres intentar seguir adelante?
+Puedes ver un resquicio en la arboleda que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+En el árbol de enfrente se aprecian las marcas de las garras de una bestia.
+Parecen recientes...
+Puede que la bestia que las haya hecho esté cerca.
+Tiene que haber alguna bestia en este estrato con la que no te hayas topado.
+¡Sigue explorando, pero con mucha cautela!
+Aquí hay un punto de teletransporte.
+<!color=0007>¿Quieres teletransportarte? <!color=0000>
+Prefieres no usar el punto de teletransporte.
+Andando por el baldío bosque llegas a un lugar que irradia una misteriosa aura.
+Da la impresión de que el espacio se distorsiona más allá del agujero que hay en ese árbol.
+Si entras por el agujero, seguramente ocurra algo inesperado.
+<!color=0007>¿Quieres meterte en el agujero?
+En la densa arboleda que tienes enfrente hay un agujero por el que apenas cabe una persona.
+Le echas un vistazo por dentro, pero no pasa nada.
+Cuando abres los ojos, te das cuenta de que estás en un lugar lejano.
+Tras derrotar al pájaro guardián dorado, su brillo cesa y se desploma en el suelo.
+¡Por fin has vencido al pájaro guardián de los moradores del bosque!
+Mientras descansas tras la dura batalla, aparece la muchacha de piel pálida.
+¿Quieres mirarla a la cara?
+Intentas hablar con la chica, que parece haber perdido el conocimiento.
+La única respuesta que te da es un débil gemido.
+Puede que el cuerno de unicornio sea de utilidad ahora...
+Apartas la mirada del cuerpo de la chica del bosque.
+En un campo de batalla como este no hay nada que puedas hacer por ella.
+¿Quieres darle el cuerno de unicornio?
+Te acuerdas del cuerno de unicornio que obtuviste antes.
+Si la memoria no te falla, se dice que el cuerno tiene poderes que curan cualquier herida.
+Puede que consigas salvar la vida de la chica de tez pálida.
+Decides rayar el cuerno, y con esos polvos haces un brebaje curativo.
+Ahora solo queda confiar en la fuerza de la chica.
+Ya no puedes hacer nada más.
+Lo mejor es que sigas explorando el laberinto.
+Por desgracia, no llevas encima un cuerno de unicornio.
+Por mucho que lo desees, no puedes hacer nada por la pobre chica de tez pálida.
+Está tendida a tus pies y cada vez se debilita más.
+No puedes hacer nada más por ella, así que lo mejor será que sigas con tu aventura.
+Decides no usar el cuerno para curarla.
+Piensas que no vale la pena malgastar el cuerno en ella.
+Está tendida a tus pies y cada vez se debilita más.
+No puedes hacer nada más por ella, así que lo mejor será que sigas con tu aventura.
+¿Quieres continuar a través de la arboleda?
+Te encuentras frente a un agujero que lleva al siguiente estrato.
+A partir de aquí hay un nuevo estrato...
+Las profundidades del laberinto te aguardan.
+Pero antes tienes que ir a la sala de Radha para informarles de que has terminado la misión.
+Miras el mapa para ver cuál es el camino más rápido hasta el pueblo.
+Un misterioso cristal cubierto de hiedra bloquea el sendero...
+Parece ser que no puedes pasar.
+«¿Cómo un humano derrotado a Iwaopeln ha?...»
+La chica del bosque habla en murmullos mientras te mira fijamente con gesto ceñudo.
+La chica no puede hacer nada más, ya que sus guerreros y su guardián han caído derrotados.
+Sigue con la mirada fija en ti y continúa hablando.
+«Todo acabado ha... ya nada más hacer puedo.
+A las plantas inferiores podéis ir si así lo deseáis.
+Las escaleras al próximo estrato en una pequeña zona al norte están.
+Para a ellas llegar, un oculto sendero en la arboleda habéis de encontrar.»
+La chica mira hacia el suelo y se prepara para irse, despidiéndose de ti.
+«Hasta la vista, humanos.
+A vosotros nadie se opone ya, ni los míos, ni yo misma...»
+En unos segundos, la chica de tez pálida se funde con el resto del bosque.
+Has terminado la misión que te encomendaron en la sala de Radha.
+Puedes volver al pueblo o ir a buscar la pequeña zona de la que te ha hablado la chica.
+Al llegar al nuevo estrato, ves extraños y preciosos edificios por todos lados.
+¡Todo este mundo subterráneo está plagado de misteriosas estructuras!
+Con mirada atónita, contemplas este mundo nuevo.
+¿Cuál será el significado de todo esto?
+Con cautela, emprendes de nuevo tu camino.
+Mientras pasas entre los antiguos edificios, encuentras un extraño aparato.
+El artilugio de cristal y metal está instalado dentro de la pared, al fondo de la habitación.
+Ves a tu alcance una especie de botón o interruptor en el centro del artilugio.
+Piensas en qué podría ocurrir si encendieras un aparato desconocido en estas ruinas...
+<!color=0007>¿Quieres pulsar el botón? <!color=0000>
+Con el corazón latiendo a gran velocidad, pulsas el botón...
+El aparato emite un repentino y extraño ruido chirriante.
+El leve y espantoso ruido resuena en la habitación, y oyes que algo a lo lejos se mueve.
+Parece que has activado un aparato en algún lugar de las ruinas.
+¿Pero de qué se trata?
+Intentas imaginártelo y haces memoria de todo lo que has visto hasta ahora.
+Pero aunque no lo recuerdes, sabes que tarde o temprano lo averiguarás.
+Prefieres no tocar este antiguo y misterioso aparato...
+No tienes ganas de meterte en líos en las profundidades del laberinto.
+No tocas ningún botón del panel de control.
+El aparato misterioso sigue en el mismo sitio de antes.
+Nada ha cambiado desde que lo descubriste.
+Sopesas la posibilidad de encender este aparato extraño...
+En el suelo, a tus pies, encuentras una pequeña pieza metálica con forma de anj.
+No sabes si podría tener valor para alguien.
+Tocas el trozo metálico con el pie, pero como no pasa nada, decides irte.
+Te fijas en el camino que conecta los dos lados de las ruinas.
+En el centro del puente divisas dos figuras.
+Cuando estás lo suficientemente cerca, te das cuenta de que son Ren y Tlachtga.
+«Habéis llegado hasta aquí... pero es un lugar al que no deberían acceder los humanos.»
+Mientras Ren habla, puedes ver un gesto apenado en su rostro, por lo general severo.
+«Etria se nutre del constante flujo de aventureros que vienen a explorar el laberinto, ya lo sabéis...
+El pueblo prospera gracias al afán de la gente por descubrir los secretos del laberinto.
+¿Entendéis ahora?
+No podemos permitir que nadie descubra este secreto.
+La curiosidad está bien hasta un punto, pero los que saben dema- siado pueden ser un problema...
+Por ello, Radha nos ha ordenado que os eliminemos antes de que descubráis el secreto de Yggdrasil.»
+Tras decir esto, desenvaina la katana y adopta una postura de combate.
+«Admiramos vuestra habilidad... pero por el bienestar de Etria, no podéis salir vivos de este estrato.»
+La bruja pelirroja, Tlachtga, se pone al lado de Ren, lista para entablar combate.
+«Si Ren lo desea, pelearé hasta que no me queden fuerzas...»
+Un combate contra las dos resueltas guerreras parece inevitable.
+¡Sabiendo que es inútil hablar, empuñas tu arma y te preparas para la dura batalla!
+Aunque la habilidad de Ren con la katana y los hechizos de Tlachtga eran sorprendentes, has ganado.
+Ren y Tlachtga se sientan en el suelo, dolidas y exhaustas.
+«Visil...
+Hemos fallado.
+Estos aventureros son más fuertes que nosotras», murmulla Ren.
+«Nos habéis derrotado, guerreros.
+Continuad...
+Nosotras ya no nos opondremos a vosotros.
+Visil os estará esperando en la última planta.
+Él os contará la verdad acerca del laberinto, los moradores del bosque y nuestra misión...
+Supongo que no tendréis problemas en llegar hasta él.»
+Habiendo dicho esto, las dos guerreras, más cansadas aún, se desploman en el suelo.
+A pesar de su cansancio, siguen hablando.
+«Id, guerreros, no os preocupéis por nosotras.
+Tomad esto y continuad.»
+Ren te entrega una pequeña pieza metálica.
+«Seguid el camino que consideréis correcto...
+Os llevará a la meta que perseguís.»
+Levantándose a duras penas, se apoyan entre sí y se alejan lentamente.
+Parece que el final del laberinto está cerca.
+Con más ganas que nunca, sigues hacia delante.
+Cuando ambas se están alejando, Ren se da la vuelta y se acerca a ti.
+«Vuestra habilidad ha sido superior a la nuestra...
+Me interesa saber cuán fuertes os haréis.»
+Tras decir esto, Ren saca de entre sus pertenencias un antiguo pergamino.
+«Este es el pergamino secreto del camino del samurái, es para vosotros.»
+Tras darte el pergamino, Ren se gira y vuelve adonde está su compañera.
+Cuando ambas se están alejando, Tlachtga se da la vuelta y se te acerca.
+«Confío en vosotros.
+Sé que podéis resolver los misterios del laberinto.»
+Saca de debajo de su toga la mano, en la cual sostiene una campana mágica.
+«Es la campana maldita de los de mi clase.
+Espero que os sirva de ayuda en vuestra aventura.»
+La tímida chica te entrega la campana sin decir nada más y continúa su camino.
+Cuando ambas se están alejando, Ren se da la vuelta y se te acerca.
+«Vuestra habilidad ha sido superior a la nuestra...
+Me interesa saber cuán fuertes os haréis.»
+Tras decir esto, Ren saca de entre sus pertenencias un antiguo pergamino y una campana.
+«De parte de las dos...
+Esperamos que os sean de gran ayuda en vuestra aventura.»
+Tras entregarte el pergamino y la campana, Ren se gira y vuelve adonde está su compañera.
+Te despides de ellas y prosigues con tu aventura.
+Tras caminar por las antiguas ruinas, llegas a un enorme tronco que conecta dos edificios.
+El paisaje de frondosa vegetación y cielo abierto te relaja.
+Pero antes de que puedas descansar, presientes una amenaza no muy lejos.
+Te esfuerzas en intentar ver de quiénes son las dos figuras que están bloqueando el camino.
+Si sigues adelante, seguro que te espera una dura batalla sin precedentes.
+Echas un vistazo al camino de vuelta al pueblo...
+Has de confiar en tus habilidades si te vas a enfrentar a quien esté en el puente.
+Bajas las escaleras de las misteriosas ruinas...
+Llegas al último escalón y, tras dar unos pasos, una pared te bloquea el camino.
+Antes de darte la vuelta, ves en el suelo un papel amarillento, decolorado por el paso del tiempo.
+Apenas puedes descifrar las palabras escritas en el papel, que parece que va a deshacerse.
+Pones el papel a contraluz para poder ver mejor lo que está escrito...
+Subes las escaleras de las misteriosas ruinas...
+Llegas al último escalón y, tras dar unos pasos, una pared te bloquea el camino.
+Antes de darte la vuelta, ves en el suelo un papel amarillento, decolorado por el paso del tiempo.
+Apenas puedes distinguir las palabras escritas en el papel, que parece que van a desaparecer.
+«Nosotros... siete... la plantilla... inaugurado... salvar... la Tierra... destrucción...»
+Antes de que puedas descifrar el resto del mensaje, el papel se convierte en polvo...
+Debía de tratarse de una carta muy vieja.
+Como no hay nada más aquí que sea de tu interés, decides abandonar el lugar.
+En el suelo, a tus pies, encuentras una pequeña pieza metálica con forma de anj.
+No sabes si podría tener algún valor para alguien.
+Tocas el trozo metálico con el pie, pero como no pasa nada, decides irte.
+«Salvar... la Tierra... proyecto...
+Yggdr...
+Mujer esperando...
+Japón... tengo... continu... investiga...
+Por... bien de... humanidad...»
+Antes de que puedas leer el mensaje entero, el papel se convierte en polvo...
+Debía de tratarse de una carta muy vieja.
+Como no hay nada más aquí que sea de tu interés, decides abandonar este lugar.
+Bajas las escaleras de las misteriosas ruinas...
+Llegas al último escalón y, tras dar unos pasos, una pared te bloquea el camino.
+Antes de darte la vuelta, ves en el suelo un papel amarillento, decolorado por el paso del tiempo.
+Apenas puedes descifrar las palabras escritas en el papel, que parece que va a deshacerse. «...último... vivo... yo...
+Yggdrasil... atrapado en... vida... etern...
+Única preocupación...
+Visil... marido... abandonado... él..."
+Soledad... persona... es... cruel...»
+Antes de que puedas descifrar el resto del mensaje, el papel se convierte en polvo...
+Debía de tratarse de una carta muy vieja.
+Como no hay nada más aquí que sea de tu interés, decides abandonar el lugar.
+En el suelo, a tus pies, encuentras una pequeña pieza metálica con forma de anj.
+No sabes si podría tener valor para alguien.
+Tocas el trozo metálico con el pie, pero como no pasa nada, decides irte.
+Te fijas en el camino que conecta los dos lados de las ruinas.
+En el centro del puente divisas dos figuras.
+Cuando están lo suficientemente cerca, te das cuenta de que son Ren y Tlachtga.
+«Habéis llegado hasta aquí... pero es un lugar al que no deberían acceder los humanos.»
+Mientras Ren habla, puedes ver un gesto apenado en su rostro, por lo general severo.
+«Etria se nutre del constante flujo de aventureros que vienen a explorar el laberinto, ya lo sabéis...
+El pueblo prospera gracias al afán de la gente por descubrir los secretos del laberinto.
+¿Entendéis ahora?
+No podemos permitir que nadie descubra el secreto del bosque.
+La curiosidad está bien hasta un punto, pero los que saben mucho pueden llegar a ser un problema...
+Por ello, Radha nos ha ordenado que os eliminemos antes de que descubráis el secreto de Yggdrasil.»
+Tras decir esto, desenvaina la katana y adopta una postura de combate.
+«Admiramos vuestra habilidad... pero por el bienestar de Etria, no podéis salir vivos de este estrato.»
+La bruja pelirroja, Tlachtga, se pone al lado de Ren, lista para entablar combate.
+«Si Ren lo desea, pelearé hasta que no me queden fuerzas...»
+Un combate contra las dos resueltas guerreras parece inevitable.
+¡Sabiendo que es inútil hablar, empuñas el arma y te preparas para la dura batalla!
+Aunque la habilidad de Ren con la katana y los hechizos de Thlachtga eran sorprendentes, has ganado.
+Ren y Tlachtga caen al suelo, dolidas y exhaustas.
+«Visil...
+Hemos fallado.
+Estos aventureros son más fuertes que nosotras», murmulla Ren.
+«Nos habéis derrotado, guerreros.
+Continuad...
+Nosotras ya no nos opondremos a vosotros.
+Visil os estará esperando en la última planta.
+Él os contará la verdad acerca del laberinto, los moradores del bosque y nuestra misión...
+Supongo que no tendréis problemas en llegar hasta él.»
+Habiendo dicho esto, las dos guerreras, exhaustas, dejan caer sus cuerpos en el suelo.
+A pesar de su cansancio, siguen hablando.
+«Id, guerreros, no os preocupéis por nosotras.
+Tomad esto y continuad.» Ren te entrega una pequeña pieza metálica.
+«Seguid el camino que consideréis correcto...
+Os llevará a la meta que perseguís.»
+Levantándose a duras penas, se apoyan entre sí y se alejan lentamente.
+Parece que el final del laberinto está cerca.
+Con más ganas que nunca, sigues hacia delante.
+En el suelo, a tus pies, encuentras una pequeña pieza metálica con forma de anj.
+No sabes si podría tener valor para alguien.
+Tocas el trozo metálico con el pie, pero como no pasa nada, decides irte.
+Caminas por lo que parece ser la parte más profunda del laberinto, y te topas con una enorme puerta.
+Alargas la mano hacia el panel de control, pero te paras al oír una voz.
+¿Quieres preguntar qué hay más allá de la puerta?
+«¿Más allá de la puerta?...»
+El capitán suelta una carcajada y parece elegir con cuidado sus siguientes palabras.
+«La verdad sobre Yggdrasil...
+¿Seréis los primeros en descubrir el secreto del laberinto?»
+Su tono se vuelve más cortante, como de reproche por atreverte a preguntar.
+«Si queréis saber las cosas que yo sé, entonces atravesad la puerta sin más dilación.
+Pero si valoráis vuestra vida por encima de la verdad, no perdáis el tiempo.»
+El capitán se queda callado y desaparece tras la puerta que tienes delante.
+Vuelves a adentrarte en las profundidades y te encuentras al capitán delante de la puerta.
+«¿No estáis satisfechos?
+¿Aún tenéis curiosidad por conocer los secretos tras esta puerta?»
+El capitán finge una sonrisa mientras te responde.
+«La verdad sobre Yggdrasil...
+¿Seréis los primeros en ser testigos del secreto del laberinto?»
+Su tono se vuelve más cortante, como de reproche por atreverte a preguntar.
+«Si queréis saber las cosas que yo sé, entonces atravesad la puerta sin más dilación.
+Pero si valoráis vuestra vida por encima de la verdad, no perdáis el tiempo.»
+El capitán se queda callado y desaparece tras la puerta que tienes delante.
+«Suponía que no.
+No hay necesidad de que os preocupéis por estas cosas.»
+El capitán te mira con una sonrisa triunfante.
+«Habéis llegado tan lejos...
+Creo que no se puede pedir más a vuestro gremio.»
+Si quieres, puedes volver al pueblo, orgulloso de haber realizado tantos descubrimientos.
+«Si os atrevéis a entrar, preparaos para dar vuestras vidas a cambio del secreto.»
+Tras las palabras del capitán, la puerta se cierra firmemente.
+Tu corazón late con fuerza y piensas bien qué hacer.
+Aún tienes tiempo de volver al pueblo antes de atravesar la puerta en busca del capitán...
+Deliberas acerca de si tienes poder suficiente para hacer frente a lo que hay tras la puerta.
+Solo tú puedes tomar la decisión de atravesar la puerta en busca de la verdad.
+Sigues caminando entre los edifi- cios, y de repente ves una enre- dadera por la que podrías pasar.
+<!color=0007>¿Quieres continuar?
+Ves una pequeña grieta en la pared que tienes delante.
+Pero parece que no puedes pasar desde este lado.
+Exploras el pasillo que hay detrás de la sala donde luchaste contra Lord Yggdrasil...
+Aunque pensabas que ya había acabado todo, descubres un agujero grande en el suelo.
+Echas un vistazo a través de él, y te sorprendes al darte cuenta de que hay un estrato nuevo.
+¡Tu aventura no ha llegado a su fin!
+Te late el corazón rápidamente ante la perspectiva de explorar un nuevo estrato...
+Sacas la tarjeta con chip que te dieron las dos aventureras.
+Al acercarla a la puerta, se oye el ruido de una cerradura que se desbloquea.
+«Escuchad bien mis palabras antes de abrir esa puerta.»
+El capitán con el que tanto has hablado en la sala de Radha aparece con un gesto grave en su rostro.
+Se coloca entre la puerta y tú mientras habla.
+«Habéis mostrado gran valentía al vencer a guerreros de la raza del bosque, o a Ren y Tlachtga.
+La verdad es que nadie hasta ahora se ha adentrado tanto en el laberinto de Yggdrasil.
+Volved al pueblo, y me encargaré de que recibáis la fama y fortuna que os merecéis.»
+La promesa del capitán es tentadora, pero tu mirada sigue fija en la enorme puerta...
+Te ves en la disyuntiva de aceptar la oferta o descubrir la verdad tras la puerta.
+Aquí hay algo diferente a todo lo que te rodea.
+Esperas con ansia, pero parece que no ocurre nada.
+A partir de aquí no habrá vuelta atrás.
+¿Quieres continuar?
+<!color=0007>¿Quieres seguir hacia delante?
+A partir de aquí no habrá vuelta atrás.
+¿Quieres continuar?
+<!color=0007>¿Quieres seguir hacia delante?
+Aquí hay algo diferente a todo lo que te rodea.
+<!color=0007>¿Te atreves a entrar?
+Has llegado a las verdaderas profundidades del laberinto de Yggdrasil, unas terribles cavernas.
+Delante de ti encuentras un ser abominable nacido de la peor de las pesadillas.
+¡El monstruo que mora en estas cavernas sangrientas es el engendro más temible del laberinto!
+¡Empuñas tu arma y te preparas para hacer frente al mismísimo corazón del laberinto!
+Te encuentras en la última planta del laberinto, rodeado de siniestras paredes sangrientas...
+Te hallas ante una puerta que parece llevar a la zona más profunda del laberinto.
+La puerta tiene un sello con la cara de un dragón tallada.
+Cuando alargas la mano para tocar la puerta, una voz resuena en tu cabeza.
+«Solo los que hayan derrotado al monstruo más terrible del laberinto pueden atravesar esta puerta.
+Esa terrible bestia es... <!color=0006>el gran dragón<!color=0007>. Si os queréis enfrentar a este monstruo de las profundidades, ¡derrotad primero a su guardián!»
+La misteriosa voz desaparece de tu cabeza...
+Parece que aún no puedes pasar por esta puerta.
+Cuando alargas la mano para tocar la puerta, una voz resuena en tu cabeza.
+Esa terrible bestia es... <!color=0006>el majestuoso draco<!color=0007>.
+Si os queréis enfrentar a este monstruo de las profundidades, ¡derrotad primero a su guardián!»
+La misteriosa voz desaparece de tu cabeza...
+Parece que aún no puedes pasar por esta puerta.
+Cuando alargas la mano para tocar la puerta, una voz resuena en tu cabeza.
+«Solo los que hayan derrotado al monstruo más temible del laberinto pueden atravesar esta puerta.
+Esa temible bestia es... <!color=0006>Tiamat<!color=0007>. Si os queréis enfrentar a este monstruo de las profundidades, ¡derrotad primero a su guardián!»
+La misteriosa voz desaparece de tu cabeza...
+Parece que aún no puedes pasar por esta puerta.
+Cuando te acercas, el sello de la puerta desaparece lentamente.
+Nada te impide el paso, así que puedes continuar...
+Parece que puedes pasar a través de este muro empapado de sangre...
+Pero en cuanto te adentres en esta zona, no sabrás si podrás salir con vida.
+Reúnes el coraje para adentrarte en la zona más profunda del laberinto...

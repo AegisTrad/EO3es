@@ -1,0 +1,42 @@
+https://docs.google.com/spreadsheet/ccc?key=0Atv9BJziAsOkdFVrMnJ3WF9BYUR1RUdEZGtDZ3ctMnc
+
+[MSGH][00000034][000000a4]
+[EN]
+The treasure chest is locked.[LB]
+You doubt you'll be able to open[LB]
+it at the moment.[LB][END]
+[ES]
+El cofre del tesoro está cerrado.[LB]
+Parece que no podrás[LB]
+abrirlo de momento.[LB][END]
+
+[MSGH][00000008][000000bc]
+[EN]
+You find a small crack in the[LB]
+wall before you. A person could[LB]
+just about fit through here...[LB][END]
+[ES]
+Hay una pequeña brecha en la pared[LB]
+que hay ante ti. Es posible que una[LB]
+persona pudiera pasar...[LB][END]
+
+
+Hay un pequeño recoveco en[LB]
+la pared que ves ante ti. Es posible[LB]
+que alguien pueda atravesarlo...[LB][END]
+
+
+[MSGH][0000005b][000000ac]
+[EN]
+[COLOR][0300]A [COLOR][0500]new mission[COLOR][0300] has been issued.[LB]
+You may read the details from the[LB]
+Mission menu.[LB][END]
+[ES]
+[COLOR][0300]Se ha emitido una [COLOR][0500]nueva misión.[COLOR][0300].[LB]
+Lee los detalles desde el menú[LB]
+de Misiones.[LB][END]
+
+
+«Tras este camino hay corrientes[LB]
+que parecen ser vestigios de[LB]
+cuando este lugar estaba sumergido.[LB][PB]

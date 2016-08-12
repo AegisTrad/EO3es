@@ -1,0 +1,189 @@
+Más PV
+Más PT
+Más ataque
+Más defensa
+Hachas
+Espadas
+Doble golpe
+Extraer
+Carga brutal
+Grito infernal
+Liberar brazos
+Aplastacráneo
+Aturdidor
+Silenciador
+Tajo rápido
+Tornado
+Multicortes
+Corte flámeo
+Electrocorte
+Corte gélido
+Escapar
+Más PV
+Más PT
+Más agilidad
+Arcos
+Primer ataque
+Emboscada
+Talar
+Extraer
+Arrancar
+Primer turno
+Despistar
+Apresurar
+Disparo letal
+Multidisparos
+Inutilizar
+Alma de Apolo
+Camuflaje
+Escapar
+Cautela
+Sigilo
+Vista de lince
+Más PV
+Más PT
+Más defensa
+Escudos
+Aegis
+Autodefensa
+Extraer
+Provocar
+Def. frontal
+Def. trasera
+Esquivar
+Fortaleza
+Defensor
+Magullador
+Ignífugo
+Electrófugo
+Gelidófugo
+Cura
+Cura II
+Escapar
+Sigilo
+Más PV
+Más PT
+Más ataque
+Látigos
+Espadas
+Más moral
+Furia
+Arrancar
+Camuflaje
+Ataque Cobra
+Mordaza
+Esposas
+Grillete
+Éxtasis
+Golpe final
+Hipnosis
+Paralizador
+Petrificador
+Cebo
+Drenaje
+Espejismo
+Más PV
+Más PT
+Más ataque
+Katanas
+Golpe crítico
+Zatoichi
+Extraer
+Ibukigai
+Kesagiri
+Pose del cisne
+Zamba
+Midareba
+Orochi
+Seigan
+Mikiri
+Koteuchi
+Raizuki
+Iaidou
+Kubiuchi
+Gatotsu
+Hyosetsu
+Más PV
+Más PT
+Más ataque
+Sanador
+Tratamiento
+Buena suerte
+Regenerar PT
+Talar
+Cura
+Cura II
+Cura III
+Megacura
+Megacura II
+Resurrección
+Desatar
+Aura santa
+Def. mágica
+Caduceus
+RCP
+Regeneración
+Mano sanadora
+Más PT
+Arte de fuego
+Arte del hielo
+Arte del rayo
+Toxinas
+Buena suerte
+Regenerar PT
+Talar
+Llama
+Ardor
+Infierno
+Hielo
+Lluvia helada
+Congelatio
+Rayo
+Alto voltaje
+Ira de Thor
+Veneno
+Toxina
+Vista
+Magnetismo
+Más PV
+Más PT
+Balada
+Bendición
+Coraje
+Protección
+Premura
+Alma de fuego
+Alma de hielo
+Alma eléctrica
+Disipar
+Energía
+Ifrit
+Ymir
+Taranis
+Aura curativa
+Aura de relax
+Recuperación
+Sigilo
+Vuelta
+Arrancar
+Más PV
+Más PT
+Maldición
+Asombrar
+Extraer
+Debilitatio
+Fragilidad
+Lentitud
+Recaída
+Tormento
+Maniatado
+Inmobilizar
+Destello
+Sopor
+Condena
+Mirada maldita
+Suicidio
+Traición
+Parálisis
+Pesadilla
+Señuelo

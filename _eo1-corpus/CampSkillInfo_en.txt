@@ -1,0 +1,190 @@
+Increase maximum HP.
+Increase maximum TP.
+Increase physical damage in battle.
+Increase physical defense in battle.
+Increase axe damage. Needed to learn axe skills.
+Increase sword damage. Needed to learn sword skills.
+Normal weapon attacks have a chance of hitting twice.
+Mine for materials at item points.
+Increase attack power at the expense of defense.
+Abandon defense and stamina for greatly strengthened attacks.
+Regain the use of bound arms.
+A charging axe strike.
+An axe attack that puts the enemy off-balance.
+An axe skill with a chance of binding the enemy's head.
+A rushing sword slash.
+A whirling sword skill that strikes adjacent enemies.
+A sword skill that hits a group of enemies 2-4 times.
+Sword skill that follows fire magic with a flaming slash.
+Sword skill that follows volt magic with a shocking slash.
+Sword skill that follows ice magic with a freezing slash.
+Sacrifice HP to escape from battle to the previous floor.
+Increase maximum HP.
+Increase maximum TP.
+Act faster in battle.
+Increase bow damage. Needed to learn bow skills.
+Chance of acting first in the next turn, regardless of speed.
+Increase the chances of getting a preemptive attack.
+Chop wood for materials at item points.
+Mine for materials at item points.
+Gather plants for materials at item points.
+The targeted party member may act first in battle.
+Lower the enemy's accuracy with evasive footwork.
+Motivates the entire party to sprint, increasing their speed.
+A powerful, piercing bow skill.
+Fire two arrows at once, or three at high levels.
+Aim for the opponent's feet for a chance of binding its legs.
+This ultimate shot takes 3 turns for its full effect to be felt.
+Hide in the shadows so the enemy won't target you.
+Increase chances of escape. At high levels, it raises defense.
+Lessens the chances of enemy preemptive attacks.
+Cautious steps reduce the chances of enemy encounters.
+Track faraway FOEs with the Survivalist's keen senses.
+Increase maximum HP.
+Increase maximum TP.
+Increase physical defense in battle.
+Increase elemental defense. Needed to learn Shield skills.
+Preparedness for death makes it possible to survive with 1 HP.
+Chance of automatically blocking enemy attacks.
+Mine for materials at item points.
+Increase defense and divert the enemy's attention to you.
+Shield skill that may take damage in the front line's place.
+Shield skill that may take damage in the back line's place.
+Await the enemy's attack to parry it and negate the damage.
+Digs in for ironclad defense against physical damage.
+Organizes the party into a formation of increased defense.
+Shield skill that deals a powerful bash to the enemy.
+Shield skill that briefly raises the party's fire resistance.
+Shield skill that briefly raises the party's volt resistance.
+Shield skill that briefly raises the party's ice resistance.
+Protector skill that heals a small amount of HP.
+Protector skill that heals a medium amount of HP.
+Sacrifice HP to escape from battle to the previous floor.
+Cautious steps reduce the chances of enemy encounters.
+Increase maximum HP.
+Increase maximum TP.
+Increase physical damage in battle.
+Increase whip damage. Needed to learn whip skills.
+Increase sword damage. Needed to learn sword skills.
+Increases the improvement gained when boosted.
+Increase damage dealt when HP is low.
+Gather plants for materials at item points.
+Hide in the shadows so the enemy won't target you.
+Whip attack with a chance of poisoning the enemy.
+Whip attack with a chance of binding the enemy's head.
+Whip attack with a chance of binding the enemy's arms.
+Whip attack with a chance of binding the enemy's legs.
+Whip skill that does incredible damage to totally bound enemies.
+Whip skill that may kill and drain enemies with low HP.
+Sword stab with a chance of putting the enemy to sleep.
+Sword stab at the enemy's nerves with a chance of paralyzing it.
+Sword stab at the enemy's muscles with a chance of stoning.
+Sword skill that uses comrades on either side to bait a trap.
+Sword stab that drains the enemy's HP through the blade.
+Sword stab at the enemy's skull with a chance of confusing it.
+Increase maximum HP.
+Increase maximum TP.
+Increase physical damage in battle.
+Increase katana damage. Needed to learn katana skills.
+Increase chances of critical attacks.
+Increase attack damage at night or when blinded.
+Mine for materials at item points.
+Heal HP by taking a deep breath.
+Katana skill of stepping forward while slicing.
+Temporary Overhead stance that increases attack and defense.
+Strong katana slice from the Overhead stance.
+Repeated katana slashes from the Overhead stance.
+Execute a fire katana strike from the Overhead stance.
+Temporary Seigan stance that increases attack and defense.
+Deflect an enemy attack with a katana from the Seigan stance.
+Immobilize an enemy's arms with a katana from the Seigan stance.
+Execute a volt katana strike from the Seigan stance.
+Temporary katana stance that increases speed.
+Chance of an instant katana kill from the Iaidou stance.
+Extremely powerful, lightning-quick katana stab.
+Execute an ice katana strike from the Iaidou stance.
+Increase maximum HP.
+Increase maximum TP.
+Increase physical damage in battle.
+Increase healing effectiveness. Needed to learn healing magic.
+Small healing after battles with no TP cost.
+Increase chances of the enemy dropping an item.
+Restores a small amount of TP after every turn in battle.
+Chop wood for materials at item points.
+Restores a small amount of HP.
+Restores a medium amount of HP.
+Restores full HP.
+Restores a small amount of HP to the entire party.
+Restores a medium amount of HP to the entire party.
+Bring the dead back to life.
+Removes bindings from one party member.
+Removes status ailments from the entire party.
+Confers resistance to all elements on the party.
+A heavy staff attack with a chance of stunning the enemy.
+Chance that party members will survive mortal blows with 1 HP.
+Restores a small amount of HP to one party member each turn.
+Heals up to a certain amount of total HP outside of battle.
+Increase maximum TP.
+Increase fire damage. Needed to learn fire skills.
+Increase ice damage. Needed to learn ice skills.
+Increase volt damage. Needed to learn volt skills.
+Increase poison damage. Needed to learn poison skills.
+Increase chances of the enemy dropping an item.
+Restores a small amount of TP after every turn in battle.
+Chop wood for materials at item points.
+Conjure forth fire to attack the enemy.
+Conjure forth flame to attack the enemy.
+Conjure forth an inferno to attack the enemy.
+Conjure forth ice to attack the enemy.
+Conjure forth icicles to attack the enemy.
+Conjure forth a blizzard to attack the enemy.
+Conjure forth voltage to attack the enemy.
+Conjure forth lightning to attack the enemy.
+Conjure forth divine thunder to attack the enemy.
+Transmutation of an enemy's blood to poison.
+Transmutation of all enemies' blood to poison.
+Conjure sight to see all FOEs on the map.
+Conjure a warp to the last visited Geomagnetic Field.
+Increase maximum HP.
+Increase maximum TP.
+Needed to learn songs.
+Increase experience gain for the entire party.
+Pulsing beat that increases the party's strength.
+Triumphant anthem that increases the party's defense.
+High-tempo piece that increases the party's speed.
+Song that imbues a party member's weapon with fire.
+Song that imbues a party member's weapon with ice.
+Song that imbues a party member's weapon with voltage.
+A startling song that erases the enemy's status benefits.
+Tribal rhythm that increases the party's maximum HP.
+Party's fire resistance raised while the enemy's decreases.
+Party's ice resistance raised while the enemy's decreases.
+Party's volt resistance raised while the enemy's decreases.
+A healing song recovers party HP by a small amount each turn.
+A relaxing song recovers party TP by a small amount each turn.
+Blessed aria that recovers party status ailments more quickly.
+Cautious steps reduce the chances of enemy encounters.
+Nostalgic tune that takes you back to the previous floor.
+Gather plants for materials at item points.
+Increase maximum HP.
+Increase maximum TP.
+Needed to learn curses.
+Chance of stunning the enemies at the beginning of battle.
+Mine for materials at item points.
+Curse that decreases all enemies' strength.
+Curse that decreases all enemies' defense.
+Curse that decreases all enemies' speed.
+Curse that decreases enemies' recovery from status ailments.
+Curse with a chance of binding an enemy's head.
+Curse with a chance of binding an enemy's arms.
+Curse with a chance of binding an enemy's legs.
+Curse with a chance of blinding all enemies.
+Curse with a chance of putting all enemies to sleep.
+Curse with a chance of giving all enemies cursed status.
+Evil gaze that has a chance of terrifying the enemy.
+Commands a terrified enemy to take its own life.
+Commands a terrified enemy to attack its own comrades.
+Commands a terrified enemy to remain motionless.
+Curse that deals damage to an enemy when struck.
+Curses the party to encounter more enemies.
+

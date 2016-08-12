@@ -1,0 +1,2398 @@
+[HEAD][00008a9e][00000111]
+
+[MSGH][00000000][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000001][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000002][00000032]
+[EN]
+Raises your maximum HP.[LB][END]
+[ES]
+Aumenta tus PV máximos.[LB][END]
+
+
+[MSGH][00000003][00000034]
+[EN]
+Raises your maximum TP. [LB][END]
+[ES]
+Aumenta tus PT máximos. [LB][END]
+
+
+[MSGH][00000004][0000007c]
+[EN]
+Recovers one ally's HP. Can only[LB]
+be used from the main menu.[LB][END]
+[ES]
+Recupera PV de un aliado. Solo[LB]
+puede usarse en el menú principal.[LB][END]
+
+
+[MSGH][00000005][0000008c]
+[EN]
+Listen to the stories of veterans[LB]
+to gain their valuable experience.[LB][END]
+[ES]
+Escuchar las hazañas de los veteranos[LB]
+para recibir su valiosa experiencia.[LB][END]
+
+
+[MSGH][00000006][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000007][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000008][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000009][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000000a][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000000b][00000048]
+[EN]
+Cut down flora at chopping points.[LB][END]
+[ES]
+Cortar la flora en puntos de poda.[LB][END]
+
+
+[MSGH][0000000c][0000003a]
+[EN]
+Mine ores at mining points.[LB][END]
+[ES]
+Picar en puntos de minado.[LB][END]
+
+
+[MSGH][0000000d][00000044]
+[EN]
+Pick plants at gathering points.[LB][END]
+[ES]
+Recoger plantas en puntos de cosecha.[LB][END]
+
+
+[MSGH][0000000e][00000086]
+[EN]
+This royalty skill regains TP with[LB]
+each new enhancement received.[LB][END]
+[ES]
+Esta habilidad de la realeza recupera[LB]
+PT con cada mejora recibida.[LB][END]
+
+
+[MSGH][0000000f][0000007c]
+[EN]
+Recover HP with each step by[LB]
+singing gallant military songs.[LB][END]
+[ES]
+Recupera PV con cada paso con[LB]
+canciones nobles militares.[LB][END]
+
+
+[MSGH][00000010][00000086]
+[EN]
+All allies will recover HP if[LB]
+your HP is maxed at the turn's end.[LB][END]
+[ES]
+Todos los aliados recuperan PV si[LB]
+tus PV están llenos al final del turno.[LB][END]
+
+
+[MSGH][00000011][0000008e]
+[EN]
+All allies will recover HP if you[LB]
+are alive at the end of the battle.[LB][END]
+[ES]
+Todos los aliados recuperan PV si[LB]
+sigues vivo al final del combate.[LB][END]
+
+
+[MSGH][00000012][0000008c]
+[EN]
+After casting an enhancement spell[LB]
+on an ally, they will recover HP.[LB][END]
+[ES]
+Tras conjurar un hechizo de mejora[LB]
+en un aliado, el mismo recupera PV.[LB][END]
+
+
+[MSGH][00000013][0000007e]
+[EN]
+Your TP will recover when an[LB]
+enhancement spell's effect ends.[LB][END]
+[ES]
+Recuperas PT cuando acabe el[LB]
+efecto de un hechizo de mejora.[LB][END]
+
+
+[MSGH][00000014][00000088]
+[EN]
+One row of allies' attack power[LB]
+will be increased for three turns.[LB][END]
+[ES]
+El ataque de una fila de aliados[LB]
+mejora durante tres turnos.[LB][END]
+
+
+[MSGH][00000015][0000007e]
+[EN]
+One row of allies' defense will[LB]
+be increased for three turns.[LB][END]
+[ES]
+La defensa de una fila de aliados[LB]
+mejora durante tres turnos.[LB][END]
+
+
+[MSGH][00000016][0000007e]
+[EN]
+One row of allies will gain[LB]
+increased max HP for three turns.[LB][END]
+[ES]
+Los PV máximos de una fila de aliados[LB]
+mejoran durante tres turnos.[LB][END]
+
+
+[MSGH][00000017][00000080]
+[EN]
+Dispel all enhancement spells on[LB]
+one ally to recover their HP.[LB][END]
+[ES]
+Disipa los hechizos de mejora de[LB]
+un aliado para recuperar PV.[LB][END]
+
+
+[MSGH][00000018][00000078]
+[EN]
+Dispel all stat decreases on one[LB]
+row and recover their TP.[LB][END]
+[ES]
+Disipa las disminuciones de estadísticas[LB]
+de una fila y recupera PT.[LB][END]
+
+
+[MSGH][00000019][00000086]
+[EN]
+Dispel all enhancements on one[LB]
+enemy, deals non-elemental damage.[LB][END]
+[ES]
+Disipa los hechizos de mejora de[LB]
+un enemigo e inflige daño no elemental.[LB][END]
+
+
+[MSGH][0000001a][0000006c]
+[EN]
+Enchant one ally's weapon with[LB]
+fire for three turns.[LB][END]
+[ES]
+Hechiza el arma de un aliado[LB]
+con fuego durante tres turnos.[LB][END]
+
+
+[MSGH][0000001b][0000006a]
+[EN]
+Enchant one ally's weapon with[LB]
+ice for three turns.[LB][END]
+[ES]
+Hechiza el arma de un aliado[LB]
+con hielo durante tres turnos.[LB][END]
+
+
+[MSGH][0000001c][00000072]
+[EN]
+Enchant one ally's weapon with[LB]
+voltage for three turns.[LB][END]
+[ES]
+Hechiza el arma de un aliado[LB]
+con electricidad durante tres turnos.[LB][END]
+
+
+[MSGH][0000001d][00000080]
+[EN]
+Dispels a weapon's enchantments to[LB]
+deal damage to all enemies.[LB][END]
+[ES]
+Disipa el hechizo de un arma para[LB]
+infligir daño a todos los enemigos.[LB][END]
+
+
+[MSGH][0000001e][0000007a]
+[EN]
+One row of allies will gain[LB]
+ailment protection for 3 turns.[LB][END]
+[ES]
+Una fila de aliados es inmune[LB]
+a las enfermedades durante 3 turnos.[LB][END]
+
+
+[MSGH][0000001f][00000086]
+[EN]
+For three turns, one row of allies[LB]
+will gain HP when a turn ends.[LB][END]
+[ES]
+Durante 3 turnos, una fila de aliados[LB]
+recupera PV cuando acabe el turno.[LB][END]
+
+
+[MSGH][00000020][0000005c]
+[EN]
+The specified ally will act first[LB]
+this turn.[LB][END]
+[ES]
+El aliado seleccionado actuará[LB]
+en primer lugar en este turno.[LB][END]
+
+
+[MSGH][00000021][00000078]
+[EN]
+A skill for gladiators that raises[LB]
+physical attack power. [LB][END]
+[ES]
+Una habilidad de gladiadores que[LB]
+potencia el ataque físico. [LB][END]
+
+
+[MSGH][00000022][00000082]
+[EN]
+Prerequisite for katana skills[LB]
+that raises katana damage dealt.[LB][END]
+[ES]
+Prerrequisito de habilidades de katana[LB]
+que aumenta el daño infligido con ellas.[LB][END]
+
+
+[MSGH][00000023][0000007a]
+[EN]
+Prerequisite for club skills[LB]
+that raises club damage dealt.[LB][END]
+[ES]
+Prerrequisito de habilidades de porra[LB]
+que aumenta el daño infligido con ellas.[LB][END]
+
+
+[MSGH][00000024][00000054]
+[EN]
+Recover HP whenever an ally is[LB]
+defeated.[LB][END]
+[ES]
+Recupera PV cuando un aliado[LB]
+cae en combate.[LB][END]
+
+
+[MSGH][00000025][0000005e]
+[EN]
+May inflict stun damage with a[LB]
+normal attack.[LB][END]
+[ES]
+Un ataque normal puede[LB]
+aturdir.[LB][END]
+
+
+[MSGH][00000026][00000074]
+[EN]
+Attack skills may cause splash[LB]
+damage to nearby enemies.[LB][END]
+[ES]
+Las habilidades de ataque pueden[LB]
+salpicar a los enemigos cercanos.[LB][END]
+
+
+[MSGH][00000027][00000082]
+[EN]
+Use one turn to increase damage[LB]
+on the following turn's attack.[LB][END]
+[ES]
+Emplea un turno para aumentar[LB]
+el ataque del turno siguiente.[LB][END]
+
+
+[MSGH][00000028][0000007c]
+[EN]
+Sacrifice HP to raise physical[LB]
+attack power for three turns.[LB][END]
+[ES]
+Sacrifica PV para aumentar la[LB]
+fuerza de ataque durante 3 turnos.[LB][END]
+
+
+[MSGH][00000029][0000008a]
+[EN]
+Decrease enemy defense for four[LB]
+turns. Stacks with status ailments.[LB][END]
+[ES]
+Disminuye la defensa del enemigo durante[LB]
+4 turnos. Se acumula a las enfermedades.[LB][END]
+
+
+[MSGH][0000002a][00000074]
+[EN]
+Through meditation, nullify[LB]
+status ailments for 3 turns.[LB][END]
+[ES]
+A través de la meditación se anulan[LB]
+las enfermedades durante 3 turnos.[LB][END]
+
+
+[MSGH][0000002b][00000074]
+[EN]
+Sword: A slashing attack brought[LB]
+down on a single enemy.[LB][END]
+[ES]
+Espada: Ataque cortante[LB]
+sobre un enemigo.[LB][END]
+
+
+[MSGH][0000002c][00000070]
+[EN]
+Sword: Flank the enemy and slash[LB]
+them apart at random.[LB][END]
+[ES]
+Espada: Flanquea a los enemigos[LB]
+y los corta aleatoriamente.[LB][END]
+
+
+[MSGH][0000002d][00000092]
+[EN]
+Sword: A strong slash at one enemy,[LB]
+made more effective if it is bound.[LB][END]
+[ES]
+Espada: Fuerte ataque cortante a un[LB]
+enemigo; efectivo si está atado.[LB][END]
+
+
+[MSGH][0000002e][00000086]
+[EN]
+Sword: Swing violently behind enemy[LB]
+lines, slashing all enemies. [LB][END]
+[ES]
+Espada: Oscila violentamente tras las[LB]
+líneas enemigas y los escinde.[LB][END]
+
+
+[MSGH][0000002f][00000052]
+[EN]
+Sword: Rapid slashes at random[LB]
+enemies.[LB][END]
+[ES]
+Espada: Cortes rápidos a enemigos[LB]
+aleatorios.[LB][END]
+
+
+[MSGH][00000030][00000092]
+[EN]
+Club: A strike attack that smashes[LB]
+enemy brains. May inflict confusion.[LB][END]
+[ES]
+Porra: Impacto que aplasta el cerebro[LB]
+de los enemigos. Puede confundir.[LB][END]
+
+
+[MSGH][00000031][0000008e]
+[EN]
+Club: A strike attack that smashes[LB]
+enemy arms. May inflict arm bind. [LB][END]
+[ES]
+Porra: Impacto que aplasta los brazos[LB]
+de los enemigos. Puede [LB][END]
+
+
+[MSGH][00000032][00000082]
+[EN]
+Club: A strike attack that smashes[LB]
+enemies with an ice element.[LB][END]
+[ES]
+Porra: Impacto que aplasta a los[LB]
+enemigos con hielo.[LB][END]
+
+
+[MSGH][00000033][0000008c]
+[EN]
+Club: A strike attack that wallops[LB]
+one enemy quickly and repeatedly.[LB][END]
+[ES]
+Porra: Impacto que sacude a un[LB]
+enemigo rápida y repetidamente.[LB][END]
+
+
+[MSGH][00000034][0000006a]
+[EN]
+A hoplite skill that reduces[LB]
+physical damage taken.[LB][END]
+[ES]
+Habilidad de hoplita que reduce[LB]
+el daño físico recibido.[LB][END]
+
+
+[MSGH][00000035][0000007e]
+[EN]
+Prerequisite for spear skills[LB]
+that raises spear damage dealt.[LB][END]
+[ES]
+Prerrequisito de habilidades de[LB]
+lanza que aumenta el daño.[LB][END]
+
+
+[MSGH][00000036][00000086]
+[EN]
+Prerequisite for shield skills[LB]
+that raises defense when equipped.[LB][END]
+[ES]
+Prerrequisito de habilidades de[LB]
+escudo que aumenta la defensa.[LB][END]
+
+
+[MSGH][00000037][00000068]
+[EN]
+A skill that may nullify physical[LB]
+damage received.[LB][END]
+[ES]
+Habilidad que puede anular el[LB]
+daño físico recibido.[LB][END]
+
+
+[MSGH][00000038][00000076]
+[EN]
+A skill that may nullify damage[LB]
+of an elemental affinity.[LB][END]
+[ES]
+Habilidad que puede anular el[LB]
+daño de una afinidad elemental.[LB][END]
+
+
+[MSGH][00000039][0000003a]
+[EN]
+Recover HP while defending.[LB][END]
+[ES]
+Recupera PV mientras defiendes.[LB][END]
+
+
+[MSGH][0000003a][00000082]
+[EN]
+Sacrifice HP to lower physical[LB]
+damage received for three turns.[LB][END]
+[ES]
+Sacrifica PV para reducir el daño[LB]
+físico durante tres turnos.[LB][END]
+
+
+[MSGH][0000003b][00000086]
+[EN]
+Shield the party by drawing all[LB]
+enemy attacks to you for 3 turns.[LB][END]
+[ES]
+Escuda al grupo y atrae todos los[LB]
+ataques durante 3 turnos.[LB][END]
+
+
+[MSGH][0000003c][0000005c]
+[EN]
+Cure status effects and binds from[LB]
+yourself.[LB][END]
+[ES]
+Cura enfermedades y ataduras[LB]
+de quien lo usa.[LB][END]
+
+
+[MSGH][0000003d][00000074]
+[EN]
+Spear: Change rows to do a piercing[LB]
+attack on one enemy.[LB][END]
+[ES]
+Lanza: Cambia filas para infligir un[LB]
+ataque perforador a un enemigo[LB][END]
+
+
+[MSGH][0000003e][00000070]
+[EN]
+Spear: A quick, volt-based pierce[LB]
+attack on one enemy.[LB][END]
+[ES]
+Lanza: Ataque rápido y perforador[LB]
+eléctrico a un enemigo.[LB][END]
+
+
+[MSGH][0000003f][0000008e]
+[EN]
+Spear: A thrust attack that pierces[LB]
+enemies. Best used from the back.[LB][END]
+[ES]
+Lanza: Estocada que atraviesa a los[LB]
+enemigos. Se emplea mejor desde atrás.[LB][END]
+
+
+[MSGH][00000040][0000008c]
+[EN]
+Shield: Lower damage for one row,[LB]
+especially if you are in that row.[LB][END]
+[ES]
+Escudo: Reduce el daño de una fila,[LB]
+sobre todo si estás en esa misma fila.[LB][END]
+
+
+[MSGH][00000041][0000006c]
+[EN]
+Shield: Reduces fire damage[LB]
+sustained by all allies.[LB][END]
+[ES]
+Escudo: Reduce el daño elemental de[LB]
+fuego que reciben todos los aliados.[LB][END]
+
+
+[MSGH][00000042][0000006a]
+[EN]
+Shield: Reduces ice damage[LB]
+sustained by all allies.[LB][END]
+[ES]
+Escudo: Reduce el daño elemental de[LB]
+hielo que reciben todos los aliados.[LB][END]
+
+
+[MSGH][00000043][0000006c]
+[EN]
+Shield: Reduces volt damage[LB]
+sustained by all allies.[LB][END]
+[ES]
+Escudo: Reduce el daño elemental de[LB]
+electricidad que reciben todo slos aliados.[LB][END]
+
+
+[MSGH][00000044][0000006e]
+[EN]
+Shield: Take damage in one ally's[LB]
+place for one turn.[LB][END]
+[ES]
+Escudo: Recibe daño en lugar de un[LB]
+aliado durante un turno.[LB][END]
+
+
+[MSGH][00000045][0000008a]
+[EN]
+Shield: Attacks on an ally that[LB]
+exceed your HP are void for 1 turn.[LB][END]
+[ES]
+Escudo: Los ataques en un aliado que[LB]
+supera tus PV se evitan durante 1 turno.[LB][END]
+
+
+[MSGH][00000046][0000008c]
+[EN]
+Heightened caution will lower the[LB]
+encounter rate for a short period.[LB][END]
+[ES]
+Al mantenerte alerta se reduce el índice[LB]
+de encuentros durante un tiempo.[LB][END]
+
+
+[MSGH][00000047][0000007c]
+[EN]
+A buccaneer skill that recovers TP[LB]
+when using attack skills.[LB][END]
+[ES]
+Habilidad de bucanero que recupera PT[LB]
+al usar habilidades de ataque.[LB][END]
+
+
+[MSGH][00000048][00000082]
+[EN]
+Prerequisite for rapier skills[LB]
+that raises rapier damage dealt.[LB][END]
+[ES]
+Prerrequisito para habilidades de[LB]
+estoque que aumenta el daño infligido.[LB][END]
+
+
+[MSGH][00000049][00000076]
+[EN]
+Prerequisite for gun skills[LB]
+that raises gun damage dealt.[LB][END]
+[ES]
+Prerrequisito para habilidades de[LB]
+pistola que aumenta el daño infligido.[LB][END]
+
+
+[MSGH][0000004a][00000056]
+[EN]
+Normal attacks may strike multiple[LB]
+times.[LB][END]
+[ES]
+Los ataques normales pueden golpear[LB]
+varias veces.[LB][END]
+
+
+[MSGH][0000004b][0000007a]
+[EN]
+Normal attacks have a higher[LB]
+probability of being critical.[LB][END]
+[ES]
+Los ataques normales tienen más[LB]
+probabilidades de ser críticos.[LB][END]
+
+
+[MSGH][0000004c][0000004e]
+[EN]
+The limit gauge will increase[LB]
+faster.[LB][END]
+[ES]
+La barra de límite aumenta[LB]
+con mayor velocidad.[LB][END]
+
+
+[MSGH][0000004d][0000006e]
+[EN]
+Lowers one enemy's physical defense[LB]
+for three turns. [LB][END]
+[ES]
+Reduce la defensa física de un enemigo[LB]
+durante tres turnos. [LB][END]
+
+
+[MSGH][0000004e][0000008e]
+[EN]
+Gun: Random pierce damage done to[LB]
+all enemies at the start of a turn.[LB][END]
+[ES]
+Pistola: Ataque perforador aleatorio a[LB]
+todos los enemigos al empezar el turno.[LB][END]
+
+
+[MSGH][0000004f][00000086]
+[EN]
+Gun: A piercing attack that fires[LB]
+3 bullets at once at one enemy.[LB][END]
+[ES]
+Pistola: Ataque perforador que dispara[LB]
+3 balas simultáneas a un enemigo.[LB][END]
+
+
+[MSGH][00000050][0000007a]
+[EN]
+Gun: Follow-up an ally's fire-[LB]
+based attack with a gunshot.[LB][END]
+[ES]
+Pistola: Continúa un ataque de fuego[LB]
+de un aliado con un disparo de bala.[LB][END]
+
+
+[MSGH][00000051][00000078]
+[EN]
+Gun: Follow-up an ally's ice-[LB]
+based attack with a gunshot.[LB][END]
+[ES]
+Pistola: Continúa un ataque de hielo[LB]
+de un aliado con un disparo de bala.[LB][END]
+
+
+[MSGH][00000052][0000007a]
+[EN]
+Gun: Follow-up an ally's volt-[LB]
+based attack with a gunshot.[LB][END]
+[ES]
+Pistola: Continúa un ataque eléctrico[LB]
+de un aliado con un disparo de bala.[LB][END]
+
+
+[MSGH][00000053][00000066]
+[EN]
+Rapier: A pierce attack that may[LB]
+blind the enemy.[LB][END]
+[ES]
+Estoque: Ataque perforador que puede[LB]
+cegar al enemigo.[LB][END]
+
+
+[MSGH][00000054][00000072]
+[EN]
+Rapier: A pierce attack that may[LB]
+bind the enemy's head.[LB][END]
+[ES]
+Estoque: Ataque perforador que puede[LB]
+atar la cabeza de enemigo.[LB][END]
+
+
+[MSGH][00000055][0000007e]
+[EN]
+Rapier: Perform a follow-up attack[LB]
+to an ally's slash attack.[LB][END]
+[ES]
+Estoque: Continúa el ataque cortante[LB]
+de un aliado con otro ataque.[LB][END]
+
+
+[MSGH][00000056][00000080]
+[EN]
+Rapier: Perform a follow-up attack[LB]
+to an ally's strike attack.[LB][END]
+[ES]
+Estoque: Continúa el ataque de impacto[LB]
+de un aliado con otro ataque.[LB][END]
+
+
+[MSGH][00000057][00000080]
+[EN]
+Rapier: Perform a follow-up attack[LB]
+to an ally's pierce attack.[LB][END]
+[ES]
+Estoque: Continúa el ataque perforador[LB]
+de un aliado con otro ataque.[LB][END]
+
+
+[MSGH][00000058][00000084]
+[EN]
+Rapier/Gun: Random pierce attacks[LB]
+boosted by the user's agility.[LB][END]
+[ES]
+Estoque/Pistola: Ataques perforadores[LB]
+aleatorios basados en la agilidad.[LB][END]
+
+
+[MSGH][00000059][00000048]
+[EN]
+Raises the encounter rate briefly.[LB][END]
+[ES]
+Aumenta el índice de encuentros brevemente.[LB][END]
+
+
+[MSGH][0000005a][00000088]
+[EN]
+Ninja skill that reduces TP used.[LB]
+No attack penalty from back row.[LB][END]
+[ES]
+Habilidad ninja que reduce el uso de PT.[LB]
+No se penaliza el ataque desde atrás.[LB][END]
+
+
+[MSGH][0000005b][00000048]
+[EN]
+Normal attacks may be fatal blows.[LB][END]
+[ES]
+Los ataques normales pueden ser mortales.[LB][END]
+
+
+[MSGH][0000005c][00000040]
+[EN]
+Increases the ninja's evasion.[LB][END]
+[ES]
+Aumenta la evasión del ninja.[LB][END]
+
+
+[MSGH][0000005d][00000060]
+[EN]
+Recover TP after successfully[LB]
+evading attacks.[LB][END]
+[ES]
+Recupera PT tras esquivar ataques[LB]
+satisfactoriamente.[LB][END]
+
+
+[MSGH][0000005e][00000072]
+[EN]
+Once per battle, launch a fire[LB]
+attack upon being KO'ed.[LB][END]
+[ES]
+Ejecuta un ataque de fuego una vez[LB]
+por batalla tras caer en combate.[LB][END]
+
+
+[MSGH][0000005f][0000007e]
+[EN]
+Prerequisite for knife skills[LB]
+that raises knife damage dealt.[LB][END]
+[ES]
+Prerrequisito para habilidades de[LB]
+cuchillo que aumenta el daño infligido.[LB][END]
+
+
+[MSGH][00000060][00000084]
+[EN]
+May spread a status ailment from[LB]
+one enemy to all other enemies.[LB][END]
+[ES]
+Puede salpicar la enfermedad de un[LB]
+enemigo al resto de enemigos.[LB][END]
+
+
+[MSGH][00000061][00000062]
+[EN]
+Makes monsters target one ally[LB]
+for three turns.[LB][END]
+[ES]
+Fuerza a que los monstruos dirijan[LB]
+sus ataques a otro aliado durante 3 turnos.[LB][END]
+
+
+[MSGH][00000062][0000007e]
+[EN]
+Sacrifice HP for a significant[LB]
+evasion boost for three turns.[LB][END]
+[ES]
+Sacrifica PV para aumentar la evasión[LB]
+considerablemente durante 3 turnos.[LB][END]
+
+
+[MSGH][00000063][00000088]
+[EN]
+Use half your HP and TP to create[LB]
+a copy of yourself in the party.[LB][END]
+[ES]
+Emplea la mitad de tus PV y PT para crear[LB]
+una copia del personaje en el equipo.[LB][END]
+
+
+[MSGH][00000064][00000084]
+[EN]
+Counters attacks to the target row[LB]
+with a slash that may poison.[LB][END]
+[ES]
+Contraataca a la fila del objetivo[LB]
+con un corte que puede envenenar.[LB][END]
+
+
+[MSGH][00000065][0000007e]
+[EN]
+Create a shadow of yourself in[LB]
+an empty slot to draw attacks.[LB][END]
+[ES]
+Crea una sombra del personaje en un[LB]
+hueco para redirigir los ataques.[LB][END]
+
+
+[MSGH][00000066][00000086]
+[EN]
+High probability to nullify enemy[LB]
+physical attacks for this turn.[LB][END]
+[ES]
+Alta probabilidad de anular los ataques[LB]
+físicos del enemigo en este turno.[LB][END]
+
+
+[MSGH][00000067][00000074]
+[EN]
+Piercing attack that may inflict[LB]
+sleep on three enemies.[LB][END]
+[ES]
+Ataque perforador que puede[LB]
+dormir a tres enemigos.[LB][END]
+
+
+[MSGH][00000068][00000082]
+[EN]
+Knife: Slash attack causing leg[LB]
+bind by stitching their shadow.[LB][END]
+[ES]
+Cuchillo: Ataque cortante que ata las[LB]
+piernas del enemigo al coser su sombra.[LB][END]
+
+
+[MSGH][00000069][00000076]
+[EN]
+Knife: Slash damage to random[LB]
+enemies several times over.[LB][END]
+[ES]
+Cuchillo: Daño cortante a enemigos[LB]
+aleatorios numerosas veces.[LB][END]
+
+
+[MSGH][0000006a][00000078]
+[EN]
+Knife: Slash attack to one enemy.[LB]
+May cause petrification.[LB][END]
+[ES]
+Cuchillo: Ataque cortante a un enemigo.[LB]
+Puede petrificar.[LB][END]
+
+
+[MSGH][0000006b][0000008e]
+[EN]
+Knife: Team up with your shadow for[LB]
+random slashes. Shadow will fade.[LB][END]
+[ES]
+Cuchillo: Unión con la copia para[LB]
+asestar cortes a todos.[LB][END]
+
+
+[MSGH][0000006c][00000082]
+[EN]
+Run from battle to the last used[LB]
+staircase or Submagnetic Pole.[LB][END]
+[ES]
+Huye del combate hasta la última[LB]
+escalera o Punto geomagnético.[LB][END]
+
+
+[MSGH][0000006d][0000007a]
+[EN]
+A monk skill that adds HP recovery[LB]
+to other healing skills.[LB][END]
+[ES]
+Habilidad de anacoreta que añade[LB]
+PV a otras habilidades curativas.[LB][END]
+
+
+[MSGH][0000006e][00000094]
+[EN]
+Prerequisite for martial arts skills[LB]
+that raises bare-hand damage dealt.[LB][END]
+[ES]
+Prerrequisito de artes marciales que[LB]
+aumenta el daño sin armas.[LB][END]
+
+
+[MSGH][0000006f][00000062]
+[EN]
+Recover HP each time you use[LB]
+a skill in battle.[LB][END]
+[ES]
+Recupera PV cada vez que uses una[LB]
+habilidad en combate[LB][END]
+
+
+[MSGH][00000070][0000007c]
+[EN]
+Once per battle, all allies will[LB]
+recover HP upon your death.[LB][END]
+[ES]
+Todos los aliados recuperarán PV, una[LB]
+vez por batalla, si caes en combate.[LB][END]
+
+
+[MSGH][00000071][00000048]
+[EN]
+Regain TP if any ally is defeated.[LB][END]
+[ES]
+Recobra PT si un aliado cae.[LB][END]
+
+
+[MSGH][00000072][0000006e]
+[EN]
+Increases your rate of recovery[LB]
+from status ailments.[LB][END]
+[ES]
+Aumenta el índice de recuperación[LB]
+de enfermedades.[LB][END]
+
+
+[MSGH][00000073][00000090]
+[EN]
+Fist: A strike attack sending your[LB]
+qi against one enemy. May paralyze.[LB][END]
+[ES]
+Puño: Impacto que manda tu qi[LB]
+hacia el enemigo. Puede paralizar.[LB][END]
+
+
+[MSGH][00000074][00000050]
+[EN]
+Healing qi will recover one[LB]
+ally's HP.[LB][END]
+[ES]
+Qi curativo que restaura[LB]
+los PV de un aliado.[LB][END]
+
+
+[MSGH][00000075][00000052]
+[EN]
+Healing qi will recover all[LB]
+allies' HP.[LB][END]
+[ES]
+Qi curativo que restaura[LB]
+los PV de todos los aliados.[LB][END]
+
+
+[MSGH][00000076][0000005c]
+[EN]
+Healing qi will recover all HP[LB]
+for one ally.[LB][END]
+[ES]
+Qi curativo que restaura todos[LB]
+los PV de un aliado.[LB][END]
+
+
+[MSGH][00000077][00000082]
+[EN]
+Fist: Counter an enemy's physical[LB]
+attack with a strike attack. [LB][END]
+[ES]
+Puño: Contraataca un ataque físico[LB]
+con un impacto. [LB][END]
+
+
+[MSGH][00000078][00000082]
+[EN]
+Fist: Counter an enemy's elemental[LB]
+attack with a strike attack.[LB][END]
+[ES]
+Puño: Contraataca un ataque[LB]
+elemental con un impacto[LB][END]
+
+
+[MSGH][00000079][00000086]
+[EN]
+Heal status effects on allies. [LB]
+Range increases with skill level.[LB][END]
+[ES]
+Cura las enfermedades de los aliados. [LB]
+El rango sube con cada nivel de hab.[LB][END]
+
+
+[MSGH][0000007a][00000044]
+[EN]
+Revive one ally with healing qi.[LB][END]
+[ES]
+Reanima a un aliado con qi curativo.[LB][END]
+
+
+[MSGH][0000007b][0000006e]
+[EN]
+Heals bound allies. Range increases[LB]
+with skill level.[LB][END]
+[ES]
+Rescata a los aliados atados. El rango[LB]
+aumenta con el nivel de habilidad.[LB][END]
+
+
+[MSGH][0000007c][00000062]
+[EN]
+Recover one row of allies' HP[LB]
+using healing qi.[LB][END]
+[ES]
+Qi curativo que restaura los PV[LB]
+de una fila de aliados.[LB][END]
+
+
+[MSGH][0000007d][0000007a]
+[EN]
+Fist: A strike and fire attack[LB]
+that hits enemies at random.[LB][END]
+[ES]
+Puño: Impacto de fuego que[LB]
+golpea a enemigos aleatorios.[LB][END]
+
+
+[MSGH][0000007e][0000007c]
+[EN]
+Fist: Sacrifice HP to strike all[LB]
+enemies. May inflict curse.[LB][END]
+[ES]
+Puño: Sacrifica PV y golpea a todos[LB]
+los enemigos. Puede producir maldición.[LB][END]
+
+
+[MSGH][0000007f][00000084]
+[EN]
+Decreases damage from trap floors[LB]
+for a certain number of steps.[LB][END]
+[ES]
+Reduce el daño recibido de trampas[LB]
+durante un número de pasos.[LB][END]
+
+
+[MSGH][00000080][00000074]
+[EN]
+Zodiac skill that raises all[LB]
+elemental affinity attacks.[LB][END]
+[ES]
+Habilidad de zodíacos que aumenta[LB]
+el ataque de elementos afines.[LB][END]
+
+
+[MSGH][00000081][00000082]
+[EN]
+Prerequisite for fire skills that[LB]
+increases fire attack damage.[LB][END]
+[ES]
+Prerrequisito de habilidades de fuego[LB]
+que aumenta el daño infligido.[LB][END]
+
+
+[MSGH][00000082][0000007e]
+[EN]
+Prerequisite for ice skills that[LB]
+increases ice attack damage.[LB][END]
+[ES]
+Prerrequisito de habilidades de hielo[LB]
+que aumenta el daño infligido.[LB][END]
+
+
+[MSGH][00000083][00000082]
+[EN]
+Prerequisite for volt skills that[LB]
+increases volt attack damage.[LB][END]
+[ES]
+Prerrequisito de habilidades eléctricas[LB]
+que aumenta el daño infligido.[LB][END]
+
+
+[MSGH][00000084][00000054]
+[EN]
+Regain TP each time you defeat[LB]
+an enemy.[LB][END]
+[ES]
+Recobra PT cada vez que derrotas[LB]
+a un enemigo.[LB][END]
+
+
+[MSGH][00000085][00000080]
+[EN]
+Damage increases when attacking an[LB]
+enemy's elemental weakness.[LB][END]
+[ES]
+El daño aumenta cuando aprovechas[LB]
+la debilidad elemental de un enemigo.[LB][END]
+
+
+[MSGH][00000086][00000070]
+[EN]
+Concentrate to increase damage[LB]
+with elemental attacks.[LB][END]
+[ES]
+Concentración que aumenta el daño[LB]
+de los ataques elementales.[LB][END]
+
+
+[MSGH][00000087][0000007a]
+[EN]
+One row of allies will be able to[LB]
+use skills at no TP cost.[LB][END]
+[ES]
+Una fila de aliados podrá utilizar[LB]
+habilidades sin coste de PT.[LB][END]
+
+
+[MSGH][00000088][00000078]
+[EN]
+Call down meteors to deal strike[LB]
+damage to random enemies.[LB][END]
+[ES]
+Invoca meteoros que infligen daño[LB]
+de impacto a enemigos aleatorios.[LB][END]
+
+
+[MSGH][00000089][00000066]
+[EN]
+Astrological flame does fire damage[LB]
+to one enemy.[LB][END]
+[ES]
+Fuego astrológico que provoca[LB]
+daños a un enemigo.[LB][END]
+
+
+[MSGH][0000008a][00000084]
+[EN]
+Astrology calls forth flames that[LB]
+do fire damage to all enemies.[LB][END]
+[ES]
+Llamaradas astrológicas que[LB]
+infligen daño a todos los enemigos.[LB][END]
+
+
+[MSGH][0000008b][0000008c]
+[EN]
+Prevent fire attacks from an enemy [LB]
+and counter with your own flame.[LB][END]
+[ES]
+Previene los ataques de fuego del[LB]
+enemigo y los contraataca.[LB][END]
+
+
+[MSGH][0000008c][00000066]
+[EN]
+Astrological glaciers do ice damage[LB]
+to one enemy.[LB][END]
+[ES]
+Glaciares astrológicos que provocan[LB]
+daños a un enemigo[LB][END]
+
+
+[MSGH][0000008d][00000090]
+[EN]
+Astrology calls forth an ice spear[LB]
+that damages all enemies with ice. [LB][END]
+[ES]
+Lanzas de hielo astrológicas que[LB]
+infligen daño a todos los enemigos.[LB][END]
+
+
+[MSGH][0000008e][00000084]
+[EN]
+Prevent ice attacks from an enemy[LB]
+and counter with your own ice.[LB][END]
+[ES]
+Previene los ataques de hielo del[LB]
+enemigo y los contraataca.[LB][END]
+
+
+[MSGH][0000008f][0000006e]
+[EN]
+Astrological lightning does volt[LB]
+damage to one enemy.[LB][END]
+[ES]
+Relámpago astrológico que[LB]
+provoca daño a un enemigo.[LB][END]
+
+
+[MSGH][00000090][00000082]
+[EN]
+Astrology calls forth lightning for[LB]
+volt damage to all enemies.[LB][END]
+[ES]
+Tormenta eléctrica astrológica que[LB]
+inflige daño a todos los enemigos.[LB][END]
+
+
+[MSGH][00000091][0000007e]
+[EN]
+Prevent volt attacks from an enemy[LB]
+and counter with your own.[LB][END]
+[ES]
+Previene ataques eléctricos del[LB]
+enemigo y los contraataca.[LB][END]
+
+
+[MSGH][00000092][00000072]
+[EN]
+Reveals the location of nearby[LB]
+FOEs for a limited time.[LB][END]
+[ES]
+Revela la localización de MALOs[LB]
+cercanos durante un tiempo.[LB][END]
+
+
+[MSGH][00000093][00000082]
+[EN]
+A skill for wildlings that raises[LB]
+the power of summoned beasts.[LB][END]
+[ES]
+Habilidad de salvajes que aumenta[LB]
+la fuerza de bestias invocadas.[LB][END]
+
+
+[MSGH][00000094][00000094]
+[EN]
+Prerequisite for summoning beasts.[LB]
+Ailment success rate of beasts rises.[LB][END]
+[ES]
+Prerrequisito para invocar bestias.[LB]
+Mayor índice de enfermedades producidas.[LB][END]
+
+
+[MSGH][00000095][0000005e]
+[EN]
+A beast may take a mortal blow in[LB]
+your place.[LB][END]
+[ES]
+Una bestia puede recibir un golpe[LB]
+mortal en tu lugar.[LB][END]
+
+
+[MSGH][00000096][0000008c]
+[EN]
+A beast may take a physical blow[LB]
+instead of an ally in the same row.[LB][END]
+[ES]
+Una bestia puede recibir un golpe[LB]
+físico en lugar de un aliado de la fila.[LB][END]
+
+
+[MSGH][00000097][00000090]
+[EN]
+A beast may take an elemental blow[LB]
+instead of an ally in the same row.[LB][END]
+[ES]
+Una bestia puede recibir un golpe[LB]
+elemental en lugar de un aliado de la fila.[LB][END]
+
+
+[MSGH][00000098][00000074]
+[EN]
+Raises awareness to reduce the[LB]
+chance of being ambushed.[LB][END]
+[ES]
+Mantenerse alerta para reducir las[LB]
+posibilidades de emboscada enemiga.[LB][END]
+
+
+[MSGH][00000099][00000088]
+[EN]
+A loud roar lowers the physical[LB]
+damage of all enemies for 3 turns.[LB][END]
+[ES]
+Rugido que reduce el daño físico[LB]
+por los enemigos durante 3 turnos.[LB][END]
+
+
+[MSGH][0000009a][00000078]
+[EN]
+Threatens enemies, lowering their[LB]
+defense for three turns.[LB][END]
+[ES]
+Amenaza a los enemigos, lo que[LB]
+reduce su defensa durante 3 turnos.[LB][END]
+
+
+[MSGH][0000009b][00000086]
+[EN]
+Calls back a summoned beast. When[LB]
+they return, you regain the TP.[LB][END]
+[ES]
+Retira a una bestia invocada. Cuando[LB]
+regresan, recobras los PT.[LB][END]
+
+
+[MSGH][0000009c][00000086]
+[EN]
+Summons a great bird that deals[LB]
+pierce damage and binds the head.[LB][END]
+[ES]
+Invocas a una gran ave que perfora[LB]
+y ata la cabeza del enemigo.[LB][END]
+
+
+[MSGH][0000009d][00000088]
+[EN]
+Summons a great snake that deals[LB]
+strike damage and binds the arms.[LB][END]
+[ES]
+Invoca a una gran serpiente que[LB]
+impacta y ata los brazos del enemigo.[LB][END]
+
+
+[MSGH][0000009e][00000084]
+[EN]
+Summons a great mole that deals[LB]
+slash damage and binds the legs.[LB][END]
+[ES]
+Invoca a un gran topo que corta[LB]
+y ata los brazos del enemigo.[LB][END]
+
+
+[MSGH][0000009f][00000084]
+[EN]
+Summons a venomous butterfly that[LB]
+deals slash damage and poison.[LB][END]
+[ES]
+Invoca a una mariposa venenosa que[LB]
+corta y envenena al enemigo.[LB][END]
+
+
+[MSGH][000000a0][00000092]
+[EN]
+Summons a wild, violent cow dealing[LB]
+random pierce damage and paralysis.[LB][END]
+[ES]
+Invoca a una vaca salvaje que[LB]
+perfora y paraliza al enemigo.[LB][END]
+
+
+[MSGH][000000a1][00000078]
+[EN]
+Summons a beguiling owl that may[LB]
+put all enemies to sleep.[LB][END]
+[ES]
+Invoca a un búho hipnotizante que[LB]
+duerme a todos los enemigos.[LB][END]
+
+
+[MSGH][000000a2][00000088]
+[EN]
+Summons a desert elephant. Strike[LB]
+damage will confuse all enemies.[LB][END]
+[ES]
+Invoca a un elefante del desierto.[LB]
+El impacto confunde a los enemigos.[LB][END]
+
+
+[MSGH][000000a3][00000088]
+[EN]
+Summons a sabretooth tiger. Glare[LB]
+attacks will defeat all enemies.[LB][END]
+[ES]
+Invoca a un tigre dientes de sable.[LB]
+El deslumbramiento acaba con todos.[LB][END]
+
+
+[MSGH][000000a4][00000086]
+[EN]
+Summons a sleeping lion. When it[LB]
+awakens, it stuns and paralyzes.[LB][END]
+[ES]
+Invoca a un león durmiente. Cuando[LB]
+despierta, aturde y paraliza.[LB][END]
+
+
+[MSGH][000000a5][00000088]
+[EN]
+Summons a swamp ooze to deal slash[LB]
+damage and plague to one enemy.[LB][END]
+[ES]
+Invoca bacterias de una ciénaga que[LB]
+cortan y envenenan a un enemigo.[LB][END]
+
+
+[MSGH][000000a6][00000088]
+[EN]
+Arbalist skill empowering you when[LB]
+enemies have notably higher HP.[LB][END]
+[ES]
+Habilidad de ballesteros que otorga[LB]
+fuerza sobre enemigos con mayor PV.[LB][END]
+
+
+[MSGH][000000a7][0000007e]
+[EN]
+Prerequisite for crossbow skills[LB]
+that raises crossbow damage.[LB][END]
+[ES]
+Prerrequisito de ballestas que[LB]
+aumenta el daño infligido.[LB][END]
+
+
+[MSGH][000000a8][00000056]
+[EN]
+Recover HP each time you defeat[LB]
+an enemy.[LB][END]
+[ES]
+Recupera PV cada vez que acabas[LB]
+con un enemigo.[LB][END]
+
+
+[MSGH][000000a9][0000007a]
+[EN]
+Critical hit rate significantly[LB]
+increases during nighttime.[LB][END]
+[ES]
+El índice de golpes críticos aumenta[LB]
+significativamente de noche.[LB][END]
+
+
+[MSGH][000000aa][00000082]
+[EN]
+When using skills targeting one[LB]
+enemy, number of hits may rise.[LB][END]
+[ES]
+Las habilidades dirigidas a un enemigo[LB]
+pueden impactar más de una vez.[LB][END]
+
+
+[MSGH][000000ab][00000082]
+[EN]
+Employ especially careful aim,[LB]
+increasing all skills' accuracy.[LB][END]
+[ES]
+Afina la puntería con especial[LB]
+cuidado, lo que mejora la precisión.[LB][END]
+
+
+[MSGH][000000ac][0000008a]
+[EN]
+Detonate a flashbang to increase[LB]
+the aim of all allies for 3 turns.[LB][END]
+[ES]
+Detona una aturdidora para mejorar[LB]
+la precisión de los aliados en 3 turnos.[LB][END]
+
+
+[MSGH][000000ad][0000005a]
+[EN]
+Detonate a smoke bomb to blind[LB]
+all enemies.[LB][END]
+[ES]
+Detona una bomba de humo para[LB]
+cegar a todos los enemigos.[LB][END]
+
+
+[MSGH][000000ae][0000007e]
+[EN]
+Crossbow: Wait, then pierce all[LB]
+enemies with status ailments.[LB][END]
+[ES]
+Ballesta: Espera y después perfora[LB]
+a los enemigos con enfermedades.[LB][END]
+
+
+[MSGH][000000af][0000007c]
+[EN]
+Crossbow: Heavy arrows deal pierce[LB]
+damage to a single enemy.[LB][END]
+[ES]
+Ballesta: Flechas pesadas que[LB]
+perforan a un solo enemigo.[LB][END]
+
+
+[MSGH][000000b0][00000088]
+[EN]
+Crossbow: Rapid-fire arrows are[LB]
+shot across all enemies at random.[LB][END]
+[ES]
+Ballesta: Flechas de disparo rápido[LB]
+dirigidas a enemigos aleatorios.[LB][END]
+
+
+[MSGH][000000b1][00000070]
+[EN]
+Crossbow: Wait, then pierce all[LB]
+enemies who are bound.[LB][END]
+[ES]
+Ballesta: Espera y después perfora[LB]
+a los enemigos atados.[LB][END]
+
+
+[MSGH][000000b2][0000008a]
+[EN]
+Crossbow: Bolts deal pierce damage[LB]
+that ignores enemy enhancements.[LB][END]
+[ES]
+Ballesta: Virotes que perforan e[LB]
+ignoran las mejoras del enemigo.[LB][END]
+
+
+[MSGH][000000b3][0000008c]
+[EN]
+Crossbow: Special gunpowder deals[LB]
+strike/fire damage to all enemies.[LB][END]
+[ES]
+Ballesta: Pólvora especial que inflige[LB]
+daño de impacto/fuego al enemigo.[LB][END]
+
+
+[MSGH][000000b4][00000094]
+[EN]
+Crossbow: Pierce damage at one enemy.[LB]
+More effective from the front row.[LB][END]
+[ES]
+Ballesta: Perfora a un enemigo.[LB]
+Muy efectivo desde la vanguardia.[LB][END]
+
+
+[MSGH][000000b5][0000008a]
+[EN]
+Crossbow: Special gunpowder deals[LB]
+strike/ice damage to all enemies.[LB][END]
+[ES]
+Ballesta: Pólvora especial que inflige[LB]
+daño de impacto/hielo al enemigo.[LB][END]
+
+
+[MSGH][000000b6][0000008c]
+[EN]
+Crossbow: Special gunpowder deals[LB]
+strike/volt damage to all enemies.[LB][END]
+[ES]
+Ballesta: Pólvora especial que inflige[LB]
+daño de impacto/electricidad al enemigo.[LB][END]
+
+
+[MSGH][000000b7][0000008e]
+[EN]
+Crossbow: Shoot a bolt into the sky,[LB]
+raining pierce damage next turn.[LB][END]
+[ES]
+Ballesta: Dispara un virote al cielo[LB]
+para caer en el siguiente turno.[LB][END]
+
+
+[MSGH][000000b8][00000086]
+[EN]
+Increase chances of a first strike[LB]
+for a limited number of steps.[LB][END]
+[ES]
+Aumenta la probabilidad de atacar[LB]
+en primer lugar durante unos pasos.[LB][END]
+
+
+[MSGH][000000b9][0000007e]
+[EN]
+Farmer skill that increases ally[LB]
+EXP points if you are alive.[LB][END]
+[ES]
+Habilidad de granjeros que aumenta[LB]
+los puntos de EXP si sigues vivo.[LB][END]
+
+
+[MSGH][000000ba][00000088]
+[EN]
+You may revive from defeat at the[LB]
+end of the turn once per battle.[LB][END]
+[ES]
+Al final del turno puedes reanimarte[LB]
+si caes en combate; una vez por batalla.[LB][END]
+
+
+[MSGH][000000bb][00000082]
+[EN]
+If HP is maxed and you are in the[LB]
+front row, you'll recover TP.[LB][END]
+[ES]
+Si tienes todos los PV y estás en el[LB]
+frente, recuperas PT.[LB][END]
+
+
+[MSGH][000000bc][00000090]
+[EN]
+Revive and cure petrify at camps.[LB]
+Party HP and TP recovered increases.[LB][END]
+[ES]
+Reanima y cura la petrificación en[LB]
+acampamentos. Recobra PV y PT.[LB][END]
+
+
+[MSGH][000000bd][00000068]
+[EN]
+The item drop rate at the end of[LB]
+battle increases.[LB][END]
+[ES]
+El índice de objetos caídos al final[LB]
+del combate aumenta.[LB][END]
+
+
+[MSGH][000000be][0000008c]
+[EN]
+You have a higher chance of finding[LB]
+rare items at harvesting points.[LB][END]
+[ES]
+Hay mayor probabilidad de encontrar[LB]
+objetos raros en puntos de cosecha[LB][END]
+
+
+[MSGH][000000bf][00000090]
+[EN]
+Breathe slowly to lower the chance[LB]
+of enemies hitting you for 3 turns.[LB][END]
+[ES]
+Respira lentamente para que los[LB]
+enemigos no te golpeen en 3 turnos.[LB][END]
+
+
+[MSGH][000000c0][00000086]
+[EN]
+Status ailments you are affected[LB]
+by can be shared with the enemy.[LB][END]
+[ES]
+Las enfermedades que recibes[LB]
+pueden compartirse con el enemigo.[LB][END]
+
+
+[MSGH][000000c1][00000090]
+[EN]
+Lower enemy strength for 4 turns.[LB]
+Status ailments increase its effect.[LB][END]
+[ES]
+El efecto de las enfermedades[LB]
+aumenta durante 4 turnos.[LB][END]
+
+
+[MSGH][000000c2][00000078]
+[EN]
+Sing a lullaby, putting yourself[LB]
+and all enemies to sleep.[LB][END]
+[ES]
+Canta una nana y duerme[LB]
+a todos los enemigos.[LB][END]
+
+
+[MSGH][000000c3][00000080]
+[EN]
+Plant mystery seeds that bind all[LB]
+enemy heads, arms, and legs.[LB][END]
+[ES]
+Planta semillas misteriosas que atan[LB]
+todos los miembros de los enemigos.[LB][END]
+
+
+[MSGH][000000c4][0000005e]
+[EN]
+Revive an ally. Used only from[LB]
+the main menu.[LB][END]
+[ES]
+Reanima a un aliado, pero solo[LB]
+desde el menú principal.[LB][END]
+
+
+[MSGH][000000c5][00000058]
+[EN]
+Shirk responsibility until an hour[LB]
+passes.[LB][END]
+[ES]
+Elude cualquier responsabilidad[LB]
+durante una hora.[LB][END]
+
+
+[MSGH][000000c6][00000074]
+[EN]
+Increase number of times you can[LB]
+chop, mine, and gather.[LB][END]
+[ES]
+Aumenta las veces que puedes[LB]
+podar, picar y cosechar.[LB][END]
+
+
+[MSGH][000000c7][00000076]
+[EN]
+Eliminate enemy encounters for[LB]
+a limited number of steps.[LB][END]
+[ES]
+Elimina los encuentros con el enemigo[LB]
+durante unos pasos.[LB][END]
+
+
+[MSGH][000000c8][00000042]
+[EN]
+Takes you back to town quickly.[LB][END]
+[ES]
+Regresas al pueblo rápidamente.[LB][END]
+
+
+[MSGH][000000c9][00000074]
+[EN]
+Nullify trap floor damage for a[LB]
+limited number of steps.[LB][END]
+[ES]
+Anula el daño de las trampas durante[LB]
+un número de pasos.[LB][END]
+
+
+[MSGH][000000ca][0000007c]
+[EN]
+Show FOE locations on the map for[LB]
+a limited number of steps.[LB][END]
+[ES]
+Muestra la localización de los MALOs[LB]
+durante un número de pasos.[LB][END]
+
+
+[MSGH][000000cb][00000080]
+[EN]
+Gather resources at all chopping,[LB]
+mining and gathering points.[LB][END]
+[ES]
+Aprovecha los recursos de los puntos[LB]
+de poda, minado y cosecha.[LB][END]
+
+
+[MSGH][000000cc][0000008a]
+[EN]
+Shogun skill for dual-wielding that[LB]
+rises in power with each level.[LB][END]
+[ES]
+Habilidad de sogunes que aumenta[LB]
+el daño de espadas dobles.[LB][END]
+
+
+[MSGH][000000cd][00000070]
+[EN]
+Prerequisite for sword skills.[LB]
+Sword damage increases.[LB][END]
+[ES]
+Prerrequisito para habilidades de[LB]
+espada que aumenta el daño infligido.[LB][END]
+
+
+[MSGH][000000ce][0000007e]
+[EN]
+May leave you with 1 HP after a[LB]
+fatal attack once per battle.[LB][END]
+[ES]
+Puede dejarte con 1 PV tras un[LB]
+golpe mortal una vez por batalla.[LB][END]
+
+
+[MSGH][000000cf][00000080]
+[EN]
+May terminate enemies and allies[LB]
+that fall below a certain HP.[LB][END]
+[ES]
+Puede acabar con la vida de enemigos[LB]
+y aliados con PV reducidos.[LB][END]
+
+
+[MSGH][000000d0][0000007c]
+[EN]
+Your attack power increases each[LB]
+time you deal a final blow.[LB][END]
+[ES]
+Aumenta la fuerza de ataque cada[LB]
+vez que asestas un golpe mortal.[LB][END]
+
+
+[MSGH][000000d1][0000005c]
+[EN]
+When you are revived, all allies[LB]
+recover HP.[LB][END]
+[ES]
+Cuando te reviven, todos los aliados[LB]
+restauran PV.[LB][END]
+
+
+[MSGH][000000d2][0000006c]
+[EN]
+Concentrate for three turns to[LB]
+nullify bind effects.[LB][END]
+[ES]
+Concentración durante 3 turnos para[LB]
+anular efectos cegadores[LB][END]
+
+
+[MSGH][000000d3][0000006e]
+[EN]
+Katana: A strike attack that uses[LB]
+the hilt. May stun.[LB][END]
+[ES]
+Katana: Impacto que ataca con[LB]
+la empuñadura. Puede aturdir.[LB][END]
+
+
+[MSGH][000000d4][0000008a]
+[EN]
+Katana: Slash attack on all enemies[LB]
+randomly. Stronger in sunlight.[LB][END]
+[ES]
+Katana: Ataque aleatorio a todos los[LB]
+enemigos. Poderoso de día.[LB][END]
+
+
+[MSGH][000000d5][0000008c]
+[EN]
+Katana: Slash attack on all enemies[LB]
+randomly. Stronger in moonlight.[LB][END]
+[ES]
+Katana: Ataque aleatorio a todos los[LB]
+enemigos. Poderoso de noche.[LB][END]
+
+
+[MSGH][000000d6][0000008c]
+[EN]
+Katana: Random slash damage at all[LB]
+enemies. Doubled with two swords.[LB][END]
+[ES]
+Katana: Ataque aleatorio a todos los[LB]
+enemigos. Doble con dos espadas.[LB][END]
+
+
+[MSGH][000000d7][00000088]
+[EN]
+Increases attack and defense, but[LB]
+draws enemy attacks for 3 turns.[LB][END]
+[ES]
+Aumenta ataque y defensa pero[LB]
+atrae al enemigo durante 3 turnos.[LB][END]
+
+
+[MSGH][000000d8][0000008a]
+[EN]
+Sacrifice defense to perform follow[LB]
+up damage to most ally attacks.[LB][END]
+[ES]
+Sacrifica defensa para continuar los[LB]
+ataques de los aliados.[LB][END]
+
+
+[MSGH][000000d9][00000086]
+[EN]
+Designate an attacker for 3 turns.[LB]
+The row gets ATK up, DEF down.[LB][END]
+[ES]
+Nombra a un atacante por 3 turnos.[LB]
+La misma fila sube ATQ, baja DEF.[LB][END]
+
+
+[MSGH][000000da][00000084]
+[EN]
+Designate a defender for 3 turns.[LB]
+The row gets DEF up, ATK down.[LB][END]
+[ES]
+Nombra a un defensor por 3 turnos.[LB]
+La misma fila sbe DEF, baja ATQ.[LB][END]
+
+
+[MSGH][000000db][0000006e]
+[EN]
+Attacks against the designated[LB]
+row will be countered.[LB][END]
+[ES]
+Contraataca a los ataques dirigidos[LB]
+a la fila seleccionada.[LB][END]
+
+
+[MSGH][000000dc][00000076]
+[EN]
+Order all allies equipped with guns[LB]
+or crossbows to fire.[LB][END]
+[ES]
+Ordena disparar a todos los aliados[LB]
+con pistolas o ballestas.[LB][END]
+
+
+[MSGH][000000dd][00000072]
+[EN]
+Order all allies to attack with[LB]
+their equipped weapons.[LB][END]
+[ES]
+Ordena atacar a todos los aliados[LB]
+con las armas que lleven.[LB][END]
+
+
+[MSGH][000000de][0000006e]
+[EN]
+Attempt to run with all you can[LB]
+muster for that turn.[LB][END]
+[ES]
+Intenta escapar con todo el valor[LB]
+reunido en ese turno.[LB][END]
+
+
+[MSGH][000000df][0000007c]
+[EN]
+Being bound recovers TP. The[LB]
+more binds, the more recovered.[LB][END]
+[ES]
+Si estás atado recobras PT. A mayor[LB]
+número de ataduras, más PT.[LB][END]
+
+
+[MSGH][000000e0][0000007c]
+[EN]
+Gain superior attack power at the[LB]
+cost of HP loss each turn.[LB][END]
+[ES]
+Obtiene mayor fuerza de ataque[LB]
+a costa de perder PV en cada turno.[LB][END]
+
+
+[MSGH][000000e1][00000064]
+[EN]
+Reduce chances of succumbing to[LB]
+status ailments.[LB][END]
+[ES]
+Reduce las posibilidades de sucumbir[LB]
+a enfermedades[LB][END]
+
+
+[MSGH][000000e2][00000076]
+[EN]
+Counterattack with volt damage[LB]
+that may paralyze enemies.[LB][END]
+[ES]
+Contraataque eléctrico que puede[LB]
+paralizar a los enemigos.[LB][END]
+
+
+[MSGH][000000e3][00000048]
+[EN]
+Aim and evasion increase at night.[LB][END]
+[ES]
+La precisión y evasión mejora de noche.[LB][END]
+
+
+[MSGH][000000e4][0000008c]
+[EN]
+Critical hit rate increases. Each[LB]
+successful hit adds to your power.[LB][END]
+[ES]
+Aumenta el índice de críticos. Cada[LB]
+golpe satisfactorio añade fuerza.[LB][END]
+
+
+[MSGH][000000e5][0000008a]
+[EN]
+A fire bot in an empty space does[LB]
+follow-up damage to fire attacks.[LB][END]
+[ES]
+Bot de fuego que continúa los[LB]
+ataques de fuego.[LB][END]
+
+
+[MSGH][000000e6][00000088]
+[EN]
+An ice bot in an empty space does[LB]
+follow-up damage to ice attacks.[LB][END]
+[ES]
+Bot de hielo que continúa los[LB]
+ataques de hielo.[LB][END]
+
+
+[MSGH][000000e7][0000008a]
+[EN]
+A volt bot in an empty space does[LB]
+follow-up damage to volt attacks.[LB][END]
+[ES]
+Bot de electricidad que continúa los[LB]
+ataques eléctricos.[LB][END]
+
+
+[MSGH][000000e8][0000004e]
+[EN]
+Replenish energy and HP for all[LB]
+bots.[LB][END]
+[ES]
+Repone la energía y PV de todos[LB]
+los bots.[LB][END]
+
+
+[MSGH][000000e9][0000007e]
+[EN]
+Bots will nullify attacks of their[LB]
+element and counterattack.[LB][END]
+[ES]
+Los bots anulan los ataques de[LB]
+su elemento y contraatacan.[LB][END]
+
+
+[MSGH][000000ea][00000092]
+[EN]
+Sacrifice bots to attack one enemy[LB]
+with the element of one of the bots.[LB][END]
+[ES]
+Sacrifica a los bots para atacar a un[LB]
+enemigo con el elemento de uno.[LB][END]
+
+
+[MSGH][000000eb][00000072]
+[EN]
+Join forces with the battle bots[LB]
+for a combined attack.[LB][END]
+[ES]
+Une fuerzas con los bots para[LB]
+realizar un ataque combinado.[LB][END]
+
+
+[MSGH][000000ec][00000086]
+[EN]
+Blast arms at an enemy for strike[LB]
+damage. Causes arm bind to you.[LB][END]
+[ES]
+Onda expansiva a los brazos de un[LB]
+enemigo. También te afecta a ti.[LB][END]
+
+
+[MSGH][000000ed][00000086]
+[EN]
+Blast your head for pierce damage[LB]
+to all enemies. May bind heads.[LB][END]
+[ES]
+Cabezazo que perfora al enemigo.[LB]
+Puede atar las cabezas.[LB][END]
+
+
+[MSGH][000000ee][00000092]
+[EN]
+All attacks will miss you, but when[LB]
+the turn ends, your legs are bound.[LB][END]
+[ES]
+Todos los ataques hacia ti fallan,[LB]
+pero atan tus piernas al final del turno.[LB][END]
+
+
+[MSGH][000000ef][00000092]
+[EN]
+Usable only when fully bound. Deals[LB]
+damage based on how low your HP is.[LB][END]
+[ES]
+Solo se utiliza cuando estás atado[LB]
+completamente. Daño en base a PV.[LB][END]
+
+
+[MSGH][000000f0][0000004e]
+[EN]
+Undo all parts, entering a full[LB]
+bind.[LB][END]
+[ES]
+Deshace todas las partes y[LB]
+te ata completamente.[LB][END]
+
+
+[MSGH][000000f1][0000004c]
+[EN]
+Recover all parts, becoming[LB]
+unbound.[LB][END]
+[ES]
+Recupera todas las partes y[LB]
+te desata completamente.[LB][END]
+
+
+[MSGH][000000f2][0000007e]
+[EN]
+Deal powerful slash damage to one[LB]
+enemy when the turn begins.[LB][END]
+[ES]
+Daño cortante poderoso a un enemigo[LB]
+al inicio del turno.[LB][END]
+
+
+[MSGH][000000f3][00000094]
+[EN]
+When fatally injured, you will have[LB]
+1 HP left. Effect ends after battle.[LB][END]
+[ES]
+Si te hieren de muerte, tendrás 1 PV.[LB]
+El efecto acaba tras el combate.[LB][END]
+
+
+[MSGH][000000f4][00000078]
+[EN]
+Raise ally attack for five turns[LB]
+at the start of the turn.[LB][END]
+[ES]
+Aumenta el ataque de los aliados[LB]
+durante 5 turnos al inicio del turno.[LB][END]
+
+
+[MSGH][000000f5][0000008c]
+[EN]
+Unleash three pierce attacks to all[LB]
+enemies at random at turn start.[LB][END]
+[ES]
+Desata tres ataques perforadores al[LB]
+enemigo al inicio del turno.[LB][END]
+
+
+[MSGH][000000f6][0000007a]
+[EN]
+Raise ally defense for five turns[LB]
+at the start of the turn.[LB][END]
+[ES]
+Aumenta la defensa de los aliados[LB]
+durante 5 turnos al inicio del turno.[LB][END]
+
+
+[MSGH][000000f7][00000070]
+[EN]
+Completely recover your own HP at[LB]
+the end of the turn.[LB][END]
+[ES]
+Recupera todos tus PV al final[LB]
+del turno.[LB][END]
+
+
+[MSGH][000000f8][00000082]
+[EN]
+Give all allies critical strength[LB]
+for five turns at turn start.[LB][END]
+[ES]
+Otorga fuerza crítica a todos los[LB]
+aliados durante 5 turnos al inicio.[LB][END]
+
+
+[MSGH][000000f9][0000008a]
+[EN]
+Nullify all physical damage to all[LB]
+allies at the start of the turn.[LB][END]
+[ES]
+Anula el daño físico sobre todos los[LB]
+aliados al inicio del turno.[LB][END]
+
+
+[MSGH][000000fa][00000086]
+[EN]
+Deal powerful fire damage to all[LB]
+enemies at random at turn start.[LB][END]
+[ES]
+Inflige daño potente de fuego a [LB]
+enemigos aleatorios al inicio del turno.[LB][END]
+
+
+[MSGH][000000fb][0000008e]
+[EN]
+Increase all ally evasion rates for[LB]
+5 turns at the start of the turn.[LB][END]
+[ES]
+Aumenta el índice de evasión de los[LB]
+aliados durante 5 turnos al inicio.[LB][END]
+
+
+[MSGH][000000fc][00000084]
+[EN]
+Deal powerful ice damage to all[LB]
+enemies at random at turn start.[LB][END]
+[ES]
+Inflige daño potente de hielo a [LB]
+enemigos aleatorios al inicio del turno.[LB][END]
+
+
+[MSGH][000000fd][0000008c]
+[EN]
+Nullify all elemental damage to all[LB]
+allies at the start of the turn.[LB][END]
+[ES]
+Anula todo el daño elemental a los[LB]
+aliados al inicio del turno.[LB][END]
+
+
+[MSGH][000000fe][00000084]
+[EN]
+Deal non-elemental damage to one[LB]
+enemy at the start of the turn.[LB][END]
+[ES]
+Inflige daño no elemental a un[LB]
+enemigo al inicio del turno.[LB][END]
+
+
+[MSGH][000000ff][0000008c]
+[EN]
+All allies recover HP and status[LB]
+ailments for 5 turns at turn start.[LB][END]
+[ES]
+Todos los aliados restauran PV y su[LB]
+estado durante 5 turnos al inicio.[LB][END]
+
+
+[MSGH][00000100][00000082]
+[EN]
+Deal powerful volt damage to all[LB]
+enemies at random at turn end.[LB][END]
+[ES]
+Inflige daño potente eléctrico a [LB]
+enemigos aleatorios al inicio del turno.[LB][END]
+
+
+[MSGH][00000101][00000066]
+[EN]
+All attacks on allies are nullified[LB]
+for one turn.[LB][END]
+[ES]
+Los ataques a los aliados se anulan[LB]
+durante un turno.[LB][END]
+
+
+[MSGH][00000102][0000008e]
+[EN]
+Deal powerful, non-elemental damage[LB]
+to all enemies at the turn's end.[LB][END]
+[ES]
+Inflige daño no elemental potente a[LB]
+todos los enemigos al final del turno.[LB][END]
+
+
+[MSGH][00000103][00000076]
+[EN]
+Deal strike damage to one enemy[LB]
+at the start of the turn.[LB][END]
+[ES]
+Impacto a un enemigo al inicio[LB]
+del turno.[LB][END]
+
+
+[MSGH][00000104][00000094]
+[EN]
+Strike damage on one enemy at turn's[LB]
+end. If lethal, it drops all items.[LB][END]
+[ES]
+Impacto un enemigo al final del turno.[LB]
+Si es mortal, suelta todos los objetos.[LB][END]
+
+
+[MSGH][00000105][00000084]
+[EN]
+All allies will absorb attacks for[LB]
+the turn at the turns' start.[LB][END]
+[ES]
+Todos los aliados absorben ataques[LB]
+al inicio de este turno.[LB][END]
+
+
+[MSGH][00000106][0000008c]
+[EN]
+All allies will recover from status[LB]
+ailments at the end of the turn.[LB][END]
+[ES]
+Todos los aliados se recuperan de su[LB]
+enfermedad al final del turno.[LB][END]
+
+
+[MSGH][00000107][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000108][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000109][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000010a][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000010b][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000010c][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000010d][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000010e][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][0000010f][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+
+
+[MSGH][00000110][00000006]
+[EN]
+_[LB][END]
+[ES]
+_[LB][END]
+

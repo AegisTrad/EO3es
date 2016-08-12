@@ -1,0 +1,51 @@
+﻿
+Hex			OLD		NEW		FONT8	FONT10	FONT12
+----------------------------------------------------
+0x81BC		⊂		á		NO		NO		SI
+0x81BD		⊃		é		NO		NO		SI
+0x81BE		∪		í		NO		NO		SI
+0x81BF		∩ 		ó		NO		NO		SI
+0x81C8		∧		ú		NO		NO		SI
+0x81C9		∨		Á		NO		NO		SI
+0x81CA		￢		É		NO		NO		SI
+0x81CB		⇒		Í		NO		NO		SI
+0x81CC		⇔		Ó		NO		NO		SI
+0x81CD		∀		Ú		NO		NO		SI
+0x81CE		∃		ü		NO		NO		SI
+0x81DA		∠		Ü		NO		NO		SI
+0x81DB		⊥		ñ		NO		NO		SI
+0x81DC		⌒		Ñ		NO		NO		SI
+0x81DD		∂ 		¡		NO		NO		SI
+0x81DE		∇		¿		NO		NO		SI
+0x81DF		≡ 		ª		NO		NO		SI
+0x81E0		≒		º		NO		NO		SI
+0x81E1		≪		≪		NO		NO		SI
+0x81E2		≫		≫		NO		NO		SI
+0x81E3		√ 		─		NO		NO		SI
+
+---------------------------------------------------------------------------
+
+1º -> Font8x8
+2º -> Font10x10
+3º -> Font12x12
+
+ANCHOS:
+E2C58 -> 1 ?
+E310C -> 2 ?
+E35C0 -> 3
+
+CODIGOS:
+E3A74 -> 2 ?
+E43DC -> 3 ?
+E4D3C -> 1 ?
+
+
+- El offset IMPORTA (cabecera de los msg)
+- El size IMPORTA (pero puede ser mayor, la cadena terminará en 0xFFFF)
+- Si el texto estaba diseñado para ocupar 1 línea, poner un salto de línea NO funcionará
+
+
+
+Cadena de prueba:
+	¡La cigüeña que está ahí 
+	no logró ningún récord!

@@ -1,0 +1,29 @@
+[HEAD][00000100][00000005]
+
+[MSGH][00000001][0000002a]
+[EN]
+In search of battle[LB][END]
+[ES]
+En búsqueda del combate[LB][END]
+
+
+[MSGH][00000002][00000022]
+[EN]
+The secret cure[LB][END]
+[ES]
+La cura secreta[LB][END]
+
+
+[MSGH][00000003][00000030]
+[EN]
+Reinforcements request[LB][END]
+[ES]
+Petición de refuerzos[LB][END]
+
+
+[MSGH][00000004][00000024]
+[EN]
+Dark forest hunt[LB][END]
+[ES]
+Caza del Bosque oscuro[LB][END]
+

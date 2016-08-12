@@ -1,0 +1,1557 @@
+[HEAD][00003c00][000000c0]
+
+[MSGH][00000000][0000000a]
+[EN]
+[835f][837e][815b][LB][END]
+[ES]
+[835f][837e][815b][LB][END]
+
+
+[MSGH][00000001][00000068]
+[EN]
+A long legged octopus for[LB]
+boiling and consumption.[LB][END]
+[ES]
+Pulpo de tentáculos largos[LB]
+para hervir y consumir.[LB][END]
+
+
+[MSGH][00000002][00000060]
+[EN]
+A winged fish that lays[LB]
+its eggs on the beach.[LB][END]
+[ES]
+Pez con aletas que pone[LB]
+sus huevos en la playa.[LB][END]
+
+
+[MSGH][00000003][00000060]
+[EN]
+A squid with a body that[LB]
+glows like a lantern.[LB][END]
+[ES]
+Calamar con un cuerpo que[LB]
+brilla como un farol.[LB][END]
+
+
+[MSGH][00000004][00000062]
+[EN]
+A fish that attacks from[LB]
+cover. It's delicious.[LB][END]
+[ES]
+Pez que ataca desde la[LB]
+retarguardia. Está delicioso.[LB][END]
+
+
+[MSGH][00000005][0000006a]
+[EN]
+A vile fish with a poison[LB]
+fin, but delicious flesh.[LB][END]
+[ES]
+Pez perverso con aletas[LB]
+venenosas, pero de carne deliciosa.[LB][END]
+
+
+[MSGH][00000006][0000004a]
+[EN]
+A small fish with seven[LB]
+dots on it.[LB][END]
+[ES]
+Pez pequeño que tiene[LB]
+siete puntos.[LB][END]
+
+
+[MSGH][00000007][00000058]
+[EN]
+A swordfish commonly[LB]
+eaten by grilling it.[LB][END]
+[ES]
+Pez espada que se come[LB]
+frecuentemente a la parrilla.[LB][END]
+
+
+[MSGH][00000008][0000005a]
+[EN]
+Its body is hard and its[LB]
+forehead juts out.[LB][END]
+[ES]
+Tiene un cuerpo duro y[LB]
+frente prominente.[LB][END]
+
+
+[MSGH][00000009][00000056]
+[EN]
+A flounder that dwells[LB]
+north of Armoroad.[LB][END]
+[ES]
+Platija que mora en el[LB]
+norte de Armoroad.[LB][END]
+
+
+[MSGH][0000000a][0000005a]
+[EN]
+A thin sand-fish that is[LB]
+tasty and popular.[LB][END]
+[ES]
+Pez de arena sabroso[LB]
+y muy popular.[LB][END]
+
+
+[MSGH][0000000b][00000060]
+[EN]
+A carnivorous fish with[LB]
+delicious white flesh.[LB][END]
+[ES]
+Pez carnívoro con deliciosa[LB]
+pulpa blanca.[LB][END]
+
+
+[MSGH][0000000c][00000064]
+[EN]
+A bivalve that is both[LB]
+nutritious and medicinal.[LB][END]
+[ES]
+Bivalvo muy nutritivo y[LB]
+a la vez medicinal.[LB][END]
+
+
+[MSGH][0000000d][00000060]
+[EN]
+A longtooth grouper that[LB]
+swallows squid whole.[LB][END]
+[ES]
+Mero capaz de tragarse[LB]
+calamares enteros.[LB][END]
+
+
+[MSGH][0000000e][00000064]
+[EN]
+An echinoderm covered in[LB]
+thorns. A popular dish.[LB][END]
+[ES]
+Equinodermo cubierto de[LB]
+cueros. Plato muy popular.[LB][END]
+
+
+[MSGH][0000000f][00000056]
+[EN]
+A seaweed for both eating[LB]
+and fertilizer.[LB][END]
+[ES]
+Algas que sirven para comer[LB]
+y como fertilizante.[LB][END]
+
+
+[MSGH][00000010][00000048]
+[EN]
+A sea turtle with vice-[LB]
+like jaws.[LB][END]
+[ES]
+Tortuga marina cuya mandíbula[LB]
+tiene forma de tenazas.[LB][END]
+
+
+[MSGH][00000011][00000066]
+[EN]
+A tropical shrimp with an[LB]
+armor-like outer shell.[LB][END]
+[ES]
+Langostino tropical con[LB]
+carcasa similar a una armadura.[LB][END]
+
+
+[MSGH][00000012][00000066]
+[EN]
+Its poisonous organs make[LB]
+this tasty fish pricey.[LB][END]
+[ES]
+Los órganos venenosos lo[LB]
+convierten en un pez muy valioso.[LB][END]
+
+
+[MSGH][00000013][00000062]
+[EN]
+This large crab's paste[LB]
+and eggs are treasured.[LB][END]
+[ES]
+Los huevos que pone este[LB]
+cangrejo son como un tesoro.[LB][END]
+
+
+[MSGH][00000014][00000066]
+[EN]
+It easily grows over 3m,[LB]
+nicknamed Black Diamond.[LB][END]
+[ES]
+Puede crecer más de 3 metros.[LB]
+Se le conoce como Diamante negro.[LB][END]
+
+
+[MSGH][00000015][00000074]
+[EN]
+Once tanned, it is used for[LB]
+items such as bags or armor.[LB][END]
+[ES]
+Una vez curtido, se emplea para[LB]
+bolsas o armaduras.[LB][END]
+
+
+[MSGH][00000016][00000068]
+[EN]
+Considered a blessing, it[LB]
+is eaten in celebration.[LB][END]
+[ES]
+Se come en ocasiones especiales[LB]
+ya que hallarlo es un milagro.[LB][END]
+
+
+[MSGH][00000017][00000064]
+[EN]
+Its ease of use makes it[LB]
+a craftsman's favorite.[LB][END]
+[ES]
+Se podría considerar como[LB]
+el favorito de un artesano.[LB][END]
+
+
+[MSGH][00000018][00000058]
+[EN]
+Skin oil used mainly for[LB]
+cooking and fuel.[LB][END]
+[ES]
+Aceite que se emplea para[LB]
+cocinar y como combustible.[LB][END]
+
+
+[MSGH][00000019][00000066]
+[EN]
+If smoked and crushed, it[LB]
+becomes a pricey tonic.[LB][END]
+[ES]
+Ahumado y machacado, se[LB]
+convierte en un tónico preciado.[LB][END]
+
+
+[MSGH][0000001a][00000062]
+[EN]
+Has perfect flexibility[LB]
+for use as a bowstring.[LB][END]
+[ES]
+Tiene una elasticidad[LB]
+idónea para una cuerda de arco.[LB][END]
+
+
+[MSGH][0000001b][00000062]
+[EN]
+Found along coasts, it's[LB]
+great for detail work.[LB][END]
+[ES]
+Hallado en la costa, es[LB]
+ideal para trabajos minuciosos.[LB][END]
+
+
+[MSGH][0000001c][00000064]
+[EN]
+Red clay for bricks and[LB]
+other industrial crafts.[LB][END]
+[ES]
+Arcilla roja para hacer[LB]
+ladrillos y más artesanía.[LB][END]
+
+
+[MSGH][0000001d][00000060]
+[EN]
+A giant pincer that could[LB]
+cut a person in two.[LB][END]
+[ES]
+Pinza gigante que podría[LB]
+cortar en dos a una persona.[LB][END]
+
+
+[MSGH][0000001e][00000068]
+[EN]
+A copper coin made over a[LB]
+century ago worth 100en.[LB][END]
+[ES]
+Moneda de cobre fabricada hace[LB]
+un siglo. Vale 100 en.[LB][END]
+
+
+[MSGH][0000001f][0000006a]
+[EN]
+A fermented fruit crushed[LB]
+by a clan maiden's teeth.[LB][END]
+[ES]
+Fruta fermentada machacada[LB]
+por la doncella de un clan.[LB][END]
+
+
+[MSGH][00000020][00000060]
+[EN]
+An orange, thorned fruit[LB]
+that is unfit to eat.[LB][END]
+[ES]
+Fruta naranja y espinosa[LB]
+no apta para comer.[LB][END]
+
+
+[MSGH][00000021][00000066]
+[EN]
+A tropical fruit used for[LB]
+a multi-purpose starch.[LB][END]
+[ES]
+Fruta tropical con el que[LB]
+se puede aprovechar su almidón.[LB][END]
+
+
+[MSGH][00000022][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]34[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]34[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000023][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]35[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]35[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000024][00000060]
+[EN]
+An ant that stores honey,[LB]
+making it delicious.[LB][END]
+[ES]
+Hormiga deliciosa ya que[LB]
+alberga miel.[LB][END]
+
+
+[MSGH][00000025][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]37[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]37[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000026][00000060]
+[EN]
+A rare animal that can[LB]
+chain itself to others.[LB][END]
+[ES]
+Animal extraño que puede[LB]
+concatenarse con otros.[LB][END]
+
+
+[MSGH][00000027][00000062]
+[EN]
+An ant with a huge red[LB]
+body and a painful bite.[LB][END]
+[ES]
+Hormiga roja enorme cuyps[LB]
+mordiscos duelen.[LB][END]
+
+
+[MSGH][00000028][00000064]
+[EN]
+It can sterilize food and[LB]
+is usually traded raw.[LB][END]
+[ES]
+Puede esterilizar la comida;[LB]
+se suele vender crudo.[LB][END]
+
+
+[MSGH][00000029][00000068]
+[EN]
+Crystal used for natural[LB]
+and artificial gunpowder.[LB][END]
+[ES]
+Cristal empleado para crear[LB]
+pólvora natural y artificial.[LB][END]
+
+
+[MSGH][0000002a][00000068]
+[EN]
+A quality silver, sold at[LB]
+high prices in the east.[LB][END]
+[ES]
+Plata de calidad que se vende[LB]
+cara en el este.[LB][END]
+
+
+[MSGH][0000002b][00000068]
+[EN]
+A silver coin made over a[LB]
+century ago worth 500en.[LB][END]
+[ES]
+Moneda de plata fabricada hace[LB]
+un siglo. Vale 500 en.[LB][END]
+
+
+[MSGH][0000002c][00000064]
+[EN]
+The liquid it spits can[LB]
+be used as a purple dye.[LB][END]
+[ES]
+El líquido que escupe se[LB]
+emplea como tinte púrpura.[LB][END]
+
+
+[MSGH][0000002d][0000005c]
+[EN]
+Seaweed better used as[LB]
+fertilizer than food.[LB][END]
+[ES]
+Algas que se aprovechan[LB]
+mejor como fertilizante.[LB][END]
+
+
+[MSGH][0000002e][0000005e]
+[EN]
+A starfish pest that can[LB]
+tangle fishing nets.[LB][END]
+[ES]
+A starfish pest that can[LB]
+tangle fishing nets.[LB][END]
+
+
+[MSGH][0000002f][00000064]
+[EN]
+A resin gem that may have[LB]
+fossil insects inside.[LB][END]
+[ES]
+Gema de resina que podría[LB]
+tener insectos fosilizados.[LB][END]
+
+
+[MSGH][00000030][00000066]
+[EN]
+Ore called hematite used[LB]
+for steel manufacturing.[LB][END]
+[ES]
+Mineral llamado hematita; se[LB]
+usa en la manufactura de acero.[LB][END]
+
+
+[MSGH][00000031][0000005e]
+[EN]
+A fisherman's charm,[LB]
+available in many shops.[LB][END]
+[ES]
+Amuleto de pescadores. Se[LB]
+vende en muchas tiendas.[LB][END]
+
+
+[MSGH][00000032][00000062]
+[EN]
+A rare purple melon not[LB]
+found in encyclopedias.[LB][END]
+[ES]
+Variedad de melón púrpura que[LB]
+no se encuentra en enciclopedias.[LB][END]
+
+
+[MSGH][00000033][00000058]
+[EN]
+Tree resin used for[LB]
+incense and ointments.[LB][END]
+[ES]
+Resina de árbol empleada[LB]
+como incienso y ungüento.[LB][END]
+
+
+[MSGH][00000034][00000064]
+[EN]
+Craftwork with cultural[LB]
+patterns dyed in cotton.[LB][END]
+[ES]
+Tejido artesanal con patrones[LB]
+culturales teñidos en algodón.[LB][END]
+
+
+[MSGH][00000035][00000064]
+[EN]
+A type of sugarcane with[LB]
+a distinct sweet scent.[LB][END]
+[ES]
+Variedad de caña de azúcar[LB]
+con un olor dulce distintivo.[LB][END]
+
+
+[MSGH][00000036][00000066]
+[EN]
+A pretty elephant tusk,[LB]
+valued as craft material.[LB][END]
+[ES]
+Precioso colmillo de elefante;[LB]
+valioso como material.[LB][END]
+
+
+[MSGH][00000037][0000006a]
+[EN]
+A large, round fruit used[LB]
+mostly to make chocolate.[LB][END]
+[ES]
+Fruta grande y redonda empleada[LB]
+para hacer chocolate.[LB][END]
+
+
+[MSGH][00000038][0000005a]
+[EN]
+A seasoning made by[LB]
+fermenting salted fish.[LB][END]
+[ES]
+Sazón que se hace tras[LB]
+fermentar pez salado.[LB][END]
+
+
+[MSGH][00000039][0000005a]
+[EN]
+A cacao-based sweet.[LB]
+It's quite nourishing.[LB][END]
+[ES]
+Dulce hecho con cacao.[LB]
+Es muy nutritivo.[LB][END]
+
+
+[MSGH][0000003a][0000005a]
+[EN]
+A stout, naked, old man[LB]
+carved from a tusk.[LB][END]
+[ES]
+Anciano corpulento y desnudo[LB]
+tallado en un diente.[LB][END]
+
+
+[MSGH][0000003b][00000066]
+[EN]
+A gold coin made over a[LB]
+century ago worth 1000en.[LB][END]
+[ES]
+Moneda de oro fabricada hace[LB]
+un siglo. Vale 1000 en.[LB][END]
+
+
+[MSGH][0000003c][00000046]
+[EN]
+Platinum currency worth[LB]
+10000 en.[LB][END]
+[ES]
+Divisa de platino que[LB]
+vale 10000 en.[LB][END]
+
+
+[MSGH][0000003d][0000005e]
+[EN]
+Items from the ocean[LB]
+city, sacked by pirates.[LB][END]
+[ES]
+Items from the ocean[LB]
+city, sacked by pirates.[LB][END]
+
+
+[MSGH][0000003e][00000068]
+[EN]
+Rare items from far away[LB]
+lands, sacked by pirates.[LB][END]
+[ES]
+Valiosos objetos de tierras[LB]
+lejanas saqueados por piratas.[LB][END]
+
+
+[MSGH][0000003f][0000005e]
+[EN]
+There is a reward for a[LB]
+captured pirate flag.[LB][END]
+[ES]
+Hay recompensa por[LB]
+conquistar una bandera pirata.[LB][END]
+
+
+[MSGH][00000040][0000004a]
+[EN]
+The flag of a pirate[LB]
+ship hard won.[LB][END]
+[ES]
+Bandera conseguida[LB]
+de un barco pirata.[LB][END]
+
+
+[MSGH][00000041][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]65[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]65[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000042][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]66[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]66[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000043][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]67[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]67[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000044][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]68[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]68[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000045][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]69[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]69[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000046][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]70[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]70[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000047][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]71[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]71[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000048][00000064]
+[EN]
+A diamond-like fish. It's[LB]
+actually quite fierce.[LB][END]
+[ES]
+Pez con forma de diamante.[LB]
+Es muy feroz.[LB][END]
+
+
+[MSGH][00000049][00000060]
+[EN]
+A fish with a huge body[LB]
+and a spear-like head.[LB][END]
+[ES]
+Pez de cuerpo enorme y[LB]
+cabeza con forma de lamza.[LB][END]
+
+
+[MSGH][0000004a][00000066]
+[EN]
+A fish with a disc-shaped[LB]
+body found in trenches.[LB][END]
+[ES]
+Pez con forma de disco[LB]
+encontrado en zanjas.[LB][END]
+
+
+[MSGH][0000004b][00000068]
+[EN]
+A gigantic squid so rare,[LB]
+it has inspired legends.[LB][END]
+[ES]
+Calamar gigante tan extraño[LB]
+que ha inspirado leyendas.[LB][END]
+
+
+[MSGH][0000004c][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]76[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]76[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000004d][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]77[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]77[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000004e][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]78[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]78[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000004f][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]79[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]79[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000050][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]80[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]80[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000051][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]81[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]81[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000052][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]82[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]82[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000053][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]83[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]83[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000054][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]84[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]84[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000055][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]85[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]85[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000056][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]86[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]86[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000057][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]87[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]87[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000058][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]88[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]88[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000059][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]89[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]89[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000005a][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]90[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]90[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000005b][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]91[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]91[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000005c][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]92[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]92[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000005d][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]93[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]93[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000005e][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]94[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]94[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000005f][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]95[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]95[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000060][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]96[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]96[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000061][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]97[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]97[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000062][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]98[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]98[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000063][00000018]
+[EN]
+[8d60][8341][8343][8365][8380]99[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]99[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000064][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]100[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]100[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000065][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]101[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]101[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000066][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]102[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]102[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000067][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]103[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]103[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000068][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]104[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]104[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000069][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]105[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]105[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000006a][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]106[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]106[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000006b][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]107[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]107[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000006c][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]108[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]108[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000006d][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]109[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]109[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000006e][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]110[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]110[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000006f][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]111[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]111[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000070][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]112[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]112[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000071][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]113[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]113[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000072][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]114[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]114[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000073][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]115[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]115[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000074][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]116[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]116[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000075][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]117[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]117[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000076][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]118[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]118[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000077][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]119[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]119[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000078][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]120[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]120[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000079][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]121[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]121[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000007a][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]122[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]122[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000007b][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]123[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]123[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000007c][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]124[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]124[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000007d][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]125[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]125[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000007e][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]126[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]126[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000007f][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]127[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]127[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000080][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]128[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]128[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][00000081][0000006a]
+[EN]
+Voyage food so hard, it's[LB]
+compared to steel plates.[LB][END]
+[ES]
+Comida de viaje tan dura[LB]
+que se compara con platos de acero.[LB]
+
+
+[MSGH][00000082][00000054]
+[EN]
+Armoroad beans, dried[LB]
+while still green.[LB][END]
+[ES]
+Habichuelas de Armoroad;[LB]
+se secan mientras están verdes.[LB]
+
+
+[MSGH][00000083][00000050]
+[EN]
+A cheese of fermented[LB]
+wild sheep milk.[LB][END]
+[ES]
+Queso hecho con[LB]
+leche de ovejas salvajes.[LB]
+
+
+[MSGH][00000084][00000058]
+[EN]
+Fruit for preventing[LB]
+vitamin deficiencies.[LB][END]
+[ES]
+Fruta que previene [LB]
+deficiencias vitamínicas.[LB]
+
+
+[MSGH][00000085][0000005e]
+[EN]
+A valuable sugar source[LB]
+during a long voyage.[LB][END]
+[ES]
+Valiosa fuente de azúcar[LB]
+para viajes largos.[LB]
+
+
+[MSGH][00000086][00000056]
+[EN]
+Salted cabbage with high[LB]
+vitamin content.[LB][END]
+[ES]
+Col fermentada y salada con[LB]
+alto contenido vitamínico.[LB]
+
+
+[MSGH][00000087][0000005a]
+[EN]
+Sun-dried codfish that[LB]
+must be desalinated.[LB][END]
+[ES]
+Bacalao seco en salazón;[LB]
+antes hay que desalarlo.[LB]
+
+
+[MSGH][00000088][00000068]
+[EN]
+Salted jewfish that keeps[LB]
+well, but smells strong.[LB][END]
+[ES]
+Mero salado; se conserva bien,[LB]
+pero huele mal.[LB]
+
+
+[MSGH][00000089][0000004e]
+[EN]
+Sun-dried beef. It's[LB]
+quite versatile.[LB][END]
+[ES]
+Ternera seca. Es[LB]
+muy versátil.[LB]
+
+
+[MSGH][0000008a][00000066]
+[EN]
+A source of protein that[LB]
+is both cheap and tasty.[LB][END]
+[ES]
+Fuente de proteínas[LB]
+barata y sabrosa.[LB][END]
+
+
+[MSGH][0000008b][00000064]
+[EN]
+A tortoise that can feed[LB]
+an entire sailing crew.[LB][END]
+[ES]
+Tortuga que da banquete[LB]
+a todo un barco.[LB][END]
+
+
+[MSGH][0000008c][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]140[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]140[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000008d][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]141[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]141[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][0000008e][0000005c]
+[EN]
+Its name means "snake"[LB]
+in an ancient tongue.[LB][END]
+[ES]
+Su nombre significa «serpiente»[LB]
+en una lengua antigua.[LB][END]
+
+
+[MSGH][0000008f][00000062]
+[EN]
+The newest smoothbore,[LB]
+nicknamed "The Crusher."[LB][END]
+[ES]
+El nuevo cañón, de[LB]
+nombre «La trituradora».[LB][END]
+
+
+[MSGH][00000090][00000058]
+[EN]
+This mast generates a[LB]
+stronger propulsion.[LB][END]
+[ES]
+Genera una propulsión[LB]
+más potente.[LB][END]
+
+
+[MSGH][00000091][00000054]
+[EN]
+A support mast rigged[LB]
+to increase speed.[LB][END]
+[ES]
+Mástil de soporte equipado[LB]
+para mayor velocida.[LB][END]
+
+
+[MSGH][00000092][00000066]
+[EN]
+A bow dolphin statue said[LB]
+to increase one's luck.[LB][END]
+[ES]
+Estatua de delfín para la[LB]
+proa; da buena suerte.[LB][END]
+
+
+[MSGH][00000093][0000006a]
+[EN]
+A gold statue of an ocean[LB]
+goddess, granting safety.[LB][END]
+[ES]
+Estatua dorada de una diosa[LB]
+oceánica; da seguridad.[LB][END]
+
+
+[MSGH][00000094][0000005c]
+[EN]
+A traditional flag flown[LB]
+over fishing ships.[LB][END]
+[ES]
+Bandera que ondean los[LB]
+barcos pesqueros.[LB][END]
+
+
+[MSGH][00000095][0000005e]
+[EN]
+A flamboyant flag flown[LB]
+by hopeful fisherman.[LB][END]
+[ES]
+Bandera extravagante que[LB]
+ondean pescadores optimistas.[LB][END]
+
+
+[MSGH][00000096][00000062]
+[EN]
+A popular fishing tool[LB]
+made of hemp and cotton.[LB][END]
+[ES]
+Herramienta de pesca hecha[LB]
+de cáñamo y algodón.[LB][END]
+
+
+[MSGH][00000097][0000005e]
+[EN]
+It skims the water rather[LB]
+than being lowered.[LB][END]
+[ES]
+It skims the water rather[LB]
+than being lowered.[LB][END]
+
+
+[MSGH][00000098][00000056]
+[EN]
+A harpoon used by the[LB]
+master hunter, Ned.[LB][END]
+[ES]
+Arpón que utilizaba[LB]
+Ned, el gran cazador.[LB][END]
+
+
+[MSGH][00000099][00000062]
+[EN]
+A powerful harpoon that[LB]
+uses gunpowder to fire.[LB][END]
+[ES]
+Potente arpón que emplea[LB]
+pólvora para disparar.[LB][END]
+
+
+[MSGH][0000009a][00000058]
+[EN]
+A hull armament that cuts[LB]
+through seaweed.[LB][END]
+[ES]
+Armamento anclado al casco[LB]
+para cortar algas marinas.[LB][END]
+
+
+[MSGH][0000009b][00000062]
+[EN]
+Hull plating that greatly[LB]
+increases durability.[LB][END]
+[ES]
+Blindaje anclado al casco[LB]
+que mejora la durabilidad.[LB][END]
+
+
+[MSGH][0000009c][00000056]
+[EN]
+A modest flag said to[LB]
+bring good fortune.[LB][END]
+[ES]
+Bandera humilde que[LB]
+trae buena suerte[LB][END]
+
+
+[MSGH][0000009d][0000004c]
+[EN]
+A net for fishing while[LB]
+on the move.[LB][END]
+[ES]
+Red para pescar peces[LB]
+mientras te mueves.[LB][END]
+
+
+[MSGH][0000009e][00000064]
+[EN]
+A banner that antagonizes[LB]
+the south sea pirates.[LB][END]
+[ES]
+Estandarte que provoca[LB]
+a los piratas del sur.[LB][END]
+
+
+[MSGH][0000009f][00000064]
+[EN]
+A banner that antagonizes[LB]
+the north sea pirates.[LB][END]
+[ES]
+Estandarte que provoca[LB]
+a los piratas del norte.[LB][END]
+
+
+[MSGH][000000a0][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]160[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]160[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000a1][00000060]
+[EN]
+A Lithograph with spiral[LB]
+letters in the stone.[LB][END]
+[ES]
+Litografía con letras[LB]
+espirales.[LB][END]
+
+
+[MSGH][000000a2][0000005e]
+[EN]
+An encyclopedia page from[LB]
+the books of Pliny.[LB][END]
+[ES]
+Página de enciclopedia[LB]
+de los libros de Plinio.[LB][END]
+
+
+[MSGH][000000a3][0000005c]
+[EN]
+Volume I of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen I del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000a4][0000005e]
+[EN]
+Volume II of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen II del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000a5][00000060]
+[EN]
+Volume III of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen III del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000a6][0000005e]
+[EN]
+Volume IV of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen IV del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000a7][0000005c]
+[EN]
+Volume V of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen V del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000a8][0000005e]
+[EN]
+Volume VI of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen VI del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000a9][00000060]
+[EN]
+Volume VII of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen VII del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000aa][00000062]
+[EN]
+Volume VIII of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen VIII del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000ab][0000005e]
+[EN]
+Volume IX of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen IX del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000ac][0000005c]
+[EN]
+Volume X of the arms[LB]
+codex written by Pliny.[LB][END]
+[ES]
+Volumen X del códice de[LB]
+armas escrito por Plinio.[LB][END]
+
+
+[MSGH][000000ad][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]173[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]173[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000ae][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]174[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]174[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000af][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]175[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]175[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b0][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]176[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]176[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b1][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]177[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]177[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b2][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]178[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]178[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b3][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]179[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]179[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b4][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]180[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]180[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b5][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]181[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]181[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b6][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]182[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]182[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b7][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]183[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]183[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b8][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]184[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]184[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000b9][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]185[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]185[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000ba][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]186[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]186[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000bb][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]187[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]187[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000bc][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]188[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]188[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000bd][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]189[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]189[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000be][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]190[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]190[89f0][90e0][95b6][LB][END]
+
+
+[MSGH][000000bf][0000001a]
+[EN]
+[8d60][8341][8343][8365][8380]191[89f0][90e0][95b6][LB][END]
+[ES]
+[8d60][8341][8343][8365][8380]191[89f0][90e0][95b6][LB][END]
+

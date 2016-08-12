@@ -1,0 +1,256 @@
+[HEAD][00000be6][00000020]
+
+[MSGH][00000001][00000058]
+[EN]
+That one costs [DATA][0000]en.[LB]
+Do you still want it?[LB][END]
+[ES]
+Te costará [DATA][0000]en.[LB]
+¿Lo quieres?[LB][END]
+
+
+[MSGH][00000002][00000048]
+[EN]
+Item purchased.[LB]
+Will you equip it?[LB][END]
+[ES]
+Has adquirido el objeto.[LB]
+¿Quieres equipártelo?[LB][END]
+
+
+[MSGH][00000003][00000028]
+[EN]
+Equipped the item.[LB][END]
+[ES]
+Te has equipado el objeto.[LB][END]
+
+
+[MSGH][00000004][0000003a]
+[EN]
+I'll pay [DATA][0000]en for[LB]
+that one.[LB][END]
+[ES]
+Te daré [DATA][0000] en. por[LB]
+eso.[LB][END]
+
+
+[MSGH][00000005][00000024]
+[EN]
+Sold off the [DATA][0000].[LB][END]
+[ES]
+Has vendido [DATA][0000].[LB][END]
+
+
+[MSGH][00000006][00000078]
+[EN]
+You can change the party's[LB]
+equipment on the bottom screen.[LB][END]
+[ES]
+Puedes cambiar la equipación[LB]
+del grupo desde la pantalla inferior.[LB][END]
+
+
+[MSGH][00000007][00000028]
+[EN]
+Buy various goods.[LB][END]
+[ES]
+Comprar bienes varios.[LB][END]
+
+
+[MSGH][00000008][00000032]
+[EN]
+Sell accumulated goods.[LB][END]
+[ES]
+Vender bienes acumulados.[LB][END]
+
+
+[MSGH][00000009][0000002e]
+[EN]
+Enhance your weapons.[LB][END]
+[ES]
+Mejorar tus armas.[LB][END]
+
+
+[MSGH][0000000a][00000032]
+[EN]
+Talk to the shopkeeper.[LB][END]
+[ES]
+Hablar con la dependienta.[LB][END]
+
+
+[MSGH][0000000b][00000030]
+[EN]
+Change your equipment.[LB][END]
+[ES]
+Cambiar tu equipación.[LB][END]
+
+
+[MSGH][0000000c][0000002c]
+[EN]
+Return to the plaza.[LB][END]
+[ES]
+Regresar a la plaza.[LB][END]
+
+
+[MSGH][0000000d][00000018]
+[EN]
+Bought [DATA][0000].[LB][END]
+[ES]
+Has comprado [DATA][0000].[LB][END]
+
+
+[MSGH][0000000e][00000042]
+[EN]
+You can't carry any more items![LB][END]
+[ES]
+¡No puedes llevar más objetos![LB][END]
+
+
+[MSGH][0000000f][0000004a]
+[EN]
+Select a slot on the bottom screen.[LB][END]
+[ES]
+Elige un bloque de la pantalla inferior.[LB][END]
+
+
+[MSGH][00000010][00000036]
+[EN]
+You have nothing to sell![LB][END]
+[ES]
+¡No tienes nada que vender![LB][END]
+
+
+[MSGH][00000011][00000036]
+[EN]
+I'll pay [DATA][0200]en for[LB]
+[DATA][0000] x[DATA][0100].[LB][END]
+[ES]
+Te daré [DATA][0200]en. por[LB]
+[DATA][0000] x[DATA][0100].[LB][END]
+
+
+[MSGH][00000012][00000078]
+[EN]
+You can change the party's[LB]
+equipment on the bottom screen.[LB][END]
+[ES]
+Puedes cambiar la equipación[LB]
+del grupo desde la pantalla inferior.[LB][END]
+
+
+[MSGH][00000013][00000034]
+[EN]
+New items are available![LB][END]
+[ES]
+¡Hay nuevos objetos en venta![LB][END]
+
+
+[MSGH][00000014][00000032]
+[EN]
+A new item is in stock![LB][END]
+[ES]
+¡Hay un nuevo en vetna![LB][END]
+
+
+[MSGH][00000015][00000032]
+[EN]
+You need [DATA][0100] more of [DATA][0000].[LB][END]
+[ES]
+Necesitas [DATA][0100] más de [DATA][0000].[LB][END]
+
+
+[MSGH][00000016][00000058]
+[EN]
+You need [DATA][0100] more of [DATA][0000],[LB]
+and [DATA][0300] more of [DATA][0200].[LB][END]
+[ES]
+Necesitas [DATA][0100] más de [DATA][0000],[LB]
+y [DATA][0300] más de [DATA][0200].[LB][END]
+
+
+[MSGH][00000017][00000076]
+[EN]
+You need [DATA][0100] more of [DATA][0000],[LB]
+[DATA][0300] more of [DATA][0200],[LB]
+and [DATA][0500] more of [DATA][0400].[LB][END]
+[ES]
+Necesitas [DATA][0100] más de [DATA][0000],[LB]
+[DATA][0300] más de [DATA][0200],[LB]
+y [DATA][0500] más de [DATA][0400].[LB][END]
+
+
+[MSGH][00000018][0000008c]
+[EN]
+That costs [DATA][0000]en. Do you still[LB]
+want it? [COLOR][0b00](Cannot equip this item.)[COLOR][0000][LB][END]
+[ES]
+Te costará [DATA][0000] en. ¿Quieres[LB]
+comprarlo? [COLOR][0b00](No lo puedes equipar)[COLOR][0000][LB][END]
+
+
+[MSGH][00000019][0000006a]
+[EN]
+Items that have been forged[LB]
+cannot be sold in bulk![LB][END]
+[ES]
+¡Los objetos forjados no[LB]
+pueden venderse por volumen![LB][END]
+
+
+[MSGH][0000001a][000000ae]
+[EN]
+Cannot equip the doll without[LB]
+removing another weapon. Do you[LB]
+still wish to equip it?[LB][END]
+[ES]
+No puedes llevar la muñeca[LB]
+sin antes quitar otro arma. ¿Quieres[LB]
+equiparla igualmente?[LB][END]
+
+
+[MSGH][0000001b][00000078]
+[EN]
+That cannot be removed without[LB]
+first discarding something.[LB][END]
+[ES]
+No puedes deshacerte de esto[LB]
+sin antes retirar algo.[LB][END]
+
+
+[MSGH][0000001c][00000092]
+[EN]
+Equip the purchased item?[LB]
+[COLOR][0b00]Second Sword on the doll will[LB]
+be removed.[COLOR][0000][LB][END]
+[ES]
+¿Equipar el arma comprada?[LB]
+[COLOR][0b00]La Dos espadas de la muñeca[LB]
+se retirará.[COLOR][0000][LB][END]
+
+
+[MSGH][0000001d][00000080]
+[EN]
+Your inventory is too full to buy[LB]
+anything. You can only sell.[LB][END]
+[ES]
+El inventario está lleno y no puedes[LB]
+comprar nada. Solo puedes vender.[LB][END]
+
+
+[MSGH][0000001e][00000046]
+[EN]
+Purchase the goods at a discount?[LB][END]
+[ES]
+¿Comprar bienes con el vale de descuento?[LB][END]
+
+
+[MSGH][0000001f][000000c0]
+[EN]
+You have equipped a weapon that[LB]
+will enable [COLOR][0500]Second Sword[COLOR][0000] to always[LB]
+follow a normal attack.[LB][END]
+[ES]
+Has equipado un arma que activa[LB]
+[COLOR][0500]Dos espadas[COLOR][0000]; esto[LB]
+prosigue a un ataque normal.[LB][END]
+

@@ -1,0 +1,278 @@
+[HEAD][00000958][00000028]
+
+[MSGH][00000001][0000002e]
+[EN]
+Increase attack power[LB][END]
+[ES]
+Aumenta potencia de ataque[LB][END]
+
+
+[MSGH][00000002][00000026]
+[EN]
+Increase accuracy[LB][END]
+[ES]
+Aumenta precisión[LB][END]
+
+
+[MSGH][00000003][00000024]
+[EN]
+Add blind effect[LB][END]
+[ES]
+Añade efecto ceguera[LB][END]
+
+
+[MSGH][00000004][00000024]
+[EN]
+Add sleep effect[LB][END]
+[ES]
+Añade efecto dormid.[LB][END]
+
+
+[MSGH][00000005][0000001c]
+[EN]
+Increase STR[LB][END]
+[ES]
+Aumenta FUE[LB][END]
+
+
+[MSGH][00000006][0000001c]
+[EN]
+Increase TEC[LB][END]
+[ES]
+Aumenta TÉC[LB][END]
+
+
+[MSGH][00000007][0000001c]
+[EN]
+Increase VIT[LB][END]
+[ES]
+Aumenta VIT[LB][END]
+
+
+[MSGH][00000008][0000001c]
+[EN]
+Increase AGI[LB][END]
+[ES]
+Increase AGI[LB][END]
+
+
+[MSGH][00000009][0000001c]
+[EN]
+Increase LUC[LB][END]
+[ES]
+Aumenta SUE[LB][END]
+
+
+[MSGH][0000000a][00000026]
+[EN]
+Add poison effect[LB][END]
+[ES]
+Añade efecto veneno[LB][END]
+
+
+[MSGH][0000000b][00000028]
+[EN]
+Add confuse effect[LB][END]
+[ES]
+Añade efecto confusión[LB][END]
+
+
+[MSGH][0000000c][0000002c]
+[EN]
+Add paralysis effect[LB][END]
+[ES]
+Añade efecto parálisis[LB][END]
+
+
+[MSGH][0000000d][00000022]
+[EN]
+Add stun effect[LB][END]
+[ES]
+Añade efecto sorprendid.[LB][END]
+
+
+[MSGH][0000000e][00000026]
+[EN]
+Add plague effect[LB][END]
+[ES]
+Añade efecto plaga[LB][END]
+
+
+[MSGH][0000000f][00000024]
+[EN]
+Add curse effect[LB][END]
+[ES]
+Añade efecto maldición[LB][END]
+
+
+[MSGH][00000010][0000002a]
+[EN]
+Bind enemies' heads[LB][END]
+[ES]
+Ata la cabeza de los enemigos[LB][END]
+
+
+[MSGH][00000011][00000028]
+[EN]
+Bind enemies' arms[LB][END]
+[ES]
+Ata los brazos de los enemigos[LB][END]
+
+
+[MSGH][00000012][00000028]
+[EN]
+Bind enemies' legs[LB][END]
+[ES]
+Ata las piernas de los enemigos[LB][END]
+
+
+[MSGH][00000013][00000030]
+[EN]
+Increase critical rate[LB][END]
+[ES]
+Aumenta el índice de críticos[LB][END]
+
+
+[MSGH][00000014][00000026]
+[EN]
+Add fire affinity[LB][END]
+[ES]
+Añade afinidad de fuego[LB][END]
+
+
+[MSGH][00000015][00000024]
+[EN]
+Add ice affinity[LB][END]
+[ES]
+Añade afinidad de hielo[LB][END]
+
+
+[MSGH][00000016][00000026]
+[EN]
+Add volt affinity[LB][END]
+[ES]
+Añade afinidad de electricidad[LB][END]
+
+
+[MSGH][00000017][00000024]
+[EN]
+Add stone effect[LB][END]
+[ES]
+Añade efecto piedra[LB][END]
+
+
+[MSGH][00000018][00000034]
+[EN]
+Add instant death effect[LB][END]
+[ES]
+Añade efecto muerte instantánea[LB][END]
+
+
+[MSGH][00000019][0000000e]
+[EN]
+Blank[LB][END]
+[ES]
+En blanco[LB][END]
+
+
+[MSGH][0000001a][00000022]
+[EN]
+Increase max HP[LB][END]
+[ES]
+Aumenta PV máx.[LB][END]
+
+
+[MSGH][0000001b][00000024]
+[EN]
+Increase max TP [LB][END]
+[ES]
+Aumenta PT máx[LB][END]
+
+
+[MSGH][0000001c][00000036]
+[EN]
+Increase slash resistance[LB][END]
+[ES]
+Aumenta resistencia a cortes[LB][END]
+
+
+[MSGH][0000001d][00000038]
+[EN]
+Increase pierce resistance[LB][END]
+[ES]
+Aumenta resistencia a perforaciones[LB][END]
+
+
+[MSGH][0000001e][00000038]
+[EN]
+Increase strike resistance[LB][END]
+[ES]
+Añade resistencia a impactos[LB][END]
+
+
+[MSGH][0000001f][00000020]
+[EN]
+Increase speed[LB][END]
+[ES]
+Aumenta velocidad[LB][END]
+
+
+[MSGH][00000020][00000046]
+[EN]
+Increase limit skill accumulation[LB][END]
+[ES]
+Aumenta la acumulación de hab. límite[LB][END]
+
+
+[MSGH][00000021][0000003e]
+[EN]
+Choose a slot for the effect.[LB][END]
+[ES]
+Elige un bloque para el efecto.[LB][END]
+
+
+[MSGH][00000022][00000036]
+[EN]
+Choose a weapon to forge.[LB][END]
+[ES]
+Elige un arma que quieras forjar.[LB][END]
+
+
+[MSGH][00000023][0000006e]
+[EN]
+The cost will be [DATA][0000]en.[LB]
+Forge the effect on this slot?[LB][END]
+[ES]
+El coste asciende a [DATA][0000] en.[LB]
+¿Forjar el efecto en este bloque?[LB][END]
+
+
+[MSGH][00000024][00000076]
+[EN]
+Existing effect will be overwritten.[LB]
+Pay [DATA][0000]en to proceed?[LB][END]
+[ES]
+El efecto existente se va a sobreescribir.[LB]
+¿Pagar [DATA][0000] en para proceder?[LB][END]
+
+
+[MSGH][00000025][00000020]
+[EN]
+Forged the [DATA][0000].[LB][END]
+[ES]
+Has forjado: [DATA][0000].[LB][END]
+
+
+[MSGH][00000026][0000003a]
+[EN]
+You don't have any weapons![LB][END]
+[ES]
+¡No tienes armas![LB][END]
+
+
+[MSGH][00000027][00000036]
+[EN]
+You don't have enough TP![LB][END]
+[ES]
+¡No tienes PT suficientes![LB][END]
+

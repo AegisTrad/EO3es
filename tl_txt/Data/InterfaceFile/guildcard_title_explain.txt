@@ -1,0 +1,118 @@
+[HEAD][0000071c][0000000d]
+
+[MSGH][00000000][00000082]
+[EN]
+Proof that the Senatus approves[LB]
+your guild entering the forest.[LB][END]
+[ES]
+Prueba que determina la aprobación del[LB]
+Senado para aventurarse en el bosque.[LB][END]
+
+
+[MSGH][00000001][0000006a]
+[EN]
+Given in honor of discovering[LB]
+the fabled Deep City.[LB][END]
+[ES]
+Otorgado en honor al descubrimiento[LB]
+de la legendaria Inmersópolis.[LB][END]
+
+
+[MSGH][00000002][0000007c]
+[EN]
+Protected the Porcelain Lady[LB]
+from a mechanized Abyssal King.[LB][END]
+[ES]
+Protegiste a la Dama de Porcelana[LB]
+del Rey Abismal mecanizado.[LB][END]
+
+
+[MSGH][00000003][00000084]
+[EN]
+Obeyed the Abyssal King, defeating[LB]
+the Deep One-ridden Princess.[LB][END]
+[ES]
+Siguiendo al Rey Abismal, derrotaste[LB]
+a la Princesa poseída por el Insondable.[LB][END]
+
+
+[MSGH][00000004][0000007c]
+[EN]
+Reunited the royal siblings[LB]
+before defeating the Eldest One.[LB][END]
+[ES]
+Reuniste a los hermanos de la realeza[LB]
+antes de acabar con el Inmemorial.[LB][END]
+
+
+[MSGH][00000005][0000007c]
+[EN]
+Defeated the Abyssal God that[LB]
+arrived from the starry ocean.[LB][END]
+[ES]
+Derrotaste al Dios Abismal que[LB]
+llegó del océano estrellado.[LB][END]
+
+
+[MSGH][00000006][0000007e]
+[EN]
+Voyaged to every location and[LB]
+defeated the 12 major monsters.[LB][END]
+[ES]
+Viajaste largo y ancho por los mares[LB]
+y derrotaste a 12 grandes monstruos.[LB][END]
+
+
+[MSGH][00000007][00000070]
+[EN]
+Gathered every Limit Skill[LB]
+scattered across the world.[LB][END]
+[ES]
+Conseguiste todas las Habilidades[LB]
+Límite esparcidas por el mundo.[LB][END]
+
+
+[MSGH][00000008][0000007a]
+[EN]
+Traversed the Yggdrasil Labyrinth[LB]
+and found every treasure.[LB][END]
+[ES]
+Recorriste el Laberinto de Yggdrasil[LB]
+y encontraste todos sus tesoros.[LB][END]
+
+
+[MSGH][00000009][00000074]
+[EN]
+Attended to every request given[LB]
+at the Butterfly Bistro.[LB][END]
+[ES]
+Cumpliste todos los encargos[LB]
+del Bistró mariposa.[LB][END]
+
+
+[MSGH][0000000a][0000007a]
+[EN]
+Sailed the seas gathering all[LB]
+goods, ship parts, and epics.[LB][END]
+[ES]
+Cruzaste los mares para hallar[LB]
+bienes, partes de barco y tomos.[LB][END]
+
+
+[MSGH][0000000b][00000078]
+[EN]
+Traversed Yggdrasil's Labyrinth[LB]
+and defeated all monsters.[LB][END]
+[ES]
+Recorriste el Laberinto de Yggdrasil[LB]
+y derrotaste a todos los monstruos.[LB][END]
+
+
+[MSGH][0000000c][0000007a]
+[EN]
+Traversed Yggdrasil's Labyrinth[LB]
+and gathered all materials.[LB][END]
+[ES]
+Atravesaste el Laberinto de Yggdrasil[LB]
+y recogiste todos los materiales.[LB][END]
+

@@ -1,0 +1,528 @@
+Knife
+Scramasax
+Dagger
+Shortsword
+Boar Sword
+Broadsword
+Rapier
+Viking
+Shamshir
+Claymore
+Executor
+Katzbalger
+Steelsword
+Epee
+Last Estoc
+Pattisa
+Flamberge
+Duergar
+Shinryuu
+Bone Axe
+Hand Axe
+Celtis
+Broadaxe
+Battle Axe
+Biliomg
+Tabar
+Great Axe
+Bardiche
+Halberd
+Wand
+Breaker
+Labyris
+Francisca
+Bhuj
+Fasces Axe
+Flame Axe
+Meteor Axe
+Hatchet
+Staff
+Bone Staff
+Bone Mace
+Down Staff
+Bone Flail
+Gem Staff
+War Mace
+Luck Staff
+Godendag
+Mystic Rod
+Warhammer
+Arcana Rod
+Sage Wand
+Wakizashi
+Uchigatana
+Ohdachi
+Kogarasu
+Shida
+Zanmatou
+Kuzunosada
+Hachi
+Hisamemaru
+Masamune
+Wood Bow
+Enamel Bow
+Short Bow
+Beast Bow
+Hard Sling
+Long Bow
+Hindi
+Self Bow
+Hunter Bow
+Fin Bow
+Vine Bow
+Heaven Bow
+Shigetou
+War Bow
+Arbalest
+Failnaught
+Zamiel Bow
+Arc Drawer
+Light Whip
+Fang Whip
+Leather Whip
+Vine Whip
+Nail Whip
+Edge Whip
+Toxic Whip
+Gum Whip
+Wind Whip
+Shred Whip
+Sting Whip
+Blade Whip
+Nine Tails
+Knout
+Dead Whip
+Tormentor
+Dominator
+Volt Whip
+Thorn Whip
+Tweed
+Jerkin
+Leaf Coat
+Hide Vest
+Hide Armor
+Plate
+Doublet
+Buffcoat
+Briault
+Chain Mail
+Petal Coat
+Leaf Tunic
+Iron Plate
+Ring Mail
+Oak Jacket
+Wing Coat
+Hauberk
+Stud Vest
+Fancy Coat
+Cotardie
+Full Armor
+Plate Mail
+7 Doublet
+Surcoat
+Tiger Coat
+Fairy Robe
+Dark Tunic
+Brigandine
+Ebon Plate
+Lycoris
+Wyvernmail
+Jazeraint
+Demon Coat
+Rune Tweed
+Rune Tunic
+Blood Mail
+Composite
+Azure Coat
+Blood Coat
+Dino Plate
+Demon Mail
+Sylpheed
+Holy Armor
+Ghost Vest
+Mobius Alb
+Angel Robe
+Fairy Mail
+Ruby Mail
+Hex Mantle
+Moss Coat
+Flame Coat
+Frost Coat
+Volt Coat
+Hairpin
+Hide Hat
+Plumed Hat
+Chain Helm
+Gum Helm
+Scale Helm
+Scale Cap
+Sandy Pin
+Tiger Cap
+Circlet
+Blood Helm
+Angel Helm
+Knit Gloves
+Hide Gloves
+Down Gloves
+Iron Gloves
+Bear Gloves
+Gum Gloves
+Fang Gloves
+Sand Gloves
+Tiger Gloves
+Rune Gloves
+Blood Mitts
+Brave Mitts
+Ebon Gloves
+Athanor
+Ruby Mitts
+Toxic Mitts
+Targe
+Hide Aspis
+Aspis
+Oval Aspis
+Heat Aspis
+Gum Aspis
+Body Aspis
+Ebon Aspis
+Moon Aspis
+King Aspis
+Halo Aspis
+Holy Aspis
+Pain Aspis
+Leaf Boots
+Hide Boots
+Plume Boots
+Chain Boots
+Moccasins
+Scale Boots
+Fairy Boots
+Tiger Boots
+Flame Boots
+Fur Boots
+Dyed Boots
+Speed Boots
+Hide Belt
+Hide Ring
+Red Charm
+Petal Ring
+Cut Charm
+Gem Ring
+Leaf Cape
+Fire Ring
+Star Charm
+Tusk Charm
+Old Choker
+Hide Cape
+Amber Ring
+Sea Charm
+Blue Ring
+Red Cape
+Evil Charm
+Rose Necklace
+Royal Ring
+Gold Cape
+Angel Ring
+Ward Gem
+Jewel Eye
+Ruby
+Sapphire
+Topaz
+Tourmaline
+Adamas
+Hex Doll
+Ocarina
+Lute
+Flute
+Kithara
+Aulos
+Angel Harp
+Syrinx
+Town Medal
+Town Crown
+Moss Ring
+Moss Band
+Small Fang
+Soft Hide
+Beast Bone
+Hard Shell
+Bug Wing
+Lily
+Insect Eye
+Hare Tail
+Horn
+Hardwood
+Vine
+Charcoal
+Gum Hide
+Thorn
+Metal Horn
+Stiff Hide
+Amber Lump
+Crabapple
+Mugwort
+Red Fruit
+Whitestone
+Pyroxene
+Golem Rock
+Large Fang
+Huge Fang
+White Hide
+Scythe
+Sticky Goo
+Steel Lump
+Stinger
+Sticky Web
+Bent Claw
+Light Wood
+Dye Petals
+Starseed
+Scent Wood
+Gum Vine
+Feather
+Tailbone
+Carminite
+Iron Shell
+Thick Leaves
+Bird Talon
+Tiger Fang
+Tiger Fur
+Mint Leaf
+Scrap Iron
+Fossil
+Bear Fur
+Bird Limb
+Thin Shell
+Toxic Barb
+Sharp Horn
+Tough Wing
+Tough Fang
+Great Tusk
+Gum Throat
+Rock Coral
+Elastic
+Glass Eye
+Steel Bone
+Bone Shard
+Carapace
+Bug Nest
+Bat Wing
+Shiny Goo
+Shred Nail
+Red Hide
+Blood Fang
+Fish Scales
+Fish Fin
+Crab Leg
+Ant Honey
+Stab Shell
+Strawberry
+Sea Branch
+Corundum
+Red Blade
+Death Claw
+Huge Fin
+100 Shell
+Gator Skin
+Heated Fur
+Fire Tail
+White Skin
+White Fang
+Shiny Horn
+Musk
+Broken Eye
+Silver Eye
+Nyx Scythe
+Tendon
+Dried Vine
+Pure Root
+Hard Shard
+Ink Stick
+Sand Cloth
+Sand Twig
+Fairy Wing
+Fairy Sap
+Red Plume
+Red Beak
+Dry Peach
+Throb Vine
+Red String
+Red Thread
+Oleander
+Steel Claw
+Steel Chip
+Cullinan
+Cordyceps
+Sap Wine
+Space Nail
+Tiny Tooth
+Demon Fur
+Rex Throat
+Gem Core
+Gum Thread
+Red Fur
+Red Blood
+Gold Shell
+Blue Blood
+Death Stem
+Gold Fur
+Gold Tusk
+Gold Horn
+Space Husk
+Space Claw
+Angel Wing
+Life Honey
+Sternum
+Curse Tusk
+Royal Hide
+Shroud
+Red Ore
+Ambrosia
+Tri-Color
+Headroot
+Armroot
+Legroot
+Gum String
+Shiny Vine
+Shiny Seed
+Drywall
+Crystwall
+Jade Ore
+Azure Ore
+Evil Shell
+Evil Scale
+Evil Plume
+Evil Crest
+1000 Shell
+Old Shell
+Gem Scale
+Black Root
+Gem Plume
+Hex Marrow
+Gold Plume
+Hell Wing
+Velvet
+Holed Limb
+Ruby Skull
+Ruby Bone
+Hex Chain
+Sword Rib
+Flame Skin
+Frost Skin
+Volt Skin
+Volt Core
+Fire Scale
+Fire Fang
+Statue Arm
+Beast Eye
+Frost Bone
+Demon Core
+Ebon Plume
+Ice Spine
+Barbel
+Royal Vine
+Harvester
+Royal Mane
+Ant's Jaw
+Ice Scale
+Wine Whip
+Rose Whip
+Toxic Hand
+Volt Scale
+Yellow Ore
+Bug Scales
+Cold Scales
+Odd Fruit
+Cross Seed
+Narcissus
+Moschino
+S Leaf
+M Leaf
+L Leaf
+Medica
+Medica II
+Medica III
+Medica IV
+Medica V
+Amrita
+Amrita II
+Hamao
+Hamaoprime
+Soma
+Somaprime
+Nectar
+Nectar II
+Nectar III
+Theriaca A
+Theriaca B
+Axcela
+Axcela II
+Axcela III
+Bravant
+Bravant II
+Stonard
+Stonard II
+Fire Mist
+Ice Mist
+Volt Mist
+All Mist
+Blaze Oil
+Freeze Oil
+Shock Oil
+Ward Chime
+Gold Chime
+Magnet
+Map Event
+Holy Water
+Water
+Bottle
+Junk Box
+Junk Box
+Locket
+Plant Seed
+Gold Stone
+Gold Stone
+Moon Stone
+Gouda
+Odd Powder
+Lucky Coin
+Rust Sword
+Broken Axe
+Old Wand
+Panacea
+Rare Bloom
+Gold Seed
+Vox Stone
+Clear Key
+Violet Key
+Dragon Egg
+Card Key
+Holy Grail
+Copper Top
+Shiny Disc
+Soft Glass
+Token
+Clam Tool
+Magic Down
+Magic Down
+Magic Down
+Diamond
+Black Gem
+Shiny Gem
+Old Scroll
+Hex Bell
+Map
+Radha Note
+Warp Wire
+Tough Fang
+Tough Wing
+Frozen Arm
+Ankh A
+Ankh B
+Ankh C
+Ankh D
+Ankh E
+Ankh Motor
+Bandanna
+Pearl
+Rare Meat

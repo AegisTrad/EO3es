@@ -1,0 +1,30 @@
+[HEAD][00000218][00000002]
+
+[MSGH][00000000][000000c0]
+[EN]
+Are you explorers hoping to[LB]
+investigate the Labyrinth? You'll[LB]
+need to check in at the Senatus.[LB][END]
+[ES]
+¿Sois exploradores con ansias de[LB]
+explorar el Laberinto? Antes tendréis[LB]
+que dar parte en el Senado.[LB][END]
+
+
+[MSGH][00000001][00000118]
+[EN]
+...Are we all set to go to the[LB]
+Deep City?[LB][PB]
+[ES]
+¿Estamos preparados para dirigirnos[LB]
+a Inmersópolis?[LB][PB]
+
+[EN]
+Then let's hurry up and go! If[LB]
+there's a city at the bottom of[LB]
+the sea, I can't wait to see it![LB][END]
+[ES]
+¡Pues vamos en marcha! ¡Tengo[LB]
+muchísimas ganas de contemplar[LB]
+la ciudad sumergida en el mar![LB][END]
+

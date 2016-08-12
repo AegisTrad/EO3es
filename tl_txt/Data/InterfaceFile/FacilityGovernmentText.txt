@@ -1,0 +1,152 @@
+[HEAD][000006de][00000016]
+
+[MSGH][00000000][00000036]
+[EN]
+Accept official missions.[LB][END]
+[ES]
+Aceptar misiones oficiales.[LB][END]
+
+
+[MSGH][00000001][00000052]
+[EN]
+File a report after[LB]
+completed missions.[LB][END]
+[ES]
+Archivar el informe de[LB]
+una misión completada.[LB][END]
+
+
+[MSGH][00000002][0000006a]
+[EN]
+Tell the senator about monsters[LB]
+and items you find.[LB][END]
+[ES]
+Informar a la senadora de los[LB]
+monstruos y enseres que has hallado.[LB][END]
+
+
+[MSGH][00000003][0000003a]
+[EN]
+Speak with Senator Flowdia.[LB][END]
+[ES]
+Hablar con la senadora Flowdia.[LB][END]
+
+
+[MSGH][00000004][0000002c]
+[EN]
+Return to the plaza.[LB][END]
+[ES]
+Volver al centro de la ciudad.[LB][END]
+
+
+[MSGH][00000005][00000038]
+[EN]
+There are no new missions.[LB][END]
+[ES]
+No hay misiones disponibles.[LB][END]
+
+
+[MSGH][00000006][0000002c]
+[EN]
+Accept this mission?[LB][END]
+[ES]
+¿Aceptar la misión?[LB][END]
+
+
+[MSGH][00000007][00000040]
+[EN]
+You have accepted the mission.[LB][END]
+[ES]
+Te has encomendado la misión.[LB][END]
+
+
+[MSGH][00000008][00000048]
+[EN]
+You haven't accepted any missions.[LB][END]
+[ES]
+No tienes encomendada ninguna misión.[LB][END]
+
+
+[MSGH][00000009][00000054]
+[EN]
+Reported your encounter with the[LB]
+[COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+[ES]
+Has informado de tu encuentro con[LB]
+[COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][0000000a][00000050]
+[EN]
+Reported your discovery of the[LB]
+[COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+[ES]
+Has informado del descubrimiento de[LB]
+[COLOR][0500][DATA][0000][COLOR][0000].[LB][END]
+
+
+[MSGH][0000000b][00000036]
+[EN]
+Please choose a subclass.[LB][END]
+[ES]
+Elige una subclase.[LB][END]
+
+
+[MSGH][0000000c][00000082]
+[EN]
+This class will be set as the[LB]
+character's subclass. Is this OK?[LB][END]
+[ES]
+Esta será la subclase elegida[LB]
+para el personaje. ¿Confirmar?[LB][END]
+
+
+[MSGH][0000000d][00000024]
+[EN]
+[DATA][0000] subclass set.[LB][END]
+[ES]
+Has asignado la subclase [DATA][0000].[LB][END]
+
+
+[MSGH][0000000e][00000054]
+[EN]
+You have already designated[LB]
+a subclass! [LB][END]
+[ES]
+Este personaje ya tiene asignada[LB]
+una subclase. [LB][END]
+
+
+[MSGH][0000000f][0000007e]
+[EN]
+This will be the character's[LB]
+designated subclass. Is this OK?[LB][END]
+[ES]
+Esta será la subclase elegida[LB]
+para el personaje. ¿Confirmar?[LB][END]
+
+
+[MSGH][00000010][0000006e]
+[EN]
+All party members already have[LB]
+a designated subclass![LB][END]
+[ES]
+Todos los miembros del equipo ya[LB]
+tienen asignada una subclase.[LB][END]
+
+
+[MSGH][00000014][0000002e]
+[EN]
+Designate a subclass.[LB][END]
+[ES]
+Asignar una subclase.[LB][END]
+
+
+[MSGH][00000015][0000005c]
+[EN]
+Speak with denizens of the[LB]
+Celestial Palace.[LB][END]
+[ES]
+Hablar con los moradores del[LB]
+Palacio celestial.[LB][END]
+

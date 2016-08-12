@@ -1,0 +1,29 @@
+[HEAD][000000e6][00000005]
+
+[MSGH][00000001][00000028]
+[EN]
+The jeweled branch[LB][END]
+[ES]
+La rama enjoyada[LB][END]
+
+
+[MSGH][00000002][00000022]
+[EN]
+Treasure Island[LB][END]
+[ES]
+Isla del tesoro[LB][END]
+
+
+[MSGH][00000003][0000001a]
+[EN]
+The dutiful[LB][END]
+[ES]
+Responsabilidades[LB][END]
+
+
+[MSGH][00000004][00000022]
+[EN]
+Ghost ship hunt[LB][END]
+[ES]
+Caza del barco fantasma[LB][END]
+

@@ -1,0 +1,29 @@
+[HEAD][000000fc][00000005]
+
+[MSGH][00000001][00000028]
+[EN]
+Historian pugilist[LB][END]
+[ES]
+Historiador púgil[LB][END]
+
+
+[MSGH][00000002][0000002a]
+[EN]
+Fashion trendsetter[LB][END]
+[ES]
+Marcatendencias[LB][END]
+
+
+[MSGH][00000003][00000020]
+[EN]
+Cygnal sisters[LB][END]
+[ES]
+Hermanas Cygnal[LB][END]
+
+
+[MSGH][00000004][0000002a]
+[EN]
+Ancient statue hunt[LB][END]
+[ES]
+Caza de la estatua antigua[LB][END]
+

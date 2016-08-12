@@ -1,0 +1,12 @@
+[HEAD][0000011c][00000001]
+
+[MSGH][00000000][000000ec]
+[EN]
+We're having trouble trading with the[LB]
+west islands and request help from you.[LB]
+Reward: Money, experience, and an item[LB][END]
+[ES]
+Tenemos un problema comerciando con[LB]
+las islas del oeste y solicitamos ayuda.[LB]
+Recompensa: Dinero, experiencia y un objeto[LB][END]
+

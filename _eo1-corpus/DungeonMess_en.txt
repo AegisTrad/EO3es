@@ -1,0 +1,45 @@
+English
+Landsknecht
+Survivalist
+Protector
+Dark Hunter
+Samurai
+Medic
+Alchemist
+Bard
+Hexcaster
+Confirm
+Cancel
+There's a path leading to a lower level of the labyrinth.
+Continue downstairs?
+There's a path leading to an upper level of the labyrinth.
+Continue upstairs?
+A mysterious crystal entwined with ivy blocks your path...
+.<!8005>=.<!8005>=.
+Found <!8068>                        .
+Found nothing.
+Found <!8068>                        , but your stock is full.
+The party hasn't the necessary skill to mine here.
+The party hasn't the necessary skill to cut wood here.
+The party hasn't the necessary skill to gather plants here.
+The daily limit has been reached.
+A large box stands before you.
+Open it?
+Obtained <!8068>                        .
+Obtained <!8068>                        .
+Obtained <!806A>        en.
+But you can't carry any more.
+The treasure inside has already been taken.
+It's a Geomagnetic Field. Return to town Save Ignore it
+The party will return to town. Is this what you wish to do?
+Save?
+The game has been saved.
+Refreshing water is dripping onto the stump.
+Will you drink the water?
+The party is revitalized.
+A large device stands before you. Its mechanism is still now...
+B21F B22F B23F B24F
+B21F B25F
+The ground gives way!
+Discovered a new item:    <!color=0006><!8068>                        <!color=0000>
+Encountered a new monster: <!color=0006><!8064>                        <!color=0000>

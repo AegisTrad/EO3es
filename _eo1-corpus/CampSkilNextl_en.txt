@@ -1,0 +1,1891 @@
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+20%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP 30%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+50%
+Learn; Dmg. up
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Learn; Def. up
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑↑
+Learn; Axe dmg. up
+Axe dmg. ↑
+Axe dmg. ↑
+Axe dmg. ↑
+Axe dmg. ↑↑
+Axe dmg. ↑
+Axe dmg. ↑
+Axe dmg. ↑
+Axe dmg. ↑
+Axe dmg. ↑↑
+Learn; Sword dmg. up
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑↑
+Learn
+Success rate ↑
+Success rate ↑
+Success rate ↑
+Success rate ↑↑
+Success rate ↑
+Success rate ↑
+Success rate ↑
+Success rate ↑
+Success rate ↑↑
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 2
+Dmg. ↑ TP: 2
+Dmg. ↑ TP: 2
+Dmg. ↑ TP: 2
+Dmg. ↑↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑↑ TP: 3
+Learn; TP: 2
+Dmg. ↑ TP: 2
+Dmg. ↑ TP: 2
+Dmg. ↑ TP: 2
+Dmg. ↑↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑ TP: 3
+Reduce penalty/Dmg. ↑↑ TP: 3
+Learn; TP: 2
+Nothing learned TP: 2
+Nothing learned TP: 2
+Nothing learned TP: 2
+TP cost lowered to 1
+Nothing learned TP: 1
+Nothing learned TP: 1
+Nothing learned TP: 1
+Nothing learned TP: 1
+TP cost lowered to 0
+Learn; TP: 4
+Dmg. ↑ TP: 4
+Dmg. ↑ TP: 5
+Dmg. ↑ TP: 5
+Dmg. ↑↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑↑ TP: 6
+Learn; TP: 3
+Dmg./Speed/Stun rate ↑ TP: 3
+Dmg./Speed/Stun rate ↑ TP: 4
+Dmg./Speed/Stun rate ↑ TP: 4
+Dmg./Speed/Stun rate ↑↑ TP: 5
+Dmg./Speed/Stun rate ↑ TP: 5
+Dmg./Speed/Stun rate ↑ TP: 5
+Dmg./Speed/Stun rate ↑ TP: 5
+Dmg./Speed/Stun rate ↑ TP: 5
+Dmg./Speed/Stun rate ↑↑ TP: 5
+Learn; TP: 3
+Dmg./Bind rate ↑ TP: 3
+Dmg./Bind rate ↑ TP: 4
+Dmg./Bind rate ↑ TP: 4
+Dmg. ↑/Bind rate ↑↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg. ↑/Bind rate ↑↑ TP: 5
+Learn; TP: 4
+Dmg. ↑ TP: 4
+Dmg. ↑ TP: 5
+Dmg. ↑ TP: 5
+Dmg. ↑↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑↑ TP: 6
+Learn; TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 7
+Dmg. ↑ TP: 7
+Dmg. ↑↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑↑ TP: 8
+Learn; TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑/50% 3-hit attack TP: 7
+Dmg. ↑ TP: 7
+Dmg. ↑↑/May hit 4 times TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑/50% 4-hit attack TP: 8
+Dmg. ↑↑ TP: 8
+Learn; TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 7
+Dmg. ↑ TP: 7
+Dmg. ↑↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑↑ TP: 8
+Learn; TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 7
+Dmg. ↑ TP: 7
+Dmg. ↑↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑↑ TP: 8
+Learn; TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 7
+Dmg. ↑ TP: 7
+Dmg. ↑↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑↑ TP: 8
+Learn; TP: 4
+Success ↑ TP: 4
+Success ↑ TP: 4
+Success ↑ TP: 4
+Success ↑↑ TP: 4
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑↑ TP: 5
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+30%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+50%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+50%
+Learn; AGI up
+AGI ↑
+AGI ↑
+AGI ↑
+AGI ↑↑
+AGI ↑
+AGI ↑
+AGI ↑
+AGI ↑
+AGI ↑↑
+Learn; Bow dmg. up
+Bow dmg. ↑
+Bow dmg. ↑
+Bow dmg. ↑
+Bow dmg. ↑↑
+Bow dmg. ↑
+Bow dmg. ↑
+Bow dmg. ↑
+Bow dmg. ↑
+Bow dmg. ↑↑
+Learn
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Learn; Ambush rate up
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 10
+Activation rate ↑ TP: 9
+Activation rate ↑ TP: 8
+Activation rate ↑ TP: 7
+Activation rate 100% TP: 6
+TP cost lowered to 5
+TP cost lowered to 4
+TP cost lowered to 3
+TP cost lowered to 2
+TP cost lowered to 1
+Learn; TP: 2
+Enemy accuracy ↓ TP: 2
+Enemy accuracy ↓ TP: 2
+Enemy accuracy ↓ TP: 2
+Enemy accuracy ↓↓ TP: 3
+Enemy accuracy ↓ TP: 3
+Enemy accuracy ↓ TP: 3
+Enemy accuracy ↓ TP: 3
+Enemy accuracy ↓ TP: 3
+Enemy accuracy ↓ TP: 3
+Learn; TP: 2
+Speed ↑ TP: 2
+Speed ↑ TP: 2
+Speed ↑ TP: 2
+Speed ↑ TP: 3
+Speed ↑ TP: 3
+Speed ↑ TP: 3
+Speed ↑ TP: 3
+Speed ↑ TP: 3
+Speed ↑ TP: 3
+Learn; TP: 4
+Dmg. ↑ TP: 4
+Dmg. ↑ TP: 5
+Dmg. ↑ TP: 5
+Dmg. ↑↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑↑ TP: 6
+Learn; 2 hits TP: 8
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑ TP: 9
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑↑/3 hits TP: 10
+Learn; TP: 3
+Dmg./Bind rate ↑ TP: 3
+Dmg./Bind rate ↑ TP: 4
+Dmg./Bind rate ↑ TP: 4
+Dmg. ↑/Bind rate ↑↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg. ↑/Bind rate ↑↑ TP: 5
+Learn; TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 11
+Dmg. ↑↑/Stun added TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑↑ TP: 12
+Learn; TP: 2
+Detection rate ↓ TP: 2
+Detection rate ↓ TP: 2
+Detection rate ↓ TP: 2
+Detection rate ↓↓ TP: 3
+Detection rate ↓ TP: 3
+Detection rate ↓ TP: 3
+Detection rate ↓ TP: 3
+Detection rate ↓ TP: 3
+Detection rate ↓ TP: 3
+Learn; TP: 4
+Escape rate ↑ TP: 4
+Escape rate ↑ TP: 4
+Escape rate ↑ TP: 4
+Escape rate ↑↑/Add Def. TP: 5
+Escape rate/Def. ↑ TP: 5
+Escape rate/Def. ↑ TP: 5
+Escape rate/Def. ↑ TP: 5
+Escape rate/Def. ↑ TP: 5
+Escape rate/Def. ↑↑ TP: 5
+Learn
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Learn; 70% TP: 2
+35 steps TP: 2
+40 steps TP: 3
+45 steps TP: 3
+60 steps TP: 4
+Encounter ↓ 65 steps TP: 4
+Encounter ↓ 70 steps TP: 4
+Encounter ↓ 75 steps TP: 4
+Encounter ↓ 80 steps TP: 4
+Encounter ↓ 100 steps TP: 4
+Learn; 2 squares TP: 2
+Lasts 18 steps TP: 2
+Lasts 20 steps/3 squares TP: 3
+Lasts 22 steps TP: 3
+Lasts 30 steps/4 squares TP: 4
+Lasts 32 steps TP: 4
+Lasts 34 steps TP: 4
+Lasts 36 steps TP: 4
+Lasts 38 steps TP: 4
+Lasts 50 steps TP: 4
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+20%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+30%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+50%
+Learn; Def. up
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑
+Def. ↑↑
+Learn; Elemental def. up
+Elemental def. ↑
+Elemental def. ↑
+Elemental def. ↑
+Elemental def. ↑
+Elemental def. ↑
+Elemental def. ↑
+Elemental def. ↑
+Elemental def. ↑
+Elemental def. ↑↑
+Learn
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Learn
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑
+Activation rate ↑↑
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 2
+Draw rate/Speed ↑ TP: 2
+Draw rate/Speed ↑ TP: 2
+Draw rate/Speed ↑ TP: 2
+Draw rate/Speed ↑↑ TP: 3
+Speed ↑/Def. added TP: 3
+Def./Speed ↑ TP: 3
+Def./Speed ↑ TP: 3
+Def./Speed ↑ TP: 3
+Def./Speed ↑ TP: 3
+Learn; TP: 3
+Guard chance ↑ TP: 3
+Guard chance ↑ TP: 4
+Guard chance ↑ TP: 4
+Guard chance ↑↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Learn; TP: 3
+Guard chance ↑ TP: 3
+Guard chance ↑ TP: 4
+Guard chance ↑ TP: 4
+Guard chance ↑↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Guard chance ↑ TP: 5
+Learn; TP: 4
+Activation rate ↑ TP: 4
+Activation rate ↑ TP: 5
+Activation rate ↑ TP: 5
+Activation rate 100% TP: 6
+Multiple parries TP: 6
+Multiple parry rate ↑ TP: 6
+Multiple parry rate ↑ TP: 6
+Multiple parry rate ↑ TP: 6
+Multiple parry rate ↑↑ TP: 6
+Learn; TP: 4
+Def./Speed ↑ TP: 4
+Def./Speed ↑ TP: 5
+Def./Speed ↑ TP: 5
+Def./Speed ↑ TP: 6
+Def./Speed ↑ TP: 6
+Def./Speed ↑ TP: 6
+Def./Speed ↑ TP: 6
+Def./Speed ↑ TP: 6
+Def./Speed ↑ TP: 6
+Learn; TP: 8
+Def./speed ↑ TP: 9
+Def./speed ↑ TP: 10
+Def./speed ↑ TP: 11
+Def./speed ↑ TP: 12
+Def./speed ↑ TP: 12
+Def./speed ↑ TP: 12
+Def./speed ↑ TP: 12
+Def./speed ↑ TP: 12
+Def./speed ↑ TP: 12
+Learn; TP: 10
+Dmg. ↑ TP: 11
+Dmg. ↑ TP: 12
+Dmg. ↑ TP: 13
+Dmg. ↑↑ TP: 14
+Dmg. ↑ TP: 14
+Dmg. ↑ TP: 14
+Dmg. ↑ TP: 14
+Dmg. ↑ TP: 14
+Dmg. ↑↑ TP: 14
+Learn; TP: 6
+Fire resistance ↑ TP: 6
+Fire resistance ↑ TP: 7
+Fire resistance ↑ TP: 7
+Null fire TP: 8
+Drain fire TP: 8
+Drain fire ↑ TP: 8
+Drain fire ↑ TP: 8
+Drain fire ↑ TP: 8
+Drain fire ↑ TP: 8
+Learn; TP: 6
+Thunder resistance ↑ TP: 6
+Thunder resistance ↑ TP: 7
+Thunder resistance ↑ TP: 7
+Null Thunder TP: 8
+Drain Thunder TP: 8
+Drain Thunder ↑ TP: 8
+Drain Thunder ↑ TP: 8
+Drain Thunder ↑ TP: 8
+Drain Thunder ↑ TP: 8
+Learn; TP: 6
+Ice resistance ↑ TP: 6
+Ice resistance ↑ TP: 7
+Ice resistance ↑ TP: 7
+Null ice TP: 8
+Drain ice TP: 8
+Drain ice ↑ TP: 8
+Drain ice ↑ TP: 8
+Drain ice ↑ TP: 8
+Drain ice ↑ TP: 8
+Learn; TP: 4
+Heal rate/Speed ↑ TP: 4
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑↑ TP: 6
+Learn; TP: 10
+Heal rate/Speed ↑ TP: 11
+Heal rate/Speed ↑ TP: 12
+Heal rate/Speed ↑ TP: 13
+Heal rate/Speed ↑↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑↑ TP: 14
+Learn; TP: 4
+Success ↑ TP: 4
+Success ↑ TP: 4
+Success ↑ TP: 4
+Success ↑↑ TP: 4
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑ TP: 5
+Penalty ↓/Success ↑↑ TP:5
+Learn; 70% TP: 2
+35 steps TP: 2
+40 steps TP: 3
+45 steps TP: 3
+60 steps TP: 4
+Encounter ↓ 65 steps TP: 4
+Encounter ↓ 70 steps TP: 4
+Encounter ↓ 75 steps TP: 4
+Encounter ↓ 80 steps TP: 4
+Encounter ↓ 100 steps TP: 4
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+20%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+30%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+50%
+Learn; Dmg. up
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Learn; Whip dmg. up
+Whip dmg. ↑
+Whip dmg. ↑
+Whip dmg. ↑
+Whip dmg. ↑↑
+Whip dmg. ↑
+Whip dmg. ↑
+Whip dmg. ↑
+Whip dmg. ↑
+Whip dmg. ↑↑
+Learn; Sword dmg. up
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑
+Sword dmg. ↑↑
+Learn; Boost point+1
+Nothing
+Boost point+2
+Nothing
+Boost point+3
+Nothing
+Boost point+4
+Nothing
+Boost point+5
+Nothing
+Learn; At 30% HP or less
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+At 34% HP
+At 38% HP
+At 42% HP
+At 46% HP
+At 50% HP
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 2
+Detection rate ↓ TP: 2
+Detection rate ↓ TP: 2
+Detection rate ↓ TP: 2
+Detection rate ↓↓ TP: 3
+Detection rate ↓ TP3
+Detection rate ↓ TP3
+Detection rate ↓ TP3
+Detection rate ↓ TP3
+Detection rate ↓ TP3
+Learn; TP: 4
+Dmg./Poison rate ↑ TP: 4
+Dmg./Poison rate ↑ TP: 5
+Dmg./Poison rate ↑ TP: 5
+Dmg./Poison rate ↑ TP: 6
+Dmg./Poison rate ↑ TP: 6
+Dmg./Poison rate ↑ TP: 6
+Dmg./Poison rate ↑ TP: 6
+Dmg./Poison rate ↑ TP: 6
+Dmg./Poison rate ↑↑ TP: 6
+Learn; TP: 3
+Dmg./Bind rate ↑ TP: 3
+Dmg./Bind rate ↑ TP: 4
+Dmg./Bind rate ↑ TP: 4
+Dmg. ↑/Bind rate ↑↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑↑ TP: 5
+Learn; TP: 3
+Dmg./Bind rate ↑ TP: 3
+Dmg./Bind rate ↑ TP: 4
+Dmg./Bind rate ↑ TP: 4
+Dmg. ↑/Bind rate ↑↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑↑ TP: 5
+Learn; TP: 3
+Dmg./Bind rate ↑ TP: 3
+Dmg./Bind rate ↑ TP: 4
+Dmg./Bind rate ↑ TP: 4
+Dmg. ↑/Bind rate ↑↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑↑ TP: 5
+Learn; TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 11
+Dmg. ↑↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑↑ TP: 12
+Learn; Effect HP 5% TP: 6
+Effect HP% ↑ TP: 6
+Effect HP% ↑ TP: 7
+Effect HP% ↑ TP: 7
+Effect HP% ↑↑ TP: 8
+Effect HP% ↑ TP: 8
+Effect HP% ↑ TP: 8
+Effect HP% ↑ TP: 8
+Effect HP% ↑ TP: 8
+Effect HP% ↑↑ TP: 8
+Learn; TP: 3
+Dmg./Sleep rate ↑ TP: 3
+Dmg./Sleep rate ↑ TP: 4
+Dmg./Sleep rate ↑ TP: 4
+Dmg./Sleep rate ↑↑ TP: 5
+Dmg./Sleep rate ↑ TP: 5
+Dmg./Sleep rate ↑ TP: 5
+Dmg./Sleep rate ↑ TP: 5
+Dmg./Sleep rate ↑ TP: 5
+Dmg./Sleep rate ↑↑ TP: 5
+Learn; TP: 3
+Dmg./Paralysis rate ↑ TP: 3
+Dmg./Paralysis rate ↑ TP: 4
+Dmg./Paralysis rate ↑ TP: 4
+Dmg./Paralysis rate ↑↑ TP: 5
+Dmg./Paralysis rate ↑ TP: 5
+Dmg./Paralysis rate ↑ TP: 5
+Dmg./Paralysis rate ↑ TP: 5
+Dmg./Paralysis rate ↑ TP: 5
+Dmg./Paralysis rate ↑↑ TP: 5
+Learn; TP: 6
+Dmg./Petrify rate ↑ TP: 6
+Dmg./Petrify rate ↑ TP: 7
+Dmg./Petrify rate ↑ TP: 7
+Dmg./Petrify rate ↑↑ TP: 8
+Dmg./Petrify rate ↑ TP: 8
+Dmg./Petrify rate ↑ TP: 8
+Dmg./Petrify rate ↑ TP: 8
+Dmg./Petrify rate ↑ TP: 8
+Dmg./Petrify rate ↑↑ TP: 8
+Learn; TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 11
+Dmg./Side Dmg. ↑↑ TP: 12
+Dmg./Side Dmg. ↑ TP: 12
+Dmg./Side Dmg. ↑ TP: 12
+Dmg./Side Dmg. ↑ TP: 12
+Dmg./Side Dmg. ↑ TP: 12
+Dmg./Side Dmg. ↑↑ TP: 12
+Learn; TP: 4
+Dmg./Drain rate ↑ TP: 4
+Dmg./Drain rate ↑ TP: 5
+Dmg./Drain rate ↑ TP: 5
+Dmg./Drain rate ↑↑ TP: 6
+Dmg./Drain rate ↑ TP: 6
+Dmg./Drain rate ↑ TP: 6
+Dmg./Drain rate ↑ TP: 6
+Dmg./Drain rate ↑ TP: 6
+Dmg. ↑↑/Drain rate 100% TP: 6
+Learn; TP: 4
+Dmg./Confuse rate ↑ TP: 4
+Dmg./Confuse rate ↑ TP: 5
+Dmg./Confuse rate ↑ TP: 5
+Dmg./Confuse rate ↑↑ TP: 6
+Dmg./Confuse rate ↑ TP: 6
+Dmg./Confuse rate ↑ TP: 6
+Dmg./Confuse rate ↑ TP: 6
+Dmg./Confuse rate ↑ TP: 6
+Dmg./Confuse rate ↑↑ TP: 6
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+20%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+30%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+20%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+Learn; Dmg. up
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Learn; Katana dmg. up
+Katana dmg. ↑
+Katana dmg. ↑
+Katana dmg. ↑
+Katana dmg. ↑↑
+Katana dmg. ↑
+Katana dmg. ↑
+Katana dmg. ↑
+Katana dmg. ↑
+Katana dmg. ↑↑
+Learn; Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Critical rate ↑
+Learn
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 3
+Heal rate/Speed ↑ TP: 3
+Heal rate/Speed ↑ TP: 4
+Heal rate/Speed ↑ TP: 4
+Heal rate/Speed ↑↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑↑ TP: 5
+Learn; TP: 4
+Dmg. ↑ TP: 4
+Dmg. ↑ TP: 5
+Dmg. ↑ TP: 5
+Dmg. ↑↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑↑ TP: 6
+Learn; TP: 2
+Dmg./Def. ↑ TP: 2
+Dmg./Def. ↑ TP: 3
+Dmg./Def. ↑ TP: 3
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Learn; TP: 4
+Dmg. ↑ TP: 4
+Dmg. ↑ TP: 5
+Dmg. ↑ TP: 5
+Dmg. ↑↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑↑ TP: 6
+Learn; TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 11
+Dmg. ↑↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑ TP: 12
+Dmg. ↑↑/100% 3-hit TP: 12
+Learn; TP: 6
+Dmg. ↑ TP: 7
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑↑ TP: 11
+Learn; TP: 2
+Dmg./Def. ↑ TP: 2
+Dmg./Def. ↑ TP: 3
+Dmg./Def. ↑ TP: 3
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Dmg./Def. ↑ TP: 4
+Learn; TP: 10
+TP cost lowered to 9
+TP cost lowered to 8
+TP cost lowered to 7
+TP cost lowered to 6
+TP cost lowered to 5
+TP cost lowered to 4
+TP cost lowered to 3
+TP cost lowered to 2
+TP cost lowered to 1
+Learn; TP: 4
+Dmg./Bind rate ↑ TP: 4
+Dmg./Bind rate ↑ TP: 5
+Dmg./Bind rate ↑ TP: 5
+Dmg. ↑/Bind rate ↑↑ TP: 6
+Dmg./Bind rate ↑ TP: 6
+Dmg./Bind rate ↑ TP: 6
+Dmg./Bind rate ↑ TP: 6
+Dmg./Bind rate ↑ TP: 6
+Dmg./Bind rate ↑↑ TP: 6
+Learn; TP: 6
+Dmg. ↑ TP: 7
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑↑ TP: 10
+Learn; TP: 2
+Speed ↑ TP: 2
+Speed ↑ TP: 3
+Speed ↑ TP: 3
+Speed ↑↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑↑ TP: 4
+Learn; TP: 6
+Dmg./Death rate ↑ TP: 7
+Dmg./Death rate ↑ TP: 8
+Dmg./Death rate ↑ TP: 9
+Dmg./Death rate ↑↑ TP: 10
+Dmg./Death rate ↑ TP: 10
+Dmg./Death rate ↑ TP: 10
+Dmg./Death rate ↑ TP: 10
+Dmg./Death rate ↑ TP: 10
+Dmg./Death rate ↑↑ TP: 10
+Learn; TP: 4
+Dmg. ↑ TP: 4
+Dmg. ↑ TP: 5
+Dmg. ↑ TP: 5
+Dmg. ↑↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑ TP: 6
+Dmg. ↑↑ TP: 6
+Learn; TP: 6
+Dmg. ↑ TP: 7
+Dmg. ↑ TP: 8
+Dmg. ↑ TP: 9
+Dmg. ↑↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑ TP: 10
+Dmg. ↑↑ TP: 10
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+30%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+50%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+20%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+Learn; Dmg. up
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑
+Dmg. ↑↑
+Learn; Heal rate up
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑↑
+Learn; Heal 3% HP
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑
+Heal rate ↑↑
+Learn; Item drop rate up
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑↑
+Learn; Heal 1 TP
+Nothing
+Heal 2 TP
+Nothing
+Heal 3 TP
+Nothing
+Heal 4 TP
+Nothing
+Nothing
+Heal 5 TP
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 4
+Heal rate/Speed ↑ TP: 4
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑↑ TP: 6
+Learn; TP: 10
+Heal rate/Speed ↑ TP: 11
+Heal rate/Speed ↑ TP: 12
+Heal rate/Speed ↑ TP: 13
+Heal rate/Speed ↑↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑↑ TP: 14
+Learn; TP: 20
+Speed ↑/TP cost lowered to 19
+Speed ↑/TP cost lowered to 18
+Speed ↑/TP cost lowered to 17
+Speed ↑/TP cost lowered to 15
+Speed ↑/TP cost lowered to 14
+Speed ↑/TP cost lowered to 13
+Speed ↑/TP cost lowered to 12
+Speed ↑/TP cost lowered to 11
+Speed ↑/TP cost lowered to 10
+Learn; TP: 6
+Heal rate/Speed ↑ TP: 7
+Heal rate/Speed ↑ TP: 8
+Heal rate/Speed ↑ TP: 9
+Heal rate/Speed ↑↑ TP: 10
+Heal rate/Speed ↑ TP: 10
+Heal rate/Speed ↑ TP: 10
+Heal rate/Speed ↑ TP: 10
+Heal rate/Speed ↑ TP: 10
+Heal rate/Speed ↑↑ TP: 10
+Learn; TP: 16
+Heal rate/Speed ↑ TP: 17
+Heal rate/Speed ↑ TP: 18
+Heal rate/Speed ↑ TP: 19
+Heal rate/Speed ↑↑ TP: 20
+Heal rate/Speed ↑ TP: 20
+Heal rate/Speed ↑ TP: 20
+Heal rate/Speed ↑ TP: 20
+Heal rate/Speed ↑ TP: 20
+Heal rate/Speed ↑↑ TP: 20
+Learn; TP: 10
+Heal rate/Speed ↑ TP: 11
+Heal rate/Speed ↑ TP: 12
+Heal rate/Speed ↑ TP: 13
+Heal rate/Speed ↑↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑ TP: 14
+Heal rate/Speed ↑↑ TP: 14
+Learn; Remove 1 bind TP: 3
+Speed ↑ TP: 3
+Speed ↑/Remove 2 binds TP: 3
+Speed ↑ TP: 3
+Speed ↑↑/Remove 3 binds TP: 4
+Speed ↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑↑ TP: 4
+Learn; Heal Blind TP: 3
+Speed ↑/Heal Paralysis TP: 3
+Speed ↑/Heal Confusion TP: 3
+Speed ↑/Heal Sleep TP: 3
+Speed ↑/Heal Poison TP: 4
+Speed ↑/Heal Curse TP: 4
+Speed ↑/Heal Terror TP: 4
+Speed ↑/Heal Petrify TP: 4
+Speed ↑ TP: 4
+Speed ↑↑
+Learn; TP: 10
+Elemental def./Speed ↑ TP: 11
+Elemental def./Speed ↑ TP: 12
+Elemental def./Speed ↑ TP: 13
+Elemental def./Speed ↑↑ TP: 14
+Elemental def./Speed ↑ TP: 14
+Elemental def./Speed ↑ TP: 14
+Elemental def./Speed ↑ TP: 14
+Elemental def./Speed ↑ TP: 14
+Elemental def./Speed ↑↑ TP: 14
+Learn; TP: 8
+Dmg./Stun rate ↑ TP: 9
+Dmg./Stun rate ↑ TP: 10
+Dmg./Stun rate ↑ TP: 11
+Dmg./Stun rate ↑↑ TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑ TP: 12
+Dmg./Stun rate ↑↑ TP: 12
+Learn; TP: 16
+Speed/Success rate ↑ TP: 17
+Speed/Success rate ↑ TP: 18
+Speed/Success rate ↑ TP: 19
+Speed/Success rate ↑↑ TP: 20
+Speed/Success rate ↑ TP: 20
+Speed/Success rate ↑ TP: 20
+Speed/Success rate ↑ TP: 20
+Speed/Success rate ↑ TP: 20
+Speed/Success rate ↑↑ TP: 20
+Learn; TP: 3
+Heal rate ↑ TP: 3
+Heal rate ↑ TP: 4
+Heal rate ↑ TP: 4
+Heal rate ↑↑ TP: 5
+Heal rate ↑ TP: 5
+Heal rate ↑ TP: 5
+Heal rate ↑ TP: 5
+Heal rate ↑ TP: 5
+Heal rate ↑↑ TP: 5
+Learn; Heal up to 25% TP: 4
+Heal up to 27% TP: 4
+Heal up to 29% TP: 5
+Heal up to 31% TP: 5
+Heal up to 35% TP: 6
+Heal up to 36% TP: 6
+Heal up to 37% TP: 6
+Heal up to 38% TP: 6
+Heal up to 39% TP: 6
+Heal up to 40% TP: 6
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+20%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+Learn; Fire dmg. up
+Fire dmg. ↑
+Fire dmg. ↑
+Fire dmg. ↑
+Fire dmg. ↑↑
+Fire dmg. ↑
+Fire dmg. ↑
+Fire dmg. ↑
+Fire dmg. ↑
+Fire dmg. ↑↑
+Learn; Ice dmg. up
+Ice dmg. ↑
+Ice dmg. ↑
+Ice dmg. ↑
+Ice dmg. ↑↑
+Ice dmg. ↑
+Ice dmg. ↑
+Ice dmg. ↑
+Ice dmg. ↑
+Ice dmg. ↑↑
+Learn; Thunder dmg. up
+Thunder dmg. ↑
+Thunder dmg. ↑
+Thunder dmg. ↑
+Thunder dmg. ↑↑
+Thunder dmg. ↑
+Thunder dmg. ↑
+Thunder dmg. ↑
+Thunder dmg. ↑
+Thunder dmg. ↑↑
+Learn; Poison dmg. up
+Poison dmg. ↑
+Poison dmg. ↑
+Poison dmg. ↑
+Poison dmg. ↑↑
+Poison dmg. ↑
+Poison dmg. ↑
+Poison dmg. ↑
+Poison dmg. ↑
+Poison dmg. ↑↑
+Learn; Item drop rate up
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑
+Item drop rate ↑↑
+Learn; Heal 1 TP
+Nothing
+Heal 2 TP
+Nothing
+Heal 3 TP
+Nothing
+Heal 4 TP
+Nothing
+Nothing
+Heal 5 TP
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 4
+Fire dmg. ↑ TP: 4
+Fire dmg. ↑ TP: 5
+Fire dmg. ↑ TP: 5
+Fire dmg. ↑ TP: 6
+Fire dmg. ↑ TP: 6
+Fire dmg. ↑ TP: 6
+Fire dmg. ↑ TP: 6
+Fire dmg. ↑ TP: 6
+Fire dmg. ↑ TP: 6
+Learn; TP: 10
+Fire dmg. ↑ TP: 11
+Fire dmg. ↑ TP: 12
+Fire dmg. ↑ TP: 13
+Fire dmg. ↑↑ TP: 14
+Fire dmg. ↑ TP: 14
+Fire dmg. ↑ TP: 14
+Fire dmg. ↑ TP: 14
+Fire dmg. ↑ TP: 14
+Fire dmg. ↑↑ TP: 14
+Learn; TP: 16
+Fire dmg. ↑ TP: 17
+Fire dmg. ↑ TP: 18
+Fire dmg. ↑ TP: 19
+Fire dmg. ↑↑ TP: 20
+Fire dmg. ↑ TP: 20
+Fire dmg. ↑ TP: 20
+Fire dmg. ↑ TP: 20
+Fire dmg. ↑ TP: 20
+Fire dmg. ↑↑ TP: 20
+Learn; TP: 4
+Ice dmg. ↑ TP: 4
+Ice dmg. ↑ TP: 5
+Ice dmg. ↑ TP: 5
+Ice dmg. ↑ TP: 6
+Ice dmg. ↑ TP: 6
+Ice dmg. ↑ TP: 6
+Ice dmg. ↑ TP: 6
+Ice dmg. ↑ TP: 6
+Ice dmg. ↑ TP: 6
+Learn; TP: 10
+Ice dmg. ↑ TP: 11
+Ice dmg. ↑ TP: 12
+Ice dmg. ↑ TP: 13
+Ice dmg. ↑↑ TP: 14
+Ice dmg. ↑ TP: 14
+Ice dmg. ↑ TP: 14
+Ice dmg. ↑ TP: 14
+Ice dmg. ↑ TP: 14
+Ice dmg. ↑↑ TP: 14
+Learn; TP: 16
+Ice dmg. ↑ TP: 17
+Ice dmg. ↑ TP: 18
+Ice dmg. ↑ TP: 19
+Ice dmg. ↑↑ TP: 20
+Ice dmg. ↑ TP: 20
+Ice dmg. ↑ TP: 20
+Ice dmg. ↑ TP: 20
+Ice dmg. ↑ TP: 20
+Ice dmg. ↑↑ TP: 20
+Learn; TP: 4
+Thunder dmg. ↑ TP: 4
+Thunder dmg. ↑ TP: 5
+Thunder dmg. ↑ TP: 5
+Thunder dmg. ↑ TP: 6
+Thunder dmg. ↑ TP: 6
+Thunder dmg. ↑ TP: 6
+Thunder dmg. ↑ TP: 6
+Thunder dmg. ↑ TP: 6
+Thunder dmg. ↑ TP: 6
+Learn; TP: 10
+Thunder dmg. ↑ TP: 11
+Thunder dmg. ↑ TP: 12
+Thunder dmg. ↑ TP: 13
+Thunder dmg. ↑↑ TP: 14
+Thunder dmg. ↑ TP: 14
+Thunder dmg. ↑ TP: 14
+Thunder dmg. ↑ TP: 14
+Thunder dmg. ↑ TP: 14
+Thunder dmg. ↑↑ TP: 14
+Learn; TP: 16
+Thunder dmg. ↑ TP: 17
+Thunder dmg. ↑ TP: 18
+Thunder dmg. ↑ TP: 19
+Thunder dmg. ↑↑ TP: 20
+Thunder dmg. ↑ TP: 20
+Thunder dmg. ↑ TP: 20
+Thunder dmg. ↑ TP: 20
+Thunder dmg. ↑ TP: 20
+Thunder dmg. ↑↑ TP: 20
+Learn; TP: 4
+Dmg./success rate ↑ TP: 4
+Dmg./success rate ↑ TP: 5
+Dmg./success rate ↑ TP: 5
+Dmg./success rate ↑↑ TP: 6
+Dmg./success rate ↑ TP: 6
+Dmg./success rate ↑ TP: 6
+Dmg./success rate ↑ TP: 6
+Dmg./success rate ↑ TP: 6
+Dmg./success rate ↑↑ TP: 6
+Learn; TP: 10
+Dmg./success rate ↑ TP: 11
+Dmg./success rate ↑ TP: 12
+Dmg./success rate ↑ TP: 13
+Dmg./success rate ↑↑ TP: 13
+Dmg./success rate ↑ TP: 14
+Dmg./success rate ↑ TP: 14
+Dmg./success rate ↑ TP: 14
+Dmg./success rate ↑ TP: 14
+Dmg./success rate ↑↑ TP: 14
+Learn; TP: 10
+TP cost lowered to 9
+TP cost lowered to 8
+TP cost lowered to 7
+TP cost lowered to 6
+TP cost lowered to 5
+TP cost lowered to 4
+TP cost lowered to 3
+TP cost lowered to 2
+TP cost lowered to 1
+Learn; TP: 15
+TP cost lowered to 14
+TP cost lowered to 13
+TP cost lowered to 12
+TP cost lowered to 10
+TP cost lowered to 9
+TP cost lowered to 8
+TP cost lowered to 7
+TP cost lowered to 6
+TP cost lowered to 5
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+30%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+50%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP +30%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+50%
+Learn
+Singing skill ↑
+Singing skill ↑
+Singing skill ↑
+Singing skill ↑↑
+Singing skill ↑
+Singing skill ↑
+Singing skill ↑
+Singing skill ↑
+Singing skill ↑↑
+Learn; Exp gain up
+EXP gain ↑
+EXP gain ↑
+EXP gain ↑
+EXP gain ↑↑
+EXP gain ↑
+EXP gain ↑
+EXP gain ↑
+EXP gain ↑
+EXP gain ↑↑
+Learn; TP: 3
+Dmg./Speed ↑ TP: 3
+Dmg./Speed ↑ TP: 4
+Dmg./Speed ↑ TP: 4
+Dmg./Speed ↑↑ TP: 5
+Dmg./Speed ↑ TP: 5
+Dmg./Speed ↑ TP: 5
+Dmg./Speed ↑ TP: 5
+Dmg./Speed ↑ TP: 5
+Dmg./Speed ↑↑ TP: 5
+Learn; TP: 3
+Def./Speed ↑ TP: 3
+Def./Speed ↑ TP: 4
+Def./Speed ↑ TP: 4
+Def./Speed ↑↑ TP: 5
+Def./Speed ↑ TP: 5
+Def./Speed ↑ TP: 5
+Def./Speed ↑ TP: 5
+Def./Speed ↑ TP: 5
+Def./Speed ↑↑ TP: 5
+Learn; TP: 3
+Speed ↑ TP: 3
+Speed ↑ TP: 4
+Speed ↑ TP: 4
+Speed ↑↑ TP: 5
+Speed ↑ TP: 5
+Speed ↑ TP: 5
+Speed ↑ TP: 5
+Speed ↑ TP: 5
+Speed ↑↑ TP: 5
+Learn; TP: 15
+Speed ↑ TP cost lowered to 14
+Speed ↑ TP cost lowered to 13
+Speed ↑ TP cost lowered to 12
+Speed ↑ TP cost lowered to 10
+Speed ↑ TP cost lowered to 9
+Speed ↑ TP cost lowered to 8
+Speed ↑ TP cost lowered to 7
+Speed ↑ TP cost lowered to 6
+Speed ↑ TP cost lowered to 5
+Learn; TP: 15
+Speed ↑ TP cost lowered to 14
+Speed ↑ TP cost lowered to 13
+Speed ↑ TP cost lowered to 12
+Speed ↑ TP cost lowered to 10
+Speed ↑ TP cost lowered to 9
+Speed ↑ TP cost lowered to 8
+Speed ↑ TP cost lowered to 7
+Speed ↑ TP cost lowered to 6
+Speed ↑ TP cost lowered to 5
+Learn; TP: 15
+Speed ↑ TP cost lowered to 14
+Speed ↑ TP cost lowered to 13
+Speed ↑ TP cost lowered to 12
+Speed ↑ TP cost lowered to 10
+Speed ↑ TP cost lowered to 9
+Speed ↑ TP cost lowered to 8
+Speed ↑ TP cost lowered to 7
+Speed ↑ TP cost lowered to 6
+Speed ↑ TP cost lowered to 5
+Learn; TP: 4
+Speed ↑ TP: 4
+Speed ↑ Null 2 benefits TP: 5
+Speed ↑ TP: 5
+Speed ↑ Null 3 benefits TP: 6
+Speed ↑ TP: 6
+Speed ↑ TP: 6
+Speed ↑ TP: 6
+Speed ↑ TP: 6
+Speed ↑ TP: 6
+Learn; TP: 4
+MAX HP/Speed ↑ TP: 4
+MAX HP/Speed ↑ TP: 5
+MAX HP/Speed ↑ TP: 5
+MAX HP/Speed ↑↑ TP: 6
+MAX HP/Speed ↑ TP: 6
+MAX HP/Speed ↑ TP: 6
+MAX HP/Speed ↑ TP: 6
+MAX HP/Speed ↑ TP: 6
+MAX HP/Speed ↑↑ TP: 6
+Learn; TP: 6
+Strengthen/Weaken ↑ TP: 6
+Strengthen/Weaken ↑ TP: 7
+Strengthen/Weaken ↑ TP: 7
+Strengthen/Weaken ↑↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP:  8
+Strengthen/Weaken ↑↑ TP: 8
+Learn; TP: 6
+Strengthen/Weaken ↑ TP: 6
+Strengthen/Weaken ↑ TP: 7
+Strengthen/Weaken ↑ TP: 7
+Strengthen/Weaken ↑↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑↑ TP: 8
+Learn; TP: 6
+Strengthen/Weaken ↑ TP: 6
+Strengthen/Weaken ↑ TP: 7
+Strengthen/Weaken ↑ TP: 7
+Strengthen/Weaken ↑↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑ TP: 8
+Strengthen/Weaken ↑↑ TP: 8
+Learn; TP: 4
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑ TP: 5
+Heal rate/Speed ↑↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Heal rate/Speed ↑↑ TP: 6
+Learn; TP: 4
+Speed ↑ TP: 4
+Heal rate/Speed ↑ TP: 5
+Speed ↑ TP: 5
+Heal rate/Speed ↑↑ TP: 6
+Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Speed ↑ TP: 6
+Speed ↑ TP: 6
+Heal rate/Speed ↑ TP: 6
+Learn; TP: 4
+Recovery speed ↑ TP: 4
+Recovery speed ↑ TP: 5
+Recovery speed ↑ TP: 5
+Recovery speed ↑↑ TP: 6
+Recovery speed ↑ TP: 6
+Recovery speed ↑ TP: 6
+Recovery speed ↑ TP: 6
+Recovery speed ↑ TP: 6
+Recovery speed ↑↑ TP: 6
+Learn; 70% TP: 2
+35 steps TP: 2
+40 steps TP: 3
+45 steps TP: 3
+60 steps TP: 4
+Encounter ↓ 65 steps TP: 4
+Encounter ↓ 70 steps TP: 4
+Encounter ↓ 75 steps TP: 4
+Encounter ↓ 80 steps TP: 4
+Encounter ↓ 100 steps TP: 4
+Learn; TP: 10
+TP cost lowered to 9
+TP cost lowered to 8
+TP cost lowered to 7
+TP cost lowered to 6
+TP cost lowered to 5
+TP cost lowered to 4
+TP cost lowered to 3
+TP cost lowered to 2
+TP cost lowered to 1
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; MAX HP+10%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+30%
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP ↑
+MAX HP+50%
+Learn; MAX TP+10%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+20%
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP ↑
+MAX TP+30%
+Learn
+Black arts ↑
+Black arts ↑
+Black arts ↑
+Black arts ↑↑
+Black arts ↑
+Black arts ↑
+Black arts ↑
+Black arts ↑
+Black arts ↑↑
+Learn
+Success rate ↑
+Success rate ↑
+Success rate ↑
+Success rate ↑↑
+Success rate ↑
+Success rate ↑
+Success rate ↑
+Success rate ↑
+Success rate ↑↑
+Learn; Use once per day
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Uses per day/Success rate ↑
+Learn; TP: 3
+Enemy strength ↓ TP: 3
+Enemy strength ↓ TP: 4
+Enemy strength ↓ TP: 4
+Enemy strength ↓ TP: 5
+Enemy strength ↓ TP: 5
+Enemy strength ↓ TP: 5
+Enemy strength ↓ TP: 5
+Enemy strength ↓ TP: 5
+Enemy strength ↓↓ TP: 5
+Learn; TP: 3
+Enemy def. ↓ TP: 3
+Enemy def. ↓ TP: 4
+Enemy def. ↓ TP: 4
+Enemy def. ↓ TP: 5
+Enemy def. ↓ TP: 5
+Enemy def. ↓ TP: 5
+Enemy def. ↓ TP: 5
+Enemy def. ↓ TP: 5
+Enemy def. ↓↓ TP: 5
+Learn; TP: 3
+Enemy speed ↓ TP: 3
+Enemy speed ↓ TP: 4
+Enemy speed ↓ TP: 4
+Enemy speed ↓ TP: 5
+Enemy speed ↓ TP: 5
+Enemy speed ↓ TP: 5
+Enemy speed ↓ TP: 5
+Enemy speed ↓ TP: 5
+Enemy speed ↓↓ TP: 5
+Learn; TP: 4
+Status ailments linger ↑ TP: 4
+Status ailments linger ↑ TP: 5
+Status ailments linger ↑ TP: 5
+Status ailments linger ↑↑ TP: 6
+Status ailments linger ↑ TP: 6
+Status ailments linger ↑ TP: 6
+Status ailments linger ↑ TP: 6
+Status ailments linger ↑ TP: 6
+Status ailments linger ↑↑ TP: 6
+Learn; TP: 3
+Bind rate ↑ TP: 3
+Bind rate ↑ TP: 4
+Bind rate ↑ TP: 4
+Bind rate ↑↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑↑ TP: 5
+Learn; TP: 3
+Bind rate ↑ TP: 3
+Bind rate ↑ TP: 4
+Bind rate ↑ TP: 4
+Bind rate ↑↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑↑ TP: 5
+Learn; TP: 3
+Bind rate ↑ TP: 3
+Bind rate ↑ TP: 4
+Bind rate ↑ TP: 4
+Bind rate ↑↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑ TP: 5
+Bind rate ↑↑ TP: 5
+Learn; TP: 6
+Success rate ↑ TP: 7
+Success rate ↑ TP: 8
+Success rate ↑ TP: 9
+Success rate ↑↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑↑ TP: 10
+Learn; TP: 6
+Success rate ↑ TP: 7
+Success rate ↑ TP: 8
+Success rate ↑ TP: 9
+Success rate ↑↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑↑ TP: 10
+Learn; TP: 6
+Success rate ↑ TP: 7
+Success rate ↑ TP: 8
+Success rate ↑ TP: 9
+Success rate ↑↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑ TP: 10
+Success rate ↑↑ TP: 10
+Learn; TP: 8
+Success rate ↑ TP: 9
+Success rate ↑ TP: 10
+Success rate ↑ TP: 11
+Success rate ↑↑ TP: 12
+Success rate ↑ TP: 12
+Success rate ↑ TP: 12
+Success rate ↑ TP: 12
+Success rate ↑ TP: 12
+Success rate ↑↑ TP: 12
+Learn; TP: 10
+Nothing TP: 11
+Attack itself twice TP: 12
+Nothing TP: 13
+Attack itself three times TP: 14
+Nothing TP: 14
+Nothing TP: 14
+Nothing TP: 14
+Nothing TP: 14
+Attack itself four times TP: 14
+Learn; TP: 10
+TP cost lowered to 9
+TP cost lowered to 8
+TP cost lowered to 7
+TP cost lowered to 6
+TP cost lowered to 5
+TP cost lowered to 4
+TP cost lowered to 3
+TP cost lowered to 2
+TP cost lowered to 1
+Learn; TP: 10
+TP cost lowered to 9
+TP cost lowered to 8
+TP cost lowered to 7
+TP cost lowered to 6
+TP cost lowered to 5
+TP cost lowered to 4
+TP cost lowered to 3
+TP cost lowered to 2
+TP cost lowered to 1
+Learn; TP: 6
+Dmg. effect ↑ TP: 7
+Dmg. effect ↑ TP: 8
+Dmg. effect ↑ TP: 9
+Dmg. effect ↑↑ TP: 10
+Dmg. effect ↑ TP: 10
+Dmg. effect ↑ TP: 10
+Dmg. effect ↑ TP: 10
+Dmg. effect ↑ TP: 10
+Dmg. effect ↑↑ TP: 10
+Learn; Rate 130% TP: 2
+18 steps TP: 2
+20 steps TP: 3
+22 steps TP: 3
+30 steps TP: 4
+Rate ↑ 32 steps TP: 4
+Rate ↑ 34 steps TP: 4
+Rate ↑ 36 steps TP: 4
+Rate ↑ 38 steps TP: 4
+Rate ↑ 50 steps TP: 4
+

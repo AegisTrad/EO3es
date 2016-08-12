@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------
+Análisis de viabilidad
+--------------------------------------------------------------------------
+
+Extracción y modificación de datos
+
+	* Determinar si es posible extraer los datos de la ROM
+	* Investigar la estructura de archivos
+	* Contactar con algún romhacker colaborador
+	   * Rigle (explicó las bases para extraer los datos)
+	   * IlDucci (investigando estructura de archivos y edición de textos)
+	   * JuDelCo (programación del extractor y reinsertor)
+	   * PacoChan
+	* Contactar con algún traductor colaborador (?)
+	Reempaquetación de datos
+
+Parche y distribución
+
+--------------------------------------------------------------------------
+Signos de puntuación
+--------------------------------------------------------------------------
+
+* Tildes
+* Puntuación básica ¡ ¿ ! ? , . -
+* º (letra O volada, grado, primero)
+* ª (letra A volada, primera, María)
+* « (comilla latina, apertura) PERO asignado a { (AltGR ´)
+* » (comilla latina, cierre)   PERO asignado a } (AltGR ç)
+* — (raya) Alt 0150
+
+--------------------------------------------------------------------------
+Problemas
+--------------------------------------------------------------------------
+
+* Teclado integrado en pantalla (tildes, ñ, ¡, ¿,…) No vital para el desarrollo del juego.
+
+--------------------------------------------------------------------------
+Distribución
+--------------------------------------------------------------------------
+
+* Aplicar parche con beat http://byuu.org/programming/beat/
+* Instalador estándar (¿PacoChan? ¿Judel?)
+   * Código de beat integrado
+   * Decorado con imágenes
+   * Instrucciones paso a paso
+   * Página de créditos que deberá leerse obligatoriamente
+   * Advertencia sobre no distribuir la ROM con el parche ya aplicado
+
+¿Tráiler con voces dobladas? Enrique, María, Víctor
+
+--------------------------------------------------------------------------
+Agradecimientos
+--------------------------------------------------------------------------
+
+Me gustaría agradecer públicamente la colaboración de las siguientes personas para el desarrollo de este ambicioso proyecto:
+
+* A CUE y Skye por facilitar las herramientas y documentación necesarias para desempaquetar y reempaquetar los datos del juego.
+* A Pleonex por facilitar la herramienta Tinke, para editar gráficos varios.
+* A JuDelCo por el desarrollo del programa EO3TER, para la extracción e inserción de diálogos.

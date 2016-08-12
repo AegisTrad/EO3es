@@ -1,0 +1,24 @@
+
+Pon los NDX/IDX/BIN con el PACKER.EXE en una carpeta y créate un fichero llamado SACA.BAT (este nombre es nuevo, nunca lo he usado) que tenga dentro:
+Código:	
+PACKER fichero	
+siendo 'fichero' el nombre de los archivos del juego, sin extensión. Ahora ya tienes todo desempaquetado en una carpeta que se llama como el fichero, con un '@' delante.
+
+Para hacerlo al revés, te creas un fichero llamado METE.BAT que contenga:
+Código:	
+PACKER fichero nuevo_fichero	
+Luego deberás renombrar "nuevo_fichero" por "fichero", es que lo tengo así para no cargarme el fichero original.
+
+En cristiano de la calle: Si los ficheros se llaman TARGET (que en algunos era así, pero en otros no), lo que debes poner es:
+Código:	
+Para extraer todo en "@target\": PACKER target
+Para generar los ficheros nuevos: PACKER target nuevo	
+
+
+Yo suelo poner los ficheros originales en una carpeta que llamo "old\" y los nuevos los genero en "new\", así que lo que pongo es:
+Código:	
+Para extraer: PACKER old\fichero
+Para generar: PACKER old\fichero new\fichero	
+Así no tengo que andar renombrando, sólo coger los ficheros de "new\"
+
+Y con eso ya tienes todo lo relacionado con el empaquetamiento en un único doble click. 

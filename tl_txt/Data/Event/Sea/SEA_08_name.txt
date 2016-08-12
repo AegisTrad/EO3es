@@ -1,0 +1,29 @@
+[HEAD][00000108][00000005]
+
+[MSGH][00000001][00000028]
+[EN]
+Seal of the dragon[LB][END]
+[ES]
+El sello del dragón[LB][END]
+
+
+[MSGH][00000002][0000002a]
+[EN]
+Blood of the dragon[LB][END]
+[ES]
+La sangre del dragón[LB][END]
+
+
+[MSGH][00000003][0000002a]
+[EN]
+Trial of the dragon[LB][END]
+[ES]
+La prueba del dragón[LB][END]
+
+
+[MSGH][00000004][0000002c]
+[EN]
+Damavand dragon hunt[LB][END]
+[ES]
+A la caza del dragón Damavand[LB][END]
+

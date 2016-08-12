@@ -1,0 +1,215 @@
+[HEAD][00000a88][00000019]
+
+[MSGH][00000000][000000dc]
+[EN]
+Could not access the DS Card. Please[LB]
+turn the power OFF, reinsert the DS[LB]
+Card, then turn the power ON again.[LB][END]
+[ES]
+No se ha podido acceder al cartucho.[LB]
+Apaga la cansola, reinserta el cartucho[LB]
+y vuelve a encenderla de nuevo.[LB][END]
+
+
+[MSGH][00000001][000000ae]
+[EN]
+Save data could not be accessed.[LB]
+Please turn the power OFF and [LB]
+reinsert the DS Card.[LB][END]
+[ES]
+No se pudo acceder a la partida.[LB]
+Apaga la cansola, reinserta el cartucho[LB]
+y vuelve a encenderla de nuevo.[LB][END]
+
+
+[MSGH][00000002][00000096]
+[EN]
+The option data has been[LB]
+corrupted and will be reset[LB]
+to default settings.[LB][END]
+[ES]
+Los datos están corruptos[LB]
+y las opciones volverán a[LB]
+su estado por defecto.[LB][END]
+
+
+[MSGH][00000003][0000003a]
+[EN]
+Failed to save option data.[LB][END]
+[ES]
+No se pudo grabar las opciones.[LB][END]
+
+
+[MSGH][00000004][0000002c]
+[EN]
+Loading game data...[LB][END]
+[ES]
+Cargando partida...[LB][END]
+
+
+[MSGH][00000005][00000024]
+[EN]
+Load successful.[LB][END]
+[ES]
+Cargado con éxito.[LB][END]
+
+
+[MSGH][00000006][000000ae]
+[EN]
+Save data could not be accessed.[LB]
+Please turn the power OFF and [LB]
+reinsert the DS Card.[LB][END]
+[ES]
+No se pudo acceder a la partida.[LB]
+Apaga la cansola, reinserta el cartucho[LB]
+y vuelve a encenderla de nuevo.[LB][END]
+
+
+[MSGH][00000007][00000060]
+[EN]
+The saved data is corrupt and[LB]
+will be deleted.[LB][END]
+[ES]
+La partida guardada está corrupta[LB]
+y se procederá a eliminarse.[LB][END]
+
+
+[MSGH][00000008][00000038]
+[EN]
+B[DATA][0000]F's map has[LB]
+been reset.[LB][END]
+[ES]
+El mapa de -[DATA][0000][LB]
+ha sido eliminado.[LB][END]
+
+
+[MSGH][00000009][0000002e]
+[EN]
+Resuming backup data.[LB][END]
+[ES]
+Activando datos de apoyo.[LB][END]
+
+
+[MSGH][0000000a][000000f6]
+[EN]
+The saved data is corrupted and[LB]
+needs to be deleted.[LB][PB]
+[ES]
+La partida está corrupta[LB]
+y debe eliminarse.[LB][PB]
+
+[EN]
+Choose Delete Data in the Option[LB]
+menu and start from the beginning.[LB][END]
+[ES]
+Elige «Borrar datos» en el menú[LB]
+de opciones y empieza de nuevo.[LB][END]
+
+
+[MSGH][0000000b][0000002c]
+[EN]
+No saved game found.[LB][END]
+[ES]
+No se ha encontrado ninguna partida.[LB][END]
+
+
+[MSGH][0000000c][0000002a]
+[EN]
+Saving game data...[LB][END]
+[ES]
+Guardando partida...[LB][END]
+
+
+[MSGH][0000000d][00000024]
+[EN]
+Save successful.[LB][END]
+[ES]
+Guardado con éxito.[LB][END]
+
+
+[MSGH][0000000e][000000ae]
+[EN]
+Save data could not be accessed.[LB]
+Please turn the power OFF and [LB]
+reinsert the DS Card.[LB][END]
+[ES]
+No se pudo acceder a la partida.[LB]
+Apaga la cansola, reinserta el cartucho[LB]
+y vuelve a encenderla de nuevo.[LB][END]
+
+
+[MSGH][0000000f][00000028]
+[EN]
+Saving map data...[LB][END]
+[ES]
+Guardando mapa...[LB][END]
+
+
+[MSGH][00000010][0000002e]
+[EN]
+Deleting game data...[LB][END]
+[ES]
+Eliminando partida...[LB][END]
+
+
+[MSGH][00000011][00000042]
+[EN]
+Game data successfully deleted.[LB][END]
+[ES]
+Partida eliminada con éxito.[LB][END]
+
+
+[MSGH][00000012][00000038]
+[EN]
+Game data deletion failed.[LB][END]
+[ES]
+La eliminación ha fallado.[LB][END]
+
+
+[MSGH][00000013][0000006e]
+[EN]
+The suspend save data is corrupt[LB]
+and will be deleted.[LB][END]
+[ES]
+Los datos de la partida suspendida[LB]
+están corruptos y se procederá a eliminarse.[LB][END]
+
+
+[MSGH][00000014][00000060]
+[EN]
+The saved data is corrupt and[LB]
+will be deleted.[LB][END]
+[ES]
+La partida está corrupta[LB]
+y se procederá a eliminarse.[LB][END]
+
+
+[MSGH][00000015][0000002a]
+[EN]
+No quicksave found.[LB][END]
+[ES]
+No se ha encontrado partida suspendida[LB][END]
+
+
+[MSGH][00000016][00000042]
+[EN]
+Quicksave data deletion failed.[LB][END]
+[ES]
+No se pudo eliminar la partida suspendida.[LB][END]
+
+
+[MSGH][00000017][00000044]
+[EN]
+Sea chart data has been deleted.[LB][END]
+[ES]
+El mapa de exploración del mar se ha eliminado.[LB][END]
+
+
+[MSGH][00000018][0000004e]
+[EN]
+All guild card data has been[LB]
+deleted.[LB][END]
+[ES]
+Los datos del gremio[LB]
+se han eliminado.[LB][END]
+

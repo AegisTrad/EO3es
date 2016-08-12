@@ -1,0 +1,29 @@
+[HEAD][000000f8][00000005]
+
+[MSGH][00000001][0000002a]
+[EN]
+The swallow's cowry[LB][END]
+[ES]
+El couri de la golondrina[LB][END]
+
+
+[MSGH][00000002][00000018]
+[EN]
+Stargazers[LB][END]
+[ES]
+Contemplar las estrellas[LB][END]
+
+
+[MSGH][00000003][00000026]
+[EN]
+A princess' trial[LB][END]
+[ES]
+La prueba de la princesa[LB][END]
+
+
+[MSGH][00000004][00000030]
+[EN]
+Bird of the lighthouse[LB][END]
+[ES]
+El ave del faro[LB][END]
+

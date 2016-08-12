@@ -1,0 +1,8 @@
+[HEAD][00000064][00000001]
+
+[MSGH][00000000][00000034]
+[EN]
+This is a trading event.[LB][END]
+[ES]
+Esto es un evento de intercambio.[LB][END]
+
