@@ -60,8 +60,8 @@ Enter the Hall of Conviction to learn[LB]
 about the threat these monsters pose.[LB][END]
 [ES]
 El motivo de la existencia de Inmersópolis[LB]
-es por su guerra contra los ***.[LB]
-Dirígete a la Sala de condena para descubrir[LB]
+es por su guerra contra los Insondables.[LB]
+Dirígete a la Sala de Condena para descubrir[LB]
 la amenaza que suponen estos engendros.[LB][END]
 
 

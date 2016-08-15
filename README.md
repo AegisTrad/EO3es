@@ -17,20 +17,24 @@ Etrian Odyssey entra en el género de exploración de mazmorras en primera perso
 # Estado actual
 
 Estado general: 60 %
-Traducción de diálogos: 57 de 278
+Traducción de diálogos: Quedan 57 de 278
 Imágenes: 0 %
 Hacking: 35 %
 Manual: 40 %
 
-Puedes consultar la base de datos terminológica, la lista de archivos pendientes de traducir y su estado actual a través del wiki de este proyecto.
+Puedes consultar la base de datos terminológica, la lista de archivos pendientes de traducir y su estado actual a través del [wiki]() de este proyecto.
 
 # Enlaces de interés
 
 -[Romhacking.net](http://www.romhacking.net/forum/)
+
 -[Romxhack](http://romxhack.esforos.com/etrian-odyssey-iii-t311)
+
 -[ElOtroLado.net](http://www.elotrolado.net/hilo_traduccion-etrian-odyssey-iii-50_1841176)
+
 -[Aegis Traducciones](http://romxhack.esforos.com/portal.php)
--[Blog de JuDelCo](http://judelco.wordpress.com/
+
+-[Blog de JuDelCo](http://judelco.wordpress.com/)
 
 # Preguntas frequentes
 
@@ -44,7 +48,7 @@ Tened en cuenta que estudiamos, trabajamos y tenemos vidas detrás del proyecto.
 
 ### › ¿Utilizaréis la terminología de la traducción oficial del primero?
 
-Sí, en su mayor parte. Principalmente procuraremos respetar la terminología de conceptos clave de las mecánicas de juego, objetos y armas.
+Sí, en su mayor parte. Principalmente procuraremos respetar la terminología de conceptos clave de las mecánicas de juego, objetos y armas. Consulta el corpus lingüístico en el código del proyecto.
 
 ### › ¿Cuál es vuestra política de traducción?
 

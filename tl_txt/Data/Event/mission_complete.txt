@@ -39,7 +39,7 @@ en el fondo del mar![LB][END]
 Go to the Hall of Conviction[LB]
 located on the Third Stratum.[LB][END]
 [ES]
-Dirígete a la Sala de condena,[LB]
+Dirígete a la Sala de Condena,[LB]
 situada en el Tercer estrato.[LB][END]
 
 
