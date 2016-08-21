@@ -17,7 +17,7 @@ Etrian Odyssey entra en el género de exploración de mazmorras en primera perso
 # Estado actual
 
 Estado general: 60 %
-Traducción de diálogos: Quedan 57 de 278
+Traducción de diálogos: Quedan 56 de 278
 Imágenes: 0 %
 Hacking: 35 %
 Manual: 40 %
