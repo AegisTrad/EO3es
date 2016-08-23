@@ -1246,7 +1246,7 @@ just and lend them your strength![LB]
 Armoroad: [COLOR][0500]Defeat the Gatekeeper![COLOR][0000][LB][END]
 [ES]
 [COLOR][0300]A [COLOR][0500]new mission[COLOR][0300] is available at[LB]
-Armoroad: [COLOR][0500]Defeat the Gatekeeper![COLOR][0000][LB][END]
+Armoroad: [COLOR][0500]¡Acaba con el Guardián![COLOR][0000][LB][END]
 
 
 [MSGH][00000038][000000a0]
@@ -1255,7 +1255,7 @@ Armoroad: [COLOR][0500]Defeat the Gatekeeper![COLOR][0000][LB][END]
 Deep City: [COLOR][0500]Protect the Gatekeeper![COLOR][0000][LB][END]
 [ES]
 [COLOR][0300]A [COLOR][0500]new mission[COLOR][0300] is available at the[LB]
-Deep City: [COLOR][0500]Protect the Gatekeeper![COLOR][0000][LB][END]
+Inmersópolis: [COLOR][0500]¡Protege al Guardián![COLOR][0000][LB][END]
 
 
 [MSGH][00000039][000000a4]

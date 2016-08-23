@@ -72,10 +72,10 @@ between the Deep City and the lower[LB]
 reaches is a dangerous post. Ensure[LB]
 the Gatekeeper's safety.[LB][END]
 [ES]
-El Guardabarreras, que protege el portal[LB]
+El Guardián, que protege el portal[LB]
 entre Inmersópolis y el curso inferior,[LB]
 está en situación crítica. Asegura[LB]
-la integridad del Guardabarreras.[LB][END]
+la integridad del Guardián.[LB][END]
 
 
 [MSGH][00000006][0000011e]

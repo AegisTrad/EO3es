@@ -39,14 +39,14 @@ Visitantes ultramundanos[LB][END]
 [EN]
 Protect the Gatekeeper[LB][END]
 [ES]
-Protege al Guardabarreras[LB][END]
+Protege al Guardián[LB][END]
 
 
 [MSGH][00000006][0000002a]
 [EN]
 Slay the Gatekeeper[LB][END]
 [ES]
-Liquida al Guardabarreras[LB][END]
+Liquida al Guardián[LB][END]
 
 
 [MSGH][00000007][0000002c]

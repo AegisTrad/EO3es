@@ -26,15 +26,15 @@ Puedes consultar la base de datos terminológica, la lista de archivos pendiente
 
 # Enlaces de interés
 
--[Romhacking.net](http://www.romhacking.net/forum/)
+- [Romhacking.net](http://www.romhacking.net/forum/)
 
--[Romxhack](http://romxhack.esforos.com/etrian-odyssey-iii-t311)
+- [Romxhack](http://romxhack.esforos.com/etrian-odyssey-iii-t311)
 
--[ElOtroLado.net](http://www.elotrolado.net/hilo_traduccion-etrian-odyssey-iii-50_1841176)
+- [ElOtroLado.net](http://www.elotrolado.net/hilo_traduccion-etrian-odyssey-iii-50_1841176)
 
--[Aegis Traducciones](http://romxhack.esforos.com/portal.php)
+- [Aegis Traducciones](http://romxhack.esforos.com/portal.php)
 
--[Blog de JuDelCo](http://judelco.wordpress.com/)
+- [Blog de JuDelCo](http://judelco.wordpress.com/)
 
 # Preguntas frequentes
 

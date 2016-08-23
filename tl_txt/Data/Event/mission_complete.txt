@@ -5,7 +5,7 @@
 Fill in the specified area[LB]
 of B1F on your map![LB][END]
 [ES]
-¡Completa la zona especificada[LB]
+Â¡Completa la zona especificada[LB]
 del piso -1 en tu mapa![LB][END]
 
 
@@ -13,7 +13,7 @@ del piso -1 en tu mapa![LB][END]
 [EN]
 Defeat Narmer on B4F![LB][END]
 [ES]
-¡Derrota a Narmer en el piso -4![LB][END]
+Â¡Derrota a Narmer en el piso -4![LB][END]
 
 
 [MSGH][00000002][0000005e]
@@ -22,7 +22,7 @@ Pursue Olympia, who vanished[LB]
 into the forest.[LB][END]
 [ES]
 Persigue a Olimpia, ya que se[LB]
-desvaneció en el bosque.[LB][END]
+desvaneciÃ³ en el bosque.[LB][END]
 
 
 [MSGH][00000003][00000070]
@@ -30,7 +30,7 @@ desvaneció en el bosque.[LB][END]
 Find the legendary Deep City[LB]
 at the bottom of the sea![LB][END]
 [ES]
-¡Encuentra la legendaria Inmersópolis[LB]
+Â¡Encuentra la legendaria InmersÃ³polis[LB]
 en el fondo del mar![LB][END]
 
 
@@ -39,7 +39,7 @@ en el fondo del mar![LB][END]
 Go to the Hall of Conviction[LB]
 located on the Third Stratum.[LB][END]
 [ES]
-Dirígete a la Sala de Condena,[LB]
+DirÃ­gete a la Sala de Condena,[LB]
 situada en el Tercer estrato.[LB][END]
 
 
@@ -47,14 +47,14 @@ situada en el Tercer estrato.[LB][END]
 [EN]
 Protect the Gatekeeper![LB][END]
 [ES]
-¡Protege al Guardabarreras![LB][END]
+Â¡Protege al GuardiÃ¡n![LB][END]
 
 
 [MSGH][00000006][0000002c]
 [EN]
 Slay the Gatekeeper![LB][END]
 [ES]
-¡Liquida al Guardabarreras![LB][END]
+Â¡Liquida al GuardiÃ¡n![LB][END]
 
 
 [MSGH][00000007][00000088]
@@ -62,7 +62,7 @@ Slay the Gatekeeper![LB][END]
 Find the Amarantos said to be in[LB]
 the depths of the Abyssal Shrine![LB][END]
 [ES]
-¡Halla el Amarantos, del que se dice[LB]
+Â¡Halla el Amarantos, del que se dice[LB]
 encontrarse en el Eremitorio abismal![LB][END]
 
 
@@ -71,7 +71,7 @@ encontrarse en el Eremitorio abismal![LB][END]
 Find the teleporter said to be in[LB]
 the depths of the Abyssal Shrine![LB][END]
 [ES]
-¡Encuentra el teletransportador que se[LB]
+Â¡Encuentra el teletransportador que se[LB]
 halla en el Eremitorio abismal![LB][END]
 
 
@@ -80,7 +80,7 @@ halla en el Eremitorio abismal![LB][END]
 Enter the Abyssal Shrine and[LB]
 follow Olympia's instructions.[LB][END]
 [ES]
-Adéntrate en el Eremitorio abismal[LB]
+AdÃ©ntrate en el Eremitorio abismal[LB]
 y sigue las instrucciones de Olimpia.[LB][END]
 
 
@@ -89,7 +89,7 @@ y sigue las instrucciones de Olimpia.[LB][END]
 Find the teleporter said to be in[LB]
 the depths of the Abyssal Shrine![LB][END]
 [ES]
-¡Encuentra el teletransportador que se[LB]
+Â¡Encuentra el teletransportador que se[LB]
 halla en el Eremitorio abismal![LB][END]
 
 
@@ -98,7 +98,7 @@ halla en el Eremitorio abismal![LB][END]
 Find the Abyssal King who is[LB]
 threatening the Princess![LB][END]
 [ES]
-¡Halla al Rey abismal, que amenaza[LB]
+Â¡Halla al Rey abismal, que amenaza[LB]
 el bienestar de la Princesa![LB][END]
 
 
@@ -107,6 +107,6 @@ el bienestar de la Princesa![LB][END]
 Obey the Abyssal King and[LB]
 slay the Porcelain Lady![LB][END]
 [ES]
-¡Obedece al Rey abismal y liquida[LB]
+Â¡Obedece al Rey abismal y liquida[LB]
 a la Dama de porcelana![LB][END]
 
