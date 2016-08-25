@@ -1,6 +1,4 @@
-Proyecto de traducción del videojuego *Etrian Odyssey III* al español. Creado por [TheFireRed](https://github.com/TheFireRed) y [JuDelCo](https://github.com/JuDelCo) desde [Romhack Hispano](http://www.romhackhispano.org).
-
-Consulta el estado del proyecto consultando el código o el [wiki](https://github.com/AegisTrad/EO3es/wiki).
+Proyecto de traducción del videojuego *Etrian Odyssey III* al español. Creado por [TheFireRed](https://github.com/TheFireRed) y [JuDelCo](https://github.com/JuDelCo) desde [Romhack Hispano](http://www.romhackhispano.org). Consulta el estado del proyecto consultando el código o el [wiki](https://github.com/AegisTrad/EO3es/wiki).
 
 # Sobre el juego
 
@@ -10,35 +8,37 @@ Miles de exploradores se reúnen en Armoroad, intrigados por el origen de esta l
 
 Tu misión es salir victorioso donde los demás han fracasado. Zarpa hacia Armoroad, supera el reto del laberinto de Yggdrasil, encuentra la ciudad perdida, ¡y alcanza la fama y fortuna!
 
-Etrian Odyssey III: The Drowned City es un videojuego de rol tridimensional desarrollado por ATLUS para Nintendo DS. El lanzamiento del mismo tuvo lugar en Japón y Estados Unidos durante el año 2010, quedándose Europa sin un secuelas desde 2008.
+*Etrian Odyssey III: The Drowned City* es un videojuego de rol tridimensional desarrollado por ATLUS para Nintendo DS. El lanzamiento del mismo tuvo lugar en Japón y Estados Unidos durante el año 2010, quedándose Europa sin un secuelas desde 2008.
 
 Etrian Odyssey entra en el género de exploración de mazmorras en primera persona, donde el jugador deberá crear y liderar un equipo de héroes que se enfrentará a los más temibles monstruos habidos y por haber. Una de las obligaciones del jugador será la de registrar un mapa lo más preciso posible. El laberinto no perdona a los exploradores incautos.
 
 # Estado actual
 
-Estado general: 60 %
-Traducción de diálogos: Quedan 54 de 278
-Imágenes: 0 %
-Hacking: 35 %
-Manual: 40 %
+- Estado general: 60 %
+
+- Traducción de diálogos: Quedan 53 de 278
+
+- Imágenes: 0 %
+
+- Hacking: 35 %
+
+- Manual: 40 %
 
 Puedes consultar la base de datos terminológica, la lista de archivos pendientes de traducir y su estado actual a través del [wiki]() de este proyecto.
 
 # Enlaces de interés
 
 - [Romhacking.net](http://www.romhacking.net/forum/)
-
 - [Romxhack](http://romxhack.esforos.com/etrian-odyssey-iii-t311)
-
 - [ElOtroLado.net](http://www.elotrolado.net/hilo_traduccion-etrian-odyssey-iii-50_1841176)
-
 - [Aegis Traducciones](http://romxhack.esforos.com/portal.php)
-
 - [Blog de JuDelCo](http://judelco.wordpress.com/)
 
 # Preguntas frequentes
 
 ### › ¿Quiénes sois?
+[TheFireRed](https://twitter.com/TheFireRed), filólogo de lengua inglesa, estudiante de máster en lingüística y traducción audiovisual. 
+[JuDelco](https://twitter.com/JuDelCo), programador.
 
 
 ### › ¿Cuándo estará lista la traducción?
