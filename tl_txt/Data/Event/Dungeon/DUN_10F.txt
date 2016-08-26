@@ -829,5 +829,5 @@ light that suffuses the room![LB][END]
 [ES]
 ¡Cuando la esquirla se posa sobre[LB]
 el cuenco, libera una luz cegadora[LB]
-baña toda la habitación![LB][END]
+que baña toda la habitación![LB][END]
 
