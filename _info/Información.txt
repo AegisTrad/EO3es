@@ -1,4 +1,4 @@
---------------------------------------------------------------------------
+﻿--------------------------------------------------------------------------
 Análisis de viabilidad
 --------------------------------------------------------------------------
 
@@ -8,7 +8,6 @@ Extracción y modificación de datos
 	* Investigar la estructura de archivos
 	* Contactar con algún romhacker colaborador
 	   * Rigle (explicó las bases para extraer los datos)
-	   * IlDucci (investigando estructura de archivos y edición de textos)
 	   * JuDelCo (programación del extractor y reinsertor)
 	   * PacoChan
 	* Contactar con algún traductor colaborador (?)
@@ -24,9 +23,9 @@ Signos de puntuación
 * Puntuación básica ¡ ¿ ! ? , . -
 * º (letra O volada, grado, primero)
 * ª (letra A volada, primera, María)
-* « (comilla latina, apertura) PERO asignado a { (AltGR ´)
-* » (comilla latina, cierre)   PERO asignado a } (AltGR ç)
-* — (raya) Alt 0150
+* « (comilla latina, apertura)
+* » (comilla latina, cierre)
+* — (raya) Alt 0150 (guion)
 
 --------------------------------------------------------------------------
 Problemas
@@ -46,7 +45,7 @@ Distribución
    * Página de créditos que deberá leerse obligatoriamente
    * Advertencia sobre no distribuir la ROM con el parche ya aplicado
 
-¿Tráiler con voces dobladas? Enrique, María, Víctor
+¿Tráiler con voces dobladas? Fandub
 
 --------------------------------------------------------------------------
 Agradecimientos

@@ -220,7 +220,7 @@ emanating from a strange device.[LB][PB]
 [ES]
 Haciéndote paso por la sala,[LB]
 descubres un tenue resplandor que[LB]
-emana de un dispositivo estraño.[LB][PB]
+emana de un dispositivo extraño.[LB][PB]
 
 [EN]
 Standing before the device are[LB]
