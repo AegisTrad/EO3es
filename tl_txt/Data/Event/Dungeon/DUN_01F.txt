@@ -677,9 +677,9 @@ You rest your weary muscles, the[LB]
 beautiful flowers and their sweet[LB]
 aroma all around you...[LB][END]
 [ES]
-El equipo decide relajar sus tensos[LB]
-músculos mientras disfruta del[LB]
-dulce aroma de las flores...[LB][END]
+Decides relajar los tensos músculos[LB]
+rodeándote de bellas flores y[LB]
+de su dulce aroma...[LB][END]
 
 
 [MSGH][00000030][000000c4]
@@ -689,7 +689,7 @@ and their cloying scent behind,[LB]
 concerned for some hidden danger.[LB][END]
 [ES]
 Dejas las flores y su empalagoso[LB]
-aroma atrás, más bien preocupado[LB]
+aroma atrás, bajo la inquietud[LB]
 de cualquier peligro disimulado.[LB][END]
 
 
