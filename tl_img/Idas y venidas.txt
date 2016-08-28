@@ -1,6 +1,0 @@
-Los tiles tienen poco espacio donde editar o añadir información. Opciones a considerar:
-
-
-1) Si se descubre cómo se leen los tiles, ampliar tamaño del lienzo y aprovechar fuente completa
-
-2) Si no se descubre, crear fuente nueva más delgada y usar espacio disponible
