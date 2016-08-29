@@ -718,7 +718,7 @@ tronco y el árbol cae ante tus ojos![LB][PB]
 no further if you value your life.[LB]
 Tell your Senatus that as well."[LB][END]
 [ES]
-«... conoceréis el mismo destino. No os[LB]
+«... u os rendiréis al mismo destino. No os[LB]
 adentréis más si apreciáis vuestras[LB]
 vidas. Informad también al Senado».[LB][END]
 

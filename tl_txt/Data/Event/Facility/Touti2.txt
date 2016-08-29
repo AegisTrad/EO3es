@@ -415,14 +415,14 @@ You must not let down your guard.[LB]
 If you miscalculate at this stage,[LB]
 you will meet a gruesome fate.[LB][PB]
 [ES]
-You must not let down your guard.[LB]
-If you miscalculate at this stage,[LB]
-you will meet a gruesome fate.[LB][PB]
+No debéis bajar la guardia.[LB]
+Un error a estas alturas y[LB]
+os rendiréis a un macabro destino.[LB][PB]
 
 [EN]
 Be careful.[LB][END]
 [ES]
-Be careful.[LB][END]
+Tened cuidado.[LB][END]
 
 
 [MSGH][00000011][00000194]

@@ -392,7 +392,7 @@ puedas en el cuarto estrato![LB][END]
 [EN]
 Find and defeat the fated monster![LB][END]
 [ES]
-¡Encuentra y acaba con el monstruo del destino![LB][END]
+¡Encuentra y acaba con el monstruo![LB][END]
 
 
 [MSGH][0000002f][00000050]

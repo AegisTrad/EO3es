@@ -811,9 +811,9 @@ Select "Accept missions" from[LB]
 the menu to see the details.[LB]
 [COLOR][0000][END]
 [ES]
-[COLOR][0300]A [COLOR][0500]new mission[COLOR][0300] is available.[LB]
-Select "Accept missions" from[LB]
-the menu to see the details.[LB]
+[COLOR][0300]Hay disponible una [COLOR][0500]nueva misión[COLOR][0300].[LB]
+Selecciona «Aceptar misiones»[LB]
+en el menú para ver más detalles.[LB]
 [COLOR][0000][END]
 
 
