@@ -1,16 +1,22 @@
-Proyecto de traducción del videojuego *Etrian Odyssey III* al español. Creado por [TheFireRed](https://github.com/TheFireRed) y [JuDelCo](https://github.com/JuDelCo) desde [Romhack Hispano](http://www.romhackhispano.org). Consulta el estado del proyecto consultando el código o el [wiki](https://github.com/AegisTrad/EO3es/wiki).
+![](http://i.imgur.com/fn4VKhb.png)
+
+Proyecto de traducción del videojuego *Etrian Odyssey III* al español por [Aegis Traducciones](http://aegis.romhackhispano.org). Creado por [TheFireRed](https://github.com/TheFireRed) y [JuDelCo](https://github.com/JuDelCo) desde [Romhack Hispano](http://www.romhackhispano.org). Consulta el estado del proyecto consultando el código o el [wiki](https://github.com/AegisTrad/EO3es/wiki).
 
 ## Sobre el juego
 
 Al sur de los grandes continentes, allende los mares, reside la ciudad oceánica de Armoroad. La ciudad es el epicentro del comercio regional, aunque según cuenta la leyenda, esta había sido mucho más de lo que sus gentes podrían imaginar: algunos dicen que una parte de la ciudad se sumergió súbitamente hace más de un siglo, llevándose consigo una tecnología vanguardista que ahora está perdida para siempre.
 
-Miles de exploradores se reúnen en Armoroad, intrigados por el origen de esta leyenda – todos esperan atravesar el laberinto submarino invictos, mas hasta ahora, nadie ha encontrado aquella gloriosa ciudad sumergida.
+Miles de exploradores se reúnen en Armoroad, intrigados por el origen de esta leyenda — todos esperan atravesar el laberinto submarino invictos, mas hasta ahora, nadie ha encontrado aquella gloriosa ciudad sumergida.
 
 Tu misión es salir victorioso donde los demás han fracasado. Zarpa hacia Armoroad, supera el reto del laberinto de Yggdrasil, encuentra la ciudad perdida, ¡y alcanza la fama y fortuna!
 
-*Etrian Odyssey III: The Drowned City* es un videojuego de rol tridimensional desarrollado por ATLUS para Nintendo DS. El lanzamiento del mismo tuvo lugar en Japón y Estados Unidos durante el año 2010, quedándose Europa sin un secuelas desde 2008.
+-----
 
-Etrian Odyssey entra en el género de exploración de mazmorras en primera persona, donde el jugador deberá crear y liderar un equipo de héroes que se enfrentará a los más temibles monstruos habidos y por haber. Una de las obligaciones del jugador será la de registrar un mapa lo más preciso posible. El laberinto no perdona a los exploradores incautos.
+**Etrian Odyssey III: The Drowned City** es un videojuego de rol tridimensional desarrollado por ATLUS para Nintendo DS. El lanzamiento del mismo tuvo lugar en Japón y Estados Unidos durante el año 2010. La segunda y la tercera entrega de la franquicia no vieron la luz en territorio europeo; no sería hasta la cuarta entrega cuando volveríamos a ver más juegos.
+
+**Etrian Odyssey** entra en el género de exploración de mazmorras en primera persona, donde el jugador deberá crear y liderar un equipo de héroes que se enfrentará a los más temibles monstruos habidos y por haber. Una de las obligaciones del jugador será la de cartografiar un mapa lo más preciso posible gracias a la pantalla táctil de la consola. El laberinto no perdona a los exploradores incautos.
+
+-----
 
 ## Estado actual
 
@@ -33,8 +39,10 @@ Puedes consultar el glosario, la lista de archivos pendientes de traducir y su e
 ## Preguntas frequentes
 
 ### › ¿Quiénes sois?
+
 [TheFireRed](https://twitter.com/TheFireRed), filólogo de lengua inglesa, estudiante de máster en lingüística y traducción audiovisual. 
-[JuDelco](https://twitter.com/JuDelCo), programador.
+
+[JuDelCo](https://twitter.com/JuDelCo), programador.
 
 
 ### › ¿Cuándo estará lista la traducción?
