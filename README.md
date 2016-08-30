@@ -1,6 +1,6 @@
 Proyecto de traducción del videojuego *Etrian Odyssey III* al español. Creado por [TheFireRed](https://github.com/TheFireRed) y [JuDelCo](https://github.com/JuDelCo) desde [Romhack Hispano](http://www.romhackhispano.org). Consulta el estado del proyecto consultando el código o el [wiki](https://github.com/AegisTrad/EO3es/wiki).
 
-# Sobre el juego
+## Sobre el juego
 
 Al sur de los grandes continentes, allende los mares, reside la ciudad oceánica de Armoroad. La ciudad es el epicentro del comercio regional, aunque según cuenta la leyenda, esta había sido mucho más de lo que sus gentes podrían imaginar: algunos dicen que una parte de la ciudad se sumergió súbitamente hace más de un siglo, llevándose consigo una tecnología vanguardista que ahora está perdida para siempre.
 
@@ -12,21 +12,17 @@ Tu misión es salir victorioso donde los demás han fracasado. Zarpa hacia Armor
 
 Etrian Odyssey entra en el género de exploración de mazmorras en primera persona, donde el jugador deberá crear y liderar un equipo de héroes que se enfrentará a los más temibles monstruos habidos y por haber. Una de las obligaciones del jugador será la de registrar un mapa lo más preciso posible. El laberinto no perdona a los exploradores incautos.
 
-# Estado actual
+## Estado actual
 
 - Estado general: 60 %
-
-- Traducción de diálogos: Quedan 51 de 278
-
+- Traducción de diálogos: Quedan 41 de 278
 - Imágenes: 0 %
-
 - Hacking: 35 %
-
 - Manual: 40 %
 
-Puedes consultar la base de datos terminológica, la lista de archivos pendientes de traducir y su estado actual a través del [wiki]() de este proyecto.
+Puedes consultar el glosario, la lista de archivos pendientes de traducir y su estado actual a través del [wiki](https://github.com/AegisTrad/EO3es/wiki) de este proyecto.
 
-# Enlaces de interés
+## Enlaces de interés
 
 - [Romhacking.net](http://www.romhacking.net/forum/)
 - [Romxhack](http://romxhack.esforos.com/etrian-odyssey-iii-t311)
@@ -34,7 +30,7 @@ Puedes consultar la base de datos terminológica, la lista de archivos pendiente
 - [Aegis Traducciones](http://romxhack.esforos.com/portal.php)
 - [Blog de JuDelCo](http://judelco.wordpress.com/)
 
-# Preguntas frequentes
+## Preguntas frequentes
 
 ### › ¿Quiénes sois?
 [TheFireRed](https://twitter.com/TheFireRed), filólogo de lengua inglesa, estudiante de máster en lingüística y traducción audiovisual. 
