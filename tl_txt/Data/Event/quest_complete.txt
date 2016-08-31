@@ -14,8 +14,8 @@ de Yggdrasil![LB][END]
 Turn 1 [COLOR][0500]Frog Cheek[COLOR][0000] and[LB]
 3 [COLOR][0500]Slimy Legs[COLOR][0000] in to the bar![LB][END]
 [ES]
-¡Lleva 1 [COLOR][0500]Carrillo de rana[COLOR][0000] y[LB]
-3 [COLOR][0500]Ancas de rana[COLOR][0000] al bar![LB][END]
+¡Lleva 1 [COLOR][0500]carrillo de rana[COLOR][0000] y[LB]
+3 [COLOR][0500]ancas de rana[COLOR][0000] al bar![LB][END]
 
 
 [MSGH][00000002][0000005c]
@@ -31,7 +31,7 @@ una siesta e informa sobre ello![LB][END]
 [EN]
 Bring 1 [COLOR][0500]Gigapede Leg[COLOR][0000] to the bar![LB][END]
 [ES]
-¡Trae 1 [COLOR][0500]Pierna de gigampiés[COLOR][0000] al bar![LB][END]
+¡Trae 1 [COLOR][0500]pierna de gigampiés[COLOR][0000] al bar![LB][END]
 
 
 [MSGH][00000004][0000004c]
@@ -53,7 +53,7 @@ Find the missing guild party![LB][END]
 Bring a Farmer at level 2 or[LB]
 above to the bar![LB][END]
 [ES]
-¡Trae a un Granjero de nivel 2[LB]
+¡Trae a un agrícola de nivel 2[LB]
 o superior al bar![LB][END]
 
 
@@ -88,7 +88,7 @@ Investigate the mutated monster[LB]
 dwelling on B8F![LB][END]
 [ES]
 ¡Investiga acerca del monstruo[LB]
-mutante del -8![LB][END]
+mutante de la planta -8![LB][END]
 
 
 [MSGH][0000000b][00000060]
@@ -213,7 +213,7 @@ Obtain an antique item from the[LB]
 Abyssal Shrine and bring it back![LB][END]
 [ES]
 ¡Consigue alguna antigüedad del[LB]
-Eremitorio abismal y tráela de vuelta![LB][END]
+Santuario Abismal y tráela de vuelta![LB][END]
 
 
 [MSGH][0000001a][00000046]
@@ -254,7 +254,7 @@ Defeat the armored beast that[LB]
 appears on B15F![LB][END]
 [ES]
 ¡Acaba con la bestia armada[LB]
-que aparece en el -15![LB][END]
+que aparece en la planta -15![LB][END]
 
 
 [MSGH][0000001f][00000064]

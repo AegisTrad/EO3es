@@ -117,7 +117,7 @@ Your party is powerless to act![LB][END]
 [EN]
 [DATA][0000] is petrified![LB][END]
 [ES]
-¡[DATA][0000] se ha tornado en piedra![LB][END]
+¡[DATA][0000] se ha vuelto de piedra![LB][END]
 
 
 [MSGH][00000010][00000026]
@@ -336,7 +336,7 @@ It's a horde of monsters![LB][END]
 [EN]
 [DATA][0100] has been petrified![LB][END]
 [ES]
-¡[DATA][0100] ha sido petrificado![LB][END]
+¡[DATA][0100] ha vuelto de piedra![LB][END]
 
 
 [MSGH][0000002b][00000032]
@@ -359,7 +359,7 @@ It's a horde of monsters![LB][END]
 with a rotting plague![LB][END]
 [ES]
 ¡[DATA][0100] se ha infectado[LB]
-de una plaga![LB][END]
+con una plaga![LB][END]
 
 
 [MSGH][0000002e][0000002e]
@@ -1718,7 +1718,7 @@ la distancia...[LB][END]
 The Abyssal King and[LB]
 Olympia appeared![LB][END]
 [ES]
-¡Han aparecido el Rey abismal[LB]
+¡Han aparecido el Rey Abismal[LB]
 y Olimpia![LB][END]
 
 
@@ -1726,7 +1726,7 @@ y Olimpia![LB][END]
 [EN]
 Abyssal King and Olympia[LB][END]
 [ES]
-Rey abismal y Olimpia[LB][END]
+Rey Abismal y Olimpia[LB][END]
 
 
 [MSGH][000000d8][00000034]
@@ -1920,8 +1920,8 @@ ha descendido![LB][END]
 [DATA][0000] has adopted an[LB]
 attacking stance![LB][END]
 [ES]
-¡[DATA][0000] se dispone en[LB]
-una postura de ataque![LB][END]
+¡[DATA][0000] adopta una[LB]
+postura de ataque![LB][END]
 
 
 [MSGH][000000ef][00000048]
@@ -1929,8 +1929,8 @@ una postura de ataque![LB][END]
 [DATA][0000] has adopted a[LB]
 defensive stance![LB][END]
 [ES]
-¡[DATA][0000] se dispone en[LB]
-una postura de defensa![LB][END]
+¡[DATA][0000] adopta una[LB]
+postura de defensa![LB][END]
 
 
 [MSGH][000000f0][0000006e]

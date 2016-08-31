@@ -50,7 +50,7 @@ Descripción del shinobi 5[LB][END]
 [EN]
 Farmer A6 description[LB][END]
 [ES]
-Descripción del granjero A6[LB][END]
+Descripción del agrícola A6[LB][END]
 
 
 [MSGH][00000007][00000030]
@@ -149,7 +149,7 @@ ciudad para entrenar sus técnicas animales.[LB][END]
 A farmer from Armoroad. His clear[LB]
 voice can put an enemy to sleep.[LB][END]
 [ES]
-Granjero de Armoroad con una voz tan[LB]
+Agrícola de Armoroad con una voz tan[LB]
 dulce que es capaz de dormir a las bestias.[LB][END]
 
 
@@ -266,8 +266,8 @@ afirma formar parte de la realeza.[LB][END]
 A fighting farmer who is often seen[LB]
 at the bar. He is quite versatile.[LB][END]
 [ES]
-Un granjero luchador que visita con[LB]
-frecuencia el var. Es bastante versátil.[LB][END]
+Agrícola beligerante que visita con[LB]
+frecuencia el bar. Es bastante versátil.[LB][END]
 
 
 [MSGH][00000020][0000008e]
@@ -275,7 +275,7 @@ frecuencia el var. Es bastante versátil.[LB][END]
 A female pirate in the Crossjanke[LB]
 group. Her sword skills are strong.[LB][END]
 [ES]
-Joven muchaha pirata del grupo[LB]
+Una joven pirata del grupo[LB]
 Crossjanke y hábil con la espada.[LB][END]
 
 
@@ -482,7 +482,7 @@ en Armoroad con su amigo elefante.[LB][END]
 A farmer who has taken up[LB]
 exploring to find treasure. [LB][END]
 [ES]
-Granjero que marcha en búsqueda[LB]
+Agrícola que marcha en búsqueda[LB]
 de un valioso tesoro. [LB][END]
 
 
@@ -599,7 +599,7 @@ Su prioridad es sanar a sus aliados.[LB][END]
 This farmer is the leader of the[LB]
 Pale Horse guild. He's very cautious.[LB][END]
 [ES]
-Granjero líder del gremio Caballo pálido.[LB]
+Agrícola líder del gremio Caballo pálido.[LB]
 Muy precavido.[LB][END]
 
 
@@ -608,7 +608,7 @@ Muy precavido.[LB][END]
 A farmer in the Pale Horse guild.[LB]
 His harvesting earns a lot of money.[LB][END]
 [ES]
-Granjero miembro del gremio Caballo pálido.[LB]
+Agrícola miembro del gremio Caballo pálido.[LB]
 Sus cosechas ganan grandes sumas de dinero.[LB][END]
 
 
@@ -617,7 +617,7 @@ Sus cosechas ganan grandes sumas de dinero.[LB][END]
 A farmer in the Pale Horse guild.[LB]
 He is a master of safe exploration.[LB][END]
 [ES]
-Granjero miembro del gremio Caballo pálido.[LB]
+Agrícola miembro del gremio Caballo pálido.[LB]
 Experto en exploración segura.[LB][END]
 
 
@@ -644,7 +644,7 @@ afirma formar parte de la realeza.[LB][END]
 A farmer who has taken up[LB]
 exploring to find treasure. [LB][END]
 [ES]
-Granjero que marcha en búsqueda[LB]
+Agrícola que marcha en búsqueda[LB]
 de un valioso tesoro. [LB][END]
 
 
@@ -698,7 +698,7 @@ ayudar a sus camaradas. Invoca animales.[LB][END]
 An adventuring farmer forced to[LB]
 go. He plants binding plants.[LB][END]
 [ES]
-Granjero aventurero al que le[LB]
+Agrícola aventurero al que le[LB]
 han forzado marchar. Gran floricultor.[LB][END]
 
 

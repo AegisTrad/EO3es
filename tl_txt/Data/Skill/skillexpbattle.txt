@@ -1634,8 +1634,8 @@ en primer lugar durante unos pasos.[LB][END]
 Farmer skill that increases ally[LB]
 EXP points if you are alive.[LB][END]
 [ES]
-Habilidad de granjeros que aumenta[LB]
-los puntos de EXP si sigues vivo.[LB][END]
+Habilidad de agrícolas que aumenta[LB]
+los puntos de EXP si sigues con vida.[LB][END]
 
 
 [MSGH][000000ba][00000088]
