@@ -1,9 +1,8 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="2">
-            <File firstVisibleLine="117" xOffset="0" scrollWidth="3272" startPos="10123" endPos="10321" selMode="0" lang="Markdown" encoding="-1" filename="D:\FFOutput\GitHub\EO3es.wiki\Di&#x00E1;logos.md" backupFilePath="C:\Users\Alejandro\Dropbox\Notepad++\backup\Di&#x00E1;logos.md@2016-08-13_083435" originalFileLastModifTimestamp="1470906564" />
-            <File firstVisibleLine="47" xOffset="0" scrollWidth="3272" startPos="5315" endPos="5315" selMode="0" lang="Markdown" encoding="-1" filename="D:\FFOutput\GitHub\EO3es\README.md" backupFilePath="" originalFileLastModifTimestamp="1471032584" />
-            <File firstVisibleLine="0" xOffset="0" scrollWidth="625" startPos="0" endPos="0" selMode="0" lang="MBM" encoding="-1" filename="D:\FFOutput\GitHub\EO3es\tl_txt\Data\Event\Mission\MIS_004.txt" backupFilePath="" originalFileLastModifTimestamp="1355686049" />
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3272" startPos="5503" endPos="5503" selMode="0" lang="Markdown" encoding="-1" filename="D:\AegisTrad\EO3es\README.md" backupFilePath="" originalFileLastModifTimestamp="1473279498" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3272" startPos="863" endPos="863" selMode="0" lang="MBM" encoding="-1" filename="D:\AegisTrad\EO3es\tl_txt\Data\Event\Quest\QUE_007.txt" backupFilePath="" originalFileLastModifTimestamp="1471473933" />
         </mainView>
         <subView activeIndex="0" />
     </Session>

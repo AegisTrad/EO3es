@@ -18,14 +18,10 @@ Tu misión es salir victorioso donde los demás han fracasado. Zarpa hacia Armor
 
 -----
 
-<<<<<<< HEAD
-- Traducción de diálogos: Quedan 37 de 278
-=======
 ## Estado actual
->>>>>>> origin/master
 
 - Estado general: 60 %
-- Traducción de diálogos: Quedan 41 de 278
+- Traducción de diálogos: Quedan 37 de 278
 - Imágenes: 0 %
 - Hacking: 35 %
 - Manual: 40 %
