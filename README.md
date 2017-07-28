@@ -1,3 +1,5 @@
+PROYECTO SUSPENDIDO HASTA NUEVO AVISO
+
 ![](http://i.imgur.com/fn4VKhb.png)
 
 Proyecto de traducción del videojuego *Etrian Odyssey III* al español por [Aegis Traducciones](http://aegis.romhackhispano.org). Creado por [TheFireRed](https://github.com/TheFireRed) y [JuDelCo](https://github.com/JuDelCo) desde [Romhack Hispano](http://www.romhackhispano.org). Consulta el estado del proyecto consultando el código o el [wiki](https://github.com/AegisTrad/EO3es/wiki).
